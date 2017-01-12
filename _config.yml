@@ -1,1 +1,17 @@
-theme: jekyll-theme-cayman
+title:        "Arthur Zey"
+description:  "The blog (and maybe whole website?) for Arthur Zey"
+timezone:     UTC
+theme:        jekyll-theme-cayman
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      author: "Arthur Zey"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
