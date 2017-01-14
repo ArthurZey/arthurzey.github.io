@@ -15,3 +15,10 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: ""
+      type: "posts"
+      category: "diary"
+    values:
+      permalink: /:categories/:year/:month/:day/
