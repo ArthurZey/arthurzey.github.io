@@ -1,5 +1,5 @@
 ---
 layout: category
 title: Diary
-category: diary
+category: Diary
 ---
