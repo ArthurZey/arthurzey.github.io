@@ -1,5 +1,4 @@
 ---
-layout: category
+layout: tag
 title: Diary
-category: Diary
 ---
