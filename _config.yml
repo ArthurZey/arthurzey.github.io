@@ -15,7 +15,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      permalink: /blog/:slug
+      permalink: /blog/:title
   -
     scope:
       path: ""
