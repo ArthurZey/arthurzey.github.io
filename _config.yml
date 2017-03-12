@@ -15,11 +15,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      permalink: /blog/:title
+      permalink: /blog/:slug
   -
     scope:
       path: ""
       type: "posts"
-      category: "diary"
+      tag: "diary"
     values:
-      permalink: /:categories/:year/:month/:day/
+      permalink: /blog/diary/:year/:month/:day/
