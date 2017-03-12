@@ -18,8 +18,7 @@ defaults:
       permalink: /blog/:slug
   -
     scope:
-      path: ""
+      path: "diary"
       type: "posts"
-      tags: ["diary"]
     values:
       permalink: /blog/diary/:year/:month/:day/
