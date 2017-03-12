@@ -20,6 +20,6 @@ defaults:
     scope:
       path: ""
       type: "posts"
-      tag: "diary"
+      tags: ["diary"]
     values:
       permalink: /blog/diary/:year/:month/:day/
