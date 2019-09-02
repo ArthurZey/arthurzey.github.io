@@ -22,4 +22,4 @@ defaults:
       type: "posts"
       category: "diary"
     values:
-      permalink: /blog/diary/:year/:month/:day/
+      permalink: /blog/:categories/:year-:month-:day/
