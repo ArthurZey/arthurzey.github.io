@@ -2,6 +2,7 @@ title:        "Arthur Zey"
 description:  "The blog (and maybe whole website?) for Arthur Zey"
 timezone:     UTC
 theme:        jekyll-theme-cayman
+include:      ["_docs"]
 defaults:
   -
     scope:
