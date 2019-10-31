@@ -23,3 +23,9 @@ defaults:
       category: "diary"
     values:
       permalink: /blog/:categories/:year-:month-:day/
+  -
+    scope:
+      path: "/_docs"
+    values:
+      layout: "doc"
+      permalink: /:slug
