@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Test post with a fitness and quantified self tag"
 date: 2017-03-12
 tags: ["fitness", "quantified"]

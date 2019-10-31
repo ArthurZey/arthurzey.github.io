@@ -2,7 +2,9 @@ title:        "Arthur Zey"
 description:  "The blog (and maybe whole website?) for Arthur Zey"
 timezone:     UTC
 theme:        jekyll-theme-cayman
-include:      ["_docs/"]
+include:      ['_pages']
+relative_permalinks: false
+
 defaults:
   -
     scope:
@@ -15,18 +17,15 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
-      permalink: /blog/:slug
+      permalink: /blog/:year-:month-:day/:slug
   -
     scope:
-      path: ""
+      path: "_posts/diary"
       type: "posts"
-      category: "diary"
     values:
-      permalink: /blog/:categories/:year-:month-:day/
+      permalink: /blog/diary/:year-:month-:day/
   -
     scope:
-      path: "docs"
+      path: "_pages"
     values:
-      layout: "doc"
-      permalink: /:slug
+      layout: "page"

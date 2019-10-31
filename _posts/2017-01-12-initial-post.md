@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Arthur Zey Launches Site"
 date: 2017-01-12
 ---
