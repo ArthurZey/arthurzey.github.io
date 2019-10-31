@@ -2,7 +2,7 @@ title:        "Arthur Zey"
 description:  "The blog (and maybe whole website?) for Arthur Zey"
 timezone:     UTC
 theme:        jekyll-theme-cayman
-include:      ["_docs"]
+include:      ["_docs/"]
 defaults:
   -
     scope:
@@ -26,7 +26,7 @@ defaults:
       permalink: /blog/:categories/:year-:month-:day/
   -
     scope:
-      path: "/_docs"
+      path: "_docs"
     values:
       layout: "doc"
       permalink: /:slug
