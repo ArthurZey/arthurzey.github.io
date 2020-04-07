@@ -74,7 +74,7 @@ _A parent's job is to be a guide in a child's development into an adult. A paren
 ### Management: Manager Tools
 * [Website](https://www.manager-tools.com/){:target="&lowbar;blank"}
 * [Podcast](https://www.manager-tools.com/all-podcasts?field_content_domain_tid=4){:target="&lowbar;blank"}
-* Mark Horstman: _The Effective Manager_: [Audible](https://www.audible.com/pd/The-Effective-Manager-Audiobook/B072K1CF7L){:target="&lowbar;blank"}, [Kindale](https://smile.amazon.com/Effective-Manager-Mark-Horstman-ebook/dp/B01H9E36OG){:target="&lowbar;blank"}\\
+* Mark Horstman: _The Effective Manager_: [Audible](https://www.audible.com/pd/The-Effective-Manager-Audiobook/B072K1CF7L){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Effective-Manager-Mark-Horstman-ebook/dp/B01H9E36OG){:target="&lowbar;blank"}\\
 _This is on my to-read/listen list!_
 
 ### Philosophy: Objectivism
