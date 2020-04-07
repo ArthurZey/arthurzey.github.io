@@ -85,13 +85,13 @@ _Facts are what they are. Our mere fact of believing or wishing does not change 
 _Concepts are inductive generalizations of observations of concrete entities given in perception, as well as of other concepts. Bona fide knowledge and certainty is always contextual; new discoveries and understanding does not inherently overturn previous knowledge, but in a proper progression, builds on and expands it._
 * ethics: egoism\\
 _The moral purpose of my life is my own happiness, prosperity, and joy, not the mere satisfaction of momentary hedonistic whims or pleasures. Sterilely, the purpose of my relationships with other people is to serve my own well-being, but I experience others as a tremendous potential or actual value to my life, and therefore, emotionally, as ends in themselves. I seek out win-win relationships. I believe people's true interests are harmonious, so there are no win-lose relationships; anything purported to be a win-lose relationship is really a lose-lose relationship. I reject the glorification of sacrifice and suffering._
-  * Tara Smith: _The Virtuous Egoist_
+  * Tara Smith: _Ayn Rand's Normative Ethics: The Virtuous Egoist_: [Kindle](https://smile.amazon.com/dp/B00INYGFWM/){:target="&lowbar;blank"}
 * politics: (laissez-faire) capitalism\\
 _The concept of "individual rights" identifies the factual requirements of human flourishing in a social context; the concept identifies the actions that are permissible and prohibited in a society if we want to create the conditions that **enable** prosperity. Negatively put, the initiation of physical force (including fraud) and its threat are prohibited. Positively put, people may act on their own independent judgment with respect to their own person and property, provided they do not interfere with others' ability to do the same. This amounts to **freedom** and what it means to live in a free society (we are not very close to that at present)._
 * aesthetics: romantic realism\\
 _The purpose of art is to provide spiritual fuel and to directly evoke emotions in a way that may bypass explicit conceptual awareness._
   * [Cordair Art Gallery](https://cordair.com/){:target="&lowbar;blank"}
-  * Ayn Rand: _The Romantic Manifesto_
+  * Ayn Rand: _The Romantic Manifesto_: [Audible](https://www.audible.com/pd/The-Romantic-Manifesto-Audiobook/B002V0198E){:target="&lowbar;blank"}
 
 
 ## Personality Behavioral Profiles
