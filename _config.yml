@@ -3,6 +3,9 @@ description:  "Mortal Enemy of Chaos and Entropy <br />(or \"The Truth about the
 timezone:     UTC
 theme:        jekyll-theme-cayman
 include:      ['_pages']
+exclude:
+  - Gemfile
+  - Gemfile.lock
 relative_permalinks: false
 
 defaults:
@@ -29,3 +32,4 @@ defaults:
       path: "_pages"
     values:
       layout: "page"
+      permalink: /:basename/

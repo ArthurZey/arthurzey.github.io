@@ -1,0 +1,42 @@
+{% if include.tags %}
+  {% assign tags-to-iterate = include.tags | split: "," %}
+{% elsif page.tags %}
+  {% assign tags-to-iterate = page.tags %}
+{% else %}
+  {% assign tags-to-iterate = page.title | slugify %}
+{% endif %}
+
+{% capture tagged-docs-html-blob %}
+  {% for tag-value in tags-to-iterate %}
+    {% for page-to-consider in site.pages %}
+      {% if page-to-consider.url != page.url and page-to-consider.tags contains tag-value %}
+<h3><a href="{{ page-to-consider.url }}">{{ page-to-consider.title }}</a>{% if include.suppress-stub-pill %}{% elsif page-to-consider.tags contains "stub" %} (stub){% endif %}</h3>
+<i>{{ page-to-consider.description }}</i>
+|
+      {% endif %}
+    {% endfor %}
+    {% for post in site.tags[tag-value] %}
+<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+<i>{{ post.description }}</i>
+|
+    {% endfor %}
+  {% endfor %}
+{% endcapture %}
+
+{% comment %}TO DO: SORT THE RESULTS!{% endcomment %}
+
+{% assign tagged-docs-html-blob = tagged-docs-html-blob | strip %}
+{% assign tagged-docs-array = tagged-docs-html-blob | split: '|' %}
+{% if tagged-docs-array.size > 0 %}
+  {% if include.heading %}
+## {{ include.heading }}
+  {% else %}
+## Related Posts
+  {% endif %}
+  {% if include.description %}
+_{{ include.description }}_
+  {% endif %}
+  {% for tagged-docs-html in tagged-docs-array %}
+{{ tagged-docs-html }}
+  {% endfor %}
+{% endif %}
