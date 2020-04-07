@@ -78,7 +78,7 @@ _A parent's job is to be a guide in a child's development into an adult. A paren
 _This is on my to-read/listen list!_
 
 ### Philosophy: Objectivism
-_Okay, so I feel like I need to offer a fair bit of clarification on this, since I think terms like "selfishness" and "capitalism" can be readily polarizing and misunderstood, given widespread (mis)use in our culture. I'll do more of that in a post at some point. For now, here's a summary of my viewpoints, which I credit to Objectivism and Ayn Rand._
+_Okay, so I feel like I need to offer a fair bit of clarification on this, since I think terms like "selfishness" and "capitalism" can be readily polarizing and misunderstood, given widespread (mis)use in our culture. I'll do more of that clarification in a post at some point. For now, here's a summary of my viewpoints, which I credit to Objectivism and Ayn Rand._
 * metaphysics: absolute reality\\
 _Facts are what they are. Our mere fact of believing or wishing does not change them._
 * epistemology: knowledge through induction\\
