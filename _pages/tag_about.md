@@ -64,7 +64,7 @@ _Take a peek at the resources below that are available for free (such as on YouT
   * [Website](https://www.revelatori.com/){:target="&lowbar;blank"}
   * _I Am Definitely, Probably Enough (I Think): Revelations on the Journey to Self-Love_: [Amazon](https://smile.amazon.com/exec/obidos/ASIN/1507212909){:target="&lowbar;blank"}
   * [Instagram: @revelatori](https://www.instagram.com/revelatori/){:target="&lowbar;blank"}
-  * [Facebook: revelatori]](https://www.facebook.com/revelatori/){:target="&lowbar;blank"}
+  * [Facebook: revelatori](https://www.facebook.com/revelatori/){:target="&lowbar;blank"}
   * [Twitter: @revelatori](https://twitter.com/revelatori){:target="&lowbar;blank"}
 
 ### Parenting and Education
