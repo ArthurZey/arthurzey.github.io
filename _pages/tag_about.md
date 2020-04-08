@@ -137,4 +137,4 @@ _I'm very thing-/fact-/task-/idea-oriented._
 * [Connect with me on Headspace](https://hdsp.co/buddy/request/9cQ8Bxz/LGm1m9)
 * [Square Cash: $ArthurZey](https://cash.app/$ArthurZey)
 
-{% include tagged-content.html tags="stub" heading="Writing Prompts" suppress-stub-pill=true description="The following are topics I'd like to write about soon." %}
+{% include tagged-content.html tags="stub" heading="Writing Prompts" suppress-stub-pill=true linkify-titles=false edit-link=true description="The following are topics I'd like to write about soon." %}
