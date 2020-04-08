@@ -11,9 +11,9 @@
     {% for page-to-consider in site.pages %}
       {% if page-to-consider.url != page.url and page-to-consider.tags contains tag-value %}
         {% if include.linkify-titles %}
-### <a href="{{ page-to-consider.url }}">{{ page-to-consider.title }}</a>
+### <a href="{{ page-to-consider.url }}">{{ page-to-consider.title }}</a>{% if include.suppress-stub-pill %}{% elsif page-to-consider.tags contains "stub" %} <sup>(stub/draft)</sup>{% endif %}
         {% else %}
-### {{ page-to-consider.title }}{% if include.suppress-stub-pill %}{% elsif page-to-consider.tags contains "stub" %} (stub/draft){% endif %}{% if include.suppress-stub-pill %}{% elsif page-to-consider.tags contains "stub" %} (stub){% endif %}
+### {{ page-to-consider.title }}{% if include.suppress-stub-pill %}{% elsif page-to-consider.tags contains "stub" %} <sup>(stub/draft)</sup>{% endif %}
         {% endif %}
 <i>{{ page-to-consider.description }}</i>{% if include.edit-link %}&nbsp;&nbsp;<sub><a href="{{site.github.repository_url}}/edit/master/{{page-to-consider.path}}" target="_blank">Edit on GitHub</a></sub>{% endif %}
 |
