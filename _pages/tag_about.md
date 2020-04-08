@@ -121,20 +121,20 @@ _I'm very thing-/fact-/task-/idea-oriented._
 
 ## Profiles
 
-* [LinkedIn: arthurzey](https://www.linkedin.com/in/arthurzey)
-* [Facebook: arthurzey](https://www.facebook.com/arthurzey)
-* [Twitter: @LogicalArthur](https://twitter.com/logicalarthur)
+* [LinkedIn: arthurzey](https://www.linkedin.com/in/arthurzey){:target="&lowbar;blank"}
+* [Facebook: arthurzey](https://www.facebook.com/arthurzey){:target="&lowbar;blank"}
+* [Twitter: @LogicalArthur](https://twitter.com/logicalarthur){:target="&lowbar;blank"}
 
 ## Logs
 
-* [TV & Movies (trakt)](https://trakt.tv/users/arthurzey/history)
-* [Music (last.fm)](https://www.last.fm/user/ArthurZey/library)
-* [Food (MyFitnessPal)](http://www.myfitnesspal.com/food/diary/ArthurZey)
-* [Location (Swarm)](https://foursquare.com/logicalarthur/history) (login and "friendship" required)
+* [TV & Movies (trakt)](https://trakt.tv/users/arthurzey/history){:target="&lowbar;blank"}
+* [Music (last.fm)](https://www.last.fm/user/ArthurZey/library){:target="&lowbar;blank"}
+* [Food (MyFitnessPal)](http://www.myfitnesspal.com/food/diary/ArthurZey){:target="&lowbar;blank"}
+* [Location (Swarm)](https://foursquare.com/logicalarthur/history){:target="&lowbar;blank"} (login and "friendship" required)
 
 ## Miscellaneous
 
-* [Connect with me on Headspace](https://hdsp.co/buddy/request/9cQ8Bxz/LGm1m9)
-* [Square Cash: $ArthurZey](https://cash.app/$ArthurZey)
+* [Connect with me on Headspace](https://hdsp.co/buddy/request/9cQ8Bxz/LGm1m9){:target="&lowbar;blank"}
+* [Square Cash: $ArthurZey](https://cash.app/$ArthurZey){:target="&lowbar;blank"}
 
 {% include tagged-content.html tags="stub" heading="Writing Prompts" suppress-stub-pill=true linkify-titles=false edit-link=true description="The following are topics I'd like to write about soon." %}
