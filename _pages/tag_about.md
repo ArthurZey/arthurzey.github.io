@@ -103,7 +103,7 @@ _The purpose of art is to provide spiritual fuel and to directly evoke emotions 
   * Ayn Rand: _The Romantic Manifesto_: [Audible](https://www.audible.com/pd/The-Romantic-Manifesto-Audiobook/B002V0198E){:target="&lowbar;blank"}
 
 
-## Personality Behavioral Profiles
+## Personality and Behavioral Profiles
 ### Myers-Briggs
 _as of 2015_
 * identify with strongly: \*N\*J\\
@@ -118,6 +118,13 @@ _I'm very thing-/fact-/task-/idea-oriented._
 * high **D**ominance: like to be in charge and take control of situations
 * high **C**onscientiousness: love my rules and structures and processes
 <!-- **Thanks, Markdown rendering in Atom.** -->
+
+### TOSCA-3SC
+* [Guilt & Shame Quiz](https://transitionsmft.org/resources/quizzes/shame/results/RY7CfHo2JtuRoV5iG2ONeGx7dTYYDxzxSMUwFWpOw0i3c){:target="&lowbar;blank"}\\
+2020-04-04 17:15 PDT
+  * Guilt Self-Talk: ~91% (raw score of 51 out of 55)
+  * Shame Self-Talk: ~28% (raw score of 23 out of 55)
+  * Blaming Others: ~10% (raw score of 15 out of 55)
 
 ## Profiles
 
