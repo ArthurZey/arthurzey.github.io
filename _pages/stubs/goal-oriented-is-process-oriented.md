@@ -10,3 +10,6 @@ description: "Just as true understanding requires being able to connect abstract
 ---
 
 _Abstract:_ {{ page.description }}
+
+## Notes
+* Maybe comment on the connection to product management? Customer-obsession is great, but you need to be thinking about direct customers, not just endusers.
