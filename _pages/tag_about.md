@@ -1,6 +1,5 @@
 ---
 title: About Me
-layout: tag
 tags:
   - about
 permalink: /about
