@@ -12,19 +12,19 @@ permalink: /about
 {::options toc_levels="2..3" /}
 
 ## Interests, Values, and Passions
-* bodybuilding and physical fitness
-* meditation, mindfulness, wholeheartedness, vulnerability, and empathy
+* [bodybuilding and physical fitness](#physical-fitness)
+* [meditation, mindfulness, wholeheartedness, vulnerability, and empathy](#psychological-and-emotional-well-being)
 * tech geekery
-* philosophy (especially ethics and epistemology, especially Objectivism)
-* parenting theory (cannot wait to put this into practice)
+* [philosophy (especially ethics and epistemology, especially Objectivism)](#philosophy-objectivism)
+* [parenting theory](#parenting-and-education) (cannot wait to put this into practice)
 * snowboarding
-* Krav Maga
+* Krav Maga (at [Krav Maga San Francisco](https://www.kravmaga-sf.com){:target="&lowbar;blank"})
 * [Billy](https://photos.app.goo.gl/4RW6d5j2af9aq4pbA){:target="&lowbar;blank"}
 * _Star Trek_
 * piano
 * cooking (haven't done anything creative in a while, though)
 * grammar
-* management theory
+* [management theory](#management-manager-tools)
 * learning Hebrew (kind of fell off the wagon on that, honestly)
 
 ## Valuable Resources
