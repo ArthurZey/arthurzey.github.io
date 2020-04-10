@@ -126,6 +126,8 @@ _I'm very thing-/fact-/task-/idea-oriented._
   * Shame Self-Talk: ~28% (raw score of 23 out of 55)
   * Blaming Others: ~10% (raw score of 15 out of 55)
 
+{% comment %}
+
 ## Profiles
 
 * [LinkedIn: arthurzey](https://www.linkedin.com/in/arthurzey){:target="&lowbar;blank"}
@@ -143,5 +145,7 @@ _I'm very thing-/fact-/task-/idea-oriented._
 
 * [Connect with me on Headspace](https://hdsp.co/buddy/request/9cQ8Bxz/LGm1m9){:target="&lowbar;blank"}
 * [Square Cash: $ArthurZey](https://cash.app/$ArthurZey){:target="&lowbar;blank"}
+
+{% endcomment %}
 
 {% include tagged-content.html tags="stub" heading="Writing Prompts" suppress-stub-pill=true linkify-titles=false edit-link=true description="The following are topics I'd like to write about soon." %}
