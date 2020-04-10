@@ -57,7 +57,7 @@ _Take a peek at the resources below that are available for free (such as on YouT
   * [YouTube: Personal Development School - Thais Gibson](https://www.youtube.com/channel/UCHQ4lSaKRap5HyrpitrTOhQ){:target="&lowbar;blank"}
 * Lundy Bancroft: _The Joyous Recovery_: [Kindle](https://smile.amazon.com/Joyous-Recovery-Approach-Emotional-Wellness-ebook/dp/B07VYBVMGX){:target="&lowbar;blank"}
 * Bessel Van der Kolk: _The Body Keeps the Score_: [Audible](https://www.audible.com/pd/The-Body-Keeps-the-Score-Audiobook/B00OAOQJXY){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Body-Keeps-Score-Healing-Trauma-ebook/dp/B00G3L1C2K){:target="&lowbar;blank"}
-* Stephen W Porges: _The Polyvagal Theory in Therapy_: [Audible](https://www.audible.com/pd/The-Polyvagal-Theory-in-Therapy-Audiobook/1977318959){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Polyvagal-Theory-Therapy-Interpersonal-Neurobiology-ebook/dp/B07DGMBLQK){:target="&lowbar;blank"}
+* Deb Dana: _The Polyvagal Theory in Therapy_: [Audible](https://www.audible.com/pd/The-Polyvagal-Theory-in-Therapy-Audiobook/1977318959){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Polyvagal-Theory-Therapy-Interpersonal-Neurobiology-ebook/dp/B07DGMBLQK){:target="&lowbar;blank"}
 * Marshall Rosenberg: _Nonviolent Communication_: [Audible](https://www.audible.com/pd/Nonviolent-Communication-Audiobook/B00TJJNSQG){:target="&lowbar;blank"}, [Kindle eTextbook](https://smile.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships-ebook/dp/B014OISVU4){:target="&lowbar;blank"}
 * revelatori (Tori Press)
   * [Website](https://www.revelatori.com/){:target="&lowbar;blank"}
