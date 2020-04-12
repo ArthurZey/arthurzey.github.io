@@ -22,6 +22,7 @@ permalink: /about
 * [Billy](https://photos.app.goo.gl/4RW6d5j2af9aq4pbA){:target="&lowbar;blank"}
 * _Star Trek_
 * piano
+  * current obsession: [BWV 999 (JS Bach Prelude in c minor)](https://musescore.com/nicolas/scores/4526){:target="&lowbar;blank"}
 * cooking (haven't done anything creative in a while, though)
 * grammar
 * [management theory](#management-manager-tools)
