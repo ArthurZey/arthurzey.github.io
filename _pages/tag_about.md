@@ -37,7 +37,10 @@ _These are ideas and approaches to various areas of life that I have derived gre
 
 ### Psychological and Emotional Well-Being
 * Brené Brown: [website](https://brenebrown.com/){:target="&lowbar;blank"}, [Audible](https://www.audible.com/author/Brene-Brown/B001JP45BA){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Bren%25C3%25A9-Brown/e/B001JP45BA)\\
-_Take a peek at the resources below that are available for free (such as on YouTube) or take a look at ["Which Book Do I Read First?"](https://brenebrown.com/blog/2019/04/26/book-read-first/){:target="&lowbar;blank"}._
+\\
+Her work covers many interconnected topics, including connection, compassion and empathy, vulnerability, courage, shame, perfectionism, belonging (versus "fitting in"), worthiness, authenticity ("being the wilderness"), and mind-emotion integration.\\
+\\
+_Take a peek at the resources below that are available for free (such as on YouTube) or take a look at ["Which Book Do I Read First?"](https://brenebrown.com/blog/2019/04/26/book-read-first/){:target="&lowbar;blank"}._\\
   * _The Gifts of Imperfection_: [Audible](https://www.audible.com/pd/The-Gifts-of-Imperfection-10th-Anniversary-Edition-Audiobook/059321515X){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/gp/product/B00BS03LL6){:target="&lowbar;blank"}
   * _Daring Greatly_: [Audible](https://www.audible.com/pd/Daring-Greatly-Audiobook/B07DX9W2CG){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/gp/product/B007P7HRS4){:target="&lowbar;blank"}
   * _Rising Strong_: [Audible](https://www.audible.com/pd/Rising-Strong-Audiobook/B00VSEM9QK){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/gp/product/B00P5557G2){:target="&lowbar;blank"}
