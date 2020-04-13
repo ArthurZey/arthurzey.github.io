@@ -15,7 +15,7 @@
         {% else %}
 ### {{ page-to-consider.title }}{% if include.suppress-stub-pill %}{% elsif page-to-consider.tags contains "stub" %} <sup>(stub/draft)</sup>{% endif %}
         {% endif %}
-<i>{{ page-to-consider.description }}</i>{% if include.edit-link %}&nbsp;&nbsp;<sub><a href="{{site.github.repository_url}}/edit/master/{{page-to-consider.path}}" target="_blank">Edit on GitHub</a>{% endif %}{% if include.linkify-titles == false %} &#124; <a href="{{ page-to-consider.url }}">{% if page-to-consider.date %}{{ page-to-consider.date }}{% else %}Permalink{% endif %}</a>{% endif %}</sub>
+{% if page-to-consider.tags contains "stub" %}{{ page-to-consider.content }}{% else %}{{ page-to-consider.description }}{% endif %}{% if include.edit-link %}&nbsp;&nbsp;<sub><a href="{{site.github.repository_url}}/edit/master/{{page-to-consider.path}}" target="_blank">Edit on GitHub</a>{% endif %}{% if include.linkify-titles == false %} &#124; <a href="{{ page-to-consider.url }}">{% if page-to-consider.date %}{{ page-to-consider.date }}{% else %}Permalink{% endif %}</a>{% endif %}</sub>
 |
       {% endif %}
     {% endfor %}
