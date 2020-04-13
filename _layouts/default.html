@@ -9,7 +9,7 @@
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta property="og:url" content="{{ page.url | replace: "index.html","" | prepend: site.baseurl | prepend: site.url }}" />
     <meta property="og:type" content="article" />
-    <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines }}{% else %}{{ site.description | strip_html | escape | strip_newlines }}{% endif %}" />
+    <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | escape }}{% else %}{{ site.description | strip_html | escape | strip_newlines }}{% endif %}" />
     <meta property="og:image" content="https://avatars3.githubusercontent.com/u/1697359?s=460&v=4" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="{{ site.title }}" />
@@ -17,7 +17,7 @@
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta name="twitter:url" content="{{ site.url }}{{ page.permalink }}" />
-    <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines }}{% else %}{{ site.description | strip_html | escape | strip_newlines }}{% endif %}" />
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | escape }}{% else %}{{ site.description | strip_html | escape | strip_newlines }}{% endif %}" />
     <meta name="twitter:image" content="https://avatars3.githubusercontent.com/u/1697359?s=460&v=4" />
 
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
