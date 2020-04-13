@@ -2,6 +2,7 @@ title:        "Arthur Zey"
 description:  "Mortal Enemy of Chaos and Entropy <br />(or \"The Truth about the Dishwasher\")"
 timezone:     UTC
 theme:        jekyll-theme-cayman
+url:          "http://www.arthurzey.com"
 include:      ['_pages']
 exclude:
   - Gemfile

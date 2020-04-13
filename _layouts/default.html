@@ -5,6 +5,20 @@
     <title>{% if page.title %}{{ page.title }} | {{ site.title}}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
+
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.permalink }}" />
+    <meta property="og:type" content="article" />
+    {% if page.description %}<meta property="og:description" content="{{ page.description }}" />{% endif %}
+    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/1697359?s=460&v=4" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta name="twitter:url" content="{{ site.url }}{{ page.permalink }}" />
+    <meta name="twitter:image" content="https://avatars3.githubusercontent.com/u/1697359?s=460&v=4" />
+
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
