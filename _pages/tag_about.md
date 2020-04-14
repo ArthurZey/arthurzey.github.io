@@ -28,6 +28,16 @@ permalink: /about
 * [management theory](#management-manager-tools)
 * learning Hebrew (kind of fell off the wagon on that, honestly)
 
+_Previous Sports_
+
+* soccer ([AYSO](https://ayso.org/){:target="&lowbar;blank"})
+* tennis (throughout childhood and [Palisades High School Boys Tennis](https://www.palihigh.org/m/pages/index.jsp?uREC_ID=411507&type=d&termREC_ID=&pREC_ID=754298){:target="&lowbar;blank"} 1999-2000)
+* swimming ([Santa Monica College Men's Swimming & Diving](https://www.smccorsairs.com/sports/mswimdive/index){:target="&lowbar;blank"} 2001-2002)
+* rowing ([UCLA Men's Rowing](https://www.uclamensrowing.com/){:target="&lowbar;blank"} 2003-2005)
+* triathlon ([UCLA Triathlon Team](https://uclaclubsports.com/sports/2017/11/19/who-are-we.aspx){:target="&lowbar;blank"} 2005-2007)
+* touch rugby ([Stanford Touch Rugby](https://www.facebook.com/pg/valleytouch/about/){:target="&lowbar;blank"} 2011-2013)
+* ultimate frisbee ([Big Gay Frisbee - SF](https://www.facebook.com/groups/bgf.sf/){:target="&lowbar;blank"} 2013-2016)
+
 ## Valuable Resources
 _These are ideas and approaches to various areas of life that I have derived great value from...with some indication of my own viewpoints sprinkled in._
 
