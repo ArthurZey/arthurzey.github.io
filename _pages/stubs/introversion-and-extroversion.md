@@ -5,6 +5,7 @@ tags:
   - psychology
   - about
 description: "Am I an extrovert who just loves some gods-damned peace and quite, or am I an introvert who is energized by the intellectual stimulation of ideas, with other people being the incidental vehicle?"
+date: "2020-04-08"
 ---
 
 For a long time, I felt uncertain whether I was an extrovert or an introvert. I questioned whether it was even a valid dichotomy. I've understood the technical distinction as being whether social interaction is energizing or draining.

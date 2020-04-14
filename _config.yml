@@ -22,12 +22,14 @@ defaults:
       type: "posts"
     values:
       permalink: /blog/:year-:month-:day/:slug
+      layout: "post"
   -
     scope:
       path: "_posts/diary"
       type: "posts"
     values:
       permalink: /diary/:year-:month-:day/
+      layout: "post"
   -
     scope:
       path: "_pages"

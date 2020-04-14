@@ -7,6 +7,7 @@ tags:
   - philosophy
   - epistemology
 description: "The only way to achieve goals is to instead maintain singular focus on the concrete steps of a process designed to achieve those goals."
+date: "2020-04-07"
 ---
 
 Just as true understanding requires being able to connect abstract concepts back to the concrete observations they came from (and applying to new concrete instances), being goal-oriented requires that one understand the specific actions one needs to take to achieve goals.

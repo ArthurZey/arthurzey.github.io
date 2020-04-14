@@ -4,6 +4,7 @@ tags:
   - stub
   - psychology
 description: "What does it mean to \"control\" one's emotions, and what's healthy or even possible?"
+date: "2020-04-07"
 ---
 
 There's a lot of equivocation on what it means to be able to control one's emotions. I want to untangle a few different senses of the phrase and offer my views on what I think is possible and healthy:

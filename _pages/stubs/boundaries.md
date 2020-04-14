@@ -4,6 +4,7 @@ tags:
   - stub
   - psychology
 description: "What is the difference between internal and external boundaries? Do strong internal boundaries enable attitudes that superficially look like codependence, but actually protect against it?"
+date: "2020-04-07"
 ---
 
 I'd like to explore some topics around internal versus external boundaries. An internal boundary might be something that one considers to be at the core of their being, a deeply held value or principle, like honesty. Internal boundaries are likely to be about the standards of behavior one has for oneself. An external boundary might be something like what kind of behavior one is willing to tolerate or accept in or from others.

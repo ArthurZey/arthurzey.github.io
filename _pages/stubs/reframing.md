@@ -4,6 +4,7 @@ tags:
   - stub
   - psychology
 description: "There are a lot of phrases we use that have subtle psychological effects on how we approach ourselves, others, and the world generally."
+date: "2020-04-07"
 ---
 
 There are a lot of phrases we use that have subtle psychological effects on how we approach ourselves, others, and the world generally.

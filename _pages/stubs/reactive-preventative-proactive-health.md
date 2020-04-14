@@ -4,6 +4,7 @@ tags:
   - stub
   - health
 description: "So-called \"preventative\" health is still focused on avoiding a negative. We need a new approach based on the pursuit of a positive."
+date: 2020-04-11
 ---
 
 Our culture made a huge step forward in our approach to health from moving from a reactive "I'll just get treated when and if I get sick." attitude to a preventative "I will take steps to avoid getting sick in the first place." attitude. I don't want to disparage the progress inherent in that.

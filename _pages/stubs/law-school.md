@@ -5,6 +5,7 @@ tags:
   - about
   - history
 description: "I'd like to share my experience with law school, including my motives, why I didn't quit, and why I'm not practicing law."
+date: "2020-04-11"
 ---
 
 People often forget that I went to law school. I tend to describe the experience as pretty negative, and I frequently give the impression that I think it's a universally bad choice. That's definitely not my view, but I do think that mine is a cautionary tale.

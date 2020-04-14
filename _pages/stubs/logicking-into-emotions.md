@@ -5,6 +5,7 @@ tags:
   - psychology
   - about
 description: "My emotional growth, personally and in relationship with others, is due in large part to my intellectual grasp of the sheer logic of developing myself in that area."
+date: "2020-04-07"
 ---
 
 Growing up, my general sensitivity and emotions were a frequent source of pain for me. That gradually turned into a rejection of emotions, and I remember being in high school, explicitly, stubbornly, and naively trying to reject emotions in a very characteristically (and explicitly!) Vulcan way.

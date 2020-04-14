@@ -5,6 +5,7 @@ tags:
   - psychology
   - about
 description: "How can it be a disorder if I'm organizing things?"
+date: "2020-04-08"
 ---
 
 In a way, this is probably _the<_ fundamental post of this website; it explains the title. A few things to cover:

@@ -1,0 +1,191 @@
+{% comment %}
+Parameters:
+  * tags-to-include
+    * comma-concatenated list
+    * default: calling doc's `tags`
+  * tags-to-exclude
+    * comma-concatenated list
+    * docs matching any of the exclude tags override and docs with the included tags
+    * default: "draft,stub"
+  * doc-types
+    * comma-concatenated list
+    * enum list of `page` and `post`
+    * default: "page,post"
+  * show-description
+    * default: true
+  * show-author
+    * default: false
+  * show-date
+    * default: true
+  * show-content
+    * default: false
+  * heading-level
+    * default: 3
+  * markdown-heading
+    * default: false
+  * linkify-heading
+    * default: true
+  * show-permalink
+    * default: true
+  * show-edit-link
+    * default: true
+  * sort-by
+    * NOT YET IMPLEMENTED
+    * default: date
+
+{% endcomment %}
+
+{% if include.tags-to-include %}
+  {% assign tags-to-include = include.tags-to-include | split: "," %}
+{% elsif page.tags %}
+  {% assign tags-to-include = page.tags %}
+{% else %}
+  {% assign tags-to-include = "" | split: "," %}
+{% endif %}
+
+{% if include.tags-to-exclude %}
+  {% assign tags-to-exclude = include.tags-to-exclude | split: "," %}
+{% else %}
+  {% assign tags-to-exclude = "draft,stub" | split: "," %}
+{% endif %}
+
+{% if include.doc-types %}
+  {% assign doc-types = include.doc-types | split: "," %}
+{% else %}
+  {% assign doc-types = "page,post" | split: "," %}
+{% endif %}
+
+{% if include.show-description == true or include.show-description == false %}
+  {% assign show-description = include.show-description %}
+{% else %}
+  {% assign show-description = true %}
+{% endif %}
+
+{% if include.show-author == true or include.show-author == false %}
+  {% assign show-author = include.show-author %}
+{% else %}
+  {% assign show-author = false %}
+{% endif %}
+
+{% if include.show-date == true or include.show-date == false %}
+  {% assign show-date = include.show-date %}
+{% else %}
+  {% assign show-date = true %}
+{% endif %}
+
+{% if include.show-content == true or include.show-content == false %}
+  {% assign show-content = include.show-content %}
+{% else %}
+  {% assign show-content = false %}
+{% endif %}
+
+{% if include.heading-level %}
+  {% assign heading-level = include.heading-level %}
+{% else %}
+  {% assign heading-level = 3 %}
+{% endif %}
+
+{% if include.markdown-heading == true or include.markdown-heading == false %}
+  {% assign markdown-heading = include.markdown-heading %}
+{% else %}
+  {% assign markdown-heading = false %}
+{% endif %}
+
+{% if include.linkify-heading == true or include.linkify-heading == false %}
+  {% assign linkify-heading = include.linkify-heading %}
+{% else %}
+  {% assign linkify-heading = true %}
+{% endif %}
+
+{% if include.show-permalink == true or include.show-permalink == false %}
+  {% assign show-permalink = include.show-permalink %}
+{% else %}
+  {% assign show-permalink = true %}
+{% endif %}
+
+{% if include.show-edit-link == true or include.show-edit-link == false %}
+  {% assign show-edit-link = include.show-edit-link %}
+{% else %}
+  {% assign show-edit-link = true %}
+{% endif %}
+
+{% if include.sort-by %}
+  {% assign sort-by = include.sort-by %}
+{% else %}
+  {% assign sort-by = "date" %}
+{% endif %}
+
+
+{% assign docs = "" | split: "," %}
+
+{% if doc-types contains "page" %}
+  {% assign docs = docs | concat: site.pages %}
+{% endif %}
+
+{% if doc-types contains "post" %}
+  {% assign docs = docs | concat: site.posts %}
+{% endif %}
+
+{% for doc in docs %}
+  {% assign include-doc = false %}
+  {% if doc.url != page.url %}
+    {% for tag in doc.tags %}
+      {% if tags-to-include contains tag %}
+        {% assign include-doc = true %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+    {% if include-doc == true %}
+      {% for tag in doc.tags %}
+        {% if tags-to-exclude contains tag %}
+          {% assign include-doc = false %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  {% endif %}
+  {% if include-doc %}
+    {% if markdown-heading %}
+{% for i in (1..heading-level) %}#{% endfor %} {% if linkify-heading %}[{{ doc.title }}]({{ doc.url }}){% else %}{{ doc.title }}{% endif %}
+    {% else %}
+<h{{ heading-level }}>{% if linkify-heading %}<a href="{{ doc.url }}">{{ doc.title }}</a>{% else %}{{ doc.title }}{% endif %}</h{{ heading-level }}>
+    {% endif %}
+    {% assign permalink = "" %}
+    {% if show-permalink or doc.date and show-date %}
+      {% if doc.date and show-date %}
+        {% assign date = doc.date | date: "%Y-%m-%d" %}
+        {% if doc.tags contains "stub" %}
+          {% assign permalink = "Stubbed on " %}
+        {% endif %}
+        {% assign permalink = permalink | append: "[" | append: date | append: "](" | append: doc.url | append: ")" %}
+      {% else %}
+        {% assign permalink = "[Permalink](" | append: doc.url | append: ")" %}
+      {% endif %}
+    {% endif %}
+    {% assign by-line = "" %}
+    {% if show-author %}
+      {% assign by-line = "Written by " | append: doc.author %}
+    {% endif %}
+    {% if permalink.size > 0 and show-permalink %}
+      {% if by-line.size > 0 %}
+        {% assign by-line = by-line | append: " &#124; " | append: permalink %}
+      {% else %}
+        {% assign by-line = by-line | append: permalink %}
+      {% endif %}
+    {% endif %}
+    {% if show-edit-link %}
+      {% if by-line.size > 0 %}
+        {% assign by-line = by-line | append: " &#124; " | append: '<a href="' | append: site.github.repository_url | append: "/edit/master/" | append: doc.path | append: '" target="_blank">Edit on GitHub</a>' %}
+      {% else %}
+        {% assign by-line = by-line | append: '<a href="' | append: site.github.repository_url | append: "/edit/master/" | append: doc.path | append: '" target="_blank">Edit on GitHub</a>' %}
+      {% endif %}
+    {% endif %}
+{{ by-line }}
+    {% if doc.description and show-description %}
+_{{ doc.description }}_
+    {% endif %}
+    {% if show-content %}
+{{ doc.content }}
+    {% endif %}
+  {% endif %}
+{% endfor %}

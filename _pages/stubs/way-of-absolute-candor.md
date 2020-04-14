@@ -5,6 +5,7 @@ tags:
   - psychology
   - about
 description: "Why do I have a policy of authenticity and openness, even at the risk of oversharing?"
+date: "2020-04-09"
 ---
 
 I recently stumbled on the phrase in [an episode by the same title](https://memory-alpha.fandom.com/wiki/Way_of_Absolute_Candor){:target="&lowbar;blank"}. "It emphasized the total communication of emotion without filter between thought and word", which feels very close to my own personal policy of "open, direct, and kind".
