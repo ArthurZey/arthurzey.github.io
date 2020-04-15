@@ -162,6 +162,10 @@ _I'm very thing-/fact-/task-/idea-oriented._
 {% include tagged-content.html tags="stub" heading="Writing Prompts" suppress-stub-pill=true linkify-titles=false edit-link=true description="The following are topics I'd like to write about soon." %}
 {% endcomment %}
 
+## Blog Posts
+
+{% include doc-generator.html doc-types="post" tags-to-include="" %}
+
 ## Writing Prompts
 
 _The following are topics I'd like to write about soon._

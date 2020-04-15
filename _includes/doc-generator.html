@@ -129,12 +129,16 @@ Parameters:
 {% for doc in docs %}
   {% assign include-doc = false %}
   {% if doc.url != page.url %}
-    {% for tag in doc.tags %}
-      {% if tags-to-include contains tag %}
-        {% assign include-doc = true %}
-        {% break %}
-      {% endif %}
-    {% endfor %}
+    {% if tags-to-include.size == 0 %}
+      {% assign include-doc = true %}
+    {% else %}
+      {% for tag in doc.tags %}
+        {% if tags-to-include contains tag %}
+          {% assign include-doc = true %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
     {% if include-doc == true %}
       {% for tag in doc.tags %}
         {% if tags-to-exclude contains tag %}
