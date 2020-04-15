@@ -1,7 +1,7 @@
 ---
 title: Blog Posts
 layout: page
-permalink: /blog
+permalink: /blog/
 tags:
   - index
 ---
