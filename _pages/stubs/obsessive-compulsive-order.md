@@ -8,7 +8,7 @@ description: "How can it be a disorder if I'm organizing things?"
 date: "2020-04-08"
 ---
 
-In a way, this is probably _the<_ fundamental post of this website; it explains the title. A few things to cover:
+In a way, this is probably _the_ fundamental post of this website; it explains the title. A few things to cover:
 
 1. the origin of the phrase
 2. the possible origin of the trait: my family circumstances
