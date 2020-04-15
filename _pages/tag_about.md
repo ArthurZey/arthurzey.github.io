@@ -2,7 +2,7 @@
 title: About Me
 tags:
   - about
-permalink: /about
+permalink: /about/
 ---
 
 ## On this page
