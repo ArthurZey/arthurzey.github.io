@@ -18,6 +18,11 @@ defaults:
       author: "Arthur Zey"
   -
     scope:
+      path: "assets/images"
+    values:
+      image: true
+  -
+    scope:
       path: ""
       type: "posts"
     values:
