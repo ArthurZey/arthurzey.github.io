@@ -18,3 +18,4 @@ I've been thinking a lot about certain kinds of reframings that have been very h
 5. "get past" &rarr; "work through"
 6. "fix" &rarr; "heal"
 7. "change" &rarr; "grow"
+8. "you [X] &rare; "I'm imagining you [X]" or "the story I'm telling myself is you [X]"
