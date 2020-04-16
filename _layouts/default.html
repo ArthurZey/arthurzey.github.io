@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
-    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% if site.google_analytics and site.google_tag_manager and jekyll.environment == 'production' %}
       <!-- Global site tag (gtag.js) - Google Analytics -->
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
       <script>
@@ -12,6 +12,13 @@
         gtag('config', '{{ site.google_analytics }}');
       </script>
 
+      <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-{{ site.google_tag_manager }}');</script>
+      <!-- End Google Tag Manager -->
     {% endif %}
     <meta charset="UTF-8">
     <title>{% if page.title %}{{ page.title }} | {{ site.title}}{% else %}{{ site.title }}{% endif %}</title>
@@ -46,6 +53,12 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
+    {% if site.google_analytics and site.google_tag_manager and jekyll.environment == 'production' %}
+    <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-XXXX"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+    {% endif %}
     <section class="page-header">
       <h1 class="project-name"><a href="/about" style="color: #fff;">{{ site.title | default: site.github.repository_name }}</a></h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
