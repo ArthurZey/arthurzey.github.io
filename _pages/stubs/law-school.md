@@ -23,3 +23,7 @@ There are a few things connected to my having gone to law school that I want to 
 4. law school versus the bar exam
 5. the "I am not a quitter" fallacy
 6. my conflict aversion; not wanting to be in a field where people feel compelled to engage my services
+
+Additional notes:
+
+* [Putting law school on trial - Daily Bruin](https://dailybruin.com/2008/03/02/putting-law-school-trial/){:target="&lowbar;blank"}
