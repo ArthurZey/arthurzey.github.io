@@ -20,11 +20,6 @@
       'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-{{ site.google_tag_manager }}');</script>
       <!-- End Google Tag Manager -->
-
-      <script>
-        _gaq.push(['_setAccount', '{{ site.google_analytics }}']);
-        _gaq.push(['_trackPageview']);
-      </script>
     {% endif %}
     <meta charset="UTF-8">
     <title>{% if page.title %}{{ page.title }} | {{ site.title}}{% else %}{{ site.title }}{% endif %}</title>
