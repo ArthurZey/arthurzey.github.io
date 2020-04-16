@@ -5,6 +5,7 @@ tags:
   - psychology
 description: "How can we be grateful for outcomes that are caused by accidents or wrongdoing?"
 date: "2020-04-09"
+last_modified_at: "2020-04-09"
 ---
 
 We sometimes face challenging circumstances that have silver linings or some positive outcomes. Adaptive pressures can help us to grow. We may develop positive traits that we are profoundly proud of, but as a result of injustice or evil.

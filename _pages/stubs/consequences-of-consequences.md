@@ -5,6 +5,7 @@ tags:
   - parenting
 description: "Using the imposition of \"consequences\" as a parenting technique has its own unintended consequences."
 date: "2020-04-07"
+last_modified_at: "2020-04-07"
 ---
 
 When you use the imposition of punitive "consequences" for children as an attempt to correct behavior or the granting of positive "consequences" to encourage behavior, the effect may be immediate compliance ("good behavior"), but often at the cost of encouraging an orientation toward short-term punishments or favors, dolled out by an authority figure, risking power struggles, and undermining the development of internal discipline and self-regulation that would otherwise come from grasping causality.

@@ -4,6 +4,8 @@ timezone:     UTC
 theme:        jekyll-theme-cayman
 url:          "http://www.arthurzey.com"
 google_analytics: UA-163771135-1
+plugins:
+  - jekyll-sitemap
 include:      ['_pages']
 exclude:
   - Gemfile
@@ -22,6 +24,7 @@ defaults:
       path: "assets/images"
     values:
       image: true
+      sitemap: false
   -
     scope:
       path: ""

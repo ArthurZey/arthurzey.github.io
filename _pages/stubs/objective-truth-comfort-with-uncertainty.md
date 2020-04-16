@@ -4,7 +4,8 @@ tags:
   - stub
   - philosophy
 description: "It might be that the only way to truly be comfortable with uncertainty is to have confidence in one's ability to gain objective knowledge at all."
-date: 2020-04-11
+date: "2020-04-11"
+last_modified_at: "2020-04-11"
 ---
 
 Being comfortable with uncertainty, and more, being comfortable with admitting uncertainty (or ignorance!) were not things that came easily to me. By disposition, I am very drawn to wanting to understand, being able to see patterns and connect them to new experiences/observations, and having confidence and certainty in the logic and truth of my conclusions. For someone passionate about knowing _the truth_ about things, especially if that truth is sometimes (or often!) controversial or bucks convention, it can be difficult to admit the limits of one's knowledge.

@@ -6,6 +6,7 @@ tags:
 
 description: "What does \"autonomy\" mean in human relationships, and why does it matter?"
 date: "2020-04-07"
+last_modified_at: "2020-04-07"
 ---
 
 I've been thinking about three senses of "autonomy" and how their equivocation can lead to discord:

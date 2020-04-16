@@ -6,4 +6,5 @@ tags:
   - exercises
   - diet
 permalink: /fitness
+sitemap: false
 ---

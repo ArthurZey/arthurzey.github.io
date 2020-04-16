@@ -2,6 +2,7 @@
 layout: bootstrap
 title: Arthur Zey
 permalink: /bootstrap/
+sitemap: false
 ---
 
 # Hi there, I'm Arthur Zey!
