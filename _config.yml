@@ -3,6 +3,7 @@ description:  "Mortal Enemy of Chaos and Entropy <br />(or \"The Truth about the
 timezone:     UTC
 theme:        jekyll-theme-cayman
 url:          "http://www.arthurzey.com"
+google_analytics: UA-163771135-1
 include:      ['_pages']
 exclude:
   - Gemfile
