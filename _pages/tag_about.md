@@ -171,4 +171,4 @@ _I'm very thing-/fact-/task-/idea-oriented._
 
 _The following are topics I'd like to write about soon._
 
-{% include doc-generator.html tags-to-include="stub" tags-to-exclude="" markdown-heading=true heading-level=3 show-date=true linkify-heading=false show-description=false show-content=true %}
+{% include doc-generator.html tags-to-include="stub" tags-to-exclude="" markdown-heading=true heading-level=3 show-date=true show-description=false show-content=true %}
