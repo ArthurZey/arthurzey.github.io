@@ -12,7 +12,7 @@ In the 1993 movie [_Groundhog Day_](https://trakt.tv/movies/groundhog-day-1993){
 
 First, I want to talk about the mechanics and constraints of this power:
 
-* can go back 5 second or 5 years, back into my own body with everything that I now know
+* can go back any length of time, 5 second or 5 years, back into my own body with everything that I now know
 * no fast-forwarding
 * what happens if I die
 * no jumping to a previous timeline
