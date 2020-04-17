@@ -4,8 +4,8 @@ tags:
   - stub
   - philosophy
 description: "Volition is self-evident and axiomatic. The universe works by deterministic laws. And yet choice is not an illusion. How is this possible?"
-date: "2020-04-16"
-last_modified_at: "2020-04-16"
+date: "2020-04-17"
+last_modified_at: "2020-04-17"
 ---
 
 This is a favorite topic of many philosophy students. It's fun to think about. But the most important lesson I've learned about this over the years is that _it doesn't matter_. While I think there are valuable things to learn from engaging in it, this is mostly just a fun intellectual exercise.
