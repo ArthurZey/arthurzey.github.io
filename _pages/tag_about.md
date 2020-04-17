@@ -26,6 +26,7 @@ last_modified_at: "2020-04-15"
   * current obsession: [BWV 999 (JS Bach Prelude in c minor)](https://musescore.com/nicolas/scores/4526){:target="&lowbar;blank"}
 * cooking (haven't done anything creative in a while, though)
 * grammar
+* good UX (yes, on websites and apps, but really, in the world generally!)
 * [management theory](#management-manager-tools)
 * learning Hebrew (kind of fell off the wagon on that, honestly)
 
