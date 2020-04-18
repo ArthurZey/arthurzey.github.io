@@ -5,6 +5,6 @@ tags:
   - fitness
   - exercises
   - diet
-permalink: /fitness
+permalink: /fitness/
 sitemap: false
 ---

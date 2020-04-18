@@ -2,7 +2,7 @@
 title: Diary
 layout: tag
 tags: "diary"
-permalink: /diary
+permalink: /diary/
 sitemap: false
 ---
 
