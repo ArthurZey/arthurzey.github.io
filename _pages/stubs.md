@@ -15,8 +15,4 @@ _(Click through to each topic's page to see a more detailed stub!)_
 {:toc}
 {::options toc_levels="2" /}
 
-{% include doc-generator.html tags-to-include="stub" tags-to-exclude="" markdown-heading=true heading-level=2 show-date=true %}
-
-{% comment %}
-
-{% endcomment %}
+{% include doc-generator.html tags-to-include="stub" tags-to-exclude="" markdown-heading=true heading-level=3 show-date=false show-edit-link=false show-permalink=false %}
