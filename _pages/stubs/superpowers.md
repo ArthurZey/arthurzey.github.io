@@ -3,7 +3,7 @@ title: Superpowers
 tags:
   - stub
   - about
-description: "If infinite control over time, space, and matter is off the table, my ideal superpower would be what I call the \"rewind power\" (or sometimes the "\Groundhog Day power\")."
+description: "If infinite control over time, space, and matter is off the table, my ideal superpower would be what I call the \"rewind power\" (or sometimes the \"Groundhog Day power\")."
 date: "2020-04-17"
 last_modified_at: "2020-04-17"
 ---
