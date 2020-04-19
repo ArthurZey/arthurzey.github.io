@@ -188,6 +188,6 @@ _I'm very thing-/fact-/task-/idea-oriented:_
 
 ## Writing Prompts
 
-_The following are topics I'd like to write about soon._
+_The following are topics I'd like to write about soon. For a list of entries with short descriptions, see the [Stubs](/stubs/) index._
 
 {% include doc-generator.html tags-to-include="stub" tags-to-exclude="" markdown-heading=true heading-level=3 show-date=true show-description=false show-content=true %}
