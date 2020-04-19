@@ -129,7 +129,9 @@ _mostly a "control freak", but I can be comfortable going with the flow_
 _not concrete-bound_
 
 ### DISC
-_I'm very thing-/fact-/task-/idea-oriented._
+See [Manager Tools Podcasts](https://www.manager-tools.com/map-universe/communication-disc){:target="&lowbar;blank"} and [summary PDF](https://files.manager-tools.com/files/private/documents/DiSC_Basics_0.pdf){:target="&lowbar;blank"}.
+
+_I'm very thing-/fact-/task-/idea-oriented:_
 * high **D**ominance: like to be in charge and take control of situations
 * high **C**onscientiousness: love my rules and structures and processes
 <!-- **Thanks, Markdown rendering in Atom.** -->
