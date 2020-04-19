@@ -102,6 +102,22 @@ _A parent's job is to be a guide in a child's development into an adult. A paren
 _This is on my to-read/listen list!_
 
 ### Philosophy: Objectivism
+
+<blockquote class="twitter-tweet" data-theme="light">
+  <p lang="en" dir="ltr">
+    &quot;Why does philosophy matter?&quot;<br>
+    &quot;I don&#39;t know, why does science matter?&quot;<br>
+    &quot;Well because scie-&quot;<br>
+    &quot;Annnnnnnd you are doing philosophy.&quot;
+  </p>
+  &mdash; Existential Comics (@existentialcoms) <a href="https://twitter.com/existentialcoms/status/628727755794821120?ref_src=twsrc%5Etfw">August 5, 2015</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[_Philosophy: Who Needs It_](https://courses.aynrand.org/works/philosophy-who-needs-it/){:target="&lowbar;blank"}
+
+> Your subconscious is like a computer--more complex a computer than men can build--and its main function is the integration of your ideas. Who programs it? Your conscious mind. If you default, **if you don't reach any firm convictions, your subconscious is programmed by chance--and you deliver yourself into the power of ideas you do not know you have accepted**. But one way or the other, your computer gives you print-outs, daily and hourly, in the form of _emotions_--which are lightning-like estimates of the things around you, calculated according to your values. If you programmed your computer by conscious thinking, you know the nature of your values and emotions. If you didn't, you don't.
+
 _Okay, so I feel like I need to offer a fair bit of clarification on this, since I think terms like "selfishness" and "capitalism" can be readily polarizing and misunderstood, given widespread (mis)use in our culture. I'll do more of that clarification in a post at some point. For now, here's a summary of my viewpoints, which I credit to Objectivism and Ayn Rand._
 * metaphysics: absolute reality\\
 _Facts are what they are. Our mere fact of believing or wishing does not change them._
