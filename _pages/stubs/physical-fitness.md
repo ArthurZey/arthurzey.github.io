@@ -18,6 +18,7 @@ Here are a few areas I'd like to explore:
 * the body as a work of art (functional "versus" aesthetic goals)
 * connection to physical health
 * self-esteem versus second-handed approval-/attention-seeking
+* shirtlessness: feeling sexy versus feeling wanted; pride versus flaunting
 * the rebellion against shame triggers
 * simultaneous feelings of pride _and_ revulsion when looking in the mirror
 * the role of my genetics in why achieving fitness goals is so rewarding
