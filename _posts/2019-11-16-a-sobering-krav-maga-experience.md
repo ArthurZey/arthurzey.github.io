@@ -5,7 +5,6 @@ description: "For the first time since starting Krav Maga over 4 years earlier, 
 tags:
   - krav-maga
   - happenings
-  - draft
 ---
 
 The background of my psychological dispositions is the proper subject for a different post. Here, I want to recount an experience that was so unusual for me that it shook my confidence in being able to deal with a real-world physical conflict.
