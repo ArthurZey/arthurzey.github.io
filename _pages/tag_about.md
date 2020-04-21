@@ -43,7 +43,7 @@ _Previous Sports_
 ## Valuable Resources
 _These are ideas and approaches to various areas of life that I have derived great value from...with some indication of my own viewpoints sprinkled in._
 
-### Physical Fitness
+### Physical Well-Being
 * [Renaissance Periodization](https://renaissanceperiodization.com/){:target="&lowbar;blank"}
 * [Carolyn Hart Manual Therapy](https://voxsynaesthetica.wordpress.com/massage-therapist/){:target="&lowbar;blank"}
 
