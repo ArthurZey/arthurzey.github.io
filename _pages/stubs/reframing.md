@@ -21,3 +21,4 @@ I've been thinking a lot about certain kinds of reframings that have been very h
 7. "change" &rarr; "grow"
 8. "you [X] &rarr; "I'm imagining you [X]" or "the story I'm telling myself is you [X]"
 9. "balance" &rarr; "integrate"
+10. "negative emotions" &rarr; "unpleasant emotions"
