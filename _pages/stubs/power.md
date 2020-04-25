@@ -16,3 +16,4 @@ Here are a few things I'd like to discuss around power:
 * why I wear [The One Ring](https://en.wikipedia.org/wiki/One_Ring){:target="&lowbar;blank"}
   * my protest against a false view of power
   * my arrogance that I have a stronger will than Sauron
+* relationship to my being a "control freak"; what control means to me (and relationship to P/J Myers-Briggs dichotomy)
