@@ -50,7 +50,7 @@ Random tidbits:
 * I scrupulously avoid reading any news except tech news. I'm blissfully and self-righteously ignorant of current events. I'm also fairly ignorant of history (which is actually a shame). If anything, I tend to know more about historical trends and periods than the "who's who" of history.
 * I know very little about pop culture or spectator sports, neither of which I have much patience for. The most I might know is a little about actors in my favorite shows/movies and sports I've actually played.
 * My favorite movie is [_The Time Traveler's Wife_](https://trakt.tv/movies/the-time-traveler-s-wife-2009){:target="&lowbar;blank"}.
-* 1 out of 10 [_Star Trek: The Next Generation_](https://trakt.tv/shows/star-trek-the-next-generation){:target="&lowbar;blank"} episodes makes me cry. My favorite is [_Who Watches the Watchers_](https://trakt.tv/shows/star-trek-the-next-generation/seasons/3/episodes/4){:target="&lowbar;blank"}. I'll let you make your own inferences about how much I cry during other TV shows and movies.
+* 1 out of 10 [_Star Trek: The Next Generation_](https://trakt.tv/shows/star-trek-the-next-generation){:target="&lowbar;blank"} episodes makes me cry. My favorites are [_Who Watches the Watchers_](https://trakt.tv/shows/star-trek-the-next-generation/seasons/3/episodes/4){:target="&lowbar;blank"} and [_The Offspring_](https://trakt.tv/shows/star-trek-the-next-generation/seasons/3/episodes/16){:target="&lowbar;blank"}. I'll let you make your own inferences about how much I cry during other TV shows and movies.
 * My favorite fiction book is [_Atlas Shrugged_](https://smile.amazon.com/dp/B003V8B5XO){:target="&lowbar;blank"}.
 * I ran a philosophy club at UCLA called LOGIC for about 7 years between 2004 and 2011. I took it extremely seriously and organized it as a 501(c)(3) non-profit corporation. We put on some very high-profile and well-attended events.
 * Some of my closest friends are from [middle school](http://reedms.com/pleslc-information/ihp-information/){:target="&lowbar;blank"}.
@@ -59,16 +59,26 @@ Random tidbits:
 * I'm an Eagle Scout.
 * I graduated from [law school](/law-school/) and even passed the CA Bar Exam.
 * Brené Brown "speed round" / "rapid fire" from [Unlocking Us](https://brenebrown.com/unlockingus/){:target="&lowbar;blank"}:
-  * _Vulnerability is_ honesty to yourself.
-  * _You're called to do something brave, but your fear is real. What's the very first thing you do?_ Breathe.
-  * _Something that people often get wrong about you is_ that I like arguing, just because I'm willing to defend my beliefs.
-  * _Last show that you watched, binged, and loved:_ [As of April 2020, _The Magicians_.](https://trakt.tv/users/arthurzey/history?show=100940){:target="&lowbar;blank"}
-  * _Favorite movie:_ [_The Time Traveler's Wife_](https://trakt.tv/movies/the-time-traveler-s-wife-2009){:target="&lowbar;blank"}.
-  * _A concert that you'll never forget:_ While at university, I got access to discounted student tickets to the LA Opera to see Mozart's _The Magic Flute_. We got seats 4 rows from the stage, and my friends had to keep hitting me to stop singing along, since I had been listening to all the songs on repeat for a week leading up to it.
-  * _Favorite meal:_ Ribeye steak, with a side of french fries cooked in beef tallow, a gigantic salad, and a glass of Malbec.
-  * _What's on your nightstand right now?_ On 2020-04-26: Phillip Pullman's [_Once Upon a Time in the North_](https://smile.amazon.com/dp/0399555447){:target="&lowbar;blank"}, my mala beads, my (non-military) dogtags, a few Pixel phones, an empty glass (for water), and a some folded clothes.
-  * _A snapshot of an ordinary moment in your life that brings you joy:_ Snuggling with [Billy](https://photos.app.goo.gl/4RW6d5j2af9aq4pbA){:target="&lowbar;blank"}.
-  * _What are you deeply grateful for right now?_ My friends who truly see and understand me.
+  * _Vulnerability is_\\
+    honesty to yourself
+  * _You're called to do something brave, but your fear is real. What's the very first thing you do?_\\
+    breathe
+  * _Something that people often get wrong about you is_\\
+    that I like arguing, just because I'm willing to defend my beliefs.
+  * _Last show that you watched, binged, and loved:_\\
+    [as of April 2020, _The Magicians_](https://trakt.tv/users/arthurzey/history?show=100940){:target="&lowbar;blank"}
+  * _Favorite movie:_\\
+    [_The Time Traveler's Wife_](https://trakt.tv/movies/the-time-traveler-s-wife-2009){:target="&lowbar;blank"}
+  * _A concert that you'll never forget:_\\
+    While at university, I got access to discounted student tickets to the LA Opera to see Mozart's _The Magic Flute_. We got seats 4 rows from the stage, and my friends had to keep hitting me to stop singing along, since I had been listening to all the songs on repeat for a week leading up to it.
+  * _Favorite meal:_\\
+    ribeye steak, with a side of french fries cooked in beef tallow, a gigantic salad, and a glass of Malbec
+  * _What's on your nightstand right now?_\\
+    on 2020-04-26: Phillip Pullman's [_Once Upon a Time in the North_](https://smile.amazon.com/dp/0399555447){:target="&lowbar;blank"}, my mala beads, my (non-military) dogtags, a few Pixel phones, an empty glass (for water), and a some folded clothes
+  * _A snapshot of an ordinary moment in your life that brings you joy:_\\
+    snuggling with [Billy](https://photos.app.goo.gl/4RW6d5j2af9aq4pbA){:target="&lowbar;blank"}
+  * _What are you deeply grateful for right now?_\\
+    my friends who truly see and understand me
 
 ## On this page
 {:.no_toc}
