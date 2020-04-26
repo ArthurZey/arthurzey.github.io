@@ -3,7 +3,8 @@ title: About Me
 tags:
   - about
 permalink: /about/
-last_modified_at: "2020-04-15"
+date: "2020-04-15"
+last_modified_at: "2020-04-26"
 ---
 
 Something, something, perfect enemy of the good.
@@ -12,7 +13,7 @@ I'm Arthur. This is my website. I threw together a basic structure using [GitHub
 
 I have about a million and one things I'm passionate about that I want to get out of my brain and onto proverbial paper.
 
-Some of it is about me personally and my own history, experiences, and growth. Some of it is observations about the world, social and interpersonal dynamics, philosophy, psychology, and other not-about-me-directly things like TV. Some are in the style of date-specific [blog posts](/blog/) and some are "timeless", "living" posts...I haven't written any of the latter yet, but I have created a ton of [stubs](/stubs/) to give an indication of what I want to write about (and there are a [ton more I haven't created stubs for yet](https://github.com/ArthurZey/arthurzey.github.io/issues/4){:target="&lowbar;blank"}, too).
+Some of it is about me personally and my own history, experiences, and growth. Some of it is observations about the world, social and interpersonal dynamics, philosophy, psychology, and other not-about-me-directly things like TV. Some are in the style of date-specific [blog posts](/blog/), and some are "timeless", "living" posts...I haven't written any of the latter yet, but I have created a ton of [stubs](/stubs/) to give an indication of what I want to write about (and there are a [ton more I haven't created stubs for yet](https://github.com/ArthurZey/arthurzey.github.io/issues/4){:target="&lowbar;blank"}, too).
 
 Frankly, a huge motive for me here is to create what amounts to an "Arthur wiki" or "Arthur user's guide". Whether you want to get to know me or you're just interested in my thoughts... Buckle up.
 
@@ -35,7 +36,17 @@ I'm the product manager for [Alexa Tech Docs](https://developer.amazon.com/en-US
 I grew up in Los Angeles, and I live in San Francisco (but maybe not for long).
 
 Random tidbits:
-* I'm a homebody. The chances of my initiating going out to eat, to a bar, or to a club are extremely slim. The perfect Friday or Saturday night involves going to bed early.
+* I'm a homebody. The chances of my initiating going out to eat, to a bar, or to a club are extremely slim. Dark, loud, and/or crowded? No, thanks. My perfect Friday or Saturday night involves going to bed early.
+* I'm a creature of habit; I love my routines and comforts.
+* I hate wearing clothes. Specifically, I love being shirtless. It's a manifestation of my extreme vanity. (More on _that_ controversial and triggering topic later!)
+* I've been eating strict Paleo (with various modifications and refinements) since 2009. No cheating.
+* I'm a compulsive nail-biter and "investigator" of my dermatological phenomena. (These are things I struggle with _a lot_.)
+* I'm extremely risk-averse, definitely to a fault and in a very anxiety-provoking way. This is a disposition I really need to keep in check.
+* I'm extremely materialistic in that I attach high sentimental value to things most people would regard as unimportant--so I can't throw anything away. But with the exception of groceries and occasional tech splurges, I'm pretty darned frugal by nature.
+* Listening to music is a very active process for me (meaning humming or singing along), so it's really hard for me to ever have it on in the background. It also means I don't much care for intentional music discovery (like Pandora). Invite me to the symphony, opera, or ballet if you're prepared to be hitting me every 5 seconds to stop me from signing along.
+* I've never been to a music performance that didn't involve sitting in seats, but [I do like quite a bit of contemporary music](https://open.spotify.com/playlist/0mTrpgBmH0j2r8fDyn4xV5){:target="&lowbar;blank"}.
+* I scrupulously avoid reading any news except tech news. I'm blissfully and self-righteously ignorant of current events. I'm also fairly ignorant of history (which is actually a shame). If anything, I tend to know more about historical trends and periods than the "who's who" of history.
+* I know very little about pop culture or spectator sports, neither of which I have much patience for. The most I might know is a little about actors in my favorite shows/movies and sports I've actually played.
 * My favorite movie is [_The Time Traveler's Wife_](https://trakt.tv/movies/the-time-traveler-s-wife-2009){:target="&lowbar;blank"}.
 * 1 out of 10 [_Star Trek: The Next Generation_](https://trakt.tv/shows/star-trek-the-next-generation){:target="&lowbar;blank"} episodes makes me cry. My favorite is [_Who Watches the Watchers_](https://trakt.tv/shows/star-trek-the-next-generation/seasons/3/episodes/4){:target="&lowbar;blank"}. I'll let you make your own inferences about how much I cry during other TV shows and movies.
 * My favorite fiction book is [_Atlas Shrugged_](https://smile.amazon.com/dp/B003V8B5XO){:target="&lowbar;blank"}.
@@ -43,6 +54,7 @@ Random tidbits:
 * Some of my closest friends are from [middle school](http://reedms.com/pleslc-information/ihp-information/){:target="&lowbar;blank"}.
 * The most consistent and frequent trigger of my anger is bad UX on mobile apps and websites.
 * I dropped out of high school.
+* I'm an Eagle Scout.
 * I graduated from [law school](/law-school/) and even passed the CA Bar Exam.
 
 ## On this page
