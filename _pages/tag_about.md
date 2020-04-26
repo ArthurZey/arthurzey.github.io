@@ -22,6 +22,10 @@ I tend to be a generalist and selective specialist, but a huge nerd through and 
 
 To me, integrity means _integrating_ mind, body, and spirit. It means continuously learning rational (ie, practical) principles, and walking the walk and talking the talk. I embrace consistency and reject compartmentalization. I'm a geek about intellectual pursuits; I'm always learning and growing in the areas of mindfulness and empathy (thank you, meditation); and I'm maniacal about physical fitness (in health, bodybuilding, and diet).
 
+Also, I love [logging things](#footer) in the spirit of [Quantified Self](https://quantifiedself.com/about/what-is-quantified-self/){:target="&lowbar;blank"}, though it's not an especially social phenomenon for me. Part of my love of it is in bringing order to the chaos of life through data normalization.
+
+What is "The Truth about the Dishwasher"? You'll have to wait until I write about it...
+
 While I buck a lot of social conventions and many of the superficial manifestations of my traits are baffling to a lot of people (believe me, I will write plenty on this), if you really get me, if you _really see and understand me_, I am super predictable.
 
 I'm the product manager for [Alexa Tech Docs](https://developer.amazon.com/en-US/alexa){:target="&lowbar;blank"} for Amazon.
