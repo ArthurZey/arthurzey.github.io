@@ -14,6 +14,8 @@ I have about a million and one things I'm passionate about that I want to get ou
 
 Some of it is about me personally and my own history, experiences, and growth. Some of it is observations about the world, social and interpersonal dynamics, philosophy, psychology, and other not-about-me-directly things like TV. Some are in the style of date-specific [blog posts](/blog/) and some are "timeless", "living" posts...I haven't written any of the latter yet, but I have created a ton of [stubs](/stubs/) to give an indication of what I want to write about (and there are a [ton more I haven't created stubs for yet](https://github.com/ArthurZey/arthurzey.github.io/issues/4){:target="&lowbar;blank"}, too).
 
+Frankly, a huge motive for me here is to create what amounts to an "Arthur wiki" or "Arthur user's guide". Want to get to know me? Buckle up.
+
 Elevator pitch about me:
 
 I'm a logic-emotions monist, open (almost to a fault), wholehearted, wild, and untamed.
