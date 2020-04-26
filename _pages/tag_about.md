@@ -62,7 +62,7 @@ Random tidbits:
   * _Vulnerability is_ honesty to yourself.
   * _You're called to do something brave, but your fear is real. What's the very first thing you do?_ Breathe.
   * _Something that people often get wrong about you is_ that I like arguing, just because I'm willing to defend my beliefs.
-  * _Last show that you watched, binged, and loved:_ [As of April 2020, _The Magicians_.](https://trakt.tv/users/me/history?show=100940){:target="&lowbar;blank"}
+  * _Last show that you watched, binged, and loved:_ [As of April 2020, _The Magicians_.](https://trakt.tv/users/arthurzey/history?show=100940){:target="&lowbar;blank"}
   * _Favorite movie:_ [_The Time Traveler's Wife_](https://trakt.tv/movies/the-time-traveler-s-wife-2009){:target="&lowbar;blank"}.
   * _A concert that you'll never forget:_ While at university, I got access to discounted student tickets to the LA Opera to see Mozart's _The Magic Flute_. We got seats 4 rows from the stage, and my friends had to keep hitting me to stop singing along, since I had been listening to all the songs on repeat for a week leading up to it.
   * _Favorite meal:_ Ribeye steak, with a side of french fries cooked in beef tallow, a gigantic salad, and a glass of Malbec.
