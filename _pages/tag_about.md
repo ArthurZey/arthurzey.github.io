@@ -18,7 +18,7 @@ Frankly, a huge motive for me here is to create what amounts to an "Arthur wiki"
 
 Elevator pitch about me:
 
-I'm a logic-emotions monist, open (almost to a fault), wholehearted, wild, and untamed.
+I'm a logic-emotions monist, open (almost to a fault), wholehearted, wild, untamed, _and_ disciplined in mind and action.
 
 I tend to be a generalist and selective specialist, but a huge nerd through and through. I'm a die-hard advocate of induction as the primary mode of human cognition. My superpowers include seeing patterns and untangling nuanced differences.
 
@@ -28,11 +28,22 @@ Also, I love [logging things](#footer) in the spirit of [Quantified Self](https:
 
 What is "The Truth about the Dishwasher"? You'll have to wait until I write about it...
 
-While I buck a lot of social conventions and many of the superficial manifestations of my traits are baffling to a lot of people (believe me, I will write plenty on this), if you really get me, if you _really see and understand me_, I am super predictable.
+While I buck a lot of social conventions and many of the superficial manifestations of my traits are baffling to a lot of people (believe me, I will write plenty on this), if you really get me, if you _really see and understand the core of my being_, I am super predictable.
 
 I'm the product manager for [Alexa Tech Docs](https://developer.amazon.com/en-US/alexa){:target="&lowbar;blank"} for Amazon.
 
 I grew up in Los Angeles, and I live in San Francisco (but maybe not for long).
+
+Random tidbits:
+* I'm a homebody. The chances of my initiating going out to eat, to a bar, or to a club are extremely slim. The perfect Friday or Saturday night involves going to bed early.
+* My favorite movie is [_The Time Traveler's Wife_](https://trakt.tv/movies/the-time-traveler-s-wife-2009){:target="&lowbar;blank"}.
+* 1 out of 10 [_Star Trek: The Next Generation_](https://trakt.tv/shows/star-trek-the-next-generation){:target="&lowbar;blank"} episodes makes me cry. My favorite is [_Who Watches the Watchers_](https://trakt.tv/shows/star-trek-the-next-generation/seasons/3/episodes/4){:target="&lowbar;blank"}. I'll let you make your own inferences about how much I cry during other TV shows and movies.
+* My favorite fiction book is [_Atlas Shrugged_](https://smile.amazon.com/dp/B003V8B5XO){:target="&lowbar;blank"}.
+* I ran a philosophy club at UCLA called LOGIC for about 7 years between 2004 and 2011. I took it extremely seriously and organized it as a 501(c)(3) non-profit corporation. We put on some very high-profile and well-attended events.
+* Some of my closest friends are from [middle school](http://reedms.com/pleslc-information/ihp-information/){:target="&lowbar;blank"}.
+* The most consistent and frequent trigger of my anger is bad UX on mobile apps and websites.
+* I dropped out of high school.
+* I graduated from [law school](/law-school/) and even passed the CA Bar Exam.
 
 ## On this page
 {:.no_toc}
