@@ -6,6 +6,28 @@ permalink: /about/
 last_modified_at: "2020-04-15"
 ---
 
+Something, something, perfect enemy of the good.
+
+I'm Arthur. This is my website. I threw together a basic structure using [GitHub Pages](https://pages.github.com){:target="&lowbar;blank"} (because tech geek) to get something off the ground quickly.
+
+I have about a million and one things I'm passionate about that I want to get out of my brain and onto proverbial paper.
+
+Some of it is about me personally and my own history, experiences, and growth. Some of it is observations about the world, social and interpersonal dynamics, philosophy, psychology, and other not-about-me-directly things like TV. Some are in the style of date-specific [blog posts](/blog/) and some are "timeless", "living" posts...I haven't written any of the latter yet, but I have created a ton of [stubs](/stubs/) to give an indication of what I want to write about (and there are a [ton more I haven't created stubs for yet](https://github.com/ArthurZey/arthurzey.github.io/issues/4){:target="&lowbar;blank"}, too).
+
+Elevator pitch about me:
+
+I'm a logic-emotions monist, open (almost to a fault), wholehearted, wild, and untamed.
+
+I tend to be a generalist and selective specialist, but a huge nerd through and through. I'm a die-hard advocate of induction as the primary mode of human cognition. My superpowers include seeing patterns and untangling nuanced differences.
+
+To me, integrity means _integrating_ mind, body, and spirit. It means continuously learning rational (ie, practical) principles, and walking the walk and talking the talk. I embrace consistency and reject compartmentalization. I'm a geek about intellectual pursuits; I'm always learning and growing in the areas of mindfulness and empathy (thank you, meditation); and I'm maniacal about physical fitness (in health, bodybuilding, and diet).
+
+While I buck a lot of social conventions and many of the superficial manifestations of my traits are baffling to a lot of people (believe me, I will write plenty on this), if you really get me, if you _really see and understand me_, I am super predictable.
+
+I'm the product manager for [Alexa Tech Docs](https://developer.amazon.com/en-US/alexa){:target="&lowbar;blank"} for Amazon.
+
+I grew up in Los Angeles, and I live in San Francisco (but maybe not for long).
+
 ## On this page
 {:.no_toc}
 * TOC
