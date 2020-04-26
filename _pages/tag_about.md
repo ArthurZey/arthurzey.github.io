@@ -60,7 +60,7 @@ Random tidbits:
 * I graduated from [law school](/law-school/) and even passed the CA Bar Exam.
 * Brené Brown "speed round" / "rapid fire" from [Unlocking Us](https://brenebrown.com/unlockingus/){:target="&lowbar;blank"}:
   * _Vulnerability is_\\
-    honesty to yourself
+    honesty to yourself.
   * _You're called to do something brave, but your fear is real. What's the very first thing you do?_\\
     breathe
   * _Something that people often get wrong about you is_\\
