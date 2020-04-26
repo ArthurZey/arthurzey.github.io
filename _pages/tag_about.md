@@ -31,6 +31,8 @@ What is "The Truth about the Dishwasher"? You'll have to wait until I write abou
 
 While I buck a lot of social conventions and many of the superficial manifestations of my traits are baffling to a lot of people (believe me, I will write plenty on this), if you really get me, if you _really see and understand the core of my being_, I am super predictable.
 
+I love children, and I can't wait to be a dad.
+
 I'm the product manager for [Alexa Tech Docs](https://developer.amazon.com/en-US/alexa){:target="&lowbar;blank"} for Amazon.
 
 I grew up in Los Angeles, and I live in San Francisco (but maybe not for long).
@@ -56,6 +58,17 @@ Random tidbits:
 * I dropped out of high school.
 * I'm an Eagle Scout.
 * I graduated from [law school](/law-school/) and even passed the CA Bar Exam.
+* Brené Brown "speed round" / "rapid fire" from [Unlocking Us](https://brenebrown.com/unlockingus/){:target="&lowbar;blank"}:
+  * _Vulnerability is_ honesty to yourself.
+  * _You're called to do something brave, but your fear is real. What's the very first thing you do?_ Breathe.
+  * _Something that people often get wrong about you is_ that I like arguing, just because I'm willing to defend my beliefs.
+  * _Last show that you watched, binged, and loved:_ [As of April 2020, _The Magicians_.](https://trakt.tv/users/me/history?show=100940){:target="&lowbar;blank"}
+  * _Favorite movie:_ [_The Time Traveler's Wife_](https://trakt.tv/movies/the-time-traveler-s-wife-2009){:target="&lowbar;blank"}.
+  * _A concert that you'll never forget:_ While at university, I got access to discounted student tickets to the LA Opera to see Mozart's _The Magic Flute_. We got seats 4 rows from the stage, and my friends had to keep hitting me to stop singing along, since I had been listening to all the songs on repeat for a week leading up to it.
+  * _Favorite meal:_ Ribeye steak, with a side of french fries cooked in beef tallow, a gigantic salad, and a glass of Malbec.
+  * _What's on your nightstand right now?_ On 2020-04-26: Phillip Pullman's [_Once Upon a Time in the North_](https://smile.amazon.com/dp/0399555447){:target="&lowbar;blank"}, my mala beads, my (non-military) dogtags, a few Pixel phones, an empty glass (for water), and a some folded clothes.
+  * _A snapshot of an ordinary moment in your life that brings you joy:_ Snuggling with [Billy](https://photos.app.goo.gl/4RW6d5j2af9aq4pbA){:target="&lowbar;blank"}.
+  * _What are you deeply grateful for right now?_ My friends who truly see and understand me.
 
 ## On this page
 {:.no_toc}
@@ -231,7 +244,7 @@ _I'm very thing-/fact-/task-/idea-oriented:_
 * [Square Cash: $ArthurZey](https://cash.app/$ArthurZey){:target="&lowbar;blank"}
 
 {% include tagged-content.html tags="stub" heading="Writing Prompts" suppress-stub-pill=true linkify-titles=false edit-link=true description="The following are topics I'd like to write about soon." %}
-{% endcomment %}
+
 
 ## Blog Posts
 
@@ -242,3 +255,5 @@ _I'm very thing-/fact-/task-/idea-oriented:_
 _The following are topics I'd like to write about soon. For a list of entries with short descriptions, see the [Stubs](/stubs/) index._
 
 {% include doc-generator.html tags-to-include="stub" tags-to-exclude="" markdown-heading=true heading-level=3 show-date=true show-description=false show-content=true %}
+
+{% endcomment %}
