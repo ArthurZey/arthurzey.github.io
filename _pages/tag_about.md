@@ -250,7 +250,7 @@ _I'm very thing-/fact-/task-/idea-oriented:_
 
 ### Enneagram
 * [Truity Free Enneagram Personality Test](https://www.truity.com/test/enneagram-personality-test){:target="&lowbar;blank"}\\
-  _2020-04-28 10:10 PDT_
+  _2020-04-28 10:10 PDT_ {% comment %}[(non-sharable results)](https://www.truity.com/personality-test/17372/test-results/19288347){:target="&lowbar;blank"}{% endcomment %}
   * 98% _The Individualist_ (type 4)\\
     Fours want to be unique and to live life authentically, and are highly attuned to their emotional experience.
   * 96% _The Challenger_ (type 8)\\
