@@ -228,7 +228,7 @@ _I'm very thing-/fact-/task-/idea-oriented:_
 
 ### TOSCA-3SC
 * [Guilt & Shame Quiz](https://transitionsmft.org/resources/quizzes/shame/results/RY7CfHo2JtuRoV5iG2ONeGx7dTYYDxzxSMUwFWpOw0i3c){:target="&lowbar;blank"}\\
-2020-04-04 17:15 PDT
+  _2020-04-04 17:15 PDT_
   * Guilt Self-Talk: ~91% (raw score of 51 out of 55)
   * Shame Self-Talk: ~28% (raw score of 23 out of 55)
   * Blaming Others: ~10% (raw score of 15 out of 55)
@@ -247,6 +247,41 @@ _I'm very thing-/fact-/task-/idea-oriented:_
     3. Quality Time
     4. Words of Affirmation
     5. [Giving] Gifts
+
+### Enneagram
+* [Truity Free Enneagram Personality Test](https://www.truity.com/test/enneagram-personality-test){:target="&lowbar;blank"}\\
+  _2020-04-28 10:10 PDT_
+  * 98% _The Individualist_ (type 4)\\
+    Fours want to be unique and to live life authentically, and are highly attuned to their emotional experience.
+  * 96% _The Challenger_ (type 8)\\
+    Eights see themselves as strong and powerful and seek to stand up for what they believe in.
+  * 89% _The Perfectionist_ (type 1)\\
+    Ones place a lot of emphasis on following the rules and doing things correctly.
+  * 86% _The Giver_ (type 2)\\
+    Twos want to be liked and find ways that they can be helpful to others so that they can be loved and belong.
+  * 82% _The Achiever_ (type 3)\\
+    Threes want to be successful and admired by other people, and are very conscious of their public image.
+  * 80% _The Invesstigator_ (type 5)\\
+    Fives seek understanding and knowledge, and are more comfortable with data than people.
+  * 68% _The Skeptic_ (type 6)\\
+    Sixes are preoccupied with security, seek safety, and like to be prepared for problems.
+  * 52% _The Enthusiast_ (type 7)\\
+    Sevens want to have as much fun and adventure as possible and are easily bored.
+  * 46% _The Peacemaker_ (type 9)\\
+    Nines like to keep a low profile and let the people around them set the agenda.
+
+### StrengthsFinder 2.0
+_as of 2013-01-02_
+1. Individualization\\
+  People who are especially talented in the Individualization theme are intrigued with the unique qualities of each person. They have a gift for figuring out how people who are different can work together productively.
+2. Strategic\\
+  People who are especially talented in the Strategic theme create alternative ways to proceed. Faced with any given scenario, they can quickly spot the relevant patterns and issues.
+3. Competition\\
+  People who are especially talented in the Competition theme measure their progress against the performance of others. They strive to win first place and revel in contests.
+4. Responsibility\\
+  People who are especially talented in the Responsibility theme take psychological ownership of what they say they will do. They are committed to stable values such as honesty and loyalty.
+5. Achiever\\
+  People who are especially talented in the Achiever theme have a great deal of stamina and work hard. They take great satisfaction from being busy and productive.
 
 {% comment %}
 
