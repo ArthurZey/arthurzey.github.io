@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-04-27"
+last_modified_at: "2020-04-28"
 ---
 
 Something, something, perfect enemy of the good.
@@ -21,7 +21,7 @@ Elevator pitch about me:
 
 I'm a logic-emotions monist, open (almost to a fault), wholehearted, wild, untamed, _and_ disciplined in mind and action.
 
-I tend to be a generalist and selective specialist, but a huge nerd through and through. I'm a die-hard advocate of induction as the primary mode of human cognition. My superpowers include seeing patterns and untangling nuanced differences.
+I tend to be a generalist and selective specialist, but a huge nerd through and through. I'm a die-hard advocate of induction as the primary mode of human cognition. My superpowers include seeing patterns and untangling nuanced differences. Check out my [Personality and Behavioral Profiles](#personality-and-behavioral-profiles) below.
 
 To me, integrity means _integrating_ mind, body, and spirit. It means continuously learning rational (ie, practical) principles, and walking the walk and talking the talk. I embrace consistency and reject compartmentalization. I'm a geek about intellectual pursuits; I'm always learning and growing in the areas of mindfulness and empathy (thank you, meditation); and I'm maniacal about physical fitness (in health, bodybuilding, and diet).
 
@@ -232,6 +232,21 @@ _I'm very thing-/fact-/task-/idea-oriented:_
   * Guilt Self-Talk: ~91% (raw score of 51 out of 55)
   * Shame Self-Talk: ~28% (raw score of 23 out of 55)
   * Blaming Others: ~10% (raw score of 15 out of 55)
+
+### Love Languages
+* _The 5 Love Languages_ by Gary Chapman: [Kindle](https://smile.amazon.com/dp/B00OICLVBI){:target="&lowbar;blank"}, [website](https://www.5lovelanguages.com/){:target="&lowbar;blank"}
+  * How I prefer to receive love:
+    1. Physical Touch
+    2. Quality Time
+    3. Acts of Service
+    4. Words of Affirmation
+    5. Receiving Gifts
+  * How I naturally show love:
+    1. Acts of Service
+    2. Physical Touch
+    3. Quality Time
+    4. Words of Affirmation
+    5. [Giving] Gifts
 
 {% comment %}
 
