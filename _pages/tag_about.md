@@ -55,7 +55,9 @@ Random tidbits:
 * I ran a philosophy club at UCLA called LOGIC for about 7 years between 2004 and 2011. I took it extremely seriously and organized it as a 501(c)(3) non-profit corporation. We put on some very high-profile and well-attended events.
 * Some of my closest friends are from [middle school](http://reedms.com/pleslc-information/ihp-information/){:target="&lowbar;blank"}.
 * The most consistent and frequent trigger of my anger is bad UX on mobile apps and websites.
-* I dropped out of high school.
+* I dropped out of high school. (Okay...I say that for dramatic effect. I [tested out](https://www.chspe.net/){:target="&lowbar;blank"} after 10th grade because I ran out of AP math and science classes...kind of.)
+* Technically, Russian is my first language, and my parents forced me to go to Russian School on Saturdays for 11 years (maybe [here](https://hvmla.org/our-community/children/){:target="&lowbar;blank"}?)...unsurprisingly, with my willful personality, I didn't get much out of it. I took French in high school and college. I took one quarter of Italian at UCLA.
+* I studied piano pretty seriously between the ages of 7 and 18  (now I just dabble), I played flute in grades 6 and 7, and I was in choir in grades 7 through 10.
 * I'm an Eagle Scout.
 * I graduated from [law school](/law-school/) and even passed the CA Bar Exam.
 * Brené Brown "speed round" / "rapid fire" from [Unlocking Us](https://brenebrown.com/unlockingus/){:target="&lowbar;blank"}:
