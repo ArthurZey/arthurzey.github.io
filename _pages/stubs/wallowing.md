@@ -5,7 +5,7 @@ tags:
   - psychology
 description: "Where is the line between being willing to feel sadness in the spirit of wholeheartedness and pursuing a broader course of misery?"
 date: "2020-04-22"
-last_modified_at: "2020-04-22"
+last_modified_at: "2020-04-27"
 ---
 
 Sometimes, sadness happens. It just grips us in the moment. And, depending on the context, we need to decide whether to lean into it or redirect our focus.
@@ -38,6 +38,7 @@ The question is whether these behaviors of intensifying the emotions are useful 
 * Do these behaviors aid in processing emotions, or do they amount to pursuing a course of more misery?
 * What factors are relevant in figuring out the best course in any given context?
 * What is the connection between short-term effects and long-term effects?
+* Does the _willingness_ to feel great despair (and fully leaning into it when it happens) have the seemingly paradoxical effect of lessening the frequency or intensity of despair? (Perhaps this is indirect, since it has to do with processing things before they escalate to the level of despair?)
 * Is it a good idea to retain emotional triggers (eg, keep that photo from a funeral in a rotation, keep the association of a particular song with a former lover)?
 * Is the willingness to lean into (even frequent) "depressive episodes" the same as "being depressed"? Depression and sadness are unpleasant, sure--we generally want less--but why do we have this [pathologizing stigma associated with depression](/depression-and-mental-illness/)?
 
