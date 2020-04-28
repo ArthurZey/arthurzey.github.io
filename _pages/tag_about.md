@@ -261,7 +261,7 @@ _I'm very thing-/fact-/task-/idea-oriented:_
     Twos want to be liked and find ways that they can be helpful to others so that they can be loved and belong.
   * 82% _The Achiever_ (type 3)\\
     Threes want to be successful and admired by other people, and are very conscious of their public image.
-  * 80% _The Invesstigator_ (type 5)\\
+  * 80% _The Investigator_ (type 5)\\
     Fives seek understanding and knowledge, and are more comfortable with data than people.
   * 68% _The Skeptic_ (type 6)\\
     Sixes are preoccupied with security, seek safety, and like to be prepared for problems.
