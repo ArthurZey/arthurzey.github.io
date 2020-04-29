@@ -5,7 +5,7 @@ tags:
   - psychology
 description: "\"Absolute power corrupts absolutely.\" is less a statement of fact and more a confession by the speaker."
 date: "2020-04-23"
-last_modified_at: "2020-04-28"
+last_modified_at: "2020-04-29"
 ---
 
 Here are a few things I'd like to discuss around power:
@@ -17,4 +17,5 @@ Here are a few things I'd like to discuss around power:
   * my protest against a false view of power
   * my arrogance that I have a stronger will than Sauron
 * relationship to my being a "control freak"; what control means to me (and relationship to P/J Myers-Briggs dichotomy)
+   * relationship to my claustrophobia
 * If I were Riker in [_Hide and Q_](https://trakt.tv/shows/star-trek-the-next-generation/seasons/1/episodes/10){:target="&lowbar;blank"}, would I accept infinite control over time, space, and matter? (Spoiler alert: Hell, _yes_.)
