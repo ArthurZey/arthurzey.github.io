@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-05-02"
+last_modified_at: "2020-05-03"
 ---
 
 Something, something, perfect enemy of the good.
@@ -13,13 +13,13 @@ I'm Arthur. This is my website. I threw together a basic structure using [GitHub
 
 I have about a million and one things I'm passionate about that I want to get out of my brain and onto proverbial paper.
 
-Some of it is about me personally and my own history, experiences, and growth. Some of it is observations about the world, social and interpersonal dynamics, philosophy, psychology, and other not-about-me-directly things like TV. Some content is in style of date-specific [blog posts](/blog/), and some content is captured in "timeless", "living" posts...I haven't written any of the latter yet, but I have created a ton of [stubs](/stubs/) to give an indication of what I want to write about (and there are a [ton more I haven't created stubs for yet](https://github.com/ArthurZey/arthurzey.github.io/issues/4){:target="&lowbar;blank"}, too).
+Some of it is about me personally and my own history, experiences, and growth. Some of it is observations about the world, social and interpersonal dynamics, philosophy, psychology, and other not-about-me-directly things like TV, product design, and project management. Some content is in style of date-specific [blog posts](/blog/), and some content is captured in "timeless", "living" posts...I haven't written any of the latter yet, but I have created a ton of [stubs](/stubs/) to give an indication of what I want to write about (and there are a [ton more I haven't created stubs for yet](https://github.com/ArthurZey/arthurzey.github.io/issues/4){:target="&lowbar;blank"}, too).
 
 Frankly, a huge motive for me here is to create what amounts to an "Arthur wiki" or "Arthur user's guide". Whether you want to get to know me or you're just interested in my thoughts... Buckle up.
 
 Elevator pitch about me:
 
-I'm a logic-emotions monist, open (almost to a fault), wholehearted, wild, untamed, _and_ disciplined in mind and action.
+I'm a logic-emotions monist, open (almost to a fault), wholehearted, wild, untamed, _and_ disciplined in mind and action. (I wrote a decent stub on [Family Arguing](/family-arguing/) that proposes a causality for how I came to be this way.)
 
 I tend to be a generalist and selective specialist, but a huge nerd through and through. I'm a die-hard advocate of induction as the primary mode of human cognition. My superpowers include seeing patterns and untangling nuanced differences. Check out my [Personality and Behavioral Profiles](#personality-and-behavioral-profiles) below.
 
