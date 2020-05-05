@@ -18,3 +18,9 @@ last_modified_at: "2020-05-05"
 * my routines and comforts
 * being bad at packing lightly
 * camping
+* my favorite places
+  * ski resorts: Tahoe, Colorado
+  * Hawai'i (especially Poipu, Kauai)
+  * Atlanta
+  * Tel Aviv
+  * New York
