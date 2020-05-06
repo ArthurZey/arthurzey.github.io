@@ -16,6 +16,7 @@ last_modified_at: "2020-05-06"
   * magical powers
   * scifi (especially with awesome technology)
   * superpowers
+  * crossovers
 * I tend to like
   * emotional dramas
   * procedural dramas / mystery-/crime-solving
