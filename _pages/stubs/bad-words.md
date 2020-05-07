@@ -12,7 +12,7 @@ last_modified_at: "2020-04-30"
 There are a lot of dimensions here I'd like to explore...and I might have to split some of this off into different posts altogether:
 
 * "curse words" (eg, "fuck") versus hurtful words (eg, "retarded")
-* relevance of a word's etymology and usage (eg, "pussy" to mean weak, "retarded" to mean slow)
+* relevance of a word's etymology and usage (eg, "pussy" to mean weak, "retarded" to mean slow, "ballsy" to mean courageous, "man up" to mean "get it together")
 * cultural power differentials and using words with disparaging intent (eg, "pussy" versus "dick")
 * whether members of a group are (more) entitled to uses a particular term (eg, Black people using "nigger", gay people using "fag")
 * "Black" versus "African-American", "Oriental" versus "Chinese", etc
