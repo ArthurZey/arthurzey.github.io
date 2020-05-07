@@ -6,7 +6,7 @@ tags:
   - language
 description: "Whether \"curse words\" or hurtful words, whether rooted in sexism, racism, sex-negativity, or anything else, there's a lot to say about how we use language and so-called \"bad words\"."
 date: "2020-04-30"
-last_modified_at: "2020-04-30"
+last_modified_at: "2020-05-07"
 ---
 
 There are a lot of dimensions here I'd like to explore...and I might have to split some of this off into different posts altogether:
