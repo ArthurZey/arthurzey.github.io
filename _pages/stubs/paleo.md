@@ -23,3 +23,5 @@ Angles to cover:
 * burden of proof
 * scientific backing
 * claims for self versus claims for others
+* Paleo substitutes (eg, coconut sugar)
+* refinements/alterations (eg, dairy, potatoes, rice)
