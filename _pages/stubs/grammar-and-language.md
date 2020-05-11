@@ -32,9 +32,12 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "envy" versus "jealousy"
 * "objective" versus "universal"
 * "subjective" versus "personal"
+* "selfish" versus "short-sighted whim pursuit"
+* "blog post" versus "blog"; "podcast" versus "podcast episode"
 * "irregardless", other non-words, and the (d)evolution of language (maybe a separate post in its own right)
+* datetime stamps, 24-hour time
 
 Fun games:
 
-* alterninyms (eg, Sleep, Shower, and Sundry)
+* alterninyms (eg, "Sleep, Shower, and Sundry")
 * pluralization (eg, mattropodes)
