@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-05-08"
+last_modified_at: "2020-05-13"
 ---
 
 Something, something, perfect enemy of the good.
@@ -21,7 +21,7 @@ Elevator pitch about me:
 
 I'm a logic-emotions monist, open (almost to a fault), wholehearted, wild, untamed, _and_ disciplined in mind and action. (I wrote a decent stub on [Family Arguing](/family-arguing/) that proposes a causality for how I came to be this way.)
 
-I tend to be a generalist and selective specialist, but a huge nerd through and through. I'm a die-hard advocate of induction as the primary mode of human cognition. My superpowers include seeing patterns and untangling nuanced differences. Check out my [Personality and Behavioral Profiles](#personality-and-behavioral-profiles) below.
+I tend to be a generalist and selective specialist, but a huge nerd through and through. I'm a die-hard advocate of induction as the primary mode of human cognition. My superpowers include seeing patterns and untangling nuanced differences. I'm especially good at seeing underlying principles, whether in human behavior or API design, as well as finding general, future-proof solutions to seemingly disparate problems. Check out my [Personality and Behavioral Profiles](#personality-and-behavioral-profiles) below.
 
 To me, integrity means _integrating_ mind, body, and spirit. It means continuously learning rational (ie, practical) principles, and walking the walk and talking the talk. I embrace consistency and reject compartmentalization. I'm a geek about intellectual pursuits, I'm maniacal about physical fitness (in health, bodybuilding, and diet), and I'm always learning and growing in the areas of mindfulness and empathy (thank you, meditation).
 
