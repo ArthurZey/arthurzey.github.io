@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2020-05-12"
+last_modified_at: "2020-05-15"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -36,8 +36,18 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "blog post" versus "blog"; "podcast" versus "podcast episode"; "FAQ" versus "FAQ entry"
 * "irregardless", other non-words, and the (d)evolution of language (maybe a separate post in its own right)
 * datetime stamps, 24-hour time
+* "gods"
+* "theater" versus "theatre"
+* pronunciation of plural words, such as "basis" versus "base"
+* Picard-isms: schedule, issue
 
 Fun games:
 
 * alterninyms (eg, "Sleep, Shower, and Sundry")
 * pluralization (eg, mattropodes)
+
+Other topics:
+
+* Style guides be damned! (Kind of.)
+* descriptive versus prescriptive versus objective
+* evolution versus devolution
