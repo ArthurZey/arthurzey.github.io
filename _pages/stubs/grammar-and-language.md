@@ -40,6 +40,8 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "theater" versus "theatre"
 * pronunciation of plural words, such as "basis" versus "base"
 * Picard-isms: schedule, issue
+* "none are" versus "none is"; "any are" versus "any is"
+* singular "they"
 
 Fun games:
 
