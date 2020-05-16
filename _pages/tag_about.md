@@ -54,6 +54,7 @@ Random tidbits:
 * My favorite movie is [_The Time Traveler's Wife_](https://trakt.tv/movies/the-time-traveler-s-wife-2009){:target="&lowbar;blank"}.
 * 1 out of 10 [_Star Trek: The Next Generation_](https://trakt.tv/shows/star-trek-the-next-generation){:target="&lowbar;blank"} episodes makes me cry. My favorites are [_Who Watches the Watchers_](https://trakt.tv/shows/star-trek-the-next-generation/seasons/3/episodes/4){:target="&lowbar;blank"} and [_The Offspring_](https://trakt.tv/shows/star-trek-the-next-generation/seasons/3/episodes/16){:target="&lowbar;blank"}. I'll let you make your own inferences about how much I cry during other TV shows and movies.
 * My favorite fiction book is [_Atlas Shrugged_](https://smile.amazon.com/dp/B003V8B5XO){:target="&lowbar;blank"}. The [_His Dark Materials_](https://smile.amazon.com/dp/B005WBBYXO){:target="&lowbar;blank"} trilogy is a close second because _fuck authority_.
+* I have a lot of [favorites](/favorites/). I like things how I like them. It's probably a manifestation of how much I care about things in general.
 * I ran a philosophy club at UCLA called LOGIC for about 7 years between 2004 and 2011. I took it extremely seriously and organized it as a 501(c)(3) non-profit corporation. We put on some very high-profile and well-attended events.
 * Some of my closest friends are from [middle school](http://reedms.com/pleslc-information/ihp-information/){:target="&lowbar;blank"}.
 * The most consistent and frequent trigger of my anger is bad UX on mobile apps and websites.

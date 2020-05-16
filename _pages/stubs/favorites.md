@@ -5,7 +5,7 @@ tags:
   - about
 description: "Brown paper packages tied up with strings; these are a few of my favorite things."
 date: "2020-05-15"
-last_modified_at: "2020-05-15"
+last_modified_at: "2020-05-16"
 ---
 
 * TOC
@@ -26,6 +26,14 @@ What follows is a hodgepodge of stack-ranked and hierarchically organized genres
   * Baroque
     * Johann Sebastian Bach
       * [Magnificat in D, BWV 243: IV. Omnes generationes](https://open.spotify.com/track/5OHR6ZdwzaQJwllrxpJpAn?si=cT9tJ2bJRxakhhWXjUaMhg){:target="&lowbar;blank"} (favorite choral work, hands down)
+      * [Prelude in C Minor, BWV 999](https://open.spotify.com/track/3m8V6PIYg1n1y2vQ3EVmK3){:target="&lowbar;blank"} ("This is how men like me pray." --[_American Gods_](https://trakt.tv/shows/american-gods/seasons/2/episodes/4){:target="&lowbar;blank"})
+      * [Concerto for 2 Violins, Strings, and Continuo in D minor, BWV 1043: 1. Vivace](https://open.spotify.com/track/4aQXgiJNI18FFS0YbKJkXq){:target="&lowbar;blank"}
+      * [Concerto for 2 Violins, Strings, and Continuo in D minor, BWV 1043: 3. Allegro](https://open.spotify.com/track/3FYchPrDsPucM1pn7jt8JV){:target="&lowbar;blank"}
+      * [Keyboard Concerto No. 1 In D Minor, BWV 1052: I. Allegro](https://open.spotify.com/track/47HPTrKutwt8n3ZNsmbH7S){:target="&lowbar;blank"}
+      * [Violin Concerto No. 2 In E Major, Op. 3, BWV 1042: Allegro](https://open.spotify.com/track/35N4DeOVz55MUj9cc5MUCy){:target="&lowbar;blank"}
+      * [Concerto for Flute, Strings And Basso Continuo in G minor, BWV 1056: I. Allegro & Allegro ma non tanto](https://open.spotify.com/track/0qZLGHCZbt8t7uSpfBv3xD){:target="&lowbar;blank"}
+      * [Concerto for Flute, Strings And Basso Continuo in G minor, BWV 1056: III. Presto](https://open.spotify.com/track/7kMIagwMj61D1zHAcFUXHF){:target="&lowbar;blank"}
+      * [Overture (Suite) No. 2 in B Minor, BWV 1067: VII. Badinerie](https://open.spotify.com/track/43qYpcyqEKb9muCjxcJjYJ){:target="&lowbar;blank"}
     * Vivaldi
       * [Concerto For 4 Violins In B Minor, Op. 3, No. 10, RV 580: I. Allegro](https://open.spotify.com/track/2HrDeUcfs5MGPKRo8gD1BI?si=QugElP3qT9OhwsAIZJFcDA){:target="&lowbar;blank"}
       * [Concerto For 4 Violins In B Minor, Op. 3, No. 10, RV 580: III. Allegro](https://open.spotify.com/track/6hJBvyS2qaY5GC5O750hge?si=8gwcGQtVS0itGtauoqjtIw){:target="&lowbar;blank"}
