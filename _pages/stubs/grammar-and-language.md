@@ -42,6 +42,7 @@ Here are a few of my fixations and particularities (in no particular order) that
 * Picard-isms: schedule, issue
 * "none are" versus "none is"; "any are" versus "any is"
 * singular "they"
+* singular "data"
 
 Fun games:
 
