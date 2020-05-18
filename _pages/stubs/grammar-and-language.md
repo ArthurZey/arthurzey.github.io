@@ -20,7 +20,7 @@ Here are a few of my fixations and particularities (in no particular order) that
 * verbs as nouns (eg, "That's a big ask.")
 * nouns as verbs (eg, "Let's solution that.")
 * adjectives as nouns (eg, "deliverable")
-* noun versus verb compound forms (eg, "setup" versus "set up", "login" versus "log in", "checkin" versus "check-in")
+* noun versus verb compound forms (eg, "setup" versus "set up", "login" versus "log in", "checkin" versus "check-in", "oncall" versus "on-call")
 * hyphenates that should be their own words (eg, "usecase", "enduser")
 * contranyms (eg, "cleave", "sanction", "practically")
 * "begs the question" versus "implies the question"
