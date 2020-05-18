@@ -5,7 +5,7 @@ tags:
   - about
 description: "Brown paper packages tied up with strings; these are a few of my favorite things."
 date: "2020-05-15"
-last_modified_at: "2020-05-16"
+last_modified_at: "2020-05-18"
 ---
 
 * TOC
@@ -41,6 +41,7 @@ What follows is a hodgepodge of stack-ranked and hierarchically organized genres
     * Mozart
       * [_The Magic Flute_](https://open.spotify.com/album/45QGB3unppoM0c5CoRobJK?si=M9oJTpCBTbGAQeFNE_dQBg){:target="&lowbar;blank"}
       * [Requiem](https://open.spotify.com/playlist/30PY19zVSuXylDEQbqj3Da?si=apSR6wgiSH6QdEVWSi7glw){:target="&lowbar;blank"}
+      * basically all of [_Mozart for Your Mind_](https://open.spotify.com/album/6DF0Kj9vuo6GTCNzTbilt6?si=3UI-40SaRfaRLL5wy0eaSg){:target="&lowbar;blank"}
     * Haydn
       * [Cello Concerto No. 1 in C Major, Hob. VIIb:1: III. Allegro molto](https://open.spotify.com/track/0jr0pJALTE1bWKrfeETeQT){:target="&lowbar;blank"}
     * Beethoven
