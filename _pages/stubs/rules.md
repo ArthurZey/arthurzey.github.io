@@ -38,4 +38,4 @@ Areas to explore:
 |descriptivism|prescriptivism|evolution based on cognitive utility|
 |fitting in (maybe also withdrawal from connection?)|???|[belonging](https://smile.amazon.com/gp/product/B06XFLFSRY){:target="&lowbar;blank"}|
 |moving toward (pleasing), moving against (rejecting), moving away (withdrawing)|???|[authenticity](https://smile.amazon.com/gp/product/B06XFLFSRY){:target="&lowbar;blank"}|
-|data-driven|data-rejecting / data-apathetic|data-informed|
+|data-rejecting / data-apathetic|data-driven|data-informed|
