@@ -159,6 +159,11 @@ _which I wouldn't necessarily cook myself_
 
 ## Vacation Spots / Places to Visit
 * Hawai'i, especially Poipu on the island of Kauai
+* Summit County, Colorado (home of Breckenridge and Keystone, proximate to Vail and Beaver Creek)
+* Lake Tahoe
+* Tel Aviv
+* Atlanta
+* New York
 
 ## Weather and Climate
 * hot
