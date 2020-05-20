@@ -33,9 +33,9 @@ Areas to explore:
 
 |subjective|intrinsic|objective|
 |Good/Truth determined by social convention or personal whim/declaration|Good/Truth determined by religion/revelation|[virtue-based egoism](https://smile.amazon.com/dp/B00INYGFWM/){:target="&lowbar;blank"} and [induction](https://smile.amazon.com/dp/B002OSXD8C){:target="&lowbar;blank"}|
-|no regard for any rules|must follow rules because they're rules|adopt the rules I agree with as inviolable|
+|no regard for any rules|must follow rules because they're rules|adopt as inviolable the rules I agree with|
 |social approval / whim-worship|inherent (context- and fact-free) goodness/badness|_self_-esteem|
 |descriptivism|prescriptivism|evolution based on cognitive utility|
-|fitting in (maybe also withdrawal from connection?)|???|belonging|
-|moving toward (pleasing), moving against (rejecting), moving away (withdrawing)|???|authenticity|
+|fitting in (maybe also withdrawal from connection?)|???|[belonging](https://smile.amazon.com/gp/product/B06XFLFSRY){:target="&lowbar;blank"}|
+|moving toward (pleasing), moving against (rejecting), moving away (withdrawing)|???|[authenticity](https://smile.amazon.com/gp/product/B06XFLFSRY){:target="&lowbar;blank"}|
 |data-driven|data-rejecting / data-apathetic|data-informed|
