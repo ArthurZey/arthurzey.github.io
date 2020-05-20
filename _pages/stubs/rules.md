@@ -25,6 +25,8 @@ Areas to explore:
 * manifestation in terms of diet and fitness
 * connection to discipline; is it really discipline if I feel compelled by following a rule (even my rules, once I've established them), rather than having to muster up willpower to do the thing?
 * connection to consistency and other psychological motivators; breaking the rules ("cheating") is psychologically horrific for me in the sense of "Well, the principle is lost, anyway."
+* connection to (resilience to) addiction
+* the value of bright-line rules; what happens when I have fuzzy / non-objective "rules"
 * rules and principles
 * obsession with processes, especially professionally; tempering what could thoughtlessly manifest as process for process's sake
 * parallels to explore:
