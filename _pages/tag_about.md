@@ -17,7 +17,14 @@ Some of it is about me personally and my own history, experiences, and growth. S
 
 Frankly, a huge motive for me here is to create what amounts to an "Arthur wiki" or "Arthur user's guide". Whether you want to get to know me or you're just interested in my thoughts... Buckle up.
 
-Elevator pitch about me:
+## On This Page
+{:.no_toc}
+* TOC
+{:toc}
+{::options toc_levels="2..3" /}
+
+
+## Elevator Pitch
 
 I'm a logic-emotions monist, open (almost to a fault), wholehearted, wild, untamed, _and_ disciplined in mind and action. (I wrote a decent stub on [Family Arguing](/family-arguing/) that proposes a causality for how I came to be this way.)
 
@@ -37,7 +44,8 @@ I'm the product manager for [Alexa Tech Docs](https://developer.amazon.com/en-US
 
 I grew up in Los Angeles, and I live in San Francisco (but maybe not for long).
 
-Random tidbits:
+## Random Tidbits
+
 * I'm a homebody. The chances of my initiating going out to eat, to a bar, or to a club are extremely slim. Dark, loud, and/or crowded? No, thanks. My perfect Friday or Saturday night involves going to bed early.
 * I'm a creature of habit; I love my routines and comforts.
 * I hate wearing clothes. Specifically, I love being shirtless. It's a manifestation of my extreme vanity. (More on _that_ controversial and triggering topic later!)
@@ -84,12 +92,6 @@ Random tidbits:
     snuggling with [Billy](https://photos.app.goo.gl/4RW6d5j2af9aq4pbA){:target="&lowbar;blank"}
   * _What are you deeply grateful for right now?_\\
     my friends who truly see and understand me
-
-## On this page
-{:.no_toc}
-* TOC
-{:toc}
-{::options toc_levels="2..3" /}
 
 ## Interests, Values, and Passions
 * [bodybuilding and physical fitness](#physical-fitness)
