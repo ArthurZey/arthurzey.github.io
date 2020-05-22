@@ -441,7 +441,7 @@ Sports?
   </tr>
   <tr>
     <th markdown="span">2001</th>
-    <td markdown="span" rowspan="7">Duckett-Wilson Development Company</td>
+    <td markdown="span" rowspan="8">Duckett-Wilson Development Company</td>
     <td markdown="span"></td>
   </tr>
   <tr>
@@ -449,13 +449,18 @@ Sports?
     <td markdown="span"></td>
   </tr>
   <tr>
-    <td markdown="span" rowspan="3">UCLA</td>
-    <td markdown="span" rowspan="5">UCLA Undergrad<br />_Math of Computation BSc_</td>
+    <td markdown="span" rowspan="2">UCLA<br />Rieber 5 South</td>
+    <td markdown="span" rowspan="6">UCLA Undergrad<br />_Math of Computation BSc_</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
   </tr>
   <tr>
-    <th markdown="span">2003</th>
+    <th markdown="span" rowspan="2">2003</th>
+    <td markdown="span"></td>
+    <td markdown="span"></td>
+  </tr>
+  <tr>
+    <td markdown="span" rowspan="2">UCLA<br />Hedrick 7 North</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
   </tr>
