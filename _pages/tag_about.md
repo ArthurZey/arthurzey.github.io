@@ -369,7 +369,7 @@ Sports?
     <td markdown="span">Brother Andrew is born</td>
   </tr>
   <tr>
-    <td markdown="span" rowspan="6">Brentwood Science Magnet Elementary School</td>
+    <td markdown="span" rowspan="6">Brentwood Science Magnet<br />Elementary School</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
     <td markdown="span"></td>
@@ -450,7 +450,7 @@ Sports?
   </tr>
   <tr>
     <td markdown="span" rowspan="3">UCLA</td>
-    <td markdown="span" rowspan="5">UCLA Undergrad (Mathematics of Computation BSc)</td>
+    <td markdown="span" rowspan="5">UCLA Undergrad<br />_Math of Computation BSc_</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
   </tr>
