@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-05-13"
+last_modified_at: "2020-05-22"
 ---
 
 Something, something, perfect enemy of the good.
@@ -465,7 +465,7 @@ School: Russian School, OAC
   </tr>
   <tr>
     <td markdown="span" rowspan="4">Mar Vista, CA</td>
-    <td markdown="span" rowspan="6">"Wyatt"</td>
+    <td markdown="span" rowspan="6">"Wyatt" (protecting his privacy)</td>
     <td markdown="span"></td>
   </tr>
   <tr>
