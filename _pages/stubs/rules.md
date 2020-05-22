@@ -22,6 +22,7 @@ Areas to explore:
 * the spirit of the law versus technical adherence to it; connection to honesty and being open about breaking rules
 * I follow some rules only out of perhaps-uncalibrated, risk-averse fear of punishment (eg, utterly illogical traffic laws, like not making left turn at a deserted intersection against a red light), not because I respect the rule.
 * permission versus forgiveness
+  * With respect to children and parenting, there's a difference between seeking permission and seeking guidance. A parent ought to encourage a child to feel comfortable seeking guidance. If a parent demands seeking permission, it encourages power struggles and adversarial dynamics.
 * manifestation in terms of diet and fitness
 * connection to discipline; is it really discipline if I feel compelled by following a rule (even my rules, once I've established them), rather than having to muster up willpower to do the thing?
 * connection to consistency and other psychological motivators; breaking the rules ("cheating") is psychologically horrific for me in the sense of "Well, the principle is lost, anyway."
