@@ -38,7 +38,13 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "objective" versus "universal"
 * "subjective" versus "personal"
 * "selfish" versus "short-sighted whim pursuit"
-* "blog post" versus "blog"; "podcast" versus "podcast episode"; "FAQ" versus "FAQ entry"; "meme" versus ???
+* "[collection]" versus "[collection] [item]":
+  * "blog post" versus "blog"
+  * "podcast" versus "podcast episode"
+  * "wiki" versus "wiki page"
+  * "JIRA" versus "JIRA issue"
+  * "FAQ" versus "FAQ entry"
+  * "meme" versus ???
 * "irregardless", other non-words, and the (d)evolution of language (maybe a separate post in its own right)
 * datetime stamps, 24-hour time
 * "gods"
