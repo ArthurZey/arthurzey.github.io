@@ -608,23 +608,28 @@ Sports?
   </tr>
   <tr>
     <td markdown="span"></td>
-    <td markdown="span" rowspan="5">Amazon</td>
+    <td markdown="span" rowspan="4">Amazon:<br />Alexa Core Services</td>
     <td markdown="span"></td>
   </tr>
   <tr>
     <th markdown="span" rowspan="2">2018</th>
     <td markdown="span"></td>
-    <td markdown="span" rowspan="4">Adam</td>
+    <td markdown="span" rowspan="5">Adam</td>
     <td markdown="span"></td>
   </tr>
   <tr>
-    <td markdown="span" rowspan="3">San Francisco, CA</td>
+    <td markdown="span" rowspan="4">San Francisco, CA</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
   </tr>
   <tr>
-    <th markdown="span">2019</th>
+    <th markdown="span" rowspan="2">2019</th>
     <td markdown="span"></td>
+    <td markdown="span"></td>
+  </tr>
+  <tr>
+    <td markdown="span"></td>
+    <td markdown="span" rowspan="2">Amazon:<br />Alexa Tech Docs</td>
     <td markdown="span"></td>
   </tr>
   <tr>
