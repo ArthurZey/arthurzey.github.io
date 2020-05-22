@@ -64,7 +64,8 @@
       {% endif %}
     </section>
 
-    <section class="main-content">
+    {% comment %}Added style="max-width: 100%;" attribute to next line to fix style before I do proper refactoring.{% endcomment %}
+    <section class="main-content" style="max-width: 100%;">
       {{ content | markdownify }}
 
       <footer class="site-footer">
