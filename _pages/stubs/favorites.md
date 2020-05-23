@@ -5,7 +5,7 @@ tags:
   - about
 description: "Brown paper packages tied up with strings; these are a few of my favorite things."
 date: "2020-05-15"
-last_modified_at: "2020-05-20"
+last_modified_at: "2020-05-23"
 ---
 
 * TOC
@@ -57,12 +57,12 @@ What follows is a hodgepodge of stack-ranked and hierarchically organized genres
       * _The Nutcracker_
       * _Swan Lake_
       * _Sleeping Beauty_
-* disco
-* ABBA
-* Queen
-* Disney (pre-<i>Pocahontas</i>)
-* Coldplay
+* [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV){:target="&lowbar;blank"}
+* [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d){:target="&lowbar;blank"}
+* [Disney](https://open.spotify.com/genre/disney-page){:target="&lowbar;blank"} (pre-<i>Pocahontas</i>)
+* [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU){:target="&lowbar;blank"}
   * [_Viva La Vida_](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b?si=CRPUSLyxQ46QeDr9WgvwoQ){:target="&lowbar;blank"}
+* disco
 
 See also:
 * my Spotify [Starred](https://open.spotify.com/playlist/0mTrpgBmH0j2r8fDyn4xV5?si=8LvSSWbNTuCzzEzs1A0O4w){:target="&lowbar;blank"} playlist
@@ -75,12 +75,12 @@ See also:
 * fiction
   * Ayn Rand: [_Atlas Shrugged_](https://smile.amazon.com/dp/B003V8B5XO){:target="&lowbar;blank"}
   * Phillip Pullman: [_His Dark Materials_](https://smile.amazon.com/dp/B005WBBYXO){:target="&lowbar;blank"}
-  * Ayn Rand: _The Fountainhead_
-  * Ayn Rand: _Anthem_
+  * Ayn Rand: [_The Fountainhead_](https://www.audible.com/pd/B002V5A3TA){:target="&lowbar;blank"}
+  * Ayn Rand: [_Anthem_](https://smile.amazon.com/dp/B07V6TDF2X){:target="&lowbar;blank"}
 * non-fiction
   * philosophy
     * Tara Smith: [_Ayn Rand's Normative Ethics: The Virtuous Egoist_](https://smile.amazon.com/dp/B00INYGFWM/){:target="&lowbar;blank"}
-    * Leonard Peikoff: _Objectivism: The Philosophy of Ayn Rand_
+    * Leonard Peikoff: [_Objectivism: The Philosophy of Ayn Rand_](https://www.audible.com/pd/B002V0PR64){:target="&lowbar;blank"}
     * Ayn Rand: [_Introduction to Objectivist Epistemology_](https://smile.amazon.com/dp/B002OSXD8C){:target="&lowbar;blank"}
   * psychology and emotional well-being
     * Brené Brown: _The Gifts of Imperfection_: [Audible](https://www.audible.com/pd/The-Gifts-of-Imperfection-10th-Anniversary-Edition-Audiobook/059321515X){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/gp/product/B00BS03LL6){:target="&lowbar;blank"}
@@ -93,8 +93,11 @@ See also:
     * Bessel Van der Kolk: _The Body Keeps the Score_: [Audible](https://www.audible.com/pd/The-Body-Keeps-the-Score-Audiobook/B00OAOQJXY){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Body-Keeps-Score-Healing-Trauma-ebook/dp/B00G3L1C2K){:target="&lowbar;blank"}
     * Deb Dana: _The Polyvagal Theory in Therapy_: [Audible](https://www.audible.com/pd/The-Polyvagal-Theory-in-Therapy-Audiobook/1977318959){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Polyvagal-Theory-Therapy-Interpersonal-Neurobiology-ebook/dp/B07DGMBLQK){:target="&lowbar;blank"}
     * Marshall Rosenberg: _Nonviolent Communication_: [Audible](https://www.audible.com/pd/Nonviolent-Communication-Audiobook/B00TJJNSQG){:target="&lowbar;blank"}, [Kindle eTextbook](https://smile.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships-ebook/dp/B014OISVU4){:target="&lowbar;blank"}
-  * miscellanous
+  * productivity
+    * David Allen: [_Getting Things Done_](https://smile.amazon.com/dp/B00KWG9M2E){:target="&lowbar;blank"}
+  * cooking
     * J. Kenji López-Alt: [_The Food Lab: Better Home Cooking Through Science_](https://smile.amazon.com/dp/0393081087){:target="&lowbar;blank"}
+    * Melissa Joulwan: [_Well Fed_](https://smile.amazon.com/dp/061557226X){:target="&lowbar;blank"} and [_Well Fed 2_](https://smile.amazon.com/dp/0989487504){:target="&lowbar;blank"}
 
 
 ### Visual Arts
@@ -105,8 +108,9 @@ See also:
 * [Manager Tools](https://www.manager-tools.com/all-podcasts?field_content_domain_tid=4){:target="&lowbar;blank"}
 * [Unlocking Us](https://brenebrown.com/unlockingus/){:target="&lowbar;blank"} ([Spotify](https://open.spotify.com/show/4P86ZzHf7EOlRG7do9LkKZ){:target="&lowbar;blank"})
   * [Glennon Doyle](https://brenebrown.com/podcast/glennon-doyle-brene-on-untamed/){:target="&lowbar;blank"}
-  * [Marc Brackett](https://brenebrown.com/podcast/dr-marc-brackett-and-brene-on-permission-to-feel/){:target="&lowbar;blank"}
-  * [Harriet Lerner](https://brenebrown.com/podcast/harriet-lerner-and-brene-im-sorry-how-to-apologize-why-it-matters/){:target="&lowbar;blank"}
+  * [Marc Brackett](https://brenebrown.com/podcast/dr-marc-brackett-and-brene-on-permission-to-feel/){:target="&lowbar;blank"} on [_Permission to Feel_](https://www.audible.com/pd/1250242592){:target="&lowbar;blank"}
+  * [Harriet Lerner](https://brenebrown.com/podcast/harriet-lerner-and-brene-im-sorry-how-to-apologize-why-it-matters/){:target="&lowbar;blank"} on apologizing and listening
+  * [Chris Heuertz](https://brenebrown.com/podcast/brene-and-chris-heuertz-a-skeptic-and-a-teacher-on-the-enneagram-and-spiritual-contemplation/){:target="&lowbar;blank"} on the Enneagram
   * additional links forthcoming...
 * [Armchair Expert](https://armchairexpertpod.com/){:target="&lowbar;blank"} ([Spotify](https://open.spotify.com/show/6kAsbP8pxwaU2kPibKTuHE?si=CjhvgA_ITvCv3PqOo_WOyQ){:target="&lowbar;blank"})
   * Brené Brown
