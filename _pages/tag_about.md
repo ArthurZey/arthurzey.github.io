@@ -348,7 +348,7 @@ Boy Scouts?
   </tr>
   <tr>
     <th markdown="span">1988</th>
-    <td markdown="span" rowspan="2">St Thomas the Apostle Preschool</td>
+    <td markdown="span" rowspan="2">[St Thomas the Apostle Preschool](http://www.saintthomashollywood.org/){:target="&lowbar;blank"}</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
     <td markdown="span"></td>
@@ -360,7 +360,7 @@ Boy Scouts?
     <td markdown="span"></td>
   </tr>
   <tr>
-    <td markdown="span" rowspan="2">Temple Israel Kindergarden</td>
+    <td markdown="span" rowspan="2">[Temple Israel Kindergarden](https://www.tioh.org/){:target="&lowbar;blank"}</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
     <td markdown="span"></td>
@@ -372,7 +372,7 @@ Boy Scouts?
     <td markdown="span">Brother Andrew is born</td>
   </tr>
   <tr>
-    <td markdown="span" rowspan="6">Brentwood Science Magnet<br />Elementary School</td>
+    <td markdown="span" rowspan="6">[Brentwood Science Magnet<br />Elementary School](https://brentwoodsm-lausd-ca.schoolloop.com/){:target="&lowbar;blank"}</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
     <td markdown="span"></td>
@@ -406,7 +406,7 @@ Boy Scouts?
     <td markdown="span"></td>
   </tr>
   <tr>
-    <td markdown="span" rowspan="5">Walter Reed Middle School</td>
+    <td markdown="span" rowspan="5">[Walter Reed Middle School](http://reedms.com/pleslc-information/ihp-information/){:target="&lowbar;blank"}</td>
     <td markdown="span" rowspan="9">Self-employed Tech Consulting</td>
     <td markdown="span"></td>
   </tr>
@@ -427,7 +427,7 @@ Boy Scouts?
     <td markdown="span"></td>
   </tr>
   <tr>
-    <td markdown="span" rowspan="3">Palisades High School</td>
+    <td markdown="span" rowspan="3">[Palisades High School](https://www.palihigh.org/){:target="&lowbar;blank"}</td>
     <td markdown="span"></td>
   </tr>
   <tr>
@@ -439,12 +439,12 @@ Boy Scouts?
     <td markdown="span"></td>
   </tr>
   <tr>
-    <td markdown="span" rowspan="3">Santa Monica College</td>
+    <td markdown="span" rowspan="3">[Santa Monica College](http://www.smc.edu/){:target="&lowbar;blank"}</td>
     <td markdown="span"></td>
   </tr>
   <tr>
     <th markdown="span">2001</th>
-    <td markdown="span" rowspan="8">Duckett-Wilson Development Company</td>
+    <td markdown="span" rowspan="8">[Duckett-Wilson Development Company](http://www.duckettwilson.com/){:target="&lowbar;blank"}</td>
     <td markdown="span"></td>
   </tr>
   <tr>
@@ -453,7 +453,7 @@ Boy Scouts?
   </tr>
   <tr>
     <td markdown="span" rowspan="2">UCLA<br />Rieber 5 South</td>
-    <td markdown="span" rowspan="6">UCLA Undergrad<br />_Math of Computation BSc_</td>
+    <td markdown="span" rowspan="6">[UCLA Undergrad](http://www.ucla.edu/){:target="&lowbar;blank"}<br />[_Math of Computation BSc_](https://www.math.ucla.edu/ugrad/majors/computation){:target="&lowbar;blank"}</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
   </tr>
@@ -482,7 +482,7 @@ Boy Scouts?
     <td markdown="span"></td>
   </tr>
   <tr>
-    <td markdown="span" rowspan="8">UCLA School of Law</td>
+    <td markdown="span" rowspan="8">[UCLA School of Law](https://law.ucla.edu/){:target="&lowbar;blank"}</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
   </tr>
@@ -493,7 +493,7 @@ Boy Scouts?
   </tr>
   <tr>
     <td markdown="span" rowspan="4">Westwood, CA</td>
-    <td markdown="span" rowspan="6">Ayn Rand Institute</td>
+    <td markdown="span" rowspan="6">[Ayn Rand Institute](https://ari.aynrand.org/about-ari/mission-and-purpose/){:target="&lowbar;blank"}</td>
     <td markdown="span">Parents get divorced</td>
   </tr>
   <tr>
@@ -533,7 +533,7 @@ Boy Scouts?
   <tr>
     <td markdown="span" rowspan="6">Mountain View, CA</td>
     <td markdown="span"></td>
-    <td markdown="span" rowspan="3">CDNetworks</td>
+    <td markdown="span" rowspan="3">[CDNetworks](https://www.cdnetworks.com/){:target="&lowbar;blank"}</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
   </tr>
@@ -558,13 +558,13 @@ Boy Scouts?
   <tr>
     <th markdown="span" rowspan="3">2013</th>
     <td markdown="span"></td>
-    <td markdown="span">CDNetworks</td>
+    <td markdown="span">[CDNetworks](https://www.cdnetworks.com/){:target="&lowbar;blank"}</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
   </tr>
   <tr>
     <td markdown="span"></td>
-    <td markdown="span" rowspan="5">Twitter</td>
+    <td markdown="span" rowspan="5">[Twitter](https://developer.twitter.com/){:target="&lowbar;blank"}</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
   </tr>
@@ -594,7 +594,7 @@ Boy Scouts?
   </tr>
   <tr>
     <td markdown="span"></td>
-    <td markdown="span" rowspan="3">Autodesk</td>
+    <td markdown="span" rowspan="3">[Autodesk](https://forge.autodesk.com/){:target="&lowbar;blank"}</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
   </tr>
@@ -632,7 +632,7 @@ Boy Scouts?
   </tr>
   <tr>
     <td markdown="span"></td>
-    <td markdown="span" rowspan="2">Amazon:<br />Alexa Tech Docs</td>
+    <td markdown="span" rowspan="2">Amazon:<br />[Alexa Tech Docs](https://developer.amazon.com/en-US/alexa){:target="&lowbar;blank"}</td>
     <td markdown="span"></td>
   </tr>
   <tr>
