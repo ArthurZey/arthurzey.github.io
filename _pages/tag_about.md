@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-05-23"
+last_modified_at: "2020-05-24"
 ---
 
 Something, something, perfect enemy of the good.
@@ -236,7 +236,7 @@ See [Manager Tools Podcasts](https://www.manager-tools.com/map-universe/communic
 
 _I'm very thing-/fact-/task-/idea-oriented:_
 * high <b>D</b>ominance: like to be in charge and take control of situations
-* high <b>C</b>onscientiousness: love my rules and structures and processes
+* high <b>C</b>onscientiousness: love my [rules](/rules/) and structures and processes
 
 ### TOSCA-3SC
 * [Guilt & Shame Quiz](https://transitionsmft.org/resources/quizzes/shame/results/RY7CfHo2JtuRoV5iG2ONeGx7dTYYDxzxSMUwFWpOw0i3c){:target="&lowbar;blank"}\\
@@ -268,7 +268,7 @@ _The 5 Love Languages_ by Gary Chapman: [Kindle](https://smile.amazon.com/dp/B00
   * 96% **The Challenger** (type 8)\\
     _Eights see themselves as strong and powerful and seek to stand up for what they believe in._
   * 89% **The Perfectionist** (type 1)\\
-    _Ones place a lot of emphasis on following the rules and doing things correctly._
+    _Ones place a lot of emphasis on following the [rules](/rules/) and doing things correctly._
   * 86% **The Giver** (type 2)\\
     _Twos want to be liked and find ways that they can be helpful to others so that they can be loved and belong._
   * 82% **The Achiever** (type 3)\\
