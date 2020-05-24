@@ -6,10 +6,10 @@ tags:
   - about
 description: "My emotional growth, personally and in relationship with others, is due in large part to my intellectual grasp of the sheer logic of developing myself in that area."
 date: "2020-04-07"
-last_modified_at: "2020-04-07"
+last_modified_at: "2020-05-24"
 ---
 
-Growing up, my general sensitivity and emotions were a frequent source of pain for me. That gradually turned into a rejection of emotions, and I remember being in high school, explicitly, stubbornly, and naively trying to reject emotions in a very characteristically (and explicitly!) Vulcan way.
+[Growing up](/family-arguing/), my general sensitivity and emotions were a frequent source of pain for me. That gradually turned into a rejection of emotions, and I remember being in high school, explicitly, stubbornly, and naively trying to reject emotions in a very characteristically (and explicitly!) Vulcan way.
 
 By college, I think it started manifesting as impatience with others' emotions, too, and not for any lack of emotions on my own part. To a large degree, my approach to philosophy, while passionate, was a passion for the logic of it; I was easily seduced by [rationalism](http://aynrandlexicon.com/lexicon/rationalism_vs_empiricism.html){:target="&lowbar;blank"} and repression.
 
