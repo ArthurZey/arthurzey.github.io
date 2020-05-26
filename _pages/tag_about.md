@@ -459,17 +459,16 @@ Boy Scouts?
   </tr>
   <tr>
     <th markdown="span" rowspan="2">2003</th>
-    <td markdown="span"></td>
+    <td markdown="span" rowspan="2">Nick</td>
     <td markdown="span"></td>
   </tr>
   <tr>
     <td markdown="span" rowspan="2">UCLA<br />Hedrick 7 North</td>
     <td markdown="span"></td>
-    <td markdown="span"></td>
   </tr>
   <tr>
     <th markdown="span" rowspan="2">2004</th>
-    <td markdown="span"></td>
+    <td markdown="span">Drew</td>
     <td markdown="span"></td>
   </tr>
   <tr>
