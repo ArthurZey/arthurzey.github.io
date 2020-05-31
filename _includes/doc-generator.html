@@ -30,8 +30,19 @@ Parameters:
   * show-edit-link
     * default: true
   * sort-by
-    * NOT YET IMPLEMENTED
+    * PARTIALLY IMPLEMENTED: posts and pages separately sorted if value is "date"
     * default: date
+  * sort-direction
+    * default: ASC
+    * enum list of `ASC` and `DESC`; `DESC` adds " | reverse"; everything else does nothing
+  * date-filter-direction
+    * default: "none"
+    * enum of: `none`, `before`, `after`
+    * values are inclusive, so "after 2020-05-20" would include 2020-05-20
+  * date-filter-days-ago
+    * default: false
+    * otherwise, natural number
+    * computed into YYYY-MM-DD stored in date-filter-date
 
 {% endcomment %}
 
@@ -115,15 +126,53 @@ Parameters:
   {% assign sort-by = "date" %}
 {% endif %}
 
+{% if include.sort-direction %}
+  {% assign sort-direction = include.sort-direction %}
+{% else %}
+  {% assign sort-direction = "ASC" %}
+{% endif %}
+
+{% if include.date-filter-direction %}
+  {% assign date-filter-direction = include.date-filter-direction %}
+{% else %}
+  {% assign date-filter-direction = "none" %}
+{% endif %}
+
+{% if include.date-filter-days-ago %}
+  {% assign date-filter-seconds-ago = include.date-filter-days-ago | times: 86400 %}
+  {% assign date-filter-date = "now" | date: "%s" | minus: date-filter-seconds-ago | date: "%Y-%m-%d" %}
+{% else %}
+  {% assign date-filter-date = false %}
+{% endif %}
+
 
 {% assign docs = "" | split: "," %}
 
 {% if doc-types contains "page" %}
-  {% assign docs = docs | concat: site.pages %}
+  {% if sort-direction == "DESC" %}
+    {% assign sorted_pages = site.pages | sort: sort-by | reverse %}
+  {% else %}
+    {% assign sorted_pages = site.pages | sort: sort-by %}
+  {% endif %}
+  {% assign docs = docs | concat: sorted_pages %}
 {% endif %}
 
 {% if doc-types contains "post" %}
-  {% assign docs = docs | concat: site.posts %}
+  {% if sort-direction == "DESC" %}
+    {% assign sorted_posts = site.posts | sort: sort-by | reverse %}
+  {% else %}
+    {% assign sorted_posts = site.posts | sort: sort-by %}
+  {% endif %}
+  {% assign docs = docs | concat: sorted_posts %}
+{% endif %}
+
+{% if sort-by != "date" %}
+  {% comment %}WE HAVE TO DO THIS AS A HACK BECAUSE THE DATA TYPE OF `date` IS DIFFERENT BETWEEN POSTS AND PAGES, SO IT BREAKS THE SORT FILTER{% endcomment %}
+  {% if sort-direction == "DESC" %}
+    {% assign docs = docs | sort: sort-by | reverse %}
+  {% else %}
+    {% assign docs = docs | sort: sort-by %}
+  {% endif %}
 {% endif %}
 
 {% for doc in docs %}
@@ -146,6 +195,18 @@ Parameters:
           {% break %}
         {% endif %}
       {% endfor %}
+      {% if date-filter-direction != "none" and date-filter-date %}
+        {% assign doc-date-string = doc.date | date: "%Y-%m-%d" %}
+        {% if date-filter-direction == "before" %}
+          {% if doc-date-string > date-filter-date %}
+            {% assign include-doc = false %}
+          {% endif %}
+        {% elsif date-filter-direction == "after" %}
+          {% if doc-date-string < date-filter-date %}
+            {% assign include-doc = false %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
     {% endif %}
   {% endif %}
   {% if include-doc %}
