@@ -24,3 +24,6 @@ There is a lot to say on this topic, and it connects with many other areas. Here
 * how caring about others and their interests is incompatible with altruism (in its serious ethical sense, not its sloppy colloquial sense)
 * connection to psychology, emotional well-being, worthiness, shame-resilience: ["To say 'I love you' one must first know how to say the 'I.''"](https://www.goodreads.com/quotes/513234-to-say-i-love-you-one-must-first-know-how){:target="&lowbar;blank"}
 * how interdependence of interests does not contradict the [virtue of independence](http://aynrandlexicon.com/lexicon/independence.html){:target="&lowbar;blank"}
+* examples from business and product management
+  * Twitter's "respect the user's voice"
+  * integration of interests of company, employees, users, customers, developers
