@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-05-28"
+last_modified_at: "2020-06-01"
 ---
 
 Something, something, perfect enemy of the good.
@@ -479,22 +479,20 @@ Boy Scouts?
   </tr>
   <tr>
     <th markdown="span" rowspan="2">2005</th>
-    <td markdown="span"></td>
+    <td markdown="span" rowspan="2">Parents get divorced</td>
   </tr>
   <tr>
     <td markdown="span" rowspan="8">[UCLA School of Law](https://law.ucla.edu/){:target="&lowbar;blank"}</td>
-    <td markdown="span"></td>
     <td markdown="span"></td>
   </tr>
   <tr>
     <th markdown="span" rowspan="2">2006</th>
     <td markdown="span"></td>
-    <td markdown="span"></td>
+    <td markdown="span" rowspan="2">Acquire step-family (Masha, Emily, Michael)</td>
   </tr>
   <tr>
     <td markdown="span" rowspan="4">Westwood, CA</td>
     <td markdown="span" rowspan="6">[Ayn Rand Institute](https://ari.aynrand.org/about-ari/mission-and-purpose/){:target="&lowbar;blank"}</td>
-    <td markdown="span">Parents get divorced</td>
   </tr>
   <tr>
     <th markdown="span" rowspan="2">2007</th>
@@ -502,7 +500,7 @@ Boy Scouts?
   </tr>
   <tr>
     <td markdown="span" rowspan="3">Sara</td>
-    <td markdown="span">Acquire step-family (Masha, Emily, Michael)</td>
+    <td markdown="span"></td>
   </tr>
   <tr>
     <th markdown="span" rowspan="2">2008</th>
