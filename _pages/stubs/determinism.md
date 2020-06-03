@@ -20,12 +20,12 @@ Here are a few things I want to address (and this is by no means exhaustive):
 * what choice is and how it can be both deterministic and meaningful (and relatedly, what the role of epistemic ignorance is)
 * the connection between moral accountability/agency and determinism
 * how the search for explanatory _reasons_ for people's choices and behaviors is implicitly premised on determinism
-* the connection to epistemology, especially induction, concept-formation, and princples
+* the connection to epistemology, especially induction, concept-formation, and principles
 * how causality _must imply_ determinism
 * the difference between "random" (metaphysical) and "effectively random" (epistemic)
 * how "but quantum mechanics!" is an attempt to rationalize volition while still voiding it of the meaning non-determinists want it to have
   * perhaps delegated to another post, but why you can't use induction or deduction to establish a lack of pattern/determinism (even if you _can_ prove it's impossible to _know_ something)
-* consciousness as an _action_ performed by the brain, not a _thing_
+* consciousness as an _action_ performed by the brain, not a _thing_; brain states as reflective of experiential/mind states; connection to "chemical imbalances" versus unpleasant emotions
 * how the non-determinist position implies mystical dualism / mind-body dichotomy
 * why I don't use the terms "compatibilist" or "compatibilism" to describe myself or my views
 * connection to other terms, such as "hard determinism", "soft determinism", "indeterminism", and "self-causation"

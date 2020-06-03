@@ -16,3 +16,4 @@ There's a lot to say on this topic, including
 * creating a dependence on pharmaceuticals
 * the connection to not numbing emotions
 * when I _will_ take drugs
+* uncalibrated emotions and "chemical imbalance"

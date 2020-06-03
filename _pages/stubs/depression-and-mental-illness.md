@@ -18,3 +18,4 @@ Additional considerations:
 * Why do we have to give explanations for crying, but not for laughing?
 * Why are we ritualistically expected to answer "Okay" or "Fine" to inquiries about how we're doing? Isn't it okay (in a broader sense) to be _not_ okay at a given moment? And what does the receptivity of the questioner have to do with it?
 * The unhelpfulness of "Everything will be okay."; maybe it won't, and isn't _that_ okay in its own way?
+* depression versus "chemical imbalance"
