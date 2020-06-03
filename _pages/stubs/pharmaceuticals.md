@@ -6,7 +6,7 @@ tags:
   - health
 description: "I typically avoid using drugs for merely relieving or suppressing symptoms."
 date: "2020-04-18"
-last_modified_at: "2020-04-18"
+last_modified_at: "2020-06-02"
 ---
 
 There's a lot to say on this topic, including
