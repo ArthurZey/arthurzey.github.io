@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2020-05-29"
+last_modified_at: "2020-06-04"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -38,6 +38,7 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "objective" versus "universal"
 * "subjective" versus "personal"
 * "selfish" versus "short-sighted whim pursuit"
+* "judge" versus "condemn"
 * "compromise"
 * "[collection]" versus "[collection] [item]":
   * "blog post" versus "blog"
