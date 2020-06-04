@@ -23,6 +23,12 @@ Frankly, a huge motive for me here is to create what amounts to an "Arthur wiki"
 {:toc}
 {::options toc_levels="2..3" /}
 
+## Recently Added Content
+
+_[Stubs](/stubs/) written in the last 21 days._
+
+{% include doc-generator.html tags-to-include="stub" tags-to-exclude="" markdown-heading=false heading-level=3 show-date=true show-edit-link=false show-permalink=true sort-by="date" sort-direction="DESC" date-filter-direction="after" date-filter-days-ago=21 %}
+
 
 ## Elevator Pitch
 
