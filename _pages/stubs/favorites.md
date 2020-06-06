@@ -137,6 +137,8 @@ See also:
 ### To Eat
 _which I wouldn't necessarily cook myself_
 * french fries
+* hashbrowns
+* tater tots
 
 ### Restaurants
 * Espetus Brazilian Churrascaria
