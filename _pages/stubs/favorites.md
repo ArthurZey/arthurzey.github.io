@@ -5,7 +5,7 @@ tags:
   - about
 description: "Brown paper packages tied up with strings; these are a few of my favorite things."
 date: "2020-05-15"
-last_modified_at: "2020-06-07"
+last_modified_at: "2020-06-08"
 ---
 
 * TOC
@@ -124,6 +124,7 @@ See also:
 * [Numberphile](https://www.youtube.com/user/numberphile){:target="&lowbar;blank"}
 * [Personal Development School - Thais Gibson](https://www.youtube.com/channel/UCHQ4lSaKRap5HyrpitrTOhQ){:target="&lowbar;blank"}
 * [Mystery Doug](https://www.youtube.com/channel/UCPRCRM3JKm3sw55lB_427qg){:target="&lowbar;blank"}
+* [RedLetterMedia - Plinkett Star Trek Reviews](https://www.youtube.com/playlist?list=PLPYTEwQJSk-BBhX6JGjpy1ZhJ6X6ZkCsq){:target="&lowbar;blank"}
 
 ## Food
 
