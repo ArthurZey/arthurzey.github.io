@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-06-03"
+last_modified_at: "2020-06-09"
 ---
 
 Something, something, perfect enemy of the good.
