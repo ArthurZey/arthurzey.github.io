@@ -64,10 +64,10 @@ I grew up in Los Angeles, and I live in San Francisco (but maybe not for long).
 * I don't dance. Well, that's not true: I'm very comfortable learning dancing styles that have predefined moves that I might recombine on the fly to music (eg, swing, salsa, tango), and I've taken a few classes here and there. I tend to pick that up pretty well, but I'm not especially skilled. What I _don't_ do is the random move-your-body-to-the-beat kind of dancing that's typical at clubs, weddings, etc. It's not that I'm inhibited in that regard; it's _just not me_. I _feel_ stupid doing it, even though I don't think anybody else looks stupid doing it, and I _know_ I don't look stupid to anybody else. I wouldn't do it in private, either...that also feels really uncomfortable. I used to be embarrassed about that and wished I could fit in, but nowadays, I'm way more comfortable just not participating, despite everybody else's attempts to talk me into dancing (which I think amounts to an unintentional attempt to shame me into it). Nope. Not me. Thanks!
 * I scrupulously avoid reading any news except tech news. I'm blissfully and self-righteously ignorant of current events. I find that most news disproportionately reports on the sensationalistic negative stuff going on around the world, perhaps catering to a sort of schadenfreude. Aside from finding that distasteful on philosophical grounds, I think it misrepresents the proportion of bad and good in the world and skews our perception of how good life is. There is so much good and wonderfulness in the world; I'd rather focus on that. And I'd much rather risk having a disproportionately positive view of the world than negative. Moreover, I have close to 0% control over nearly 100% of the negative stuff reported in "the news", and there's very little I can do differently on the basis of "being informed"; so what's the point? Yes, sure, I can fight for cultural change in the long term, but being informed of broad trends and certain major current events is inescapable, no matter how well I avoid explicitly pursuing "the news"; I don't need to be inundated with negativity to have a motive to live a good life and work to improve the world (if anything, that negativity would sap my energy to do so).
 * I'm also fairly ignorant of history (which is actually a shame). If anything, I tend to know more about historical trends and periods than the "who's who" of history.
-* I know very little about pop culture or spectator sports, neither of which I have much patience for. The most I might know is a little about actors in my favorite shows/movies and sports I've actually played.
-* My favorite movie is [_The Time Traveler's Wife_](https://trakt.tv/movies/the-time-traveler-s-wife-2009){:target="&lowbar;blank"}.
+* I know very little about pop culture or spectator sports, neither of which I have much patience for. The most I might know is a little about actors in my favorite [shows](/favorites/#tv)/[movies](/favorites/#movies) and sports I've actually played.
+* My [favorite movie](/favorites/#movies) is [_The Time Traveler's Wife_](https://trakt.tv/movies/the-time-traveler-s-wife-2009){:target="&lowbar;blank"}.
 * 1 out of 10 [_Star Trek: The Next Generation_](https://trakt.tv/shows/star-trek-the-next-generation){:target="&lowbar;blank"} episodes makes me cry. My favorites are [_Who Watches the Watchers_](https://trakt.tv/shows/star-trek-the-next-generation/seasons/3/episodes/4){:target="&lowbar;blank"} and [_The Offspring_](https://trakt.tv/shows/star-trek-the-next-generation/seasons/3/episodes/16){:target="&lowbar;blank"}. I'll let you make your own inferences about how much I cry during other TV shows and movies.
-* My favorite fiction book is [_Atlas Shrugged_](https://smile.amazon.com/dp/B003V8B5XO){:target="&lowbar;blank"}. The [_His Dark Materials_](https://smile.amazon.com/dp/B005WBBYXO){:target="&lowbar;blank"} trilogy is a close second because _fuck authority_.
+* My [favorite fiction book](/favorites/#books) is [_Atlas Shrugged_](https://smile.amazon.com/dp/B003V8B5XO){:target="&lowbar;blank"}. The [_His Dark Materials_](https://smile.amazon.com/dp/B005WBBYXO){:target="&lowbar;blank"} trilogy is a close second because _fuck authority_.
 * I have a lot of [favorites](/favorites/). I like things how I like them. It's probably a manifestation of how much I care about things in general.
 * I ran a philosophy club at UCLA called LOGIC for about 7 years between 2004 and 2011. I took it extremely seriously and organized it as a 501(c)(3) non-profit corporation. We put on some very high-profile and well-attended events.
 * Some of my closest friends are from [middle school](http://reedms.com/pleslc-information/ihp-information/){:target="&lowbar;blank"}.
@@ -86,11 +86,11 @@ I grew up in Los Angeles, and I live in San Francisco (but maybe not for long).
     that I like arguing, just because I'm willing to defend my beliefs.
   * _Last show that you watched, binged, and loved:_\\
     [as of April 2020, _The Magicians_](https://trakt.tv/users/arthurzey/history?show=100940){:target="&lowbar;blank"}
-  * _Favorite movie:_\\
+  * _[Favorite movie](/favorites/#movies):_\\
     [_The Time Traveler's Wife_](https://trakt.tv/movies/the-time-traveler-s-wife-2009){:target="&lowbar;blank"}
   * _A concert that you'll never forget:_\\
     While at university, I got access to discounted student tickets to the LA Opera to see Mozart's _The Magic Flute_. We got seats 4 rows from the stage, and my friends had to keep hitting me to stop singing along, since I had been listening to all the songs on repeat for a week leading up to it.
-  * _Favorite meal:_\\
+  * _[Favorite meal](/favorites/#to-eat):_\\
     ribeye steak, with a side of french fries cooked in beef tallow, a gigantic salad, and a glass of Malbec
   * _What's on your nightstand right now?_\\
     on 2020-04-26: Phillip Pullman's [_Once Upon a Time in the North_](https://smile.amazon.com/dp/0399555447){:target="&lowbar;blank"}, my mala beads, my (non-military) dogtags, a few Pixel phones, an empty glass (for water), and a some folded clothes
@@ -111,7 +111,7 @@ I grew up in Los Angeles, and I live in San Francisco (but maybe not for long).
 * _Star Trek_
 * piano
   * current obsession: [BWV 999 (JS Bach Prelude in c minor)](https://musescore.com/nicolas/scores/4526){:target="&lowbar;blank"}
-* cooking (haven't done anything creative in a while, though)
+* [cooking](/favorites/#to-cook) (haven't done anything creative in a while, though)
 * [grammar](#grammar-and-language)
 * good UX (yes, on websites and apps, but really, in the world generally!)
 * [management theory](#management-manager-tools)
