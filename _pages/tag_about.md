@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-06-09"
+last_modified_at: "2020-06-15"
 ---
 
 Something, something, perfect enemy of the good.
@@ -57,6 +57,7 @@ I grew up in Los Angeles, and I live in San Francisco (but maybe not for long).
 * I hate wearing clothes. Specifically, I love being shirtless. It's a manifestation of my extreme vanity. (More on _that_ controversial and triggering topic later!)
 * I've been eating strict [Paleo](/paleo/) (with various modifications and refinements) since 2009. No cheating.
 * I'm a compulsive nail-biter and "investigator" of my dermatological phenomena. (These are things I struggle with _a lot_.)
+* I'm a horrible procrastinator. I often struggle to muster up the will to invest effort into tasks that would take 5-15 minutes to complete, so instead, they hang over my head for weeks or months, creating a ton of background stress. I find myself wondering whether this is a function of being extremely susceptible to cognitive inertia and the flip side of why being in a state of flow is such a powerful, productive experience for me. I think this is also related to why it's so important for me to set up daily/weekly routines, especially to handle administrative "adulting" tasks.
 * I'm extremely risk-averse, definitely to a fault and in a very anxiety-provoking way. This is a disposition I really need to keep in check.
 * I'm extremely materialistic in that I attach high sentimental value to things most people would regard as unimportant--so I can't throw anything away. But with the exception of groceries and occasional tech splurges, I'm pretty darned frugal by nature.
 * Listening to music is a very active process for me (meaning humming or singing along), so it's really hard for me to ever have it on in the background. It also means I don't much care for intentional music discovery (like Pandora). Invite me to the symphony, opera, or ballet if you're prepared to be hitting me every 5 seconds to stop me from signing along.
