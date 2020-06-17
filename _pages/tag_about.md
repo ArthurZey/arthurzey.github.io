@@ -108,7 +108,6 @@ I grew up in Los Angeles, and I live in San Francisco (but maybe not for long).
 * [parenting theory](#parenting-and-education) (cannot wait to put this into practice)
 * snowboarding
 * Krav Maga (at [Krav Maga San Francisco](https://www.kravmaga-sf.com){:target="&lowbar;blank"})
-* [Billy](https://photos.app.goo.gl/4RW6d5j2af9aq4pbA){:target="&lowbar;blank"}
 * _Star Trek_
 * piano
   * current obsession: [BWV 999 (JS Bach Prelude in c minor)](https://musescore.com/nicolas/scores/4526){:target="&lowbar;blank"}
