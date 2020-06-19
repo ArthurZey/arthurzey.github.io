@@ -15,7 +15,7 @@ last_modified_at: "2020-06-19"
   * uncritically defaulting to connecting with other people in intellectual/academic ways, trying to talk talk talk through everything
   * learning how to navigate the line between
     * leaning into discomfort and pain, wrestling with and processing difficult emotions (without this being an intentional pursuit of misery)
-    * redirecting attention to more pleasant experiences / "distracting" myself (without this being numbing)
+    * redirecting attention to more pleasant experiences / "distracting" myself (without this being numbing / evasion / repression)
   * learning how to _not_ allow my now-automatic compassion and empathy
     * to overwhelm me emotionally
     * to function as enablement, when it's in response to others' inappropriate behavior (ie, figure out how to hold people accountable while knowing that they're doing their best and are trying to pursue legitimate values)
