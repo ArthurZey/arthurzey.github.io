@@ -5,7 +5,7 @@ tags:
   - about
 description: "Brown paper packages tied up with strings; these are a few of my favorite things."
 date: "2020-05-15"
-last_modified_at: "2020-06-11"
+last_modified_at: "2020-06-23"
 ---
 
 * TOC
@@ -162,6 +162,7 @@ _which I wouldn't necessarily cook myself_
 
 ## Games
 * [Pandemic](https://smile.amazon.com/dp/B00A2HD40E){:target="&lowbar;blank"}
+* [Star Trek: Armada II](https://memory-alpha.fandom.com/wiki/Star_Trek:_Armada_II){:target="&lowbar;blank"}
 
 ## Animals
 * wolves
