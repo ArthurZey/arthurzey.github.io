@@ -5,7 +5,7 @@ tags:
   - about
 description: "Brown paper packages tied up with strings; these are a few of my favorite things."
 date: "2020-05-15"
-last_modified_at: "2020-06-23"
+last_modified_at: "2020-06-24"
 ---
 
 * TOC
@@ -131,7 +131,7 @@ See also:
 ### To Cook
 * ribeye caps
 * brussels sprouts
-* lomo saltado
+* [lomo saltado](https://docs.google.com/document/d/1C1u_mlWPhGpfu31FzMTaYrgkrhGxpkBWky6sNx0ltz4/edit?usp=sharing){:target="&lowbar;blank"}
 * Paleo banana pancakes
 * omelets
 
