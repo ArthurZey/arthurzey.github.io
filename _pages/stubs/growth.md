@@ -6,7 +6,7 @@ tags:
   - about
 description: "I really like myself, but my good-/right-by-default attitude has the built-in failure mode of making it difficult to identify areas for growth. Nevertheless, I've found a few things I can work on."
 date: "2020-06-19"
-last_modified_at: "2020-06-22"
+last_modified_at: "2020-06-26"
 ---
 
 * psychological dispositions
@@ -21,6 +21,8 @@ last_modified_at: "2020-06-22"
     * to function as enablement, when it's in response to others' inappropriate behavior (ie, figure out how to hold people accountable while knowing that they're doing their best and are trying to pursue legitimate values)
   * procrastination
   * risk-aversion, the devil I know, inertia; my orientation toward routines and comfort undermining taking action to make bigger, non-incremental changes
+  * susceptibility to the sunken-cost fallacy
+  * how the anxiety of one-way door decisions (or cost of reversing certain decisions) leads me to indecision and inaction
   * not wanting to "use things up", then losing them anyway
   * letting the "perfect" be the enemy of the good
 * specific behaviors
