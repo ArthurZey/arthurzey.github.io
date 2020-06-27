@@ -4,7 +4,7 @@ layout: page
 permalink: /blog/
 tags:
   - index
-last_modified_at: "2020-04-15"
+last_modified_at: "2020-06-27"
 ---
 
-{% include doc-generator.html doc-types="post" tags-to-include="" %}
+{% include doc-generator.html doc-types="post" tags-to-include="" sort-direction="DESC" %}
