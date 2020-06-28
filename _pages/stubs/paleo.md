@@ -6,10 +6,10 @@ tags:
   - diet
 description: "While often derided as \"the caveman diet\", I think the right approach to evaluating Paleo is in thinking of it as a presumptively safe default."
 date: "2020-05-08"
-last_modified_at: "2020-05-08"
+last_modified_at: "2020-06-28"
 ---
 
-Angles to cover:
+## In General
 
 * how I got interested in Paleo in the first place
 * low-carb "versus" Paleo
@@ -25,3 +25,34 @@ Angles to cover:
 * claims for self versus claims for others
 * Paleo substitutes (eg, coconut sugar)
 * refinements/alterations (eg, dairy, potatoes, rice)
+
+## My Rules
+
+* Yes _(overrides anything on the "No" list)_
+  * meat (beef, pork, lamb, chicken, turkey; not a fan of other meats)
+  * dairy
+  * vegetables
+  * fruits
+  * potatoes (white and yams / sweet potatoes)
+  * white rice
+  * nuts (eg, cashews, almonds, macadamia, hazel, walnuts, Brazil; _not_ peanuts, since they're not nuts!)
+  * animal fats (butter, bacon grease, tallow, etc.)
+  * certain non-animal oils
+    * coconut oil
+    * olive oil
+    * avocado oil
+  * sweeteners (sparingly)
+    * erythritol
+    * xylitol
+    * stevia
+    * honey
+    * maple syrup
+    * coconut sugar
+* No
+  * grains (eg, bread, pasta, corn; anything with gluten)
+  * soy (oil, soy sauce, milk, tofu, lethicin, etc; but tamari is okay)
+  * legumes/beans (especially soy, peanuts)
+  * vegetable oils (canola, sunflower, safflower, bran, grapeseed, sesame, peanut)
+  * cane sugar, corn syrup
+  * corn starch
+  * any kind of seafood (not a Paleo thing; just not into it)
