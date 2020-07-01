@@ -4,8 +4,8 @@ date: "2020-06-27"
 description: "A firsthand experience of observing unconscious bias in action was truly eye-opening."
 tags:
   - philosophy
-  - draft
-sitemap: false
+  - happenings
+  - work
 ---
 
 Despite all my maniacal record-keeping, I'm struggling to look up when this actually happened. The best I can guess is that it was sometime in early 2018, but the experience really stuck with me. At the time, I was the product manager at Amazon for the team sometimes called "Alexa Core Services". Basically, we built the systems that other teams depended on in order to deliver various experiences and devices to our developer and enduser customers.
