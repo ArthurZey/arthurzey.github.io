@@ -35,6 +35,7 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "further" versus "farther"
 * "less" versus "fewer"
 * "envy" versus "jealousy"
+* "assume" and "assumption" versus "conclude" and "conclusion"
 * "objective" versus "universal"
 * "subjective" versus "personal"
 * "selfish" versus "short-sighted whim pursuit"
@@ -52,7 +53,7 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "gods"
 * "theater" versus "theatre"
 * pronunciation of plural words, such as "basis" versus "base"
-* Picard-isms: schedule, issue
+* Picard-isms: schedule, issue, appreciate
 * "none are" versus "none is"; "any are" versus "any is"
 * singular "they"
 * singular "data"
