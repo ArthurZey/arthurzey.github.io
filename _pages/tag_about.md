@@ -32,7 +32,7 @@ _[Stubs](/stubs/) written in the last 21 days._
 
 ## Elevator Pitch
 
-I'm a logic-emotions monist, open (almost to a fault), wholehearted, wild, untamed, _and_ disciplined in mind and action. (I wrote a decent stub on [Family Arguing](/family-arguing/) that proposes a causality for how I came to be this way.)
+I'm a logic-emotions monist, open (almost to a fault), wholehearted, wild, untamed, _and_ [disciplined](/discipline/) in mind and action. (I wrote a decent stub on [Family Arguing](/family-arguing/) that proposes a causality for how I came to be this way.)
 
 I tend to be a generalist and selective specialist, but a huge nerd through and through. I'm a die-hard advocate of induction as the primary mode of human cognition. My superpowers include seeing patterns and untangling nuanced differences. I'm especially good at seeing underlying principles, whether in human behavior or API design, as well as finding general, future-proof solutions to seemingly disparate problems. Check out my [Personality and Behavioral Profiles](#personality-and-behavioral-profiles) below.
 
@@ -69,7 +69,7 @@ I grew up in Los Angeles, and I live in San Francisco (but maybe not for long).
 * I know very little about pop culture or spectator sports, neither of which I have much patience for. The most I might know is a little about actors in my favorite [shows](/favorites/#tv)/[movies](/favorites/#movies) and sports I've actually played.
 * My [favorite movie](/favorites/#movies) is [_The Time Traveler's Wife_](https://trakt.tv/movies/the-time-traveler-s-wife-2009){:target="&lowbar;blank"}.
 * 1 out of 10 [_Star Trek: The Next Generation_](https://trakt.tv/shows/star-trek-the-next-generation){:target="&lowbar;blank"} episodes makes me cry. My favorites are [_Who Watches the Watchers_](https://trakt.tv/shows/star-trek-the-next-generation/seasons/3/episodes/4){:target="&lowbar;blank"} and [_The Offspring_](https://trakt.tv/shows/star-trek-the-next-generation/seasons/3/episodes/16){:target="&lowbar;blank"}. I'll let you make your own inferences about how much I cry during other TV shows and movies.
-* My [favorite fiction book](/favorites/#books) is [_Atlas Shrugged_](https://smile.amazon.com/dp/B003V8B5XO){:target="&lowbar;blank"}. The [_His Dark Materials_](https://smile.amazon.com/dp/B005WBBYXO){:target="&lowbar;blank"} trilogy is a close second because _fuck authority_.
+* My [favorite fiction book](/favorites/#books) is [_Atlas Shrugged_](https://smile.amazon.com/dp/B003V8B5XO){:target="&lowbar;blank"}. The [_His Dark Materials_](https://smile.amazon.com/dp/B005WBBYXO){:target="&lowbar;blank"} trilogy is a close second because [_fuck authority_](/rules/).
 * I have a lot of [favorites](/favorites/). I like things how I like them. It's probably a manifestation of how much I care about things in general.
 * I ran a philosophy club at UCLA called LOGIC for about 7 years between 2004 and 2011. I took it extremely seriously and organized it as a 501(c)(3) non-profit corporation. We put on some very high-profile and well-attended events.
 * Some of my closest friends are from [middle school](http://reedms.com/pleslc-information/ihp-information/){:target="&lowbar;blank"}.
