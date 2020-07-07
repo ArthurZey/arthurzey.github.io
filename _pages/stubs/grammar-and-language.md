@@ -36,6 +36,8 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "less" versus "fewer"
 * "envy" versus "jealousy"
 * "assume" and "assumption" versus "conclude" and "conclusion"
+* "need" versus "want"
+  * the effect of regarding these as being quantitatively on the same spectrum: "strong-enough desire" == "metaphysical requirement", an uncalibrated sense of entitlement
 * "objective" versus "universal"
 * "subjective" versus "personal"
 * "selfish" versus "short-sighted whim pursuit"
