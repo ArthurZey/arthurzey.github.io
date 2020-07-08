@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-07-05"
+last_modified_at: "2020-07-08"
 ---
 
 Something, something, perfect enemy of the good.
@@ -61,6 +61,7 @@ I grew up in Los Angeles, and I live in San Francisco (but maybe not for long).
 * I'm extremely risk-averse, definitely to a fault and in a very anxiety-provoking way. This is a disposition I really need to keep in check.
 * As a kid, I _hated_ getting dirty. I didn't like playing in puddles or mud. I _loved_ bathing. It's probably related to my attitudes about hygiene and cleanliness today, including perhaps my tactile aversion to stickiness and dust/chalk, my dislike of slimy foods, and paranoia about STDs. [I literally and figuratively colored inside the lines (and still do).](/rules)
 * I'm extremely materialistic in that I attach high sentimental value to things most people would regard as unimportant--so I can't throw anything away. But with the exception of groceries and occasional tech splurges, I'm pretty darned frugal by nature.
+* I _love_ the beach and the ocean, and while I don't pursue them often enough, I enjoy all manners of water sports and being on various water crafts.
 * Listening to music is a very active process for me (meaning humming or singing along), so it's really hard for me to ever have it on in the background. It also means I don't much care for intentional music discovery (like Pandora). Invite me to the symphony, opera, or ballet if you're prepared to be hitting me every 5 seconds to stop me from signing along.
 * I've never been to a music performance that didn't involve sitting in seats, but [I do like quite a bit of contemporary music](https://open.spotify.com/playlist/0mTrpgBmH0j2r8fDyn4xV5){:target="&lowbar;blank"}.
 * I don't dance. Well, that's not true: I'm very comfortable learning dancing styles that have predefined moves that I might recombine on the fly to music (eg, swing, salsa, tango), and I've taken a few classes here and there. I tend to pick that up pretty well, but I'm not especially skilled. What I _don't_ do is the random move-your-body-to-the-beat kind of dancing that's typical at clubs, weddings, etc. It's not that I'm inhibited in that regard; it's _just not me_. I _feel_ stupid doing it, even though I don't think anybody else looks stupid doing it, and I _know_ I don't look stupid to anybody else. I wouldn't do it in private, either...that also feels really uncomfortable. I used to be embarrassed about that and wished I could fit in, but nowadays, I'm way more comfortable just not participating, despite everybody else's attempts to talk me into dancing (which I think amounts to an unintentional attempt to shame me into it). Nope. Not me. Thanks!
