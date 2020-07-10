@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-07-08"
+last_modified_at: "2020-07-10"
 ---
 
 Something, something, perfect enemy of the good.
@@ -323,7 +323,7 @@ Boy Scouts?
     <th markdown="span">Year</th>
     <th markdown="span">Location</th>
     <th markdown="span">School</th>
-    <th markdown="span">Work</th>
+    <th markdown="span">[Work](https://www.linkedin.com/in/arthurzey){:target="&lowbar;blank"}</th>
     <th markdown="span">Love</th>
     <th markdown="span">Miscellaneous</th>
   </tr>
