@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-07-10"
+last_modified_at: "2020-07-14"
 ---
 
 Something, something, perfect enemy of the good.
@@ -38,7 +38,9 @@ I tend to be a generalist and selective specialist, but a huge nerd through and 
 
 To me, integrity means _integrating_ mind, body, and spirit. It means continuously learning rational (ie, practical) principles, and walking the walk and talking the talk. I embrace consistency and reject compartmentalization. I'm a geek about intellectual pursuits, I'm maniacal about physical fitness (in health, bodybuilding, and diet), and I'm always learning and growing in the areas of mindfulness and empathy (thank you, meditation).
 
-Also, I love [logging things](#footer) in the spirit of [Quantified Self](https://quantifiedself.com/about/what-is-quantified-self/){:target="&lowbar;blank"}, though it's not an especially social phenomenon for me. Part of my love of it is in bringing order to the chaos of life through data normalization.
+I'm opinionated and curious, willful and flexible, arrogant and aware of my limitations, direct and sensitive/tactful (or, well, I try!). I always have to _be_ right, not necessarily _appear_ right or merely "win" arguments. I worship at the alter of _the supreme sanctity of the truth_; discovering that I was wrong is a gift that allows me to learn the truth and actually be right. I'm utterly intransigent about certain things (especially more fundamental matters of principle), but really easygoing about a lot of more superficial things. This seems to create a lot of confusion for people, and most people erroneously conclude that I'm just uptight and inflexible.
+
+I love [logging things](#footer) in the spirit of [Quantified Self](https://quantifiedself.com/about/what-is-quantified-self/){:target="&lowbar;blank"}, though it's not an especially social phenomenon for me. Part of my love of it is in bringing order to the chaos of life through data normalization.
 
 What is "The Truth about the Dishwasher"? You'll have to wait until I write about it...
 
