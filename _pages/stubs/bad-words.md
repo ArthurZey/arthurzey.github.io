@@ -6,7 +6,7 @@ tags:
   - language
 description: "Whether \"curse words\" or hurtful words, whether rooted in sexism, racism, sex-negativity, or anything else, there's a lot to say about how we use language and so-called \"bad words\"."
 date: "2020-04-30"
-last_modified_at: "2020-06-18"
+last_modified_at: "2020-07-15"
 ---
 
 There are a lot of dimensions here I'd like to explore...and I might have to split some of this off into different posts altogether:
@@ -40,6 +40,7 @@ There are a lot of dimensions here I'd like to explore...and I might have to spl
   * when to speak up
     * motives
     * ineffective techniques
+* the perils of "word police", particularly that when it seems that certain prohibitions/fixations are uncalibrated to a rational level of sensitivity and tact, thereby resulting in rejection of _any_ sensitivity of word use by exactly the people who most need to adjust their approach (throwing the baby out with the bathwater)
 * cultural appropriation
   * interest versus respect versus derision
   * whether that even makes sense as a concept for a global / multicultural company
