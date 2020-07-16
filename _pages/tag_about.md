@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-07-14"
+last_modified_at: "2020-07-16"
 ---
 
 Something, something, perfect enemy of the good.
@@ -242,7 +242,7 @@ _as of 2015_
 * identify with strongly: **\*N\*J**\\
 _abstract, conceptual thinking is my strongest trait_
 * identify with weakly: **\*N\*P**\\
-_mostly a "control freak", but I can be comfortable going with the flow_
+_mostly a "[control freak](/control/)", but I can be comfortable going with the flow_
 * don't identify with at all: <b>\*S\*\*</b>\\
 _not concrete-bound_
 
@@ -250,7 +250,7 @@ _not concrete-bound_
 See [Manager Tools Podcasts](https://www.manager-tools.com/map-universe/communication-disc){:target="&lowbar;blank"} and [summary PDF](https://files.manager-tools.com/files/private/documents/DiSC_Basics_0.pdf){:target="&lowbar;blank"}.
 
 _I'm very thing-/fact-/task-/idea-oriented:_
-* high <b>D</b>ominance: like to be in charge and take control of situations
+* high <b>D</b>ominance: like to be in charge and take [control](/control/) of situations
 * high <b>C</b>onscientiousness: love my [rules](/rules/) and structures and processes
 
 ### TOSCA-3SC
