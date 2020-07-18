@@ -6,7 +6,7 @@ layout: default
 {% if page.description %}{{ page.description }}{% endif %}
 
 {% if page.tags contains "stub" %}
-_This page is a stub{% if page.date or page.last_modified_at %}, created on {{ page.date | default: page.last_modified_at }}{% endif %}. Its contents are notes on the issues and angles I want to address about this topic._
+_This page is a stub{% if page.date or page.last_modified_at %}, created on {{ page.date | default: page.last_modified_at }}{% if page.date != page.last_modified_at and page.date and page.last_modified_at %} (last updated on {{ page.last_modified_at }}){% endif %}{% endif %}. Its contents are notes on the issues and angles I want to address about this topic._
 
 ---
 

@@ -223,6 +223,9 @@ Parameters:
           {% assign permalink = "Stubbed on " %}
         {% endif %}
         {% assign permalink = permalink | append: "[" | append: date | append: "](" | append: doc.url | append: ")" %}
+        {% if doc.date != doc.last_modified_at and doc.date and doc.last_modified_at %}
+          {% assign permalink = permalink | append: " (last updated on " | append: doc.last_modified_at | append: ")" %}
+        {% endif %}
       {% else %}
         {% assign permalink = "[Permalink](" | append: doc.url | append: ")" %}
       {% endif %}
