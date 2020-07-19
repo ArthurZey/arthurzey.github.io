@@ -6,8 +6,13 @@ tags:
   - diet
 description: "While often derided as \"the caveman diet\", I think the right approach to evaluating Paleo is in thinking of it as a presumptively safe default."
 date: "2020-05-08"
-last_modified_at: "2020-06-28"
+last_modified_at: "2020-07-19"
 ---
+
+## On This Page
+{:.no_toc}
+* TOC
+{:toc}
 
 ## In General
 
@@ -56,3 +61,14 @@ last_modified_at: "2020-06-28"
   * cane sugar, corn syrup
   * corn starch
   * any kind of seafood (not a Paleo thing; just not into it)
+
+## Seafood
+_This is just my story about seafood; it's not even Paleo-related, but it's most thematically related to this stub for now. Later, I'll carve this out into its own page._
+
+According to my parents, when I was a very young, I liked fish and seafood just fine. I don't remember this at all. My parents claim that I started rejecting seafood based on the influence of my friends, but that doesn't really resonate with me. I can't really validate it one way or another, though. Every since I _can_ remember, the smell of seafood has always grossed me out; it evokes memories of playing in tide pools as a kid (mostly at Hawai'i, perhaps), with the dying, rotting carcasses of marine life all around. In general, it just felt unclean. I realize that not all seafood has that smell, but the psychological association has become very strong, and any hint of that smell (eg, even the proximity of a non-smelly dish to other fishy smells at a seafood restaurant) triggers the association and the disgust.
+
+In a way, it's a shame, since I recognize that, nutritionally, seafood is a huge value, and I can see how much my friends and family enjoy things like salmon and sushi, but it's just not interesting enough to me to want to pursue rewiring my preferences.
+
+Given that, in general, I'm very risk-averse, and culinarily, that manifests as being utterly unadventurous (nevermind my being grossed out by a lot of squishy/slimy textures), I really don't even like the idea of _trying_ any particular seafood dish.
+
+Pro-tip: Trying to pressure me to eat seafood with things like "Just try it!", "You don't know what you're missing!", etc is a failing strategy. No promises, but you're much likelier to influence me by just sharing your own excitement for yourself and telling me what you like about it. (Same principle applies to many other things; I'm not very susceptible to peer pressure.)
