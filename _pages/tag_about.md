@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-07-16"
+last_modified_at: "2020-07-21"
 ---
 
 Something, something, perfect enemy of the good.
@@ -36,7 +36,7 @@ I'm a logic-emotions monist, open (almost to a fault), wholehearted, wild, untam
 
 I tend to be a generalist and selective specialist, but a huge nerd through and through. I'm a die-hard advocate of induction as the primary mode of human cognition. My superpowers include seeing patterns and untangling nuanced differences. I'm especially good at seeing underlying principles, whether in human behavior or API design, as well as finding general, future-proof solutions to seemingly disparate problems. Check out my [Personality and Behavioral Profiles](#personality-and-behavioral-profiles) below.
 
-To me, integrity means _integrating_ mind, body, and spirit. It means continuously learning rational (ie, practical) principles, and walking the walk and talking the talk. I embrace consistency and reject compartmentalization. I'm a geek about intellectual pursuits, I'm maniacal about physical fitness (in health, bodybuilding, and diet), and I'm always learning and growing in the areas of mindfulness and empathy (thank you, meditation).
+To me, integrity means _integrating_ mind, body, and spirit. It means continuously learning rational (ie, practical) principles, and walking the walk and talking the talk. I embrace consistency and reject compartmentalization. I'm a geek about intellectual pursuits, I'm maniacal about physical fitness (in health, bodybuilding, and diet), and I'm always learning and [growing](/growth/) in the areas of mindfulness and empathy (thank you, meditation).
 
 I'm opinionated and curious, willful and flexible, arrogant and aware of my limitations, direct and sensitive/tactful (or, well, I try!). I always have to _be_ right, not necessarily _appear_ right or merely "win" arguments. I worship at the alter of _the supreme sanctity of the truth_; discovering that I was wrong is a gift that allows me to learn the truth and actually be right. I'm utterly intransigent about certain things (especially more fundamental matters of principle), but really easygoing about a lot of more superficial things. This seems to create a lot of confusion for people, and most people erroneously conclude that I'm just uptight and inflexible.
 
