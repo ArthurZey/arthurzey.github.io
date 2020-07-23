@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-07-22"
+last_modified_at: "2020-07-23"
 ---
 
 Something, something, perfect enemy of the good.
@@ -107,7 +107,7 @@ I grew up in Los Angeles, and I live in San Francisco (but maybe not for long).
     snuggling with [Billy](https://photos.app.goo.gl/4RW6d5j2af9aq4pbA){:target="&lowbar;blank"}
   * _What are you deeply grateful for right now?_\\
     my friends who truly see and understand me
-* If I were Maeve from _Westworld_, able to modify my ["Attribute Matrix" on a tablet](https://assets3.thrillist.com/v1/image/1831884/1584x3000/scale;jpeg_quality=60.jpg){:target="&lowbar;blank"}, here's what I would select (on a scale of 0-20):\\
+* If I were Maeve from [_Westworld_](https://trakt.tv/shows/westworld){:target="&lowbar;blank"}, able to modify my ["Attribute Matrix" on a tablet](https://assets3.thrillist.com/v1/image/1831884/1584x3000/scale;jpeg_quality=60.jpg){:target="&lowbar;blank"}, here's what I would select (on a scale of 0-20):\\
   * **bulk apperception**: 20
   * **candor**: 20
   * **vivacity**: 20
