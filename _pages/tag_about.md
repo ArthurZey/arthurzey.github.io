@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-07-21"
+last_modified_at: "2020-07-22"
 ---
 
 Something, something, perfect enemy of the good.
@@ -107,6 +107,29 @@ I grew up in Los Angeles, and I live in San Francisco (but maybe not for long).
     snuggling with [Billy](https://photos.app.goo.gl/4RW6d5j2af9aq4pbA){:target="&lowbar;blank"}
   * _What are you deeply grateful for right now?_\\
     my friends who truly see and understand me
+* If I were Maeve from _Westworld_, able to modify my ["Attribute Matrix" on a tablet](https://assets3.thrillist.com/v1/image/1831884/1584x3000/scale;jpeg_quality=60.jpg){:target="&lowbar;blank"}, here's what I would select (on a scale of 0-20):\\
+  * **bulk apperception**: 20
+  * **candor**: 20
+  * **vivacity**: 20
+  * **coordination**: 20
+  * **meekness**: 0
+  * **humility**: 0
+  * **cruelty**: 0
+  * **self-preservation**: 20
+  * **patience**: 10\\
+    _Not really sure about this one... In some manifestations, impatience is a really good thing, insofar as it prompts doing something about an unacceptable situation, reflecting intense value commitments. In other manifestations, patience amounts to resilience and skill in being able to deal with a situation more coolly, calmly, rationally, and soberly._
+  * **decisiveness**: 20
+  * **imagination**: 20
+  * **curiosity**: 20
+  * **aggression**: 20
+  * **loyalty**: 20\\
+    _This is provisional, since it depends on what you mean by "loyalty": loyalty to facts? loyalty to a person? being truly supportive by being willing to challenge a person and act in accordance with their long-term interests, even if unpleasant or uncomfortable in the immediate term? superficial agreement with / enablement of anything they say or do?_
+  * **empathy**: 20
+  * **tenacity**: 20
+  * **courage**: 20
+  * **sensuality**: 20
+  * **charm**: 20
+  * **humor**: 20
 
 ## Interests, Values, and Passions
 * [bodybuilding and physical fitness](#physical-fitness)
