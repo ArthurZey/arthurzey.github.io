@@ -298,6 +298,37 @@ _The 5 Love Languages_ by Gary Chapman: [Kindle](https://smile.amazon.com/dp/B00
   4. Words of Affirmation
   5. [Giving] Gifts
 
+### Attachment Style
+* [Personal Development School](https://attachment.personaldevelopmentschool.com/){:target="&lowbar;blank"}\\
+  _2020-07-21_
+  * 0% [**Fearful Avoidant**](https://www.youtube.com/watch?v=nJJJpvJ2TAc&t=9s){:target="&lowbar;blank"}
+  * 30% [**Anxious Preoccupied**](https://www.youtube.com/watch?v=KkaGgvPdXvg&t=243s){:target="&lowbar;blank"}
+    * Fear of abandonment\\
+      _for me, not "fear", but discomfort_
+    * Dislike being alone or out of relationships for prolonged periods of time\\
+      _not true for me_
+    * Fear of loss or disconnection in relationship\\
+      _and how!_
+    * Can appear clingy or needy\\
+      _"appear" being the operative word..._
+    * Emotional hunger to get consistently closer in a relationship\\
+      _yes!_
+    * Often want to move very quickly to a commitment in a relationship\\
+      _I don't know about "want", but I certainly do...I find it very easy to be "all in" relatively quickly and by default, which seems more a manifestation of my secure traits._
+    * Very sensitive to rejection\\
+      _yup, but only when I have a reasonable expectation of attention/interest and from someone I care about_
+    * Develop strong feelings quite easily\\
+      _understatement of the millenium_
+  * 0% [**Dismissive Avoidant**](https://www.youtube.com/watch?v=i2Bnpy2GCUQ&t=2s){:target="&lowbar;blank"}
+  * 70% **Secure**
+    * A natural tendency towards feeling safe to express your feelings and needs
+    * Openness towards communication and belief that conflicts are solvable problems
+    * Strong ability to regulate your emotions
+    * Empathy towards others
+    * Natural balanced with boundary setting
+    * Feel safe to express your truth
+    * Strong sense of self-identity
+
 ### Enneagram
 * [Truity Free Enneagram Personality Test](https://www.truity.com/test/enneagram-personality-test){:target="&lowbar;blank"}\\
   _2020-04-28 10:10 PDT_ {% comment %}[(non-sharable results)](https://www.truity.com/personality-test/17372/test-results/19288347){:target="&lowbar;blank"}{% endcomment %}
