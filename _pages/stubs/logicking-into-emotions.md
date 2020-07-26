@@ -6,7 +6,7 @@ tags:
   - about
 description: "My emotional growth, personally and in relationship with others, is due in large part to my intellectual grasp of the sheer logic of developing myself in that area."
 date: "2020-04-07"
-last_modified_at: "2020-07-13"
+last_modified_at: "2020-07-26"
 ---
 
 [Growing up](/family-arguing/), my general sensitivity and emotions were a frequent source of pain for me. That gradually turned into a rejection of emotions, and I remember being in high school, explicitly, stubbornly, and naively trying to reject emotions in a very characteristically (and explicitly!) Vulcan way.
@@ -35,3 +35,4 @@ Additional considerations:
 * maybe something about the process of not feeling like I have to answer everything and being comfortable in uncertainty
 * motive attribution asymmetry
 * growing up, how much I liked the _MadTV_ ["Stop It"](https://www.youtube.com/watch?v=aAhA7KfbJgg){:target="&lowbar;blank"} sketch
+* crediting Diana for bringing to my attention something I hadn't been aware of explicitly before: my willingness/fearlessness to feel things fully/deeply; Authentic Relating Games night in Boulder
