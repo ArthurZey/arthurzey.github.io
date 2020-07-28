@@ -5,7 +5,7 @@ tags:
   - about
 description: "If infinite control over time, space, and matter is off the table, my ideal superpower would be what I call the \"rewind power\" (or sometimes the \"Groundhog Day power\")."
 date: "2020-04-17"
-last_modified_at: "2020-04-17"
+last_modified_at: "2020-07-28"
 ---
 
 In the 1993 movie [_Groundhog Day_](https://trakt.tv/movies/groundhog-day-1993){:target="&lowbar;blank"}, Bill Murray's Phil Connors finds himself stuck in a day that keeps repeating itself, and he's the only one who retains memories of previous days. He has no control over the repetition, and it ultimately manifests as torture for him. I loved this move (and was obsessed with it as a kid), and that serves as the basis for what I called the "Groundhog Day power" that I've always fantasized about (and literally lose sleep over _regularly to this day_). But in my version, the power comes with control, both over the number of loops and how far back you jump. So it's inspired by _Groundhog Day_, but with quite a bit more flexibility; it would be _my_ power, not a thing merely happening to me. Check out [_"Groundhog Day" Loop_](https://tvtropes.org/pmwiki/pmwiki.php/Main/GroundhogDayLoop){:target="&lowbar;blank"} for more detail on how this has manifested in various TV shows and movies.
@@ -14,7 +14,7 @@ First, I want to talk about the mechanics and constraints of this power:
 
 * can go back any length of time, 5 second or 5 years, back into my own body with everything that I now know
 * no fast-forwarding
-* what happens if I die
+* what happens if I die (everything resets to when I was born, so huge incentive to not die)
 * no jumping to a previous timeline
 
 Next, I want to talk about some of the consequences of this:
@@ -44,4 +44,4 @@ What other powers would I potentially like?
 * immortality at the age of 28 (ie, no aging or age-related diseases)
 * freezing time
 
-What's the connection to my enjoyment of TV and movies that are in the science fiction, magic, and superhero generes? And how about how I'm a sucker for time travel and parallel universes?
+What's the connection to my enjoyment of TV and movies that are in the science fiction, magic, and superhero genres? And how about how I'm a sucker for time travel and parallel universes?
