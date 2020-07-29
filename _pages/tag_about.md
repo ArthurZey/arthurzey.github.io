@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-07-25"
+last_modified_at: "2020-07-29"
 ---
 
 Something, something, perfect enemy of the good.
@@ -163,9 +163,13 @@ _These are ideas and approaches to various areas of life that I have derived gre
 
 ### Physical Well-Being
 * [Renaissance Periodization](https://renaissanceperiodization.com/){:target="&lowbar;blank"}
-* [Carolyn Hart Manual Therapy](https://voxsynaesthetica.wordpress.com/massage-therapist/){:target="&lowbar;blank"}
+* [Carolyn Hart Manual Therapy](https://voxsynaesthetica.wordpress.com/massage-therapist/){:target="&lowbar;blank"} (San Francisco Bay Area, CA)
+* [Jeffrey Lem Optometry](https://www.yelp.com/biz/jeffrey-lem-od-san-francisco-3){:target="&lowbar;blank"} (San Francisco Bay Area, CA)
+* [Scott McKinzie Family Dentistry](http://www.scottdentist.com/){:target="&lowbar;blank"} (San Francisco Bay Area, CA)
+* [Washington Square Park Dental](https://wsparkdental.com/){:target="&lowbar;blank"} (San Francisco Bay Area, CA)
 
 ### Psychological and Emotional Well-Being
+* [Mařenka Cerny Somatic Psychotherapy](https://www.somatic-psychotherapy.org/){:target="&lowbar;blank"} (San Francisco Bay Area, CA)
 * Brené Brown: [website](https://brenebrown.com/){:target="&lowbar;blank"}, [Audible](https://www.audible.com/author/Brene-Brown/B001JP45BA){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Bren%25C3%25A9-Brown/e/B001JP45BA)\\
 \\
 Her work covers many interconnected topics, including connection, compassion and empathy, vulnerability, courage, shame, perfectionism, belonging (versus "fitting in"), worthiness, authenticity ("being the wilderness"), and mind-emotion integration.\\
