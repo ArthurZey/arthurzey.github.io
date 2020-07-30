@@ -6,7 +6,7 @@ tags:
   - about
 description: "I really like myself, but my good-/right-by-default attitude has the built-in failure mode of making it difficult to identify areas for growth. Nevertheless, I've found a few things I can work on."
 date: "2020-06-19"
-last_modified_at: "2020-07-12"
+last_modified_at: "2020-07-30"
 ---
 
 * psychological dispositions
