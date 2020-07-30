@@ -27,7 +27,7 @@ last_modified_at: "2020-07-30"
   * learning how to be sensitive, compassionate, caring, understanding, tactful _without_ its landing as overthinking, game-playing, manipulation, sociopathic
   * learning how to determine when, if ever, "tough love" is appropriate instead of softer compassion
     * whether it's justified to artificially use a sharper, tactless tone because it will land better / be more effective in the moment with a person whose wounds might cause compassion to land badly (and what the long-term consequences of doing this might be)
-    * connection to how Libertarians will often use any argument, no matter how inessential or false, that is convincing to a particular group/person in the moment, sometimes pandering to things like religion and altruism
+    * connection to how Libertarians will often use any argument, no matter how inessential or false, that is convincing to a particular group/person in the moment, sometimes pandering to (and thereby encouraging and enabling) things like religion and altruism
     * what the cost is to authenticity to intentionally do an unkind thing when I do not want to be unkind (whether it's being disingenuous to myself and my values and _who I am_ to be tactless because it's pandering to another person's unhealthy dispositions)
   * susceptibility to the sunken-cost fallacy
   * how the anxiety of one-way door decisions (or cost of reversing certain decisions) leads me to indecision and inaction
