@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2020-07-07"
+last_modified_at: "2020-07-31"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -59,6 +59,11 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "none are" versus "none is"; "any are" versus "any is"
 * singular "they"
 * singular "data"
+  * shorthand for "item of data"?
+  * connection to "the Borg", "a Borg"
+  * contrast/connection to "medium"/"mediums" and "media"
+* "formulas" versus "formulae"
+* "terrariums" versus "terraria", "aquarium" versus "aquaria"
 
 Fun games:
 
