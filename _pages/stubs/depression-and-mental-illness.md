@@ -19,7 +19,7 @@ Additional considerations:
 * Why are we ritualistically expected to answer "Okay" or "Fine" to inquiries about how we're doing? Isn't it okay (in a broader sense) to be _not_ okay at a given moment? And what does the receptivity of the questioner have to do with it?
 * The unhelpfulness of "Everything will be okay."; maybe it won't, and isn't _that_ okay in its own way?
 * depression versus "chemical imbalance"
-* On 2020-08-01, Helen sent me a link to [A third of Americans now show signs of clinical anxiety or depression](https://www.washingtonpost.com/health/2020/05/26/americans-with-depression-anxiety-pandemic/)
+* On 2020-08-01, Helen sent me a link to [A third of Americans now show signs of clinical anxiety or depression](https://www.washingtonpost.com/health/2020/05/26/americans-with-depression-anxiety-pandemic/).
   * her observations:
     * "wouldn't be surprised if resilience is down even by the perception that this is happening to you"
     * "just the mere presence of data like that/articles like that creates an air of depression can create herd mentality there too...sympathy pains... Hypochondria [etc]"
