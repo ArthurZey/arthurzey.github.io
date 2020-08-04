@@ -42,3 +42,4 @@ I'm also not under any illusions that the Arrowverse shows (_Arrow_, _The Flash_
 * I don't get/like
   * horror
   * monster of the week
+  * reality TV
