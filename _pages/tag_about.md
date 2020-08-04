@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-07-31"
+last_modified_at: "2020-08-04"
 ---
 
 Something, something, perfect enemy of the good.
@@ -132,7 +132,7 @@ I grew up in Los Angeles, and I live in San Francisco (but maybe not for long).
   * **humor**: 20
 
 ## Interests, Values, and Passions
-* [bodybuilding and physical fitness](#physical-fitness)
+* [bodybuilding and physical fitness](#physical-well-being)
 * [meditation, mindfulness, wholeheartedness, vulnerability, and empathy](#psychological-and-emotional-well-being)
 * tech geekery
 * [philosophy (especially ethics and epistemology, especially Objectivism)](#philosophy-objectivism)
