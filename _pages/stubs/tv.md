@@ -5,7 +5,7 @@ tags:
   - about
 description: "What TV shows do I like, and why?"
 date: "2020-05-06"
-last_modified_at: "2020-06-06"
+last_modified_at: "2020-08-03"
 ---
 
 Probably more than any other area of art, with TV, I absolutely can love or enjoy a show that I know is aesthetically bad. There are a lot of shows that I routinely call "trash" or "garbage", and I don't say that to disparage anybody involved in their production or their effort, but only that I recognize that it's bad writing, bad acting, or has some other objective defect. And yet, I may very well enjoy watching them, despite numerous flaws. I have absolutely zero shame or embarrassment around enjoying what I enjoy, and acknowledging that it's bad is not some way of rationalizing, diminishing, or making excuses for my enjoyment. I like what I like, even when it's _Gossip Girl_, and I won't apologize for it.
