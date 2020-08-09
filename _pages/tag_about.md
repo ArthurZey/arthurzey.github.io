@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-08-06"
+last_modified_at: "2020-08-09"
 ---
 
 Something, something, perfect enemy of the good.
@@ -50,7 +50,7 @@ I love children, and I can't wait to be a dad.
 
 I'm the product manager for [Alexa Tech Docs](https://developer.amazon.com/en-US/alexa){:target="&lowbar;blank"} for Amazon.
 
-I grew up in Los Angeles, and I live in San Francisco (but maybe not for long).
+I grew up in Los Angeles, and I live in the San Francisco Bay Area. But I'm in Denver to ride out COVID-19...at the very least...
 
 ## Random Tidbits
 
