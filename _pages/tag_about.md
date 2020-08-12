@@ -7,6 +7,8 @@ date: "2020-04-15"
 last_modified_at: "2020-08-09"
 ---
 
+<img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
+
 Something, something, perfect enemy of the good.
 
 I'm Arthur. This is my website. I threw together a basic structure using [GitHub Pages](https://pages.github.com){:target="&lowbar;blank"} (because tech geek) to get something off the ground quickly.
