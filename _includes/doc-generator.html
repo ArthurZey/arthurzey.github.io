@@ -175,6 +175,8 @@ Parameters:
   {% endif %}
 {% endif %}
 
+{% assign number-of-docs = 0 %}
+
 {% for doc in docs %}
   {% assign include-doc = false %}
   {% if doc.url != page.url %}
@@ -210,6 +212,7 @@ Parameters:
     {% endif %}
   {% endif %}
   {% if include-doc %}
+    {% assign number-of-docs = number-of-docs | plus:1 %}
     {% if markdown-heading %}
 {% for i in (1..heading-level) %}#{% endfor %} {% if linkify-heading %}[{{ doc.title }}]({{ doc.url }}){% else %}{{ doc.title }}{% endif %}
     {% else %}
@@ -257,3 +260,7 @@ _{{ doc.description }}_
     {% endif %}
   {% endif %}
 {% endfor %}
+
+{% if number-of-docs == 0 %}
+  _Whoops! Nothing to show here for now!_
+{% endif %}
