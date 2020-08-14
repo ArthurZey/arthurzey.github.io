@@ -5,7 +5,7 @@ tags:
   - about
 description: "What TV shows do I like, and why?"
 date: "2020-05-06"
-last_modified_at: "2020-08-03"
+last_modified_at: "2020-08-12"
 ---
 
 Probably more than any other area of art, with TV, I absolutely can love or enjoy a show that I know is aesthetically bad. There are a lot of shows that I routinely call "trash" or "garbage", and I don't say that to disparage anybody involved in their production or their effort, but only that I recognize that it's bad writing, bad acting, or has some other objective defect. And yet, I may very well enjoy watching them, despite numerous flaws. I have absolutely zero shame or embarrassment around enjoying what I enjoy, and acknowledging that it's bad is not some way of rationalizing, diminishing, or making excuses for my enjoyment. I like what I like, even when it's _Gossip Girl_, and I won't apologize for it.
@@ -20,12 +20,13 @@ I'm also not under any illusions that the Arrowverse shows (_Arrow_, _The Flash_
   * _Star Trek_
     * in order of preference
       * _The Next Generation_
-      * _Deep Space Nine_
+      * _Deep Space Nine_ (Maybe this should be at the top...I don't know, honestly.)
       * _The Orville_\\
         (Yup; this is _Star Trek_. Don't believe me? Tell me how its worst episode versus _Discovery_'s best episode compares to _TNG_.)
       * _Voyager_
       * _Enterprise_
       * _Discovery_ / _Picard_
+      * _Lower Decks_ (Good heavens, this is embarrassing.)
 * I'm a sucker for
   * time travel
   * parallel universes / alternative histories
