@@ -114,11 +114,10 @@ See also:
   * [Chris Heuertz](https://brenebrown.com/podcast/brene-and-chris-heuertz-a-skeptic-and-a-teacher-on-the-enneagram-and-spiritual-contemplation/){:target="&lowbar;blank"} on the Enneagram
   * additional links forthcoming...
 * [Armchair Expert](https://armchairexpertpod.com/){:target="&lowbar;blank"} ([Spotify](https://open.spotify.com/show/6kAsbP8pxwaU2kPibKTuHE?si=CjhvgA_ITvCv3PqOo_WOyQ){:target="&lowbar;blank"})
-  * Brené Brown
-  * Esther Perel
-  * Dr Drew
-  * John Gottman
-  * links to and list of additional specific episodes forthcoming...
+  * [Brené Brown](https://open.spotify.com/episode/2Xad6IY0JsvIQc5m7T5QdP){:target="&lowbar;blank"}
+  * [Esther Perel](https://open.spotify.com/episode/4qUy5yybV6ohW9WfbVervl){:target="&lowbar;blank"}
+  * [Dr Drew](https://open.spotify.com/episode/05JKcQDF7pLUt55TLBaMAQ){:target="&lowbar;blank"}
+  * [John Gottman](https://open.spotify.com/episode/4A9915cipQ2Kqm2lY0B0ny){:target="&lowbar;blank"}
 
 ### YouTube Channels
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw){:target="&lowbar;blank"}
