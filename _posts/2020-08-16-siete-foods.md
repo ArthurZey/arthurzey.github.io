@@ -5,8 +5,6 @@ description: "I was already an enthusiast of their myriad products. Their custom
 tags:
   - customer-service
   - happenings
-  - draft
-sitemap: false
 links:
   resources:
     - type: TWEET
@@ -41,11 +39,7 @@ I've now been enjoying these tacos every so often since early-/mid-2020. And, yo
 
 But I would have never expected what happened next.
 
-I exchange a few messages with [@SieteFoods](https://twitter.com/SieteFoods){:target="&lowbar;blank"} on Twitter:
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This happens to me all the time, and I just get creative! <a href="https://twitter.com/hashtag/noRegrets?src=hash&amp;ref_src=twsrc%5Etfw">#noRegrets</a> <a href="https://t.co/ubT5jqo3vM">pic.twitter.com/ubT5jqo3vM</a></p>&mdash; Arthur Zey (@LogicalArthur) <a href="https://twitter.com/LogicalArthur/status/1284417472410443776?ref_src=twsrc%5Etfw">July 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-Despite my assuring them how much I loved their products, how much my taco nights were a smashing success (despite the few hiccups), and how unnecessary it was for them to send me anything, they insisted on sending me a care package of some sort. Now, I don't want to necessarily cerate any expectations or unintentionally create pressure for Siete Foods to do this for anybody else under any particular circumstances, so I won't go into detail about what products they sent me, but when I arrived in Denver a few weeks after our Twitter exchange, I had a package waiting for me with a variety of different Siete products, way more than the monetary value of whatever "damages" I had "suffered" over my missing or broken taco shells.
+I exchange a few messages with [@SieteFoods](https://twitter.com/SieteFoods){:target="&lowbar;blank"} on Twitter about the [broken shells](https://twitter.com/LogicalArthur/status/1284417472410443776){:target="&lowbar;blank"} and the [missing shells](https://twitter.com/LogicalArthur/status/1283525972180885505){:target="&lowbar;blank"}. Despite my assuring them how much I loved their products, how much my taco nights were a smashing success (despite the few hiccups), and how unnecessary it was for them to send me anything, they insisted on sending me a care package of some sort. Now, I don't want to necessarily cerate any expectations or unintentionally create pressure for Siete Foods to do this for anybody else under any particular circumstances, so I won't go into detail about what products they sent me, but when I arrived in Denver a few weeks after our Twitter exchange, I had a package waiting for me with a variety of different Siete products, way more than the monetary value of whatever "damages" I had "suffered" over my missing or broken taco shells.
 
 I happened to tell them about my move. This was the note they enclosed:
 
