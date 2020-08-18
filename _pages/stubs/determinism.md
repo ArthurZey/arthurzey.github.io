@@ -21,6 +21,7 @@ Here are a few things I want to address (and this is by no means exhaustive):
 * the connection between moral accountability/agency and determinism
 * how the search for explanatory _reasons_ for people's choices and behaviors is implicitly premised on determinism
 * the connection to epistemology, especially induction, concept-formation, and principles
+  * why you can't use induction and deduction, which presuppose determinism, to establish non-determinism / randomness
 * how causality _must imply_ determinism
 * the difference between "random" (metaphysical) and "effectively random" (epistemic)
 * how "but quantum mechanics!" is an attempt to rationalize volition while still voiding it of the meaning non-determinists want it to have
