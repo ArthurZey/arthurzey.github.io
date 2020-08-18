@@ -5,7 +5,7 @@ tags:
   - philosophy
 description: "No. Just no."
 date: "2020-05-27"
-last_modified_at: "2020-05-27"
+last_modified_at: "2020-08-18"
 ---
 
 I'll also accept the phrase "cutting little boys' penises", but I will not accept "circumcision" or any other euphemism that attempts to normalize this barbaric practice.
@@ -29,3 +29,7 @@ But more seriously, there are other important dimensions of this topic:
 * how to discuss the topic with parents who have decided to mutilate their sons
 
 _If you're a parent who's done this...please try to understand that my purpose here is not to condemn you, despite my very strong language here. It's why I'm trying to indicate my desire to be compassionate and understanding, as well as qualifying the "rationalizations" as "strik[ing] me" that way, rather than being too conclusory. I'm not here to attack you, even though I strongly disagree with your choices. I am not trying to shame you, even if I wish you would regard your prior choices as mistaken._
+
+Related resources:
+
+* [Why We Didn’t Circumcise Our Second Son](https://www.tabletmag.com/sections/belief/articles/why-we-didnt-circumcise-our-second-son)
