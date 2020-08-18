@@ -32,4 +32,4 @@ _If you're a parent who's done this...please try to understand that my purpose h
 
 Related resources:
 
-* [Why We Didn’t Circumcise Our Second Son](https://www.tabletmag.com/sections/belief/articles/why-we-didnt-circumcise-our-second-son)
+* [Why We Didn't Circumcise Our Second Son](https://www.tabletmag.com/sections/belief/articles/why-we-didnt-circumcise-our-second-son)
