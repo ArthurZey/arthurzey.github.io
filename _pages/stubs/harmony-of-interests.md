@@ -5,7 +5,7 @@ tags:
   - philosophy
 description: "There is no such thing as a win-lose interaction; \"only care about yourself\" is a logically incoherent idea."
 date: "2020-05-28"
-last_modified_at: "2020-05-28"
+last_modified_at: "2020-08-20"
 ---
 
 There is a lot to say on this topic, and it connects with many other areas. Here are a few things I'd like to examine:
@@ -23,6 +23,7 @@ There is a lot to say on this topic, and it connects with many other areas. Here
 * the difference between knowing, in "cold economic calculus" terms, that others and their interests are a means to one's own interests and experiencing, emotionally, others as ends in themselves
 * how caring about others and their interests is incompatible with altruism (in its serious ethical sense, not its sloppy colloquial sense)
 * connection to psychology, emotional well-being, worthiness, shame-resilience: ["To say 'I love you' one must first know how to say the 'I.''"](https://www.goodreads.com/quotes/513234-to-say-i-love-you-one-must-first-know-how){:target="&lowbar;blank"}
+* connection to assuming positive intent and believing that people are generally doing the best that they can
 * how interdependence of interests does not contradict the [virtue of independence](http://aynrandlexicon.com/lexicon/independence.html){:target="&lowbar;blank"}
 * examples from business and product management
   * Twitter's "respect the user's voice"
