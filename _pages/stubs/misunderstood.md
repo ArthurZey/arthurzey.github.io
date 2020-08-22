@@ -15,7 +15,7 @@ last_modified_at: "2020-08-22"
 |am principled|am inflexible|
 |am willing to defend my values|like to argue|
 |am direct|am an asshole|
-|want to be right<br />(understand the truth)|want to _appear_ right<br /> or "win" arguments|
+|want to _be_ right<br />(understand the truth)|want to _appear_ right<br /> or "win" arguments|
 |don't necessarily change my mind|don't listen to others<br />or consider their opinions|
 |have definite viewpoints|am closed-minded|
 |like and pursue certainty|am uncomfortable with uncertainty<br />or unwilling to admit ignorance|
@@ -24,5 +24,6 @@ last_modified_at: "2020-08-22"
 |care about my appearance|am shallow|
 |am shirtless all the time|looking for attention|
 |am vain|have narcissistic personality disorder|
-|am self-interested<br />or _selfish_|don't care about others|
-|am orderly and organized|have OCD|
+|[am self-interested<br />or _selfish_](/harmony-of-interests/)|[don't care about others](/harmony-of-interests/)|
+|[am orderly and organized](/obsessive-compulsive-order/)|[have OCD](/obsessive-compulsive-order/)|
+|have strong emotions|am poor at behavioral regulation|
