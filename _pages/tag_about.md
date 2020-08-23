@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-08-09"
+last_modified_at: "2020-08-23"
 ---
 
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
@@ -59,6 +59,8 @@ I grew up in Los Angeles, and I live in the San Francisco Bay Area. But I'm in D
 * I'm a homebody. The chances of my initiating going out to eat, to a bar, or to a club are extremely slim. Dark, loud, and/or crowded? No, thanks. My perfect Friday or Saturday night involves going to bed early.
 * I'm a creature of habit; I love my routines and comforts.
 * I hate wearing clothes. Specifically, I love being shirtless. It's a manifestation of my extreme vanity. (More on _that_ controversial and triggering topic later!)
+* I think glasses are incredible sexy/adorkable. I desperately wanted glasses when I was a kid, and I never understood any of the cultural norms around their being undesirable (like "four eyes, four eyes" taunting). I thought they were super cool, and even if I didn't need vision correction, they felt like a mark of being intellectual. There's more to say about all this, but now I wear glasses that offer mild vision correction, but I'd wear them regardless, just because I like the way I look in them.
+* If I'm not actually barefoot, just nipping out on a quick errand in flipflops, or wearing snow/snowboarding boots, I wear [Vibrams](https://us.vibram.com/shop/fivefingers/men/){:target="&lowbar;blank"}. I've been wearing them since 2011 for everything including work, gym, running, hiking/backpacking, and even formal events demanding a suit... I clearly don't wear them for the "fashion"; I find them comfortable, I think they're good for me physiologically, and I'm so allergic to wearing foot coffins (or dressing in general) just to accommodate others' expectations.
 * I've been eating strict [Paleo](/paleo/) (with various modifications and refinements) since 2009. No cheating.
 * I'm a compulsive nail-biter and "investigator" of my dermatological phenomena. (These are things I struggle with _a lot_.)
 * I'm a horrible procrastinator. I often struggle to muster up the will to invest effort into tasks that would take 5-15 minutes to complete, so instead, they hang over my head for weeks or months, creating a ton of background stress. I find myself wondering whether this is a function of being extremely susceptible to cognitive inertia and the flip side of why being in a state of flow is such a powerful, productive experience for me. I think this is also related to why it's so important for me to set up daily/weekly routines, especially to handle administrative "adulting" tasks.
