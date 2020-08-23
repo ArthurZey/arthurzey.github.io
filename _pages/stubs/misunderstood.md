@@ -30,10 +30,11 @@ last_modified_at: "2020-08-23"
 |am shirtless all the time|looking for attention|
 |am vain|have narcissistic personality disorder|
 |[am self-interested<br />or _selfish_](/harmony-of-interests/)|[don't care about others<br />or am ungenerous](/harmony-of-interests/)|
+|am confident and immodest|am pretentious or a braggart|
 |am highly logical and analytical|am robotic, uncaring, or unemotional|
 |have strong emotions|am poor at behavioral regulation|
-|disagree with many regulations<br /> and government-funded programs|am conservative / a Republican|
-|favor open borders<br />and believe in a woman's control over her own body|am political left / a Democrat|
+|disagree with many economic regulations<br />and government-funded programs|am conservative / a Republican|
+|favor open borders<br />and believe in a woman's control over her own body|am politically left / a Democrat|
 |don't identify as a Republican or Democrat|identify as a Libertarian|
 |avoid current events|don't care about social/political/cultural issues|
 |care about social/political/cultural issues|am informed about "the news"|
