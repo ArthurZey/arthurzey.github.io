@@ -27,7 +27,7 @@ last_modified_at: "2020-08-23"
 |can answer objections quickly<br />or have fast answers<br />or am well prepared|engage in quick-witted rationalizations|
 |am careful with language<br />and untangle nuance|play word games|
 |care about my appearance|am shallow|
-|am shirtless all the time|looking for attention|
+|am shirtless all the time|am looking for attention|
 |am vain|have narcissistic personality disorder|
 |[am self-interested<br />or _selfish_](/harmony-of-interests/)|[don't care about others<br />or am ungenerous](/harmony-of-interests/)|
 |am confident and immodest|am pretentious or a braggart|
