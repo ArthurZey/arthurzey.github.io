@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-08-23"
+last_modified_at: "2020-08-25"
 ---
 
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
@@ -46,7 +46,7 @@ I love [logging things](#footer) in the spirit of [Quantified Self](https://quan
 
 What is "The Truth about the Dishwasher"? You'll have to wait until I write about it...
 
-While I buck a lot of social conventions and many of the superficial manifestations of my traits are baffling to a lot of people (believe me, I will write plenty on this), if you really get me, if you _really see and understand the core of my being_, I am super predictable.
+While I buck a lot of social conventions and [many of the superficial manifestations of my traits are baffling to a lot of people](/misunderstood/) (believe me, I will write plenty on this), if you really get me, if you _really see and understand the core of my being_, I am super predictable.
 
 I love children, and I can't wait to be a dad.
 

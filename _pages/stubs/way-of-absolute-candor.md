@@ -6,7 +6,7 @@ tags:
   - about
 description: "Why do I have a policy of authenticity and openness, even at the risk of oversharing?"
 date: "2020-04-09"
-last_modified_at: "2020-08-12"
+last_modified_at: "2020-08-25"
 ---
 
 I recently stumbled on the phrase in [an episode by the same title](https://memory-alpha.fandom.com/wiki/Way_of_Absolute_Candor){:target="&lowbar;blank"}. "It emphasized the total communication of emotion without filter between thought and word", which feels very close to my own personal policy of "open, direct, and kind".
@@ -25,7 +25,7 @@ I've long had a policy of openness, with the frequent failure mode of oversharin
 * how passively sharing (broadcasting) doesn't necessarily mean I think that anybody in particular cares about individual things I share
 * the difference between being open and second-handed approval-/attention-seeking (strong tie-in here to my bodybuilding goals)
 * the connection between chronic/long-practiced openness and shame-resilience/vulnerability
-* the connection to my needing to feel understood / not misunderstood, and the urgency of having to explain all the things
+* the connection to [my needing to feel understood / not misunderstood](/misunderstood/), and the urgency of having to explain all the things
 * the evolution of my use of Facebook and getting into arguments about ideas
 * being authentic/raw/direct and being tactful, including the relevance of others' discomfort
 * allergy to phoniness (and a childhood experience that stuck with me); connection to the Objectivist virtue of [honesty](http://aynrandlexicon.com/lexicon/honesty.html){:target="&lowbar;blank"}

@@ -6,12 +6,12 @@ tags:
   - about
 description: "I really like myself, but my good-/right-by-default attitude has the built-in failure mode of making it difficult to identify areas for growth. Nevertheless, I've found a few things I can work on."
 date: "2020-06-19"
-last_modified_at: "2020-07-30"
+last_modified_at: "2020-08-25"
 ---
 
 * psychological dispositions
   * caring too much (qualitatively and quantitatively) what others think, both about me and about _the truth_ in general
-  * defensiveness about being misunderstood
+  * defensiveness about [being misunderstood](/misunderstood/)
   * uncritically defaulting to connecting with other people in intellectual/academic ways, trying to talk talk talk through everything
   * learning how to navigate the line between
     * leaning into discomfort and pain, wrestling with and processing difficult emotions (without this being an intentional pursuit of misery)
