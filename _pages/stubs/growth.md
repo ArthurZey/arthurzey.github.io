@@ -6,7 +6,7 @@ tags:
   - about
 description: "I really like myself, but my good-/right-by-default attitude has the built-in failure mode of making it difficult to identify areas for growth. Nevertheless, I've found a few things I can work on."
 date: "2020-06-19"
-last_modified_at: "2020-08-25"
+last_modified_at: "2020-08-26"
 ---
 
 * psychological dispositions
@@ -39,3 +39,6 @@ last_modified_at: "2020-08-25"
   * nail-biting
 * general skills
   * [mind-body-emotion connection](/mind-body-emotion-connection/): better awareness of my physical body experience, especially in the grips of powerful emotions, but also in using physical body experience as a way of influencing emotional experience
+  * writing shorter letters
+    * combatting my default disposition to explain all the things and lay things out in a chain-of-reasoning way
+    * bottom line up front (BLUF) / not burying the lede
