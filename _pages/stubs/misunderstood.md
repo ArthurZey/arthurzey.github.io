@@ -6,7 +6,7 @@ tags:
   - about
 description: "People often form erroneous conclusions about me, typically because some superficial manifestation of my traits correlates with some others in their experience. It's understandable, but frustrating."
 date: "2020-08-22"
-last_modified_at: "2020-08-25"
+last_modified_at: "2020-08-28"
 ---
 
 Look-- I get it. I'm a weird guy, at least by the standard of what's prevalent in our culture. The intuition that people might have based on their experiences of which traits correlate with which others doesn't always work on me.
@@ -21,17 +21,19 @@ Here's an inventory of some of the ways in which I'm commonly misunderstood:
 
 |Because I|people erroneously conclude that I|
 |-|-|
-|am principled|am inflexible|
-|have strong preferences/favorites<br />and am particular|am difficult and not easy-going|
-|[am orderly and organized](/obsessive-compulsive-order/)|[have OCD](/obsessive-compulsive-order/)|
-|sometimes am not outgoing|am standoffish/snobby|
 |do my own thing<br />or buck social conventions/norms|am trying to be provocative / attention-seeking|
 |do not allow others' uncalibrated emotions or<br />irrational opinions to influence my judgment or actions|am uncaring or intentionally attempting to provoke|
 |am willing to defend my values|like to argue|
 |am direct|am an asshole|
+|am principled|am inflexible and intransigent|
+|have strong preferences/favorites<br />and am particular|am difficult and not easy-going|
+|am often very flexible/indifferent/accommodating about superficial concretes|am too eager to please<br />or am codependent/needy/clingy<br />or am insufficiently assertive<br />or have poor boundaries<br />or am engaging in self-abnegation|
+|have difficulty saying "no"<br />and say "yes" too often|am afraid of disappointing people|
 |want to _be_ right<br />(understand the truth)|want to _appear_ right<br /> or "win" arguments|
 |don't necessarily change my mind|don't listen to others<br />or consider their opinions|
 |have definite viewpoints|am closed-minded|
+|[am orderly and organized](/obsessive-compulsive-order/)|[have OCD](/obsessive-compulsive-order/)|
+|sometimes am not outgoing|am standoffish/snobby|
 |[like and pursue certainty](/objecrtive-truth-comfort-with-uncertainty/)|[am uncomfortable with uncertainty<br />or unwilling to admit ignorance](/objecrtive-truth-comfort-with-uncertainty/)|
 |can answer objections quickly<br />or have fast answers<br />or am well prepared|engage in quick-witted rationalizations|
 |am careful with language<br />and untangle nuance|play word games|
@@ -49,6 +51,7 @@ Here's an inventory of some of the ways in which I'm commonly misunderstood:
 |spend a lot of time thinking about the past|can't "move on" or be present|
 |disagree with many economic regulations<br />and government-funded programs|am conservative / a Republican|
 |favor open borders<br />and believe in a woman's control over her own body|am politically left / a Democrat|
+|like to sort my garbage into recycling<br />and hate being wasteful|am motivated by environmentalism|
 |don't identify as a Republican or Democrat|identify as a Libertarian|
 |avoid current events|don't care about social/political/cultural issues|
 |care about social/political/cultural issues|am informed about "the news"|
