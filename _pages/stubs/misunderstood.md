@@ -32,6 +32,7 @@ Here's an inventory of some of the ways in which I'm commonly misunderstood:
 |want to _be_ right<br />(understand the truth)|want to _appear_ right<br /> or "win" arguments|
 |don't necessarily change my mind|don't listen to others<br />or consider their opinions|
 |have definite viewpoints|am closed-minded|
+|evaluate everything as good/bad, helpful/unhelpful, etc<br />or am "judgmental"|jump to conclusions too hastily<br />or am overly condemnatory|
 |[am orderly and organized](/obsessive-compulsive-order/)|[have OCD](/obsessive-compulsive-order/)|
 |sometimes am not outgoing|am standoffish/snobby|
 |[like and pursue certainty](/objective-truth-comfort-with-uncertainty/)|[am uncomfortable with uncertainty<br />or unwilling to admit ignorance](/objective-truth-comfort-with-uncertainty/)|
