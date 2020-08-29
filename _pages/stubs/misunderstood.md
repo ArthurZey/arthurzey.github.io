@@ -34,7 +34,7 @@ Here's an inventory of some of the ways in which I'm commonly misunderstood:
 |have definite viewpoints|am closed-minded|
 |[am orderly and organized](/obsessive-compulsive-order/)|[have OCD](/obsessive-compulsive-order/)|
 |sometimes am not outgoing|am standoffish/snobby|
-|[like and pursue certainty](/objecrtive-truth-comfort-with-uncertainty/)|[am uncomfortable with uncertainty<br />or unwilling to admit ignorance](/objecrtive-truth-comfort-with-uncertainty/)|
+|[like and pursue certainty](/objective-truth-comfort-with-uncertainty/)|[am uncomfortable with uncertainty<br />or unwilling to admit ignorance](/objective-truth-comfort-with-uncertainty/)|
 |can answer objections quickly<br />or have fast answers<br />or am well prepared|engage in quick-witted rationalizations|
 |am careful with language<br />and untangle nuance|play word games|
 |care about my appearance|am shallow|
