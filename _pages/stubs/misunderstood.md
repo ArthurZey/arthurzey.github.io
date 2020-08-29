@@ -21,13 +21,13 @@ Here's an inventory of some of the ways in which I'm commonly misunderstood:
 
 |Because I|people erroneously conclude that I|
 |-|-|
-|do my own thing<br />or buck social conventions/norms|am trying to be provocative / attention-seeking|
+|do my own thing<br />or buck social conventions/norms|am trying to be provocative<br />or am seeking attention|
 |do not allow others' uncalibrated emotions or<br />irrational opinions to influence my judgment or actions|am uncaring or intentionally attempting to provoke|
 |am willing to defend my values|like to argue|
 |am direct|am an asshole|
 |am principled|am inflexible and intransigent|
 |have strong preferences/favorites<br />and am particular|am difficult and not easy-going|
-|am often very flexible/indifferent/accommodating about superficial concretes|am too eager to please<br />or am codependent/needy/clingy<br />or am insufficiently assertive<br />or have poor boundaries<br />or am engaging in self-abnegation|
+|am often very flexible/indifferent/accommodating<br />about superficial concretes|am too eager to please<br />or am codependent/needy/clingy<br />or am insufficiently assertive<br />or have poor boundaries<br />or am engaging in self-abnegation|
 |have difficulty saying "no"<br />and say "yes" too often|am afraid of disappointing people|
 |want to _be_ right<br />(understand the truth)|want to _appear_ right<br /> or "win" arguments|
 |don't necessarily change my mind|don't listen to others<br />or consider their opinions|
