@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-08-25"
+last_modified_at: "2020-09-01"
 ---
 
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
@@ -56,7 +56,7 @@ I grew up in Los Angeles, and I live in the San Francisco Bay Area. But I'm in D
 
 ## Random Tidbits
 
-* I'm a homebody. The chances of my initiating going out to eat, to a bar, or to a club are extremely slim. Dark, loud, and/or crowded? No, thanks. My perfect Friday or Saturday night involves going to bed early.
+* I'm a homebody. The chances of my _initiating_ going out to eat, to a bar, or to a club are extremely slim. Dark, loud, and/or crowded? No, thanks. My perfect Friday or Saturday night involves going to bed early. But I love daytime activities, especially outdoors, and I respond well to invitations to participate in them!
 * I'm a creature of habit; I love my routines and comforts.
 * I hate wearing clothes. Specifically, I love being shirtless. It's a manifestation of my extreme vanity. (More on _that_ controversial and triggering topic later!)
 * I think glasses are incredible sexy/adorkable. I desperately wanted glasses when I was a kid, and I never understood any of the cultural norms around their being undesirable (like "four eyes, four eyes" taunting). I thought they were super cool, and even if I didn't need vision correction, they felt like a mark of being intellectual. There's more to say about all this, but now I wear glasses that offer mild vision correction, but I'd wear them regardless, just because I like the way I look in them.
