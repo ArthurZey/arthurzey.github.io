@@ -19,12 +19,11 @@ last_modified_at: "2020-08-30"
   * learning how to _not_ allow my now-automatic compassion and empathy
     * to overwhelm me emotionally
     * to function as enablement, when it's in response to others' inappropriate behavior (ie, figure out how to hold people accountable while knowing that they're doing their best and are trying to pursue legitimate values)
-    * to land as inauthentic manipulation / game-playing
   * procrastination
   * risk-aversion, the devil I know, inertia; my orientation toward routines and comfort undermining taking action to make bigger, non-incremental changes
   * learning to how to better navigate the line between
     * deescalation, being tactful, avoiding/preventing conflict ("conflict-aversion")
-    * standing up for _the truth_, being authentic, not being a doormat
+    * standing up for _the truth_, being authentic, not being a doormat, saying "no" to inappropriate behavior
   * learning how to be sensitive, compassionate, caring, understanding, tactful _without_ its landing as overthinking, game-playing, manipulation, sociopathic
   * learning how to determine when, if ever, "tough love" is appropriate instead of softer compassion
     * whether it's justified to artificially use a sharper, tactless tone because it will land better / be more effective in the moment with a person whose wounds might cause compassion to land badly (and what the long-term consequences of doing this might be)
