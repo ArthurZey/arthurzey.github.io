@@ -143,6 +143,8 @@ I grew up in Los Angeles, and I live in the San Francisco Bay Area. But I'm in D
 * [philosophy (especially ethics and epistemology, especially Objectivism)](#philosophy-objectivism)
 * [parenting theory](#parenting-and-education) (cannot wait to put this into practice)
 * snowboarding
+  * Got the [IKON Base Pass](https://www.ikonpass.com/en/shop-passes/ikon-base-pass-2020-2021){:target="&lowbar;blank"} for 2020-2021.
+  * Still figuring out which [Epic Pass](https://www.epicpass.com/pass-results/passes.aspx){:target="&lowbar;blank"} to use my 2019-2020 credit on for 2020-2021.
 * Krav Maga (at [Krav Maga San Francisco](https://www.kravmaga-sf.com){:target="&lowbar;blank"})
 * _Star Trek_
 * piano
