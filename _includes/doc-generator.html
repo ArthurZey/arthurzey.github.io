@@ -7,6 +7,9 @@ Parameters:
     * comma-concatenated list
     * docs matching any of the exclude tags override and docs with the included tags
     * default: "draft,stub,nsfw"
+  * exclude-sitemap-false
+    * will exclude docs with "sitemap: false" in Front Matter
+    * default: true
   * doc-types
     * comma-concatenated list
     * enum list of `page` and `post`
@@ -58,6 +61,12 @@ Parameters:
   {% assign tags-to-exclude = include.tags-to-exclude | split: "," %}
 {% else %}
   {% assign tags-to-exclude = "draft,stub,nsfw" | split: "," %}
+{% endif %}
+
+{% if include.exclude-sitemap-false %}
+  {% assign exclude-sitemap-false = include.exclude-sitemap-false %}
+{% else %}
+  {% assign exclude-sitemap-false = true %}
 {% endif %}
 
 {% if include.doc-types %}
@@ -197,6 +206,9 @@ Parameters:
           {% break %}
         {% endif %}
       {% endfor %}
+      {% if exclude-sitemap-false == true and doc.sitemap == false %}
+        {% assign include-doc = false %}
+      {% endif %}
       {% if date-filter-direction != "none" and date-filter-date %}
         {% assign doc-date-string = doc.date | date: "%Y-%m-%d" %}
         {% if date-filter-direction == "before" %}
