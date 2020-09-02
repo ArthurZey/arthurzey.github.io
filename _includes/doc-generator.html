@@ -6,7 +6,7 @@ Parameters:
   * tags-to-exclude
     * comma-concatenated list
     * docs matching any of the exclude tags override and docs with the included tags
-    * default: "draft,stub"
+    * default: "draft,stub,nsfw"
   * doc-types
     * comma-concatenated list
     * enum list of `page` and `post`
@@ -57,7 +57,7 @@ Parameters:
 {% if include.tags-to-exclude %}
   {% assign tags-to-exclude = include.tags-to-exclude | split: "," %}
 {% else %}
-  {% assign tags-to-exclude = "draft,stub" | split: "," %}
+  {% assign tags-to-exclude = "draft,stub,nsfw" | split: "," %}
 {% endif %}
 
 {% if include.doc-types %}

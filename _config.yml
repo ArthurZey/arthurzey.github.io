@@ -50,3 +50,11 @@ defaults:
     values:
       layout: "page"
       permalink: /:basename/
+  -
+    scope:
+      path: "_pages/nsfw"
+    values:
+      permalink: /nsfw/:basename/
+      sitemap: false
+      tags:
+        - nsfw
