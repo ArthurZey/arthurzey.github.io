@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
+    {% if page.url contains "nsfw" or page.tags contains "nsfw" %}<meta name="robots" content="noindex">{% endif %}
     {% if site.google_analytics and site.google_tag_manager and jekyll.environment == 'production' %}
       <!-- Global site tag (gtag.js) - Google Analytics -->
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
