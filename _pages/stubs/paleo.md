@@ -6,7 +6,7 @@ tags:
   - diet
 description: "While often derided as \"the caveman diet\", I think the right approach to evaluating Paleo is in thinking of it as a presumptively safe default."
 date: "2020-05-08"
-last_modified_at: "2020-07-19"
+last_modified_at: "2020-09-07"
 ---
 
 ## On This Page
@@ -31,6 +31,7 @@ last_modified_at: "2020-07-19"
 * Paleo substitutes (eg, coconut sugar)
 * refinements/alterations (eg, dairy, potatoes, rice)
 * comparison to vegetarianism and veganism, and the standing of each relative to the standard American diet
+  * philosophical versus scientific justifications
 
 ## My Rules
 
