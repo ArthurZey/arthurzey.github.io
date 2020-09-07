@@ -30,6 +30,7 @@ last_modified_at: "2020-07-19"
 * claims for self versus claims for others
 * Paleo substitutes (eg, coconut sugar)
 * refinements/alterations (eg, dairy, potatoes, rice)
+* comparison to vegetarianism and veganism, and the standing of each relative to the standard American diet
 
 ## My Rules
 
