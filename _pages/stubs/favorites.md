@@ -5,7 +5,7 @@ tags:
   - about
 description: "Brown paper packages tied up with strings; these are a few of my favorite things."
 date: "2020-05-15"
-last_modified_at: "2020-09-06"
+last_modified_at: "2020-09-08"
 ---
 
 * TOC
@@ -134,6 +134,7 @@ See also:
 * [lomo saltado](https://docs.google.com/document/d/1C1u_mlWPhGpfu31FzMTaYrgkrhGxpkBWky6sNx0ltz4/edit?usp=sharing){:target="&lowbar;blank"}
 * Paleo banana pancakes
 * omelets
+* salad
 
 ### To Eat
 _which I wouldn't necessarily cook myself_
@@ -141,18 +142,27 @@ _which I wouldn't necessarily cook myself_
 * hashbrowns
 * tater tots
 
-## Alcohol
-
-### Wine
-* malbec
-* syrah / shiraz
-* petite sirah
-* zinfandel
-
 ### Restaurants
 * Espetus Brazilian Churrascaria
 * Smashburger
 * Ruth's Chris Steakhouse
+
+### Alcohol
+* wine
+  * malbec
+  * syrah/shiraz
+  * petite sirah
+  * zinfandel
+* spirits
+  * gin (with [POG](https://en.wikipedia.org/wiki/Pog_(drink){:target="&lowbar;blank"}) or orange juice)
+  * whiskey/bourbon
+  * tequila
+
+### Flavors / Individual Foods
+* spicy
+* salty
+* potatoes
+* chocolate
 
 ## Smells
 * the leaves of tomato plants
