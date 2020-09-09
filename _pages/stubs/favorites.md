@@ -5,7 +5,7 @@ tags:
   - about
 description: "Brown paper packages tied up with strings; these are a few of my favorite things."
 date: "2020-05-15"
-last_modified_at: "2020-09-08"
+last_modified_at: "2020-09-09"
 ---
 
 * TOC
@@ -176,6 +176,8 @@ _which I wouldn't necessarily cook myself_
 
 ## Leisure Activities
 * beach and splashing around in the water
+* hiking
+* camping
 * watching TV
 
 ## Games
@@ -188,8 +190,8 @@ _which I wouldn't necessarily cook myself_
 * dragons
 
 ## Vacation Spots / Places to Visit
-* Hawai'i, especially Poipu on the island of Kauai
-* Summit County, Colorado (home of Breckenridge and Keystone, proximate to Vail and Beaver Creek)
+* Hawai'i, especially [Poipu](https://goo.gl/maps/RH4uHRNN1qHTpzH38){:target="&lowbar;blank"} on the island of Kauai
+* [Summit County, Colorado](https://goo.gl/maps/LTDx4Kfoa3FVRXKw5){:target="&lowbar;blank"} (home of Breckenridge and Keystone, proximate to Vail and Beaver Creek)
 * Lake Tahoe
 * Tel Aviv
 * Atlanta
