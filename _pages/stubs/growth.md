@@ -6,7 +6,7 @@ tags:
   - about
 description: "I really like myself, but my good-/right-by-default attitude has the built-in failure mode of making it difficult to identify areas for growth. Nevertheless, I've found a few things I can work on."
 date: "2020-06-19"
-last_modified_at: "2020-08-30"
+last_modified_at: "2020-09-11"
 ---
 
 * psychological dispositions
@@ -24,6 +24,7 @@ last_modified_at: "2020-08-30"
   * learning to how to better navigate the line between
     * deescalation, being tactful, avoiding/preventing conflict ("conflict-aversion")
     * standing up for _the truth_, being authentic, not being a doormat, saying "no" to inappropriate behavior
+  * overcoming my propensity to make false excuses to spare hurting others' feelings; instead, finding a way to be direct and kind and truthful, even if it's unpleasant for them ("direct _is_ kind")
   * learning how to be sensitive, compassionate, caring, understanding, tactful _without_ its landing as overthinking, game-playing, manipulation, sociopathic
   * learning how to determine when, if ever, "tough love" is appropriate instead of softer compassion
     * whether it's justified to artificially use a sharper, tactless tone because it will land better / be more effective in the moment with a person whose wounds might cause compassion to land badly (and what the long-term consequences of doing this might be)
