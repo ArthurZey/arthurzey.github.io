@@ -5,7 +5,7 @@ tags:
   - about
 description: "Brown paper packages tied up with strings; these are a few of my favorite things."
 date: "2020-05-15"
-last_modified_at: "2020-09-09"
+last_modified_at: "2020-09-12"
 ---
 
 * TOC
@@ -163,6 +163,7 @@ _which I wouldn't necessarily cook myself_
 * salty
 * potatoes
 * chocolate
+* papaya
 
 ## Smells
 * the leaves of tomato plants
