@@ -5,7 +5,7 @@ tags:
   - about
 description: "Brown paper packages tied up with strings; these are a few of my favorite things."
 date: "2020-05-15"
-last_modified_at: "2020-09-12"
+last_modified_at: "2020-09-13"
 ---
 
 * TOC
@@ -154,9 +154,16 @@ _which I wouldn't necessarily cook myself_
   * petite sirah
   * zinfandel
 * spirits
-  * gin (with [POG](https://en.wikipedia.org/wiki/Pog_(drink){:target="&lowbar;blank"}) or orange juice)
+  * gin (with [POG](https://en.wikipedia.org/wiki/Pog_(drink)){:target="&lowbar;blank"} or orange juice)
   * whiskey/bourbon
   * tequila
+
+### Non-Alcoholic Beverages
+* coffee (especially cold brew)
+* [LaCroix](https://www.lacroixwater.com/){:target="&lowbar;blank"}
+* [POG](https://en.wikipedia.org/wiki/Pog_(drink)){:target="&lowbar;blank"}
+* black, unsweetened iced tea
+* [teapigs liquorice and mint](https://teapigs.com/products/liquorice-and-mint){:target="&lowbar;blank"}
 
 ### Flavors / Individual Foods
 * spicy
