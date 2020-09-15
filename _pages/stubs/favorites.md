@@ -5,7 +5,7 @@ tags:
   - about
 description: "Brown paper packages tied up with strings; these are a few of my favorite things."
 date: "2020-05-15"
-last_modified_at: "2020-09-13"
+last_modified_at: "2020-09-15"
 ---
 
 * TOC
@@ -161,6 +161,12 @@ _which I wouldn't necessarily cook myself_
 ### Non-Alcoholic Beverages
 * coffee (especially cold brew)
 * [LaCroix](https://www.lacroixwater.com/){:target="&lowbar;blank"}
+  * [Múre Pepino](https://www.lacroixwater.com/flavors/mure-pepino/){:target="&lowbar;blank"}
+  * [Melón Pomelo](https://www.lacroixwater.com/flavors/melon-pomelo/){:target="&lowbar;blank"}
+  * [Mango](https://www.lacroixwater.com/flavors/mango/){:target="&lowbar;blank"}
+  * [Apricot](https://www.lacroixwater.com/flavors/apricot/){:target="&lowbar;blank"}
+  * [Peach-Pear](https://www.lacroixwater.com/flavors/peach-pear/){:target="&lowbar;blank"}
+  * [Razz-Cranberry](https://www.lacroixwater.com/flavors/razz-cranberry/){:target="&lowbar;blank"}
 * [POG](https://en.wikipedia.org/wiki/Pog_(drink)){:target="&lowbar;blank"}
 * black, unsweetened iced tea
 * [teapigs liquorice and mint](https://teapigs.com/products/liquorice-and-mint){:target="&lowbar;blank"}
