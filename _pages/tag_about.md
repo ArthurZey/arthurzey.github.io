@@ -753,11 +753,17 @@ Boy Scouts?
   </tr>
   <tr>
     <td markdown="span"></td>
-    <td markdown="span" rowspan="2">Amazon:<br />[Alexa Tech Docs](https://developer.amazon.com/en-US/alexa){:target="&lowbar;blank"}</td>
+    <td markdown="span" rowspan="3">Amazon:<br />[Alexa Tech Docs](https://developer.amazon.com/en-US/alexa){:target="&lowbar;blank"}</td>
     <td markdown="span"></td>
   </tr>
   <tr>
-    <th markdown="span">2020</th>
+    <th markdown="span" rowspan="2">2020</th>
+    <td markdown="span"></td>
+    <td markdown="span"></td>
+  </tr>
+  <tr>
+    <td markdown="span">Denver, CO</td>
+    <td markdown="span"></td>
     <td markdown="span"></td>
     <td markdown="span"></td>
   </tr>
