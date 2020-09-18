@@ -5,7 +5,7 @@ tags:
   - about
 description: "Brown paper packages tied up with strings; these are a few of my favorite things."
 date: "2020-05-15"
-last_modified_at: "2020-09-15"
+last_modified_at: "2020-09-18"
 ---
 
 * TOC
@@ -241,6 +241,11 @@ _which I wouldn't necessarily cook myself_
 ### Kitchen Equipment
 * [Mellow](https://www.cookmellow.com/){:target="&lowbar;blank"}
 * [electric griddle](https://smile.amazon.com/dp/B005FYF3OY/){:target="&lowbar;blank"}
+
+### Automobiles
+* Honda CR-V
+* BMW 760 Li (circa 2000, when they still had the "cat eyes" taillights)
+* Honda Odyssey (circa 2000)
 
 ## Architecture
 * glass and steel
