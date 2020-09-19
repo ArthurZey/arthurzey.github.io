@@ -6,7 +6,7 @@ tags:
   - about
 description: "People often form erroneous conclusions about me, typically because some superficial manifestation of my traits correlates with some others in their experience. It's understandable, but frustrating."
 date: "2020-08-22"
-last_modified_at: "2020-09-17"
+last_modified_at: "2020-09-19"
 ---
 
 Look-- I get it. I'm a weird guy, at least by the standard of what's prevalent in our culture. The intuition that people might have based on their experiences of which traits correlate with which others doesn't always work on me.
@@ -36,6 +36,7 @@ Here's an inventory of some of the ways in which I'm commonly misunderstood:
 |[am orderly and organized](/obsessive-compulsive-order/)|[have OCD](/obsessive-compulsive-order/)|
 |sometimes am not outgoing|am standoffish/snobby|
 |am excitable, goofy, weird, awkward, irreverent|am unserious, aloof, vapid|
+|am loud and energetic and talk fast|am [extroverted](introversion-and-extroversion)|
 |[like and pursue certainty](/objective-truth-comfort-with-uncertainty/)|[am uncomfortable with uncertainty<br />or unwilling to admit ignorance](/objective-truth-comfort-with-uncertainty/)|
 |can answer objections quickly<br />or have fast answers<br />or am well prepared|engage in quick-witted rationalizations|
 |am careful with language<br />and untangle nuance|play word games|
