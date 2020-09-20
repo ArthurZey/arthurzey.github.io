@@ -97,7 +97,7 @@ I grew up in Los Angeles, and I live in the San Francisco Bay Area. But I'm in D
     honesty to yourself.
   * _You're called to do something brave, but your fear is real. What's the very first thing you do?_\\
     breathe
-  * _Something that people often get wrong about you is_\\
+  * _[Something that people often get wrong about you](/misunderstood/) is_\\
     that I like arguing, just because I'm willing to defend my beliefs.
   * _Last show that you watched, binged, and loved:_\\
     [as of April 2020, _The Magicians_](https://trakt.tv/users/arthurzey/history?show=100940){:target="&lowbar;blank"}
