@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-09-19"
+last_modified_at: "2020-09-22"
 ---
 
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
@@ -104,7 +104,7 @@ I grew up in Los Angeles, and I live in the San Francisco Bay Area. But I'm in D
   * _[Favorite movie](/favorites/#movies):_\\
     [_The Time Traveler's Wife_](https://trakt.tv/movies/the-time-traveler-s-wife-2009){:target="&lowbar;blank"}
   * _A concert that you'll never forget:_\\
-    While at university, I got access to discounted student tickets to the LA Opera to see Mozart's _The Magic Flute_. We got seats 4 rows from the stage, and my friends had to keep hitting me to stop singing along, since I had been listening to all the songs on repeat for a week leading up to it.
+    While at university, I got access to discounted student tickets to the LA Opera to see Mozart's [_The Magic Flute_](https://open.spotify.com/album/45QGB3unppoM0c5CoRobJK?si=M9oJTpCBTbGAQeFNE_dQBg){:target="&lowbar;blank"}. We got seats 4 rows from the stage, and my friends had to keep hitting me to stop singing along, since I had been listening to all the songs on repeat for a week leading up to it.
   * _[Favorite meal](/favorites/#to-eat):_\\
     ribeye steak, with a side of french fries cooked in beef tallow, a gigantic salad, and a glass of Malbec
   * _What's on your nightstand right now?_\\
