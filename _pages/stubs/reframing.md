@@ -5,14 +5,14 @@ tags:
   - psychology
 description: "There are a lot of phrases we use that have subtle psychological effects on how we approach ourselves, others, and the world generally."
 date: "2020-04-07"
-last_modified_at: "2020-07-20"
+last_modified_at: "2020-09-23"
 ---
 
 There are a lot of phrases we use that have subtle psychological effects on how we approach ourselves, others, and the world generally.
 
 I've been thinking a lot about certain kinds of reframings that have been very helpful for me:
 
-* "[X] makes me feel [Y]" &rarr; "I feel [Y] because [X] holds [Z] meaning for me"
+* "[X] makes me feel [Y]" &rarr; "I feel [Y] because [X] holds [Z] meaning for me" or "hearing [X], I feel [Y]"
 * "endure" &rarr; "choose"
 * "let go" &rarr; "sit with" or "let be"
 * "let myself [X]" &rarr; "direct myself [X]" or just "I [X]"
