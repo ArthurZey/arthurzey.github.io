@@ -6,7 +6,7 @@ tags:
   - fitness
 description: "Why does physical fitness occupy such a prominent place in my life? And how does my concern with physical fitness manifest and relate to other values?"
 date: "2020-04-20"
-last_modified_at: "2020-05-14"
+last_modified_at: "2020-09-25"
 ---
 
 I imagine that this will likely end up being a whole section of examining physical fitness from different angles. My immediate purpose is to go into a bit of detail about why physical fitness occupies such a prominent place in my life and exactly how it manifests.
@@ -24,3 +24,5 @@ Here are a few areas I'd like to explore:
 * the role of my genetics in why achieving fitness goals is so rewarding
 * social stigma against judging / concern with the physical: "even deep waters have a surface"
 * terms like "narcissism" and "vanity"
+
+I'll definitely need a page or section that summarizes what my current physical fitness (diet and exercise) routines are, as well as the historical evolution of my approach.
