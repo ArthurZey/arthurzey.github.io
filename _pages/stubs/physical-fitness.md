@@ -51,7 +51,7 @@ My approach is inspired by the science/logic/algorithms that were later incorpor
 ### Cycle
 
 Here is a typical full cycle of my diet:
-1. cut / caloric deficit
+* cut / caloric deficit
   * drop body fat while preserving muscle
   * typically correlates with one round of
     * 2 basic hypertrophy cycles
@@ -63,14 +63,14 @@ Here is a typical full cycle of my diet:
       * inability to sleep (mostly because fantasizing about food / next feast day)
       * chronic leg fatigue
       * "cut until you hate life"
-2. bulk / mass / caloric surplus
+* bulk / mass / caloric surplus
   * put on muscle while minimizing fat gain
   * typically correlates with one or two rounds of
     * 2 basic hypertrophy cycles
     * 1 metabolite focus cycle
   * typically 17-34 weeks
     * "bulk until you hate your body" (which is tongue in cheek; for me, that means I don't like my ab definition anymore and I have a lot more paunch than I would like)
-3. maintenance
+* maintenance
   * help body to "set" the muscle gains
   * typically correlates with the 4-week resensitization mesocycle of the last template used for a bulk
 
@@ -106,18 +106,18 @@ With a feast day, I have to budget something that will work "pretty okay" and pr
 
 So how about macros? Well, I tend to use carbs as a performance-enhancing drug, so I time them around my lifts. So what follows is for lifting days, regardless of what diet phase I'm in. I tend to be willy-nilly on macronutrient breakdowns on non-lifting days, being low-carb on non-feast days and a total carb glutton on feast days (if that's what I'm craving!).
 
-For purposes of the table, let's use _x_ to refer to the total calories for that day. The entry in **bold** is the first part of the calculation (with other columns showing other representations of the same information).
+Here's the high-level algorithm:
+1. pin fat intake to be 25-30% of total calories (probably closer to 25% for a cut)
+2. pin protein to be 1.5 to 2 grams per pound of body weight
+3. remainder from carbs
+
+Here's a more detailed view. For purposes of the table, let's use _x_ to refer to the total calories for that day. The entry in **bold** is the first part of the calculation (with other columns showing other representations of the same information).
 
 |Macronutrient|Calories|Grams|Example for 1800-1900 calories|
 |-|-|-|-|
 |Fat (9 calories/gram)|**25-30% of _x_**|min: 0.25 * _x_ / 9<br />max: 0.3 * _x_ / 9|450 calories<br />50 grams|
 |Protein (4 calories/gram)|min: (body weight in lbs) * 1.5 * 4<br >max: (body weight in lbs) * 2 * 4|**min: (body weight in lbs) * 1.5<br >max: (body weight in lbs) * 2**|1080 calories<br />270 grams|
 |Carbs (4 calories/gram)|**_x_ - (calories from fat + calories from protein)**|(_x_ - (calories from fat + calories from protein)) / 4|280 calories<br />70 grams|
-
-Put another way:
-1. pin fat intake to be 25-30% of total calories (probably closer to 25% for a cut)
-2. pin protein to be 1.5 to 2 grams per pound of body weight
-3. remainder from carbs
 
 A few notes:
 * Notice that the numbers don't line up exactly? This is why I deal with ranges, to make calculations a bit easier. So I do a bit of fudging within 50ish calories and round to nearest 5-10 grams. This also translates into a bit of fudging when it comes to estimating food quantities (eg, 1/4-cup of rice, not 3/16-cups of rice) and exact compositions.
