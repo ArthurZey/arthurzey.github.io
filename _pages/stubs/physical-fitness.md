@@ -6,10 +6,21 @@ tags:
   - fitness
 description: "Why does physical fitness occupy such a prominent place in my life? And how does my concern with physical fitness manifest and relate to other values?"
 date: "2020-04-20"
-last_modified_at: "2020-09-26"
+last_modified_at: "2020-09-27"
 ---
 
-I imagine that this will likely end up being a whole section of examining physical fitness from different angles. My immediate purpose is to go into a bit of detail about why physical fitness occupies such a prominent place in my life and exactly how it manifests.
+## On This Page
+{:.no_toc}
+* TOC
+{:toc}
+{::options toc_levels="2..3" /}
+
+## Introduction
+{:.no_toc}
+
+I imagine that this will likely end up being a whole section of examining physical fitness from different angles. My immediate purposes are to give an indication as to why physical fitness occupies such a prominent place in my life and exactly how it manifests, provide a bit of detail about what I do for exercise and diet, and describe some of my personal history and evolution in my approach(es).
+
+## Physical Fitness, Philosophically
 
 Here are a few areas I'd like to explore:
 
@@ -26,8 +37,6 @@ Here are a few areas I'd like to explore:
 * terms like "narcissism" and "vanity"
 * exercise versus recreation and cardio
 
-I'll definitely need a page or section that summarizes what my current physical fitness (diet and exercise) routines are, as well as the historical evolution of my approach.
-
 ## Exercise
 
 I use the [Renaissance Periodization Male Physique Templates](https://renaissanceperiodization.com/male-physique-training-templates){:target="&lowbar;blank"} (full-body, 4-day-per-week, which is basically an upper-lower-upper-lower split).
@@ -37,12 +46,12 @@ There's a bit of nuance, but I basically go through the template (three or four 
 A few high-level notes:
 * A "mesocycle" is a 4-to-6-week progression in which weights increase week over week, and the number of sets depends on performance the previous time that muscle group was worked. The last week of a mesocycle is a "deload" week, where the weights are very low; think of it as a "rest" week where there's still a bit of stimulation/activity. Mesocycles come in three flavors:
   * basic hypertrophy (medium-to-high weight), more reps
-  * metabolite focus (low-to-medium weight), way more reps
+  * metabolite focus (low-to-medium weight), way more reps, little rest between sets
   * resensitization (high weight), fewer reps
-* I estimate my 10-rep max ("10RM") for each exercise I select. On that basis, the template tells me what weights to use in each week as I progress.
+* I estimate my 10-rep max ("10RM") for each exercise I select at the start of a mesocycle. On that basis, the template tells me what weights to use in each week as I progress.
 * I often have to make modifications because of my [knee issues](/knee-issues/), lower-back sensitivity, and propensity for elbow tendonitis.
 * I typically lift Mondays, Tuesdays, Thursdays, and Fridays.
-* I don't do any "cardio" as a formal part of my routine (proper lifting provides all the cardiovascular conditioning I could need or want for any practical purposes), but I do enjoy recreation whenever it comes up as a fun thing to do!
+* I don't do any "cardio" as a formal part of my routine (proper lifting provides all the cardiovascular conditioning I could need or want for any practical purposes), but I do enjoy recreation whenever it comes up as a fun thing to do! During a cut, I intentionally find opportunities for more low-intensity, steady-state "cario", like walking/hiking.
 
 ## Diet
 
@@ -52,7 +61,7 @@ My approach is inspired by the science/logic/algorithms that were later incorpor
 
 Here is a typical full cycle of my diet:
 * cut / caloric deficit
-  * drop body fat while preserving muscle
+  * drop body fat while preserving muscle: target rate is to lose 1 lb / week
   * typically correlates with one round of
     * 2 basic hypertrophy cycles
     * maybe a metabolite focus cycle
@@ -64,7 +73,7 @@ Here is a typical full cycle of my diet:
       * chronic leg fatigue
       * "cut until you hate life"
 * bulk / mass / caloric surplus
-  * put on muscle while minimizing fat gain
+  * put on muscle while minimizing fat gain: target rate is to gain 1 lb / week
   * typically correlates with one or two rounds of
     * 2 basic hypertrophy cycles
     * 1 metabolite focus cycle
@@ -80,7 +89,7 @@ As I understand, total calorie deficit/surplus accounts for about 80% of body mo
 
 The basic figure that I start with is my "maintenance calories". This is _not_ basal metabolic rate; this is the number of calories I need to consume to maintain my weight, _given my typical activity levels_. For me, that's roughly 3500 to 4000 calories. (Yes, I have an unusually high metabolism!) I discovered this through scrupulous tracking of calories and weight, putting the data in a spreadsheet, and fitting some curves! I err on the side of fewer calories, so I peg that at 3500.
 
-I've found that, regardless of whether I'm cutting or bulking, since I'm limiting my caloric intake (yes, even on a bulk, so as to not put on too much fat!), I benefit from having a weekly feast day of unlimited calories. It's "feast" not "cheat" for conceptual/linguistic/psychological reasons, particularly because it's an intentional part of the plan, not a departure from it.
+I've found that, regardless of whether I'm cutting or bulking, since I'm limiting my caloric intake (yes, even on a bulk, so as to not put on too much fat!), I benefit from having a weekly feast day of unlimited calories. It's "feast", not "cheat", for conceptual/linguistic/psychological reasons, particularly because it's an intentional part of the plan, not a departure from it.
 
 To lose or synthesize a pound of flesh, it's about 3500 calories deficit or surplus, respectively. On cuts and bulks, I project about a pound per week change; anything faster seems to not work well for me. So my daily average on a cut has to be 3000, and my daily average on a bulk has to be 4000.
 
@@ -123,6 +132,7 @@ A few notes:
 * Notice that the numbers don't line up exactly? This is why I deal with ranges, to make calculations a bit easier. So I do a bit of fudging within 50ish calories and round to nearest 5-10 grams. This also translates into a bit of fudging when it comes to estimating food quantities (eg, 1/4-cup of rice, not 3/16-cups of rice) and exact compositions.
 * I'm pretty loose about protein versus carbs, so I often err on the side of more protein. Any protein your body doesn't use gets converted into carbs anyway, and I tend to feel better consuming more protein.
 * Time the protein-carb combinations to be close to workouts. Move fat away from workouts.
+* Philosophically/psychologically, this is really important: Once the plan is in place (eg, a particular cut/bulk phase or mesocycle), [adherence to the _process_ is critical, no matter what the scale says, day to day](/goal-oriented-is-process-oriented/). I weigh myself daily, but I do _not_ allow that to shake my commitment to the process. Just because my weight on a cut doesn't decrease one day as much as I might have liked, that does _not_ mean that I eat fewer calories the next day or decide to go on an ad hoc 10-mile run. I trust the process, and I reevaluate and adjust it _only when I've gone through it_. Trying to make adjustments mid-stream introduces more statistical noise into an already quasi-chaotic system, making it more difficult to extract useful data about the efficacy of any particular approach. Do keep in mind, though, that the committed-to process may itself have built-in adjustment mechanisms or even "escape hatches" (such as the health indicators that tell me it's time to end my cut)--that's not a problem; like "feast" days (that are _not_ "cheat" days), those mechanisms are part of the process, to be evaluated at its conclusion.
 
 Optimizations that make cuts more bearable for me:
 * unlimited feast days (covered above)
