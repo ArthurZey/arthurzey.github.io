@@ -6,7 +6,7 @@ tags:
   - fitness
 description: "Why does physical fitness occupy such a prominent place in my life? And how does my concern with physical fitness manifest and relate to other values?"
 date: "2020-04-20"
-last_modified_at: "2020-09-27"
+last_modified_at: "2020-09-28"
 ---
 
 ## On This Page
@@ -104,7 +104,7 @@ With a feast day, I have to budget something that will work "pretty okay" and pr
 * cut
   * total calories per week is 3000*7=21000
   * budget 10000 calories for a weekly feast day (yes, this is totally possible!)
-  * (21000-10000)/6 &thickapprox; 1833
+  * (21000-10000)/6 &#8776; 1833
   * practically, I target 1800-1900 calories daily
 * bulk
   * total calories per week is 4000*7=28000
