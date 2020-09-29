@@ -117,7 +117,8 @@ So how about macros? Well, I tend to use carbs as a performance-enhancing drug, 
 
 Here's the high-level algorithm:
 1. pin fat intake to be 25-30% of total calories (probably closer to 25% for a cut)
-2. pin protein to be 1.5 to 2 grams per pound of body weight
+2. pin protein to be 1.5 to 2 grams per pound of body weight\\
+  _Disclaimer: The general recommendation for maxing out muscle-sparing / protein synthesis requirements based on the science is something in the range of 1 gram of protein per pound of **lean** body weight to 1 gram of protein per pound of **total** body weight, which leaves more calories from carbs to use as fuel. My going well above that is based on my own experimentation around what helps me to feel better and do better with satiety._
 3. remainder from carbs
 
 Here's a more detailed view. For purposes of the table, let's use _x_ to refer to the total calories for that day. The entry in **bold** is the first part of the calculation (with other columns showing other representations of the same information).
