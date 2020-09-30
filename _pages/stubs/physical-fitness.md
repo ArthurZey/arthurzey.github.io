@@ -6,7 +6,7 @@ tags:
   - fitness
 description: "Why does physical fitness occupy such a prominent place in my life? And how does my concern with physical fitness manifest and relate to other values?"
 date: "2020-04-20"
-last_modified_at: "2020-09-28"
+last_modified_at: "2020-09-30"
 ---
 
 ## On This Page
@@ -56,6 +56,8 @@ A few high-level notes:
 ## Diet
 
 My approach is inspired by the science/logic/algorithms that were later incorporated into the [RP Diet App](https://www.rpdiet.app){:target="&lowbar;blank"}. (Full disclosure: I worked on the UX for earlier versions of the app, and now my brother [Andrew](https://www.linkedin.com/in/andrewzey/) is their CTO / lead engineer!) I don't use the app or their templates, since I prefer to exercise more granular control over my diet design, especially by making various adjustments that help my cuts be more tolerable/effective (eg, reducing hunger pains, preventing hanger, avoiding ruining my health).
+
+What about [Paleo](/paleo/)? Strictly speaking, Paleo and my calorie-counting/bodybuilding goals are orthogonal (or at least tangential). I eat [Paleo](/paleo/) for non-bodybuilding health reasons. Think of it roughly like this: [Paleo](/paleo/) is about _what_ I eat (qualitative/substantive), whereas my bodybuilding dietary plan is about _how much_ I eat (quantitative).
 
 ### Cycle
 

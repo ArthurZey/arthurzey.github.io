@@ -6,7 +6,7 @@ tags:
   - diet
 description: "While often derided as \"the caveman diet\", I think the right approach to evaluating Paleo is in thinking of it as a presumptively safe default."
 date: "2020-05-08"
-last_modified_at: "2020-09-07"
+last_modified_at: "2020-09-30"
 ---
 
 ## On This Page
@@ -23,7 +23,7 @@ last_modified_at: "2020-09-07"
 * modern-day approximations
 * the anti-concept of "processed foods"
 * GMOs / organic foods
-* Paleo "versus" bodybuilding goals
+* Paleo "versus" [bodybuilding goals](/physical-fitness/#diet)
 * presumptive safety versus claims of optimality
 * burden of proof
 * scientific backing
@@ -34,6 +34,8 @@ last_modified_at: "2020-09-07"
   * philosophical versus scientific justifications
 
 ## My Rules
+
+Strictly speaking, Paleo and my [calorie-counting/bodybuilding goals](/physical-fitness/#diet) are orthogonal (or at least tangential). I eat Paleo for non-bodybuilding health reasons. Think of it roughly like this: Paleo is about _what_ I eat (qualitative/substantive), whereas my [bodybuilding dietary plan](/physical-fitness/#diet) is about _how much_ I eat (quantitative).
 
 * Yes _(overrides anything on the "No" list)_
   * meat (beef, pork, lamb, chicken, turkey; not a fan of other meats)
@@ -55,6 +57,16 @@ last_modified_at: "2020-09-07"
     * honey
     * maple syrup
     * coconut sugar
+  * beverages
+    * [LaCroix](https://www.lacroixwater.com/){:target="&lowbar;blank"} and similar "hint-of-flavor" fizzy waters
+    * caffeinated coffee/tea (before noon)
+    * decaffeinated coffee/tea (before 15:00ish)
+    * caffeine-free tea
+    * 100% fruit juices (particularly if especially pulpy)
+    * wine
+    * whiskey/bourbon
+    * tequila
+
 * No
   * grains (eg, bread, pasta, corn; anything with gluten)
   * soy (oil, soy sauce, milk, tofu, lethicin, etc; but tamari is okay)
