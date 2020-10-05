@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-09-27"
+last_modified_at: "2020-10-05"
 ---
 
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
@@ -67,7 +67,7 @@ I grew up in Los Angeles, and I live in the San Francisco Bay Area. But I'm in D
 * I'm extremely risk-averse, definitely to a fault and in a very anxiety-provoking way. This is a disposition I really need to keep in check.
 * I'm extremely conflict-averse, which [people often find surprising](/misunderstood/), and which sometimes manifests as being too accommodating and encouraging being taken advantage of. But on matters of principle, I absolutely do not shy away from defending my values.
 * As a kid, I _hated_ getting dirty. I didn't like playing in puddles or mud. I _loved_ bathing. It's probably related to my attitudes about hygiene and cleanliness today, including perhaps my tactile aversion to stickiness and dust/chalk, my dislike of slimy foods, and paranoia about STDs. [I literally and figuratively colored inside the lines (and still do).](/rules/)
-* I'm extremely materialistic in that I attach high sentimental value to things most people would regard as unimportant--so I can't throw anything away. I think this is because "things" help to ground me in physical reality and provide an anchor for my memory, which feels fragile and fallible. But with the exception of groceries and occasional tech splurges, I'm pretty darned frugal by nature.
+* I'm extremely materialistic in that I attach high sentimental value to things most people would regard as unimportant--so I can't throw anything away. I think this is because "things" help to ground me in physical reality and provide an anchor for my memory, which feels fragile and fallible. I love my memorabilia; almost everything "sparks joy" (shove it, Marie Kondo!). But with the exception of groceries and occasional tech splurges, I'm pretty darned frugal by nature. (Also, already having way too many things helps create an incentive against acquiring even more things!)
 * I _love_ the beach and the ocean, and while I don't pursue them often enough, I enjoy all manners of water sports and being on various water crafts.
 * I enjoy camping and hiking (after all, I'm an Eagle Scout), but I rarely initiate it, instead enthusiastically participating when others organize trips. (I wonder why that is...and how much of it might be more that I just like to think that I'm the kind of person who likes camping, considering how much I actually really like to stay clean and love my routines and creature comforts.)
 * I _hate_ traveling by plane, but I _love_ the phenomenon of flying. I love window seats so that I can be filled with amazement at how we're in a metal can hurtling through the sky at incredible speeds and marvel at what human ingenuity can achieve. But the whole end-to-end process of commercial flying is super stressful, from booking air travel, to packing lightly enough, to getting to airports on time, to TSA security theatre, to numerous travel modality switching (car, walking, flying, walking, car), to sitting in claustrophobia-inducing uncomfortable seats that are not suited for someone who is 6'2". It means that if it's within an hour or two difference (eg, SF to LA), I'd much rather drive, even though driving is also super stressful for me (especially because of paranoia of getting speeding citations).
