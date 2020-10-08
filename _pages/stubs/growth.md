@@ -6,7 +6,7 @@ tags:
   - about
 description: "I really like myself, but my good-/right-by-default attitude has the built-in failure mode of making it difficult to identify areas for growth. Nevertheless, I've found a few things I can work on."
 date: "2020-06-19"
-last_modified_at: "2020-09-18"
+last_modified_at: "2020-10-07"
 ---
 
 * psychological dispositions
@@ -36,6 +36,7 @@ last_modified_at: "2020-09-18"
     * not wanting to "use things up", then losing them anyway (eg, stickers, food items)
   * letting the "perfect" be the enemy of the good
   * (better) overcoming [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out){:target="&lowbar;blank"} and being disciplined about pursuing my own values and interests (eg, going to bed instead of staying up late, socializing)
+  * dealing with change better; not being so overwhelmed and distressed by it
 * specific behaviors
   * investigating dermatological phenomena
   * nail-biting
