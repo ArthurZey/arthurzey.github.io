@@ -6,7 +6,7 @@ tags:
   - about
 description: "I really like myself, but my good-/right-by-default attitude has the built-in failure mode of making it difficult to identify areas for growth. Nevertheless, I've found a few things I can work on."
 date: "2020-06-19"
-last_modified_at: "2020-10-07"
+last_modified_at: "2020-10-09"
 ---
 
 * psychological dispositions
@@ -37,6 +37,9 @@ last_modified_at: "2020-10-07"
   * letting the "perfect" be the enemy of the good
   * (better) overcoming [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out){:target="&lowbar;blank"} and being disciplined about pursuing my own values and interests (eg, going to bed instead of staying up late, socializing)
   * dealing with change better; not being so overwhelmed and distressed by it
+  * emotional resilience to things outside my control
+    * I find that my mood can fluctuate wildly in response to external factors that I have no control over, simply because those things have a profound power to affect my values and well being. This makes me vulnerable to severe emotional dysregulation, which is particularly problematic when it manifests as dorsal vagal collapse (since it turns into a vicious cycle of incapacitation/inaction and inviting more external factors that work against my interests). While there are strategies to come out of such a state, I wonder whether I can develop some way of being or skill around ["accept[ing] the things I cannot change"](https://en.wikipedia.org/wiki/Serenity_Prayer){:target="&lowbar;blank"} and thereby avoiding the intensity of the emotional reaction in the first place. My hope is that my daily meditation practice has already helped tremendously in this regard, but it's hard to know for certain.
+    * I'm also wondering whether this kind of "resilience" can be scoped to only unpleasant emotions. In general, I've found (and my understanding of the science is) that emotional intensity is agnostic to the substance of the emotions, even at the coarseness of pleasant-versus-unpleasant. (And this is why attempts to numb unpleasant emotions, especially pharmacologically, also results in numbing joy and happiness.) So what would the effect be on the experience of pleasant feelings (in response to value-supporting events outside of one's control) of being more "stoic" about value-threatening events outside one's control? Offhand, it seems that "uncalibrated" joy in response to good things is not really a problem, and, if anything, rather nice.
 * specific behaviors
   * investigating dermatological phenomena
   * nail-biting
