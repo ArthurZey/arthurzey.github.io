@@ -5,7 +5,7 @@ tags:
   - psychology
 description: "What does it mean to \"control\" one's emotions, and what's healthy or even possible?"
 date: "2020-04-07"
-last_modified_at: "2020-07-27"
+last_modified_at: "2020-10-14"
 ---
 
 There's a lot of equivocation on what it means to be able to control one's emotions. I want to untangle a few different senses of the phrase and offer my views on what I think is possible and healthy:
@@ -17,6 +17,8 @@ There's a lot of equivocation on what it means to be able to control one's emoti
 A related matter is whether phrases like "control" and "regulation" refer to the emotion itself or the behavior that results. Sometimes, we talk about a person having great skill in "emotional regulation" when they are able to conduct themselves appropriately, despite turbulent emotions. In my view, that's a confusing way to describe the skill: That's _behavioral_ regulation, not _emotional_ regulation. The emotion is what it is; it's the choice in behavior that's the regulation. Mindfulness meditation teaches letting emotions be what they are, leaning into them (and sometimes "letting them go"), and not moralizing them; that seems inconsistent with the connotation that "regulation" has when we're talking about a specific instance of having an emotion (in the sense of #1 above).
 
 However, I think that "emotional regulation" is a fine way to describe #2 and #3, but I get the sense that people don't usually mean those by the phrase.
+
+Another angle I'd like to explore about behavioral regulation is the conflict or tension that might arise in a person between their internal emotional state and the outward behavior they manifest. In particular, I want to do some thinking about ways in which this might be good (eg, training one's emotional mechanisms, à la [CBT](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy){:target="&lowbar;blank"}) versus its amounting to repression. Derivatively, I'm wondering whether this can land as inauthentic or phony with other people and then how much the intended outcome is thereby undermined.
 
 Some notes from Andrew:
 
