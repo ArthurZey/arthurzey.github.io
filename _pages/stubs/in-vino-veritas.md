@@ -6,12 +6,12 @@ tags:
   - about
 description: "I am a strong believer that in wine lies the truth. But why does alcohol have seemingly different effects on different people in this regard?"
 date: "2020-07-07"
-last_modified_at: "2020-07-07"
+last_modified_at: "2020-10-16"
 ---
 
 In my observation, alcohol often removes inhibitions and reveals the default dispositions of a person.
 
-Now, I don't think that we need to moralize what is revealed; after all, if a person is an "angry drunk", but conducts themselves with grace and tact when sober, that might reveal skill in mindfulness and self-regulation. Or it could reveal severe repression. On the surface, we just don't know, so it would be presumptuous to draw too many conclusions.
+Now, I don't think that we need to moralize what is revealed; after all, if a person is an "angry drunk", but conducts themselves with grace and tact when sober, that might reveal skill in mindfulness and self-regulation. Or it could reveal severe repression. On the surface, we just don't know, so it would be presumptuous to draw too many conclusions. (Perhaps there are some connections to aspects of [emotional control](/emotional-control/)?)
 
 We might still ask whether the person ought to invest effort in resolving the underlying causes of the anger that they then manage the manifestation of. Or perhaps we might suspect that drinking alcohol is a poor choice for such a person (or that they might do it carefully).
 
