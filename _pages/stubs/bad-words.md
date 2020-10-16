@@ -6,7 +6,7 @@ tags:
   - language
 description: "Whether \"curse words\" or hurtful words, whether rooted in sexism, racism, sex-negativity, or anything else, there's a lot to say about how we use language and so-called \"bad words\"."
 date: "2020-04-30"
-last_modified_at: "2020-07-15"
+last_modified_at: "2020-10-15"
 ---
 
 There are a lot of dimensions here I'd like to explore...and I might have to split some of this off into different posts altogether:
@@ -32,10 +32,12 @@ There are a lot of dimensions here I'd like to explore...and I might have to spl
   * using technically "wholesome" words to convey unkindness
   * the speaker's meaning attached to words
   * the speaker's concern for the listener's sensitivities (rational and irrational)
+    * analogy to someone's fear of dog (also recent bite versus long-standing fear) at a party versus allergy to dogs
+    * scenario of someone recently having been the victim of bigotry and therefore very sensitive
 * the listener's responsibility
   * in self-regulation and reaction
   * in judging the speaker
-  * in asking for what they want politely, rather than an attitude of entitlement or condescension
+  * in asking for what they want politely, rather than with an attitude of entitlement or condescension
 * corporate policies on terminology to use versus private / interpersonal contexts
   * when to speak up
     * motives
