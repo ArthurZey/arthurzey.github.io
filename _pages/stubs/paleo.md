@@ -6,7 +6,7 @@ tags:
   - diet
 description: "While often derided as \"the caveman diet\", I think the right approach to evaluating Paleo is in thinking of it as a presumptively safe default."
 date: "2020-05-08"
-last_modified_at: "2020-09-30"
+last_modified_at: "2020-10-18"
 ---
 
 ## On This Page
@@ -46,7 +46,7 @@ Strictly speaking, Paleo and my [calorie-counting/bodybuilding goals](/physical-
   * white rice
   * nuts (eg, cashews, almonds, macadamia, hazel, walnuts, Brazil; _not_ peanuts, since they're not nuts!)
   * animal fats (butter, bacon grease, tallow, etc.)
-  * certain non-animal oils
+  * certain non-animal-fat oils
     * coconut oil
     * olive oil
     * avocado oil
@@ -64,9 +64,9 @@ Strictly speaking, Paleo and my [calorie-counting/bodybuilding goals](/physical-
     * caffeine-free tea
     * 100% fruit juices (particularly if especially pulpy)
     * wine
+    * gin
     * whiskey/bourbon
     * tequila
-
 * No
   * grains (eg, bread, pasta, corn; anything with gluten)
   * soy (oil, soy sauce, milk, tofu, lethicin, etc; but tamari is okay)
