@@ -6,7 +6,7 @@ tags:
   - fitness
 description: "Why does physical fitness occupy such a prominent place in my life? And how does my concern with physical fitness manifest and relate to other values?"
 date: "2020-04-20"
-last_modified_at: "2020-09-30"
+last_modified_at: "2020-10-20"
 ---
 
 ## On This Page
@@ -26,6 +26,7 @@ Here are a few areas I'd like to explore:
 
 * media imagery: the role of cartoon depictions of superheroes and developmental concepts of masculinity
 * consistency and integration: developing not only the mind, but also the body
+* connection to [rules](/rules/), [discipline](/discipline/), and how cheating is psychologically untenable for me
 * the body as a work of art (functional "versus" aesthetic goals)
 * connection to physical health
 * self-esteem versus second-handed approval-/attention-seeking
