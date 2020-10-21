@@ -6,7 +6,7 @@ tags:
   - about
 description: "I really like myself, but my good-/right-by-default attitude has the built-in failure mode of making it difficult to identify areas for growth. Nevertheless, I've found a few things I can work on."
 date: "2020-06-19"
-last_modified_at: "2020-10-09"
+last_modified_at: "2020-10-21"
 ---
 
 * psychological dispositions
@@ -36,6 +36,11 @@ last_modified_at: "2020-10-09"
     * not wanting to "use things up", then losing them anyway (eg, stickers, food items)
   * letting the "perfect" be the enemy of the good
   * (better) overcoming [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out){:target="&lowbar;blank"} and being disciplined about pursuing my own values and interests (eg, going to bed instead of staying up late, socializing)
+  * being willing to renegotiate plans when I'm not feeling up to them, rather than feeling absolutely obligated or responsible for living up to previously made commitments
+    * It's not that I've ever struggled with being thought of as a flake, so I wonder why I feel so bound by plans I've made. Could it be
+      * not properly differentiating from living up to contracts/agreements generally?
+      * hating when others flake on / inconvenience me with last-minute schedule-thrashing, so I don't want to do that to them?
+      * a reaction to times when I was a kid when my parents failed to live up to their commitments on plans we've made?
   * dealing with change better; not being so overwhelmed and distressed by it
   * emotional resilience to things outside my control
     * I find that my mood can fluctuate wildly in response to external factors that I have no control over, simply because those things have a profound power to affect my values and well being. This makes me vulnerable to severe emotional dysregulation, which is particularly problematic when it manifests as dorsal vagal collapse (since it turns into a vicious cycle of incapacitation/inaction and inviting more external factors that work against my interests). While there are strategies to come out of such a state, I wonder whether I can develop some way of being or skill around ["accept[ing] the things I cannot change"](https://en.wikipedia.org/wiki/Serenity_Prayer){:target="&lowbar;blank"} and thereby avoiding the intensity of the emotional reaction in the first place. My hope is that my daily meditation practice has already helped tremendously in this regard, but it's hard to know for certain.
