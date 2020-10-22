@@ -5,12 +5,14 @@ tags:
   - about
 description: "I call myself a \"musical hedonist\" because I don't care \"what the composer intended\" or a potential listener's experience: Playing piano is for for my own enjoyment alone."
 date: "2020-04-19"
-last_modified_at: "2020-04-19"
+last_modified_at: "2020-10-22"
 ---
 
 I typically use the word ["hedonism"](http://aynrandlexicon.com/lexicon/hedonism.html){:target="&lowbar;blank"} as a charge or accusation, as a contrast to an orientation toward long-term happiness, joy, and prosperity. Hedonism is whim-worship; it's the elevation of short-term desires and pleasure _at the expense_ of one's true interests. There's nothing wrong with pleasure, of course, but when pleasure is pursued carelessly or thoughtlessly, it's ultimately destructive. That's maybe a topic for another post, but the relatively uncontroversial examples of this might be the "recreation" of a drug-addict or the "exploits" of someone who sleeps around in the name of pleasure-seeking, but is really acting out a self-compromising attempt to gain self-esteem.
 
 So when I call myself a "musical hedonist", it's tongue-in-cheek. What I'm getting at is that even though I believe that there are objective standards in art (see [here](https://www.facebook.com/ArthurZey/posts/10103341166981406){:target="&lowbar;blank"} and [here](https://www.facebook.com/ArthurZey/posts/10103270559165036){:target="&lowbar;blank"} from 2014), the value and enjoyment I get from playing piano is just blissfully unrelated to all that.
+
+(Side note: Yes, I realize that the idea of objective standards in art is even more controversial than the idea that there are objective standards in ethics. The arguments are similar, I think, with aesthetics being the narrower application of a similar philosophical approach or set of principles. To get a sense for objectivity in ethics, I highly recommend Tara Smith's [_Ayn Rand's Normative Ethics: The Virtuous Egoist_](https://smile.amazon.com/dp/B00INYGFWM/){:target="&lowbar;blank"} and Craig Biddle's [_Loving Life: The Morality of Self-Interest and the Facts That Support It_](https://www.audible.com/pd/B07PKRNQLX){:target="&lowbar;blank"}. Only then might I recommend Ayn Rand's [_The Romantic Manifesto_](https://www.audible.com/pd/B002V0198E){:target="&lowbar;blank"}.)
 
 The term originates from an argument I had sometime in 2015-2018 with my brother, [Andrew](http://www.andrewzey.com){:target="&lowbar;blank"}, in which I aggressively and contemptuously told him that "I don't give a shit what the composer intended", referring to things like tempo, dynamics, etc. He challenged me that "what the composer intended" is often a manifestation of well-established conventions and musical _language_, as well as an understanding (perhaps implicit) of the _physiological_ effects of various musical patterns. He suggested that my doing whatever I wanted when I played, whatever happened to feel good and gratifying, was potentially violative of all that, that it would be "incomprehensible" to an audience.
 
