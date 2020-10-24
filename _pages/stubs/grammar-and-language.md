@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2020-10-12"
+last_modified_at: "2020-10-24"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -29,6 +29,7 @@ Here are a few of my fixations and particularities (in no particular order) that
 * hyphenates that should be their own words (eg, "usecase", "enduser")
 * contranyms (eg, "cleave", "sanction", "practically")
 * "begs the question" versus "implies the question"
+* the "[blah] because [noun phrase]" construction
 * "a-whole-nother"
 * "PIN number", "ATM machine", "API interface", etc
 * "compose" versus "comprise"
@@ -55,7 +56,9 @@ Here are a few of my fixations and particularities (in no particular order) that
 * datetime stamps, 24-hour time
 * "gods"
 * "theater" versus "theatre"
-* pronunciation of plural words, such as "basis" versus "base"
+* pronunciation of plural words, such as
+  * "basis" versus "base"
+  * "bias" ("bias-ehz" versus "bias-eez")
 * Picard-isms: schedule, issue, appreciate
 * "none are" versus "none is"; "any are" versus "any is"
 * singular "they"
