@@ -1,7 +1,7 @@
 ---
 title: "Move to Denver"
 date: "2020-10-14"
-last_modified_at: "2020-10-14"
+last_modified_at: "2020-10-25"
 description: "A not-so-brief update about my move to Denver from the San Francisco Bay Area between July and October."
 tags:
   - happenings
@@ -14,7 +14,7 @@ You probably know I drove to Denver from San Francisco in July with a car-load o
 
 I started looking for a place to live in the Denver area in late August. I realized that the time I needed to find a suitable house (in the mountains with a mountain view, to say nothing of liking the house and property itself) wouldn't work for how long I could impose on Stacy's generosity, and I decided that I would rent an apartment/house that felt "nice enough", using the lease term to validate that my romanticized ideas about Denver/Colorado are accurate and also to execute a proper housing search. I ended up finding a place pretty quickly, and because of some logistics, I signed a lease on an apartment in Denver that started on September 15. I moved my things (including that bulky furniture) from Stacy's the following week, and I borrowed the few things I need to live in my own place, like kitchen equipment.
 
-I still regard California as my primary residence: I maintain a physical mailing address (not just a box!), and I pay California taxes. I spent most of 2020 in California anyway, and Amazon is having us work "from home" until June 2021 anyway, to say nothing of my role being inherently remote since October 2019 because my team is based in Seattle and distributed across numerous states. 2021 is going to be weird from an accounting/tax perspective, but I'll sort that out later: For now I'm thinking of it as follows: _As I ride out COVID-19, I'm spending time in Denver; we'll see what the future holds in terms of permanent residence._ But I do hope to make Colorado my permanent home.
+I still regard California as my primary residence: I maintain a physical mailing address (not just a box!), and I pay California taxes. I spent most of 2020 in California anyway, and Amazon is having us work "from home" until June 2021, to say nothing of my role being inherently remote since October 2019 because my team is based in Seattle and distributed across numerous states. 2021 is going to be weird from an accounting/tax perspective, but I'll sort that out later: For now I'm thinking of it as follows: _As I ride out COVID-19, I'm spending time in Denver; we'll see what the future holds in terms of permanent residence._ But I do hope to make Colorado my permanent home.
 
 Back to the main story: I immediately started planning (agonizing?) over how to get my disaster of a storage unit in Sunnyvale, CA over to Denver. The storage unit was 10' wide x 20' deep x 10' tall, and even though it was "stuffed to the gills", I knew that there was a LOT I could get rid of: sell, donate, trash. These are things that I "accidentally" acquired from roommates in the course of various move-outs from housing situations over the course of almost-10 years in the Bay Area, and which I had zero sentimental attachment to (if even any memories of at all).
 
