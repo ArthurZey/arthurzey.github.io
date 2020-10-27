@@ -7,7 +7,7 @@ tags:
 last_modified_at: "2020-10-19"
 ---
 
-_Events from my personal calendar are accurate, but I have to manually synchronize work free/busy time (because infosec), so those events are not guaranteed to be up to date._
+_This view shows both personal and work events. Events from my personal calendar are accurate, but I have to manually synchronize work free/busy time (because infosec), so those events are not guaranteed to be up to date._
 
 [Schedule an appointment with me using Google Calendar.](https://calendar.google.com/calendar/render?action=TEMPLATE&add=arthurlz%40gmail.com){:target="&lowbar;blank"}
 
