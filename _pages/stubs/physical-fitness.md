@@ -37,6 +37,11 @@ Here are a few areas I'd like to explore:
 * social stigma against judging / concern with the physical: "even deep waters have a surface"
 * terms like "narcissism" and "vanity"
 * exercise versus recreation and cardio
+* my history with exercise
+  * dabbling as a kid and through SMC
+  * starting lifting at UCLA
+  * High Intensity Training (HIT) and SuperSlow
+  * RP
 
 ## Exercise
 
