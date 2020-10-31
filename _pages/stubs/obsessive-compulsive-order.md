@@ -6,7 +6,7 @@ tags:
   - about
 description: "How can it be a disorder if I'm organizing things?"
 date: "2020-04-08"
-last_modified_at: "2020-08-30"
+last_modified_at: "2020-10-31"
 ---
 
 In a way, this is probably _the_ fundamental post of this website; it explains the title. A few things to cover:
@@ -17,5 +17,5 @@ In a way, this is probably _the_ fundamental post of this website; it explains t
 * how it's really neither obsessive nor compulsive, and its connections to the true OCD pathology
 * relationship to perfectionism
 * connection to orthorexia (and the term "Arthurexia")
-* "The Truth About the Dishwasher" and how some manifestations of my OCO particularities are about my viewpoint about what is _objectively_ more efficient in reality and by the rules of logic, not merely what my personal preferences are\\
+* "The Truth about the Dishwasher" and how some manifestations of my OCO particularities are about my viewpoint about what is _objectively_ more efficient in reality and by the rules of logic, not merely what my personal preferences are\\
 _(The phrase originates in the idea that I'm not looking for others (eg, roommates) to accommodate some idiosyncratic preference about how to load the dishwasher, but that the "ideal" way to load it is an independently discoverable and verifiable fact of reality.)_
