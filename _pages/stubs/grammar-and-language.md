@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2020-11-01"
+last_modified_at: "2020-11-03"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -40,8 +40,12 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "need" versus "want"
   * the effect of regarding these as being quantitatively on the same spectrum: "strong-enough desire" == "metaphysical requirement", an uncalibrated sense of entitlement
 * "facts" versus "opinions"
-* "objective" versus "universal" versus "fact-based" versus "uncontroversial"
-* "subjective" versus "personal" versus "opinion-based" versus "controversial"
+* ["objective" versus "subjective"](/objective-and-subjective/)
+  * "universal" versus "personal"
+  * "situational" versus "context-free"
+  * "abstract" versus "concrete"
+  * "opinion-based" versus "fact-based"
+  * "controversial" versus "uncontroversial"
 * "selfish" versus "short-sighted whim pursuit"
 * "judge" versus "condemn"
 * "compromise"
