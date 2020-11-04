@@ -55,7 +55,7 @@ I often hear the word "subjective" used to describe something that depends on so
 
 "Chocolate is my favorite flavor of ice cream." is my go-to example. A variant of this, if you want to make analysis of universality more explicit, is "Chocolate ice cream tastes better than vanilla.".
 
-While it's often not used in the same breath, the implication seems that "objective" would mean that the fact applies to all people or is independent of people, that it's "universal". A great example might be something like "The Earth is round.".
+While it's often not used in the same breath, the implication seems to be that "objective" would mean that the fact applies to all people or is independent of people, that it's "universal". A great example might be something like "The Earth is round.".
 
 But you'll still get some academic philosophers insisting that even "The Earth is round." is subjective, precisely because all observations leading to such a claim are ultimately based on observations of individual people, and, well, their sense perception and cognitive processes are "subjective" on this view of that term, no matter how much many (or all) people's "subjective" observations might correspond to one another's.
 
