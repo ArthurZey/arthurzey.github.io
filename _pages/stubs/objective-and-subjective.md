@@ -7,7 +7,7 @@ tags:
   - philosophy
 description: "Every time I hear someone use the words \"objective\" or \"subjective\" in a fuzzy way, I really get my knickers in a twist."
 date: "2020-11-03"
-last_modified_at: "2020-11-03"
+last_modified_at: "2020-11-04"
 links:
   resources:
     - type: FACEBOOK
