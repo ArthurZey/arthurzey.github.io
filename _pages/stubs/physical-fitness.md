@@ -6,7 +6,7 @@ tags:
   - fitness
 description: "Why does physical fitness occupy such a prominent place in my life? And how does my concern with physical fitness manifest and relate to other values?"
 date: "2020-04-20"
-last_modified_at: "2020-11-03"
+last_modified_at: "2020-11-05"
 ---
 
 ## On This Page
@@ -167,14 +167,14 @@ Keep in mind that it's not a recommendation for anybody else.
 |[fish oil](https://smile.amazon.com/dp/B009SYWHBE){:target="&lowbar;blank"} or<br />[flax oil](https://smile.amazon.com/dp/B0009ET4LS){:target="&lowbar;blank"}|1280 mg Omega-3 (fish oil) or<br >1550 mg Omega-3 (flax oil)|1280 mg Omega-3 (fish oil) or<br >1550 mg Omega-3 (flax oil)|anti-inflammatory<br />(fish oil recommended by Diana; flax oil recommended by urologist)|
 |[cod liver oil](https://smile.amazon.com/dp/B002LZYPS0){:target="&lowbar;blank"}|250 mg|250 mg|dental health<br />(recommended by Diana)|
 |[butter oil](https://smile.amazon.com/dp/B002LZDQD0){:target="&lowbar;blank"}|250 mg|250 mg|dental health<br />(recommended by Diana)|
-|[vitamin D3](https://smile.amazon.com/dp/B00LCB4HH8){:target="&lowbar;blank"}|5000 IU|5000 IU|immune function|
+|[vitamin D3](https://smile.amazon.com/dp/B00LCB4HH8){:target="&lowbar;blank"}|5000 IU|5000 IU|immune function, calcium absorption|
 |[psyllium husk capsules](https://smile.amazon.com/dp/B0013OW2KS){:target="&lowbar;blank"}|2000 mg<br />(1467 mg fiber)|2000 mg<br />(1467 mg fiber)|fiber: bowel function<br />(recommended by gastroenterologist)|
-|[glucosamine](https://products.wholefoodsmarket.com/product/365-everyday-value-glucosamine-chondroitin-msm-2x-strength-15cad1){:target="&lowbar;blank"}|1500 mg (glucosamine HCl)<br />1200 mg (chondroitin sulfate)<br />250 mg (methylsulfonylmethane (MSM))|1500 mg (glucosamine HCl)<br />1200 mg (chondroitin sulfate)<br />250 mg (methylsulfonylmethane (MSM))|joint and bone health/support (particularly knee issues)<br />(recommended by Emily Webb; seemed to make a huge difference)|
+|[glucosamine](https://products.wholefoodsmarket.com/product/365-everyday-value-glucosamine-chondroitin-msm-2x-strength-15cad1){:target="&lowbar;blank"}|1500 mg glucosamine HCl<br />1200 mg chondroitin sulfate<br />250 mg methylsulfonylmethane (MSM)|1500 mg glucosamine HCl<br />1200 mg chondroitin sulfate<br />250 mg methylsulfonylmethane (MSM)|joint and bone health/support (particularly knee issues)<br />(recommended by Emily Webb; seemed to make a huge difference)|
 |[curcumin](https://smile.amazon.com/dp/B00WT4D57K){:target="&lowbar;blank"}|1500 mg|1500 mg|anti-inflammatory<br />(recommended by Andrew)|
 |[vitamin C](https://smile.amazon.com/dp/B0013P1GD6){:target="&lowbar;blank"}|1000 mg| |immune function|
-|[calcium citrate](https://smile.amazon.com/dp/B00172XUWU){:target="&lowbar;blank"}|150 mg| |vitamin D absorption<br />(recommended by Andrew and Tom)|
+|[calcium citrate](https://smile.amazon.com/dp/B00172XUWU){:target="&lowbar;blank"}|150 mg| |bone health<br />separated from magnesium to avoid competition for absorption pathways<br />(recommended by Andrew and Tom)|
 |[vitamin B complex](https://smile.amazon.com/dp/B00HST919C){:target="&lowbar;blank"}|[409.467 mg (various)](https://images-na.ssl-images-amazon.com/images/I/81gc-FtaAxL._AC_SL1500_.jpg){:target="&lowbar;blank"}| |energy|
-|[magnesium glycinate](https://smile.amazon.com/dp/B0017HYB2I){:target="&lowbar;blank"}| |120 mg|pre-bed calming support<br />(recommended by Andrew and Tom)|
+|[magnesium glycinate](https://smile.amazon.com/dp/B0017HYB2I){:target="&lowbar;blank"}| |120 mg|pre-bed calming support<br />separated from calcium to avoid competition for absorption pathways<br />(recommended by Andrew and Tom)|
 |[zinc aspartate and zinc orotate](https://main.poliquinstore.com/uberzinc-px){:target="&lowbar;blank"}| |30 mg|[immune function, thyroid function](https://www.youtube.com/watch?v=hE_V-5GgBo8){:target="&lowbar;blank"}<br />(recommended by Christian Wernstedt)|
 |[iodine and potassium iodide](https://smile.amazon.com/dp/B000X843VG/){:target="&lowbar;blank"}| |12.5 mg|thyroid function<br />(recommended by Diana)|
 |[selenium](https://smile.amazon.com/dp/B00YAULMUS){:target="&lowbar;blank"}| |0.2 mg|iodine and iodide absorption<br />(recommended by Diana)|
