@@ -490,9 +490,12 @@ _in progress_
 
 ## Philip Pullman: _His Dark Materials_
 Trilogy: [Kindle](https://smile.amazon.com/dp/B005WBBYXO){:target="&lowbar;blank"}
-_The Golden Compass_: [Audible](https://www.audible.com/pd/B002V1NG16){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000FC1ICM){:target="&lowbar;blank"}
-_The Subtle Knife_: [Audible](https://www.audible.com/pd/B002UZHP1U){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000FC1KJS){:target="&lowbar;blank"}
-_The Amber Spyglass_: [Audible](https://www.audible.com/pd/B002V5BA06){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000FC1GJW){:target="&lowbar;blank"}
+
+_The Golden Compass_: [Audible](https://www.audible.com/pd/B002V1NG16){:target="&lowbar;blank"} &#124; [Kindle](https://smile.amazon.com/dp/B000FC1ICM){:target="&lowbar;blank"}
+
+_The Subtle Knife_: [Audible](https://www.audible.com/pd/B002UZHP1U){:target="&lowbar;blank"} &#124; [Kindle](https://smile.amazon.com/dp/B000FC1KJS){:target="&lowbar;blank"}
+
+_The Amber Spyglass_: [Audible](https://www.audible.com/pd/B002V5BA06){:target="&lowbar;blank"} &#124; [Kindle](https://smile.amazon.com/dp/B000FC1GJW){:target="&lowbar;blank"}
 
 ## Tara Smith: _Ayn Rand's Normative Ethics: The Virtuous Egoist_
 [Kindle](https://smile.amazon.com/dp/B00INYGFWM/){:target="&lowbar;blank"}
