@@ -15,7 +15,348 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
 {:toc}
 
 # My To-Read List
-[Goodreads: Want to Read](https://www.goodreads.com/review/list/112945867-arthur-zey?order=a&per_page=infinite&shelf=to-read&sort=title&utf8=%E2%9C%93){:target="&lowbar;blank"}
+<!-- Show static HTML/CSS as a placeholder in case js is not enabled - javascript include will override this if things work -->
+<style type="text/css" media="screen">
+.gr_custom_container_1604767876 {
+/* customize your Goodreads widget container here*/
+border: 1px solid gray;
+border-radius:10px;
+padding: 10px 5px 10px 5px;
+background-color: #FFFFFF;
+color: #000000;
+
+}
+.gr_custom_header_1604767876 {
+/* customize your Goodreads header here*/
+border-bottom: 1px solid gray;
+width: 100%;
+margin-bottom: 5px;
+text-align: center;
+font-size: 120%
+}
+.gr_custom_each_container_1604767876 {
+/* customize each individual book container here */
+width: 100%;
+clear: both;
+margin-bottom: 10px;
+overflow: auto;
+padding-bottom: 4px;
+border-bottom: 1px solid #aaa;
+}
+.gr_custom_book_container_1604767876 {
+/* customize your book covers here */
+overflow: hidden;
+height: 60px;
+float: left;
+margin-right: 4px;
+width: 39px;
+}
+.gr_custom_author_1604767876 {
+/* customize your author names here */
+font-size: 10px;
+}
+.gr_custom_tags_1604767876 {
+/* customize your tags here */
+font-size: 10px;
+color: gray;
+}
+.gr_custom_rating_1604767876 {
+/* customize your rating stars here */
+float: right;
+}
+</style>
+
+<div id="gr_custom_widget_1604767876">
+    <div class="gr_custom_container_1604767876">
+<h2 class="gr_custom_header_1604767876">
+<a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/112945867-arthur-zey?shelf=to-read&amp;utm_medium=api&amp;utm_source=custom_widget">Goodreads To-Read List (alphabetical by title)</a>
+</h2>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="Anatomy of an Epidemic: Magic Bullets, Psychiatric Drugs, and the Astonishing Rise of Mental Illness in America" rel="nofollow" href="https://www.goodreads.com/review/show/3633095610?utm_medium=api&amp;utm_source=custom_widget"><img alt="Anatomy of an Epidemic: Magic Bullets, Psychiatric Drugs, and the Astonishing Rise of Mental Illness in America" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320388388l/7799587._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3633095610?utm_medium=api&amp;utm_source=custom_widget">Anatomy of an Epidemic: Magic Bullets, Psychiatric Drugs, and the Astonishing Rise of Mental Illness in America</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/25674.Robert_Whitaker">Robert  Whitaker</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="The Collectors (His Dark Materials, #0.6)" rel="nofollow" href="https://www.goodreads.com/review/show/3272303708?utm_medium=api&amp;utm_source=custom_widget"><img alt="The Collectors" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442007926l/26228617._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3272303708?utm_medium=api&amp;utm_source=custom_widget">The Collectors</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/3618.Philip_Pullman">Philip Pullman</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="Crucial Conversations: Tools for Talking When Stakes Are High" rel="nofollow" href="https://www.goodreads.com/review/show/3633098464?utm_medium=api&amp;utm_source=custom_widget"><img alt="Crucial Conversations: Tools for Talking When Stakes Are High" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497193248l/15014._SX50_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3633098464?utm_medium=api&amp;utm_source=custom_widget">Crucial Conversations: Tools for Talking When Stakes Are High</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/9373.Kerry_Patterson">Kerry Patterson</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="The Dance of Anger: A Woman's Guide to Changing the Patterns of Intimate Relationships" rel="nofollow" href="https://www.goodreads.com/review/show/3633096818?utm_medium=api&amp;utm_source=custom_widget"><img alt="The Dance of Anger: A Woman's Guide to Changing the Patterns of Intimate Relationships" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388261597l/31312._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3633096818?utm_medium=api&amp;utm_source=custom_widget">The Dance of Anger: A Woman's Guide to Changing the Patterns of Intimate Relationships</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/84497.Harriet_Lerner">Harriet Lerner</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="The Dance of Connection: How to Talk to Someone When You're Mad, Hurt, Scared, Frustrated, Insulted, Betrayed, or Desperate" rel="nofollow" href="https://www.goodreads.com/review/show/3633096871?utm_medium=api&amp;utm_source=custom_widget"><img alt="The Dance of Connection: How to Talk to Someone When You're Mad, Hurt, Scared, Frustrated, Insulted, Betrayed, or Desperate" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368422813l/162431._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3633096871?utm_medium=api&amp;utm_source=custom_widget">The Dance of Connection: How to Talk to Someone When You're Mad, Hurt, Scared, Frustrated, Insulted, Betrayed, or Desperate</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/84497.Harriet_Lerner">Harriet Lerner</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="The Dance of Fear: Rising Above Anxiety, Fear, and Shame to Be Your Best and Bravest Self" rel="nofollow" href="https://www.goodreads.com/review/show/3633097029?utm_medium=api&amp;utm_source=custom_widget"><img alt="The Dance of Fear: Rising Above Anxiety, Fear, and Shame to Be Your Best and Bravest Self" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347580559l/162749._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3633097029?utm_medium=api&amp;utm_source=custom_widget">The Dance of Fear: Rising Above Anxiety, Fear, and Shame to Be Your Best and Bravest Self</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/84497.Harriet_Lerner">Harriet Lerner</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="An Emotionally Focused Workbook for Couples: The Two of Us" rel="nofollow" href="https://www.goodreads.com/review/show/3272303515?utm_medium=api&amp;utm_source=custom_widget"><img alt="An Emotionally Focused Workbook for Couples: The Two of Us" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421224702l/23123984._SX50_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3272303515?utm_medium=api&amp;utm_source=custom_widget">An Emotionally Focused Workbook for Couples: The Two of Us</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/7927640.Veronica_Kallos_Lilly">Veronica Kallos-Lilly</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="The Enneagram of Belonging: A Compassionate Journey of Self-Acceptance" rel="nofollow" href="https://www.goodreads.com/review/show/3633096475?utm_medium=api&amp;utm_source=custom_widget"><img alt="The Enneagram of Belonging: A Compassionate Journey of Self-Acceptance" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590012263l/48855877._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3633096475?utm_medium=api&amp;utm_source=custom_widget">The Enneagram of Belonging: A Compassionate Journey of Self-Acceptance</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/1408223.Christopher_L_Heuertz">Christopher L. Heuertz</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="Free Market Revolution: How Ayn Rand's Ideas Can End Big Government" rel="nofollow" href="https://www.goodreads.com/review/show/3272304620?utm_medium=api&amp;utm_source=custom_widget"><img alt="Free Market Revolution: How Ayn Rand's Ideas Can End Big Government" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385517934l/18990872._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3272304620?utm_medium=api&amp;utm_source=custom_widget">Free Market Revolution: How Ayn Rand's Ideas Can End Big Government</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/2822973.Yaron_Brook">Yaron Brook</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="The Gaslight Effect: How to Spot and Survive the Hidden Manipulation Others Use to Control Your Life" rel="nofollow" href="https://www.goodreads.com/review/show/3633097622?utm_medium=api&amp;utm_source=custom_widget"><img alt="The Gaslight Effect: How to Spot and Survive the Hidden Manipulation Others Use to Control Your Life" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509613989l/36520721._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3633097622?utm_medium=api&amp;utm_source=custom_widget">The Gaslight Effect: How to Spot and Survive the Hidden Manipulation Others Use to Control Your Life</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/1012684.Robin_Stern">Robin Stern</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="Hold Me Tight: Seven Conversations for a Lifetime of Love" rel="nofollow" href="https://www.goodreads.com/review/show/3633094965?utm_medium=api&amp;utm_source=custom_widget"><img alt="Hold Me Tight: Seven Conversations for a Lifetime of Love" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390365978l/2153780._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3633094965?utm_medium=api&amp;utm_source=custom_widget">Hold Me Tight: Seven Conversations for a Lifetime of Love</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/22726.Sue_Johnson">Sue Johnson</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="I Am Definitely, Probably Enough (I Think): Revelations on the Journey to Self-Love" rel="nofollow" href="https://www.goodreads.com/review/show/3272303424?utm_medium=api&amp;utm_source=custom_widget"><img alt="I Am Definitely, Probably Enough (I Think): Revelations on the Journey to Self-Love" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1581854295l/52759339._SX50_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3272303424?utm_medium=api&amp;utm_source=custom_widget">I Am Definitely, Probably Enough (I Think): Revelations on the Journey to Self-Love</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/19644887.Tori_Press">Tori Press</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="La Belle Sauvage (The Book of Dust, #1)" rel="nofollow" href="https://www.goodreads.com/review/show/3272303786?utm_medium=api&amp;utm_source=custom_widget"><img alt="La Belle Sauvage" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498930572l/34313890._SX50_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3272303786?utm_medium=api&amp;utm_source=custom_widget">La Belle Sauvage</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/3618.Philip_Pullman">Philip Pullman</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="Marriage Rules: A Manual for the Married and the Coupled Up" rel="nofollow" href="https://www.goodreads.com/review/show/3633097083?utm_medium=api&amp;utm_source=custom_widget"><img alt="Marriage Rules: A Manual for the Married and the Coupled Up" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356073299l/12144326._SX50_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3633097083?utm_medium=api&amp;utm_source=custom_widget">Marriage Rules: A Manual for the Married and the Coupled Up</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/84497.Harriet_Lerner">Harriet Lerner</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="Mindset: The New Psychology of Success" rel="nofollow" href="https://www.goodreads.com/review/show/3633097816?utm_medium=api&amp;utm_source=custom_widget"><img alt="Mindset: The New Psychology of Success" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436227012l/40745._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3633097816?utm_medium=api&amp;utm_source=custom_widget">Mindset: The New Psychology of Success</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/217172.Carol_S_Dweck">Carol S. Dweck</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="The Moral Case for Fossil Fuels" rel="nofollow" href="https://www.goodreads.com/review/show/3272304250?utm_medium=api&amp;utm_source=custom_widget"><img alt="The Moral Case for Fossil Fuels" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460437861l/21419751._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3272304250?utm_medium=api&amp;utm_source=custom_widget">The Moral Case for Fossil Fuels</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/7137576.Alex_Epstein">Alex      Epstein</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="Objective Communication: Writing, Speaking and Arguing" rel="nofollow" href="https://www.goodreads.com/review/show/3272297610?utm_medium=api&amp;utm_source=custom_widget"><img alt="Objective Communication: Writing, Speaking and Arguing" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373231165l/17707676._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3272297610?utm_medium=api&amp;utm_source=custom_widget">Objective Communication: Writing, Speaking and Arguing</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/1421.Leonard_Peikoff">Leonard Peikoff</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="Radical Acceptance: Embracing Your Life With the Heart of a Buddha" rel="nofollow" href="https://www.goodreads.com/review/show/3633096123?utm_medium=api&amp;utm_source=custom_widget"><img alt="Radical Acceptance: Embracing Your Life With the Heart of a Buddha" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320402151l/173666._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3633096123?utm_medium=api&amp;utm_source=custom_widget">Radical Acceptance: Embracing Your Life With the Heart of a Buddha</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/101301.Tara_Brach">Tara Brach</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="The Secret Commonwealth (The Book of Dust, #2)" rel="nofollow" href="https://www.goodreads.com/review/show/3633093188?utm_medium=api&amp;utm_source=custom_widget"><img alt="The Secret Commonwealth" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563043403l/19034943._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3633093188?utm_medium=api&amp;utm_source=custom_widget">The Secret Commonwealth</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/3618.Philip_Pullman">Philip Pullman</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="Soul Without Shame: A Guide to Liberating Yourself from the Judge Within" rel="nofollow" href="https://www.goodreads.com/review/show/3633095882?utm_medium=api&amp;utm_source=custom_widget"><img alt="Soul Without Shame: A Guide to Liberating Yourself from the Judge Within" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370334346l/98402._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3633095882?utm_medium=api&amp;utm_source=custom_widget">Soul Without Shame: A Guide to Liberating Yourself from the Judge Within</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/56574.Byron_Brown">Byron Brown</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="The State of Affairs: Rethinking Infidelity" rel="nofollow" href="https://www.goodreads.com/review/show/3633106119?utm_medium=api&amp;utm_source=custom_widget"><img alt="The State of Affairs: Rethinking Infidelity" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495687620l/34017010._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3633106119?utm_medium=api&amp;utm_source=custom_widget">The State of Affairs: Rethinking Infidelity</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/15427.Esther_Perel">Esther Perel</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="Understanding Objectivism: A Guide to Learning Ayn Rand's Philosophy" rel="nofollow" href="https://www.goodreads.com/review/show/3272297689?utm_medium=api&amp;utm_source=custom_widget"><img alt="Understanding Objectivism: A Guide to Learning Ayn Rand's Philosophy" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348510801l/11737144._SX50_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3272297689?utm_medium=api&amp;utm_source=custom_widget">Understanding Objectivism: A Guide to Learning Ayn Rand's Philosophy</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/1421.Leonard_Peikoff">Leonard Peikoff</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="Untamed" rel="nofollow" href="https://www.goodreads.com/review/show/3633097982?utm_medium=api&amp;utm_source=custom_widget"><img alt="Untamed" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585832694l/52129515._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3633097982?utm_medium=api&amp;utm_source=custom_widget">Untamed</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/17099759.Glennon_Doyle">Glennon Doyle</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="Why Won’t You Apologize?: Healing Big Betrayals and Everyday Hurts" rel="nofollow" href="https://www.goodreads.com/review/show/3633096905?utm_medium=api&amp;utm_source=custom_widget"><img alt="Why Won’t You Apologize?: Healing Big Betrayals and Everyday Hurts" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471809580l/29430730._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3633096905?utm_medium=api&amp;utm_source=custom_widget">Why Won’t You Apologize?: Healing Big Betrayals and Everyday Hurts</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/84497.Harriet_Lerner">Harriet Lerner</a>
+    </div>
+</div>
+<div class="gr_custom_each_container_1604767876">
+    <div class="gr_custom_book_container_1604767876">
+      <a title="Wired for Love: How Understanding Your Partner's Brain and Attachment Style Can Help You Defuse Conflict and Build a Secure Relationship" rel="nofollow" href="https://www.goodreads.com/review/show/3633098282?utm_medium=api&amp;utm_source=custom_widget"><img alt="Wired for Love: How Understanding Your Partner's Brain and Attachment Style Can Help You Defuse Conflict and Build a Secure Relationship" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344907894l/13225387._SX50_.jpg" /></a>
+    </div>
+    <div class="gr_custom_title_1604767876">
+      <a rel="nofollow" href="https://www.goodreads.com/review/show/3633098282?utm_medium=api&amp;utm_source=custom_widget">Wired for Love: How Understanding Your Partner's Brain and Attachment Style Can Help You Defuse Conflict and Build a Secure Relationship</a>
+    </div>
+    <div class="gr_custom_author_1604767876">
+      by <a rel="nofollow" href="https://www.goodreads.com/author/show/3257055.Stan_Tatkin">Stan Tatkin</a>
+    </div>
+</div>
+<br style="clear: both"/>
+<center>
+<a rel="nofollow" href="https://www.goodreads.com/"><img alt="goodreads.com" style="border:0" src="https://www.goodreads.com/images/widget/widget_logo.gif" /></a>
+</center>
+<noscript>
+Share <a rel="nofollow" href="https://www.goodreads.com/">book reviews</a> and ratings with Arthur, and even join a <a rel="nofollow" href="https://www.goodreads.com/group">book club</a> on Goodreads.
+</noscript>
+</div>
+
+</div>
+<script src="https://www.goodreads.com/review/custom_widget/112945867.Goodreads%20To-Read%20List%20(alphabetical%20by%20title)?cover_position=left&cover_size=small&num_books=100&order=a&shelf=to-read&show_author=1&show_cover=1&show_rating=0&show_review=0&show_tags=0&show_title=1&sort=title&widget_bg_color=FFFFFF&widget_bg_transparent=&widget_border_width=1&widget_id=1604767876&widget_text_color=000000&widget_title_size=medium&widget_width=full" type="text/javascript" charset="utf-8"></script>
 
 # 2020
 
