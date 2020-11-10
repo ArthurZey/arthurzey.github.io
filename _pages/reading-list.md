@@ -160,7 +160,7 @@ _in progress_
 _started in 2019; in progress_
 {% endcomment %}
 
-## Phiip Pullman: _Once Upon a Time in the North_
+## Philip Pullman: _Once Upon a Time in the North_
 [Audible](https://www.audible.com/pd/B002V01HQI){:target="&lowbar;blank"}
 
 ## Kim Scott: _Radical Candor_
