@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-11-09"
+last_modified_at: "2020-11-10"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -14,7 +14,7 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
 * TOC
 {:toc}
 
-# My To-Read List
+# To Read
 <style type="text/css" media="screen">
   .gr_custom_container_1604767876 {
     /* customize your Goodreads widget container here*/
@@ -70,7 +70,66 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
 
 <script src="https://www.goodreads.com/review/custom_widget/112945867.Goodreads%20To-Read%20List%20(alphabetical%20by%20title)?cover_position=left&cover_size=small&num_books=100&order=a&shelf=to-read&show_author=1&show_cover=1&show_rating=0&show_review=0&show_tags=0&show_title=1&sort=title&widget_bg_color=FFFFFF&widget_bg_transparent=&widget_border_width=1&widget_id=1604767876&widget_text_color=000000&widget_title_size=medium&widget_width=full" type="text/javascript" charset="utf-8"></script>
 
+# In Progress
+
+<style type="text/css" media="screen">
+  .gr_custom_container_1605027704 {
+    /* customize your Goodreads widget container here*/
+    border: 1px solid gray;
+    border-radius:10px;
+    padding: 10px 5px 10px 5px;
+    background-color: #FFFFFF;
+    color: #000000;
+  }
+  .gr_custom_header_1605027704 {
+    /* customize your Goodreads header here*/
+    border-bottom: 1px solid gray;
+    width: 100%;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 120%
+  }
+  .gr_custom_each_container_1605027704 {
+    /* customize each individual book container here */
+    width: 100%;
+    clear: both;
+    margin-bottom: 10px;
+    overflow: auto;
+    padding-bottom: 4px;
+    border-bottom: 1px solid #aaa;
+  }
+  .gr_custom_book_container_1605027704 {
+    /* customize your book covers here */
+    overflow: hidden;
+    height: 60px;
+    float: left;
+    margin-right: 4px;
+    width: 39px;
+  }
+  .gr_custom_author_1605027704 {
+    /* customize your author names here */
+    font-size: 10px;
+  }
+  .gr_custom_tags_1605027704 {
+    /* customize your tags here */
+    font-size: 10px;
+    color: gray;
+  }
+  .gr_custom_rating_1605027704 {
+    /* customize your rating stars here */
+    float: right;
+  }
+</style>
+
+<div id="gr_custom_widget_1605027704">
+  <div class="gr_custom_container_1605027704"></div>
+</div>
+
+<script src="https://www.goodreads.com/review/custom_widget/112945867.Goodreads%20Currently%20Reading%20List%20(alphabetical%20by%20title)?cover_position=left&cover_size=small&num_books=5&order=a&shelf=currently-reading&show_author=1&show_cover=1&show_rating=0&show_review=0&show_tags=0&show_title=1&sort=date_added&widget_bg_color=FFFFFF&widget_bg_transparent=&widget_border_width=1&widget_id=1605027704&widget_text_color=000000&widget_title_size=medium&widget_width=medium" type="text/javascript" charset="utf-8"></script>
+
 # 2020
+{% comment %}
+########## PULL ITEMS OUT OF COMMENT WHEN COMPLETED ##########
 
 ## Mark Horstman: _The Effective Manager_
 [Audible](https://www.audible.com/pd/The-Effective-Manager-Audiobook/B072K1CF7L){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/Effective-Manager-Mark-Horstman-ebook/dp/B01H9E36OG){:target="&lowbar;blank"}
@@ -99,11 +158,10 @@ _in progress_
 [Kindle](https://smile.amazon.com/dp/B00OICLVBI){:target="&lowbar;blank"}
 
 _started in 2019; in progress_
+{% endcomment %}
 
 ## Phiip Pullman: _Once Upon a Time in the North_
 [Audible](https://www.audible.com/pd/B002V01HQI){:target="&lowbar;blank"}
-
-_started in 2019; in progress_
 
 ## Kim Scott: _Radical Candor_
 [Audible](https://www.audible.com/pd/1250245788){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07P9LPXPT){:target="&lowbar;blank"}
