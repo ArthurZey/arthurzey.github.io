@@ -5,7 +5,7 @@ tags:
   - about
 description: "Brown paper packages tied up with strings; these are a few of my favorite things."
 date: "2020-05-15"
-last_modified_at: "2020-10-23"
+last_modified_at: "2020-11-10"
 ---
 
 * TOC
@@ -132,9 +132,10 @@ See also:
 * ribeye caps
 * brussels sprouts
 * [lomo saltado](https://docs.google.com/document/d/1C1u_mlWPhGpfu31FzMTaYrgkrhGxpkBWky6sNx0ltz4/edit?usp=sharing){:target="&lowbar;blank"}
+* [tacos](https://photos.app.goo.gl/jTXshxZ9dVXThCVG8){:target="&lowbar;blank"}
 * Paleo banana pancakes
 * omelets
-* salad
+* chicken salad
 
 ### To Eat
 _which I wouldn't necessarily cook myself_
@@ -190,7 +191,7 @@ _which I wouldn't necessarily cook myself_
 
 ## Leisure Activities
 * beach and splashing around in the water
-* hiking
+* [hiking](https://www.alltrails.com/members/arthur-zey){:target="&lowbar;blank"}
 * camping
 * watching TV
 
@@ -202,6 +203,10 @@ _which I wouldn't necessarily cook myself_
   * [Sonic 2](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2){:target="&lowbar;blank"}
   * [Sonic 3](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3){:target="&lowbar;blank"}
   * [Sonic & Knuckles](https://en.wikipedia.org/wiki/Sonic_%26_Knuckles){:target="&lowbar;blank"}
+* Taboo
+* Anomia
+* Spot-It!
+* Flow Free
 
 ## Animals
 * wolves
@@ -259,3 +264,7 @@ _which I wouldn't necessarily cook myself_
 * glass and steel
 * sharp right angles
 * no ornamentation
+
+## Humor
+* puns
+* "dad jokes"
