@@ -5,7 +5,14 @@ tags:
   - philosophy
 description: "No. Just no."
 date: "2020-05-27"
-last_modified_at: "2020-08-18"
+last_modified_at: "2020-11-11"
+links:
+  resources:
+    - type: FACEBOOK
+      scheme: POST
+      value:
+        user: ArthurZey
+        id: "216784078356274"
 ---
 
 I'll also accept the phrase "cutting little boys' penises", but I will not accept "circumcision" or any other euphemism that attempts to normalize this barbaric practice.
