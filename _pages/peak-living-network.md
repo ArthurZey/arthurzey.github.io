@@ -2,7 +2,7 @@
 title: Peak Living Network
 description: "Information about the Denver chapter of the Peak Living Network (PLN)"
 date: "2020-11-05"
-last_modified_at: "2020-11-05"
+last_modified_at: "2020-11-13"
 ---
 
 * TOC
@@ -58,6 +58,7 @@ I'm not sure exactly how to frame this section, but the idea is to give an indic
     * _Brené Brown on Empathy_ (short): [YouTube: The RSA](https://www.youtube.com/watch?v=1Evwgu369Jw){:target="&lowbar;blank"}
     * _Brené Brown on Blame_ (short): [YouTube: The RSA](https://www.youtube.com/watch?v=RZWf2_2L2v8){:target="&lowbar;blank"}
     * _Unlocking Us_ (podcast): [Website](https://brenebrown.com/unlockingus/){:target="&lowbar;blank"}, [Spotify](https://open.spotify.com/show/4P86ZzHf7EOlRG7do9LkKZ){:target="&lowbar;blank"}
+  * Sue Johnson: _Hold Me Tight: Seven Conversations for a Lifetime of Love_: [Audible](https://www.audible.com/pd/154915768X){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B0011UGLQK){:target="&lowbar;blank"}
   * Marc Brackett: _Permission To Feel_: [Audible](https://www.audible.com/pd/Permission-to-Feel-Audiobook/1250242592){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Ph-D-Marc-Brackett-ebook/dp/B07N69F1W7/){:target="&lowbar;blank"}, [website](https://www.marcbrackett.com/about/book-permission-to-feel/){:target="&lowbar;blank"}
   * Marshall Rosenberg: _Nonviolent Communication_: [Audible](https://www.audible.com/pd/Nonviolent-Communication-Audiobook/B00TJJNSQG){:target="&lowbar;blank"}, [Kindle eTextbook](https://smile.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships-ebook/dp/B014OISVU4){:target="&lowbar;blank"}
   * Kim Scott: _Radical Candor_: [Audible](https://www.audible.com/pd/1250245788){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B07P9LPXPT){:target="&lowbar;blank"}
