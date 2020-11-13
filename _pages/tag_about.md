@@ -206,6 +206,7 @@ _Take a peek at the resources below that are available for free (such as on YouT
     * [YouTube](https://www.youtube.com/channel/UCHQ4lSaKRap5HyrpitrTOhQ){:target="&lowbar;blank"}{% comment %}\\
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0EkRjSLGY_S1DkMWh3MC2PN7h61GM36y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{% endcomment %}
     * [Facebook Group](https://www.facebook.com/groups/461389461257253){:target="&lowbar;blank"}
+* Sue Johnson: _Hold Me Tight: Seven Conversations for a Lifetime of Love_: [Audible](https://www.audible.com/pd/154915768X){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B0011UGLQK){:target="&lowbar;blank"}
 * Lundy Bancroft: _The Joyous Recovery_: [Kindle](https://smile.amazon.com/Joyous-Recovery-Approach-Emotional-Wellness-ebook/dp/B07VYBVMGX){:target="&lowbar;blank"}
 * Marc Brackett: _Permission To Feel_: [Audible](https://www.audible.com/pd/Permission-to-Feel-Audiobook/1250242592){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Ph-D-Marc-Brackett-ebook/dp/B07N69F1W7/){:target="&lowbar;blank"}, [website](https://www.marcbrackett.com/about/book-permission-to-feel/){:target="&lowbar;blank"}
 * Bessel Van der Kolk: _The Body Keeps the Score_: [Audible](https://www.audible.com/pd/The-Body-Keeps-the-Score-Audiobook/B00OAOQJXY){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Body-Keeps-Score-Healing-Trauma-ebook/dp/B00G3L1C2K){:target="&lowbar;blank"}
@@ -240,8 +241,7 @@ _A parent's job is to be a guide in a child's development into an adult. A paren
 ### Management: Manager Tools
 * [Website](https://www.manager-tools.com/){:target="&lowbar;blank"}
 * [Podcast](https://www.manager-tools.com/all-podcasts?field_content_domain_tid=4){:target="&lowbar;blank"}
-* Mark Horstman: _The Effective Manager_: [Audible](https://www.audible.com/pd/The-Effective-Manager-Audiobook/B072K1CF7L){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Effective-Manager-Mark-Horstman-ebook/dp/B01H9E36OG){:target="&lowbar;blank"}\\
-_This is on my to-read/listen list!_
+* Mark Horstman: _The Effective Manager_: [Audible](https://www.audible.com/pd/The-Effective-Manager-Audiobook/B072K1CF7L){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Effective-Manager-Mark-Horstman-ebook/dp/B01H9E36OG){:target="&lowbar;blank"}
 
 ### Philosophy: Objectivism
 

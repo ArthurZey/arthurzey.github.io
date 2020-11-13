@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-11-12"
+last_modified_at: "2020-11-13"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -154,10 +154,12 @@ _in progress_
 
 _started in 2019; in progress_
 
-## Sue Johnson: _Hold Me Tight: Seven Conversations for a Lifetime of Love_
-[Audible](https://www.audible.com/pd/154915768X){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B0011UGLQK){:target="&lowbar;blank"}
+
 
 {% endcomment %}
+
+## Sue Johnson: _Hold Me Tight: Seven Conversations for a Lifetime of Love_
+[Audible](https://www.audible.com/pd/154915768X){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B0011UGLQK){:target="&lowbar;blank"}
 
 ## Mark Horstman: _The Effective Manager_
 [Audible](https://www.audible.com/pd/The-Effective-Manager-Audiobook/B072K1CF7L){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/Effective-Manager-Mark-Horstman-ebook/dp/B01H9E36OG){:target="&lowbar;blank"}
