@@ -6,12 +6,13 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2020-11-03"
+last_modified_at: "2020-11-14"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
 
 * apostrophes
+  * "The Bureau of Grammatical Integrity" and the anecdote with Sara Triplett and her parents when we "vandalized" the "WASHER AND DRYER HOOK UPS'" sign
 * the subjunctive
 * serial comma
 * punctuation and quotation marks
@@ -36,6 +37,8 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "further" versus "farther"
 * "less" versus "fewer"
 * "envy" versus "jealousy"
+* "effective" versus "efficient"
+  * see also [post on Manager Tools forum](https://www.manager-tools.com/forums/effective-vs-efficient){:target="&lowbar;blank"}
 * "assume" and "assumption" versus "conclude" and "conclusion"
 * "need" versus "want"
   * the effect of regarding these as being quantitatively on the same spectrum: "strong-enough desire" == "metaphysical requirement", an uncalibrated sense of entitlement
