@@ -2,7 +2,7 @@
 title: Peak Living Network
 description: "Information about the Denver chapter of the Peak Living Network (PLN)"
 date: "2020-11-05"
-last_modified_at: "2020-11-13"
+last_modified_at: "2020-11-14"
 ---
 
 * TOC
@@ -75,6 +75,9 @@ I'm not sure exactly how to frame this section, but the idea is to give an indic
 * physiological dimensions of psychology
   * Deb Dana: _The Polyvagal Theory in Therapy_: [Audible](https://www.audible.com/pd/The-Polyvagal-Theory-in-Therapy-Audiobook/1977318959){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Polyvagal-Theory-Therapy-Interpersonal-Neurobiology-ebook/dp/B07DGMBLQK){:target="&lowbar;blank"}
   * Bessel Van der Kolk: _The Body Keeps the Score_: [Audible](https://www.audible.com/pd/The-Body-Keeps-the-Score-Audiobook/B00OAOQJXY){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Body-Keeps-Score-Healing-Trauma-ebook/dp/B00G3L1C2K){:target="&lowbar;blank"}
+* Sexuality
+  * Esther Perel: _Mating in Captivity_: [Audible](https://www.audible.com/pd/B002V8HNWC){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B000UODXP0){:target="&lowbar;blank"}
+  * Janet W Hardy and Dossie Easton: _The Ethical Slut_: [Audible](https://www.audible.com/pd/B00B1VIPX6){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B01N0SA1YW){:target="&lowbar;blank"}
 * philosophy / ethics
   * Tara Smith: _Ayn Rand's Normative Ethics: The Virtuous Egoist_: [Kindle](https://smile.amazon.com/dp/B00INYGFWM/){:target="&lowbar;blank"}
   * Craig Biddle: _Loving Life: The Morality of Self-Interest and the Facts That Support It_: [Audible](https://www.audible.com/pd/B07PKRNQLX){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B00347A5QK){:target="&lowbar;blank"}

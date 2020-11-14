@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-11-13"
+last_modified_at: "2020-11-14"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -139,11 +139,6 @@ _started in 2019; in progress_
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
 _started in 2019; in progress_
 
-## Janet W Hardy and Dossie Easton: _The Ethical Slut_
-[Audible](https://www.audible.com/pd/B00B1VIPX6){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B01N0SA1YW){:target="&lowbar;blank"}
-
-_started in 2019; in progress_
-
 ## Susan Campbell: _Getting Real: 10 Truth Skills You Need to Live an Authentic Life_
 [Kindle](https://smile.amazon.com/dp/B002L2GK5O){:target="&lowbar;blank"}
 
@@ -157,6 +152,9 @@ _started in 2019; in progress_
 
 
 {% endcomment %}
+## Janet W Hardy and Dossie Easton: _The Ethical Slut_
+[Audible](https://www.audible.com/pd/B00B1VIPX6){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B01N0SA1YW){:target="&lowbar;blank"}
+
 ## Philip Pullman: _The Collectors_
 [Audible](https://www.audible.com/pd/B00QU77W1W) | [Kindle](https://smile.amazon.com/dp/B0138OGO72)
 
