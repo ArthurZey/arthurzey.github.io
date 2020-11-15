@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-11-14"
+last_modified_at: "2020-11-15"
 ---
 
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
@@ -207,6 +207,7 @@ _Take a peek at the resources below that are available for free (such as on YouT
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0EkRjSLGY_S1DkMWh3MC2PN7h61GM36y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{% endcomment %}
     * [Facebook Group](https://www.facebook.com/groups/461389461257253){:target="&lowbar;blank"}
 * Sue Johnson: _Hold Me Tight: Seven Conversations for a Lifetime of Love_: [Audible](https://www.audible.com/pd/154915768X){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B0011UGLQK){:target="&lowbar;blank"}
+* Gary Chapman: _The 5 Love Languages: The Secret to Love that Lasts_: [Kindle](https://smile.amazon.com/dp/B00OICLVBI){:target="&lowbar;blank"}
 * Lundy Bancroft: _The Joyous Recovery_: [Kindle](https://smile.amazon.com/Joyous-Recovery-Approach-Emotional-Wellness-ebook/dp/B07VYBVMGX){:target="&lowbar;blank"}
 * Marc Brackett: _Permission To Feel_: [Audible](https://www.audible.com/pd/Permission-to-Feel-Audiobook/1250242592){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Ph-D-Marc-Brackett-ebook/dp/B07N69F1W7/){:target="&lowbar;blank"}, [website](https://www.marcbrackett.com/about/book-permission-to-feel/){:target="&lowbar;blank"}
 * Bessel Van der Kolk: _The Body Keeps the Score_: [Audible](https://www.audible.com/pd/The-Body-Keeps-the-Score-Audiobook/B00OAOQJXY){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Body-Keeps-Score-Healing-Trauma-ebook/dp/B00G3L1C2K){:target="&lowbar;blank"}

@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-11-14"
+last_modified_at: "2020-11-15"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -144,14 +144,12 @@ _started in 2019; in progress_
 
 _in progress_
 
-## Gary Chapman: _The 5 Love Languages: The Secret to Love that Lasts_
-[Kindle](https://smile.amazon.com/dp/B00OICLVBI){:target="&lowbar;blank"}
-
-_started in 2019; in progress_
-
 
 
 {% endcomment %}
+## Gary Chapman: _The 5 Love Languages: The Secret to Love that Lasts_
+[Kindle](https://smile.amazon.com/dp/B00OICLVBI){:target="&lowbar;blank"}
+
 ## Janet W Hardy and Dossie Easton: _The Ethical Slut_
 [Audible](https://www.audible.com/pd/B00B1VIPX6){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B01N0SA1YW){:target="&lowbar;blank"}
 
