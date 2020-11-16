@@ -2,7 +2,7 @@
 title: Peak Living Network
 description: "Information about the Denver chapter of the Peak Living Network (PLN)"
 date: "2020-11-05"
-last_modified_at: "2020-11-15"
+last_modified_at: "2020-11-16"
 ---
 
 * TOC
@@ -58,6 +58,7 @@ I'm not sure exactly how to frame this section, but the idea is to give an indic
     * _Brené Brown on Empathy_ (short): [YouTube: The RSA](https://www.youtube.com/watch?v=1Evwgu369Jw){:target="&lowbar;blank"}
     * _Brené Brown on Blame_ (short): [YouTube: The RSA](https://www.youtube.com/watch?v=RZWf2_2L2v8){:target="&lowbar;blank"}
     * _Unlocking Us_ (podcast): [Website](https://brenebrown.com/unlockingus/){:target="&lowbar;blank"}, [Spotify](https://open.spotify.com/show/4P86ZzHf7EOlRG7do9LkKZ){:target="&lowbar;blank"}
+  * Tori Press: _I Am Definitely, Probably Enough (I Think): Revelations on the Journey to Self-Love_: [Hardcover](https://smile.amazon.com/exec/obidos/ASIN/1507212909){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B07Z428JF9){:target="&lowbar;blank"}
   * Sue Johnson: _Hold Me Tight: Seven Conversations for a Lifetime of Love_: [Audible](https://www.audible.com/pd/154915768X){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B0011UGLQK){:target="&lowbar;blank"}
   * Gary Chapman: _The 5 Love Languages: The Secret to Love that Lasts_: [Kindle](https://smile.amazon.com/dp/B00OICLVBI){:target="&lowbar;blank"}
   * Marc Brackett: _Permission To Feel_: [Audible](https://www.audible.com/pd/Permission-to-Feel-Audiobook/1250242592){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Ph-D-Marc-Brackett-ebook/dp/B07N69F1W7/){:target="&lowbar;blank"}, [website](https://www.marcbrackett.com/about/book-permission-to-feel/){:target="&lowbar;blank"}

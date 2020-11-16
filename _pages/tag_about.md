@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-11-15"
+last_modified_at: "2020-11-16"
 ---
 
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
@@ -215,7 +215,7 @@ _Take a peek at the resources below that are available for free (such as on YouT
 * Marshall Rosenberg: _Nonviolent Communication_: [Audible](https://www.audible.com/pd/Nonviolent-Communication-Audiobook/B00TJJNSQG){:target="&lowbar;blank"}, [Kindle eTextbook](https://smile.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships-ebook/dp/B014OISVU4){:target="&lowbar;blank"}
 * revelatori (Tori Press)
   * [Website](https://www.revelatori.com/){:target="&lowbar;blank"}
-  * _I Am Definitely, Probably Enough (I Think): Revelations on the Journey to Self-Love_: [Amazon](https://smile.amazon.com/exec/obidos/ASIN/1507212909){:target="&lowbar;blank"}
+  * _I Am Definitely, Probably Enough (I Think): Revelations on the Journey to Self-Love_: [Hardcover](https://smile.amazon.com/exec/obidos/ASIN/1507212909){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B07Z428JF9){:target="&lowbar;blank"}
   * [Instagram: @revelatori](https://www.instagram.com/revelatori/){:target="&lowbar;blank"}
   * [Facebook: revelatori](https://www.facebook.com/revelatori/){:target="&lowbar;blank"}
   * [Twitter: @revelatori](https://twitter.com/revelatori){:target="&lowbar;blank"}

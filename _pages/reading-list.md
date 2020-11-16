@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-11-15"
+last_modified_at: "2020-11-16"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -147,6 +147,9 @@ _in progress_
 
 
 {% endcomment %}
+## Tori Press: _I Am Definitely, Probably Enough (I Think): Revelations on the Journey to Self-Love_
+[Hardcover](https://smile.amazon.com/exec/obidos/ASIN/1507212909){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07Z428JF9){:target="&lowbar;blank"}
+
 ## Gary Chapman: _The 5 Love Languages: The Secret to Love that Lasts_
 [Kindle](https://smile.amazon.com/dp/B00OICLVBI){:target="&lowbar;blank"}
 
