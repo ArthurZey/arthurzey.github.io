@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-11-16"
+last_modified_at: "2020-11-17"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -144,9 +144,10 @@ _started in 2019; in progress_
 
 _in progress_
 
-
-
 {% endcomment %}
+## Catherine Singer: _Press Pause: A Young Person's Guide to Managing Life's Challenges_
+[Audible](https://www.audible.com/pd/B07VWSCP9N){:target="&lowbar;blank"}
+
 ## Tori Press: _I Am Definitely, Probably Enough (I Think): Revelations on the Journey to Self-Love_
 [Hardcover](https://smile.amazon.com/exec/obidos/ASIN/1507212909){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07Z428JF9){:target="&lowbar;blank"}
 
