@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-11-17"
+last_modified_at: "2020-11-18"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -145,6 +145,9 @@ _started in 2019; in progress_
 _in progress_
 
 {% endcomment %}
+## Dan Ariely: _Predictably Irrational_
+[Audible](https://www.audible.com/pd/B002V0GCE0){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B002C949KE){:target="&lowbar;blank"}
+
 ## Catherine Singer: _Press Pause: A Young Person's Guide to Managing Life's Challenges_
 [Audible](https://www.audible.com/pd/B07VWSCP9N){:target="&lowbar;blank"}
 
