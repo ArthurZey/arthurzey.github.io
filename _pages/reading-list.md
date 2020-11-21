@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-11-18"
+last_modified_at: "2020-11-21"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -145,6 +145,12 @@ _started in 2019; in progress_
 _in progress_
 
 {% endcomment %}
+## Lauren Gunderson: _The Half-Life of Marie Curie_
+[Audible](https://www.audible.com/pd/B07ZWP5WF6){:target="&lowbar;blank"}
+
+## Malcolm Gladwell: _Talking to Strangers_
+[Audible](https://www.audible.com/pd/1549150340){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07NDKVWZW){:target="&lowbar;blank"}
+
 ## Dan Ariely: _Predictably Irrational_
 [Audible](https://www.audible.com/pd/B002V0GCE0){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B002C949KE){:target="&lowbar;blank"}
 
