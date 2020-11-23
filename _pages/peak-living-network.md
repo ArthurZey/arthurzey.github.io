@@ -41,7 +41,7 @@ Similarly, there are no particular "issues" that I want to focus on. Many of our
 
 I'm not sure exactly how to frame this section, but the idea is to give an indication of the different perspectives, angles, and approaches I want to integrate into our work. I'll give an indication of related resources (such as recommended reading/listening/watching) that might serve as the basis for group discussions. The point is that these all provide a wider context, integrating diverse and mutually consistent perspectives.
 
-* psychology: authenticity, whole-heartedness, connection, vulnerability, and shame
+* psychology: authenticity, whole-heartedness, connection, vulnerability, growth, and shame
   * Brené Brown
     * _The Gifts of Imperfection_: [Audible](https://www.audible.com/pd/The-Gifts-of-Imperfection-10th-Anniversary-Edition-Audiobook/059321515X){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/gp/product/B00BS03LL6){:target="&lowbar;blank"}
     * _Daring Greatly_: [Audible](https://www.audible.com/pd/Daring-Greatly-Audiobook/B07DX9W2CG){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/gp/product/B007P7HRS4){:target="&lowbar;blank"}
@@ -59,6 +59,7 @@ I'm not sure exactly how to frame this section, but the idea is to give an indic
     * _Brené Brown on Blame_ (short): [YouTube: The RSA](https://www.youtube.com/watch?v=RZWf2_2L2v8){:target="&lowbar;blank"}
     * _Unlocking Us_ (podcast): [Website](https://brenebrown.com/unlockingus/){:target="&lowbar;blank"}, [Spotify](https://open.spotify.com/show/4P86ZzHf7EOlRG7do9LkKZ){:target="&lowbar;blank"}
   * Tori Press: _I Am Definitely, Probably Enough (I Think): Revelations on the Journey to Self-Love_: [Hardcover](https://smile.amazon.com/exec/obidos/ASIN/1507212909){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B07Z428JF9){:target="&lowbar;blank"}
+  * Carl Dweck: _Mindset_: [Audible](https://www.audible.com/pd/0593150422){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B000FCKPHG){:target="&lowbar;blank"}
   * Sue Johnson: _Hold Me Tight: Seven Conversations for a Lifetime of Love_: [Audible](https://www.audible.com/pd/154915768X){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B0011UGLQK){:target="&lowbar;blank"}
   * Gary Chapman: _The 5 Love Languages: The Secret to Love that Lasts_: [Kindle](https://smile.amazon.com/dp/B00OICLVBI){:target="&lowbar;blank"}
   * Marc Brackett: _Permission To Feel_: [Audible](https://www.audible.com/pd/Permission-to-Feel-Audiobook/1250242592){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Ph-D-Marc-Brackett-ebook/dp/B07N69F1W7/){:target="&lowbar;blank"}, [website](https://www.marcbrackett.com/about/book-permission-to-feel/){:target="&lowbar;blank"}

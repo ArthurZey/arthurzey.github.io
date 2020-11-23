@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-11-16"
+last_modified_at: "2020-11-23"
 ---
 
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
@@ -219,18 +219,21 @@ _Take a peek at the resources below that are available for free (such as on YouT
   * [Instagram: @revelatori](https://www.instagram.com/revelatori/){:target="&lowbar;blank"}
   * [Facebook: revelatori](https://www.facebook.com/revelatori/){:target="&lowbar;blank"}
   * [Twitter: @revelatori](https://twitter.com/revelatori){:target="&lowbar;blank"}
+* Carl Dweck: _Mindset_: [Audible](https://www.audible.com/pd/0593150422){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B000FCKPHG){:target="&lowbar;blank"}
 * Authentic Relating and Circling
   * [The Circling Institute](https://www.circlinginstitute.com/circling/what-is-circling/){:target="&lowbar;blank"}
   * [Facebook Group: Attachment Healing Through Circling](https://www.facebook.com/groups/1822942984620166/){:target="&lowbar;blank"}
 * Sexuality
   * Esther Perel: _Mating in Captivity_: [Audible](https://www.audible.com/pd/B002V8HNWC){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B000UODXP0){:target="&lowbar;blank"}
   * Janet W Hardy and Dossie Easton: _The Ethical Slut_: [Audible](https://www.audible.com/pd/B00B1VIPX6){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B01N0SA1YW){:target="&lowbar;blank"}
+  * Christopher Ryan and Cacilda Jetha: _Sex at Dawn_: [Audible](https://www.audible.com/pd/B004966PJQ){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B007679QTG){:target="&lowbar;blank"}
 
 ### Parenting and Education
 _A parent's job is to be a guide in a child's development into an adult. A parent is a model, not an authority figure. A child must learn, not obey. A parent should not try to tame their child or desire obedience, but to help the child cultivate the skills of agency, self-determination, self-regulation, independent judgment, internal motivation, and efficacy. "Punishment", ranging from grounding to stonewalling to physical striking, are not effective tools; they teach a child that these are normal modes of interaction between human beings and handicap their future adult relationships. Punishment and "consequences" create power struggles and undermine the possibility of finding win-win solutions. While I wouldn't say it's always wrong to characterize a child as "misbehaving", the more useful framing is to understand that the child is attempting to achieve a value, perhaps ineffectively, and that it's the parent's job to help the child learn more effective ways of achieving values. Regardless, approaching a child with anger or phrases such as "You're bad." and "You're being bad." (which a child is likely to internalize as a matter of basic identity) are disastrous._
 * [Positive Discipline](https://www.positivediscipline.com/about-positive-discipline){:target="&lowbar;blank"}
   * [Facebook Group: Positive Discipline Objectivists](https://www.facebook.com/groups/PDObjectivists/about/){:target="&lowbar;blank"}
 * Brené Brown: [_The Gifts of Imperfect Parenting_](https://www.audible.com/pd/The-Gifts-of-Imperfect-Parenting-Audiobook/B00DMCC0ME){:target="&lowbar;blank"}
+* Carl Dweck: _Mindset_: [Audible](https://www.audible.com/pd/0593150422){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B000FCKPHG){:target="&lowbar;blank"}
 * Montessori
   * [Wikipedia](https://en.wikipedia.org/wiki/Montessori_education){:target="&lowbar;blank"}
   * [Association Montessori Internationale: About Montessori](http://montessori-ami.org/about-montessori){:target="&lowbar;blank"}
@@ -242,10 +245,13 @@ _A parent's job is to be a guide in a child's development into an adult. A paren
   * [Patreon](https://www.patreon.com/3blue1brown){:target="&lowbar;blank"} (where I proudly support this work)
   * [Twitter](https://twitter.com/3blue1brown){:target="&lowbar;blank"}
 
-### Management: Manager Tools
-* [Website](https://www.manager-tools.com/){:target="&lowbar;blank"}
-* [Podcast](https://www.manager-tools.com/all-podcasts?field_content_domain_tid=4){:target="&lowbar;blank"}
-* Mark Horstman: _The Effective Manager_: [Audible](https://www.audible.com/pd/The-Effective-Manager-Audiobook/B072K1CF7L){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Effective-Manager-Mark-Horstman-ebook/dp/B01H9E36OG){:target="&lowbar;blank"}
+### Management
+* Manager Tools
+  * [Website](https://www.manager-tools.com/){:target="&lowbar;blank"}
+  * [Podcast](https://www.manager-tools.com/all-podcasts?field_content_domain_tid=4){:target="&lowbar;blank"}
+  * Mark Horstman: _The Effective Manager_: [Audible](https://www.audible.com/pd/The-Effective-Manager-Audiobook/B072K1CF7L){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Effective-Manager-Mark-Horstman-ebook/dp/B01H9E36OG){:target="&lowbar;blank"}
+* Kim Scott: _Radical Candor_: [Audible](https://www.audible.com/pd/1250245788){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B07P9LPXPT){:target="&lowbar;blank"}
+* Carl Dweck: _Mindset_: [Audible](https://www.audible.com/pd/0593150422){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B000FCKPHG){:target="&lowbar;blank"}
 
 ### Philosophy: Objectivism
 

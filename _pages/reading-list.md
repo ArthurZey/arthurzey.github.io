@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-11-22"
+last_modified_at: "2020-11-23"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -137,6 +137,7 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
 _started in 2019; in progress_
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
+
 _started in 2019; in progress_
 
 ## Susan Campbell: _Getting Real: 10 Truth Skills You Need to Live an Authentic Life_
@@ -144,7 +145,13 @@ _started in 2019; in progress_
 
 _in progress_
 
+## Viktor Frankl: _Man's Search for Meaning_
+[Audible](https://www.audible.com/pd/B002V0QUOC){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B009U9S6FI){:target="&lowbar;blank"}
+
 {% endcomment %}
+## Carl Dweck: _Mindset_
+[Audible](https://www.audible.com/pd/0593150422){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000FCKPHG){:target="&lowbar;blank"}
+
 ## Greg Donahue: _The Minuteman_
 [Audible](https://www.audible.com/pd/B0813VYQYY){:target="&lowbar;blank"}
 
