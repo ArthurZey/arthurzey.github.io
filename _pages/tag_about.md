@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-11-23"
+last_modified_at: "2020-11-24"
 ---
 
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
@@ -154,7 +154,7 @@ I grew up in Los Angeles, and I live in the San Francisco Bay Area. But I'm in D
 * [cooking](/favorites/#to-cook) (haven't done anything creative in a while, though)
 * [grammar](#grammar-and-language)
 * good UX (yes, on websites and apps, but really, in the world generally!)
-* [management theory](#management-manager-tools)
+* [management theory](#management)
 * learning Hebrew (kind of fell off the wagon on that, honestly)
 
 _Previous Sports_
