@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-11-23"
+last_modified_at: "2020-11-24"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -145,10 +145,13 @@ _started in 2019; in progress_
 
 _in progress_
 
+## Dale Carnegie: _How to Stop Worrying and Start Living_
+[Audible](https://www.audible.com/pd/B002V1OJ3A){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B08N6P2MVG){:target="&lowbar;blank"}
+
+{% endcomment %}
 ## Viktor Frankl: _Man's Search for Meaning_
 [Audible](https://www.audible.com/pd/B002V0QUOC){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B009U9S6FI){:target="&lowbar;blank"}
 
-{% endcomment %}
 ## Carl Dweck: _Mindset_
 [Audible](https://www.audible.com/pd/0593150422){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000FCKPHG){:target="&lowbar;blank"}
 
@@ -166,6 +169,22 @@ _in progress_
 
 ## Dan Ariely: _Predictably Irrational_
 [Audible](https://www.audible.com/pd/B002V0GCE0){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B002C949KE){:target="&lowbar;blank"}
+{% comment %}
+CAPTURING SOME HIGH-LEVEL NOTES I JOTTED DOWN
+* attributes to human nature the results of experiments that could just be reflecting dominant cultural trends that are result of philosophy, not basic psychology.
+* Basically typical/common human cognitive biases. But he draws/recommends some invalid conclusions (about capitalism / markets), and his use of "irrational" and "rational" ends up being really equivocal and all-or-nothing, premised on a standard of "perfection" that he also undermines.
+* Doesn't inquire what might be operative for outliers from his dominant experimental results.
+* Defines rationality and optimums and value judgments based on non-human characteristics, then says humans are irrational for not pursuing objective values.
+* 3/4 into chapter 9: very kantian
+* Good point about placebos and that it actually creates value
+* Nonsense about honesty
+* Lauding SOX!? Okay, he backs down from that when he mentions the costs.
+* Summary to friend:
+  * There are a lot of very interesting observations and raw material for being aware of common cognitive biases, but a lot of the conclusions he draws (particularly when he starts making policy recommendations) are...well...irrational.
+  * The errors he makes in his reasoning are actual failures of logic, sometimes known logical fallacies.
+  * Definitely a good way of being more mindful of my own motivations and biases, rather than mostly fixating on my known susceptibility to sunken cost fallacy.
+* Another summary: I'd say a fundamental error is in how he defines rationality and irrationality, particularly in that he's very inconsistent in its use. It's not that I'm fixating on a particular definition...it's that he ends up contradicting himself. And then there's one place where he redeems himself (in the chapter on placebos), but then fails to apply that understanding more holistically.
+{% endcomment %}
 
 ## Catherine Singer: _Press Pause: A Young Person's Guide to Managing Life's Challenges_
 [Audible](https://www.audible.com/pd/B07VWSCP9N){:target="&lowbar;blank"}
