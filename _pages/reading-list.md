@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-11-24"
+last_modified_at: "2020-11-25"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -125,7 +125,64 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
   <div class="gr_custom_container_1605193490"></div>
 </div>
 
-<script src="https://www.goodreads.com/review/custom_widget/112945867.Goodreads%20Currently%20Reading%20List%20(alphabetical%20by%20title)?cover_position=left&cover_size=small&num_books=100&order=a&shelf=currently-reading&show_author=1&show_cover=1&show_rating=0&show_review=0&show_tags=0&show_title=1&sort=title&widget_bg_color=FFFFFF&widget_bg_transparent=true&widget_border_width=1&widget_id=1605193490&widget_text_color=000000&widget_title_size=medium&widget_width=medium" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.goodreads.com/review/custom_widget/112945867.Goodreads%20Currently%20Reading%20List%20(alphabetical%20by%20title)?cover_position=left&cover_size=small&num_books=100&order=a&shelf=currently-reading&show_author=1&show_cover=1&show_rating=0&show_review=0&show_tags=0&show_title=1&sort=title&widget_bg_color=FFFFFF&widget_bg_transparent=true&widget_border_width=1&widget_id=1605193490&widget_text_color=000000&widget_title_size=medium&widget_width=full" type="text/javascript" charset="utf-8"></script>
+
+# Up Next
+<style type="text/css" media="screen">
+  .gr_custom_container_1606314147 {
+    /* customize your Goodreads widget container here*/
+    border: 1px solid gray;
+    border-radius:10px;
+    padding: 10px 5px 10px 5px;
+    background-color: transparent;
+    color: #000000;
+    width: 100%
+  }
+  .gr_custom_header_1606314147 {
+    /* customize your Goodreads header here*/
+    border-bottom: 1px solid gray;
+    width: 100%;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 120%
+  }
+  .gr_custom_each_container_1606314147 {
+    /* customize each individual book container here */
+    width: 100%;
+    clear: both;
+    margin-bottom: 10px;
+    overflow: auto;
+    padding-bottom: 4px;
+    border-bottom: 1px solid #aaa;
+  }
+  .gr_custom_book_container_1606314147 {
+    /* customize your book covers here */
+    overflow: hidden;
+    height: 60px;
+    float: left;
+    margin-right: 4px;
+    width: 39px;
+  }
+  .gr_custom_author_1606314147 {
+    /* customize your author names here */
+    font-size: 10px;
+  }
+  .gr_custom_tags_1606314147 {
+    /* customize your tags here */
+    font-size: 10px;
+    color: gray;
+  }
+  .gr_custom_rating_1606314147 {
+    /* customize your rating stars here */
+    float: right;
+  }
+</style>
+
+<div id="gr_custom_widget_1606314147">
+  <div class="gr_custom_container_1606314147"></div>
+</div>
+
+<script src="https://www.goodreads.com/review/custom_widget/112945867.Goodreads%20Up%20Next%20List?cover_position=left&cover_size=small&num_books=100&order=a&shelf=up-next&show_author=1&show_cover=1&show_rating=0&show_review=0&show_tags=0&show_title=1&sort=position&widget_bg_color=FFFFFF&widget_bg_transparent=true&widget_border_width=1&widget_id=1606314147&widget_text_color=000000&widget_title_size=medium&widget_width=full" type="text/javascript" charset="utf-8"></script>
 
 # 2020
 {% comment %}
@@ -145,12 +202,33 @@ _started in 2019; in progress_
 
 _in progress_
 
-## Dale Carnegie: _How to Stop Worrying and Start Living_
-[Audible](https://www.audible.com/pd/B002V1OJ3A){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B08N6P2MVG){:target="&lowbar;blank"}
+## James Clear: _Atomic Habits_
+[Audible](https://www.audible.com/pd/1524779261){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07D23CFGR){:target="&lowbar;blank"}
 
 {% endcomment %}
+## Dale Carnegie: _How to Stop Worrying and Start Living_
+[Audible](https://www.audible.com/pd/B002V1OJ3A){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B08N6P2MVG){:target="&lowbar;blank"}
+{% comment %}
+CAPTURING SOME HIGH-LEVEL NOTES I JOTTED DOWN
+* Chapter 4 process versus outcomes
+* Chapter 7: determinism; metaphysically given
+* Chapter 14: gratitude, motives around it
+* Shame around comparative suffering
+* Altruist false dichotomy: finding ways to serve others, self-centered expectations other will serve you
+* At least mentions enlightened selfishness
+* Chapter 19: about religion and philosophy; alright, now
+* [Motte and bailey](https://en.m.wikipedia.org/wiki/Motte-and-bailey_fallacy) about what he calls religion
+{% endcomment %}
+
 ## Viktor Frankl: _Man's Search for Meaning_
 [Audible](https://www.audible.com/pd/B002V0QUOC){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B009U9S6FI){:target="&lowbar;blank"}
+{% comment %}
+CAPTURING SOME HIGH-LEVEL NOTES I JOTTED DOWN
+* SMS to a friend:
+  * Overall, I liked it, but I struggled to grasp what the main thesis was. I found valuable the illustration of overcoming severe adversity, helping to put into perspective my own challenges and reminding me very concretely that I, too, can overcome them. It was also interesting as a historical account (though I'm quite tired in general of the Jews-as-victims theme, even if you can argue here that it's precisely that he was NOT a victim). But while he kept giving lip service to (and briefly mentioning) how meaning is not inherently about suffering and overcoming it, that was the overall impression and feeling that I was left with: Life is suffering, and making meaning in life is about living well, despite the suffering. I don't know whether that's really his view or what he was trying to say, but that struck me pretty hard throughout. And I can't tell you how much every atom of my being rebels against that idea. Suffering happens, yes, and I make a big point about how depression--far from needing to be pathologized--is a normal part of the human experience. But the essence of life is joy and happiness, and I think that life is THAT, perhaps punctuated by occasional bouts of suffering. And yes, we need tools for dealing with that suffering, with dignity and grace and skill, but it's not the suffering that gives life meaning; it's the joy that gives life meaning. I understand why Frankl fixates on suffering and what value he derived from it; he suffered a tremendous amount, more than the "punctuation" I mentioned. And while he said numerous times how he found opportunities for joy (my characterization), which I think could have been made much more clear as one of the central theses in the book, in the end, he still focused on the overall phenomenon as "meaning from suffering". I don't think that I'm just getting fixated on the word use, either (the way I often do with the word "selfish"), but even if I am, then my concern remains in terms of what message he might end up sending to most readers.
+  * Now, applying to my current situation: I am suffering about this whole Adam thing more than I ever knew I could suffer. And frankly, I don't yet know what meaning to make of it. Sure, there are lessons here and there, but even looking at it through Frankl's framework, I think I have absolutely conducted myself with dignity and grace, with my head held high. I know I always did my best. I did not allow my despair to result in a lessening of my standards for how I would treat Adam or anybody else, no matter how unjust it all felt. So great...except I still don't know what my lesson is in this whole experience, whatever superficial things it feels like I have learned. Maybe that will take time. Or maybe I will never know. And either is "okay". But I don't feel like the suffering here is what gives my life meaning. The meaning I have created for my life is a meaning that persists _despite_ what I've gone through with Adam. And indeed, it was so much the love we shared, the life we built and were continuing to build, that gave my life a lot of meaning. (And now all of that is gone.) Is it all of life's meaning? No. But it was huge. I can't ever imagine thinking that enduring the suffering of the last year or two is what gave or gives my life meaning.
+  * Again, I don't think this contradicts Frankl's viewpoint, but it certainly differs from the main thrust of what landed with me about the book.
+{% endcomment %}
 
 ## Carl Dweck: _Mindset_
 [Audible](https://www.audible.com/pd/0593150422){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000FCKPHG){:target="&lowbar;blank"}
