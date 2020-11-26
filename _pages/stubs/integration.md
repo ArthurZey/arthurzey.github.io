@@ -6,7 +6,7 @@ tags:
   - about
 description: "Whether in different aspects of life or looking at dispositions through different lenses, I think certain qualities naturally go hand-in-hand."
 date: "2020-11-23"
-last_modified_at: "2020-11-23"
+last_modified_at: "2020-11-24"
 ---
 
 High-level ideas:
@@ -20,5 +20,12 @@ Not all of these qualities are under direct volitional control (they may take ye
 * secure attachment
 * believing that people are generally doing the best that they can
 * [believing that people's true interests are fundamentally harmonious](/harmony-of-interests/)
+* [comfort with uncertainty](/objective-truth-and-comfort-with-uncertainty/)
 * egoism
-* [rejection of authority](/rules/)
+* [rejection of authority](/rules/) / being willful
+* being [process-oriented](/goal-oriented-is-process-oriented/)
+
+Other ideas to consider:
+* grit/tenacity
+* [that episode of Russel Brand's podcast with Brené Brown](https://open.spotify.com/episode/4Lfwf13k6AoDhrOuClU3Bx?si=jn8kO8DsQY20rlDLPnoA7A){:target="&lowbar;blank"} and that one point about her views leading inexorably to certain political views
+* role of Cognitive-Behavioral Therapy (CBT) and Emotionally Focused Therapy (EFT)
