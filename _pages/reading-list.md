@@ -202,10 +202,40 @@ _started in 2019; in progress_
 
 _in progress_
 
-## James Clear: _Atomic Habits_
-[Audible](https://www.audible.com/pd/1524779261){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07D23CFGR){:target="&lowbar;blank"}
+## Angela Duckworth: _Grit: The Power of Passion and Perseverance_
+[Audible](https://www.audible.com/pd/B01D3AC5BA){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B010MH9V3W){:target="&lowbar;blank"}
 
 {% endcomment %}
+## Shlomo Benartzi: _The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior_
+[Audible](https://www.audible.com/pd/B014RIC4TU){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00P891E4E){:target="&lowbar;blank"}
+{% comment %}
+CAPTURING SOME HIGH-LEVEL NOTES I JOTTED DOWN (chapters are Audible chapters, not book chapters)
+* Chapter 3: perception of value based on reports' aesthetic appeal is perfectly rational. It gives you a good indication of the company.
+* Tindr swipe is good because physical attractiveness matters
+* Regulation of subliminal messaging
+* Our not knowing what our subconscious is responding to: why is that a problem? What is he confessing?
+* Chapter 5: food choices when ordering on screen: has a strong paternalistic streak
+* considerations for paternalism:
+  * vicious cycle around treating people as "systematically irrational"
+  * smuggling in ethical framework (eg, health care, value judgments about what to encourage/discourage, "social costs")
+{% endcomment %}
+
+## James Clear: _Atomic Habits_
+[Audible](https://www.audible.com/pd/1524779261){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07D23CFGR){:target="&lowbar;blank"}
+{% comment %}
+CAPTURING SOME HIGH-LEVEL NOTES I JOTTED DOWN
+* A great reinforcement of a ton of stuff I already knew, both explicitly and implicitly, and a very cogent and well structured connection of theory to practice.
+* Atomic habits: systems versus goals; same as my "goal-oriented is process-oriented"
+* If we use a reward/punishment mechanism to make something pleasant/unpleasant in a little way to help establish/break a habit, what if that particular thing you use actually itself reinforces a bad disposition, such as caring what others think / approval/disapproval from others?
+* Habit Tracking. LOL. I can't fucking believe that therapist Phillip was encouraging me to break that. Fuck that noise.
+* Chapter 18 Big 5:
+  * openness to experience: curious/inventive versus cautious/consistent
+  * conscientiousness: organized/efficient versus easy-going/spontaneous
+  * extroversion: outgoing/energetic versus solitary/reserved
+  * agreeableness: friendly/compassionate versus challenging/detached
+  * neuroticism: anxious/sensitive versus confident/calm/stable
+{% endcomment %}
+
 ## Dale Carnegie: _How to Stop Worrying and Start Living_
 [Audible](https://www.audible.com/pd/B002V1OJ3A){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B08N6P2MVG){:target="&lowbar;blank"}
 {% comment %}
