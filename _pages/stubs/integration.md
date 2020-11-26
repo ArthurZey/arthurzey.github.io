@@ -6,7 +6,7 @@ tags:
   - about
 description: "Whether in different aspects of life or looking at dispositions through different lenses, I think certain qualities naturally go hand-in-hand."
 date: "2020-11-23"
-last_modified_at: "2020-11-24"
+last_modified_at: "2020-11-26"
 ---
 
 High-level ideas:
@@ -24,6 +24,9 @@ Not all of these qualities are under direct volitional control (they may take ye
 * egoism
 * [rejection of authority](/rules/) / being willful
 * being [process-oriented](/goal-oriented-is-process-oriented/)
+* guilt talk (instead of shame talk)
+* optimism
+* positive identity and negative behaviors (as against negative identity)
 
 Other ideas to consider:
 * grit/tenacity
