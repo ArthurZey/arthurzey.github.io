@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-11-24"
+last_modified_at: "2020-11-26"
 ---
 
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
@@ -72,7 +72,7 @@ I grew up in Los Angeles, and I live in the San Francisco Bay Area. But I'm in D
 * I _love_ the beach and the ocean, and while I don't pursue them often enough, I enjoy all manners of water sports and being on various water crafts.
 * I enjoy camping and [hiking](https://www.alltrails.com/members/arthur-zey){:target="&lowbar;blank"} (after all, I'm an Eagle Scout), but I rarely initiate it, instead enthusiastically participating when others organize trips. (I wonder why that is...and how much of it might be more that I just like to think that I'm the kind of person who likes camping, considering how much I actually really like to stay clean and love my routines and creature comforts.)
 * I _hate_ traveling by plane, but I _love_ the phenomenon of flying. I love window seats so that I can be filled with amazement at how we're in a metal can hurtling through the sky at incredible speeds and marvel at what human ingenuity can achieve. But the whole end-to-end process of commercial flying is super stressful, from booking air travel, to packing lightly enough, to getting to airports on time, to TSA security theatre, to numerous travel modality switching (car, walking, flying, walking, car), to sitting in claustrophobia-inducing uncomfortable seats that are not suited for someone who is 6'2". It means that if it's within an hour or two difference (eg, SF to LA), I'd much rather drive, even though driving is also super stressful for me (especially because of paranoia of getting speeding citations).
-* Despite enjoying [cooking](/favorites/#to-cook) (especially with others), I am _not_ culinarily adventurous. Aside from the influence of my risk aversion and dislike of slimy things / weird textures, I have a lot of psychological hangups about certain food categories (eg, [_all_ seafood, the smell and idea of which I have strongly associated with rotting marine life in tide pools](/paleo/#seafood)). I don't like exploring new foods, and I'm _very_ happy to just eat the same boring thing, day in and day out. (This makes designing and adherence to meal plans for my fitness goals really easy!) See also my post on [Paleo](/paleo/).
+* Despite enjoying [cooking](/favorites/#to-cook) (especially with others), I am _not_ culinarily adventurous. Aside from the influence of my risk aversion and dislike of slimy things / weird textures, I have a lot of psychological hangups about certain food categories (eg, [_all_ seafood, the smell and idea of which I have strongly associated with rotting marine life in tide pools](/paleo/#seafood)). I don't like exploring new foods, and I'm _very_ happy to just eat the same boring thing, day in and day out. (This makes [designing and adherence to meal plans for my fitness goals](/physical-fitness/#diet) really easy!) See also my post on [Paleo](/paleo/).
 * I _love_ spicy foods, and I joke that I have burned off all the capsaicin receptors in my mouth already.
 * Listening to music is a very active process for me (meaning humming or singing along), so it's really hard for me to ever have it on in the background. It also means I don't much care for intentional music discovery (like Pandora). Invite me to the symphony, opera, or ballet if you're prepared to be hitting me every 5 seconds to stop me from signing along.
 * I've never been to a music performance that didn't involve sitting in seats, but [I do like quite a bit of contemporary music](https://open.spotify.com/playlist/0mTrpgBmH0j2r8fDyn4xV5){:target="&lowbar;blank"}.
@@ -144,13 +144,10 @@ I grew up in Los Angeles, and I live in the San Francisco Bay Area. But I'm in D
 * tech geekery
 * [philosophy (especially ethics and epistemology, especially Objectivism)](#philosophy-objectivism)
 * [parenting theory](#parenting-and-education) (cannot wait to put this into practice)
-* snowboarding
-  * Got the [IKON Base Pass](https://www.ikonpass.com/en/shop-passes/ikon-base-pass-2020-2021){:target="&lowbar;blank"} for 2020-2021.
-  * Still figuring out which [Epic Pass](https://www.epicpass.com/pass-results/passes.aspx){:target="&lowbar;blank"} to use my 2019-2020 credit on for 2020-2021...probably the [Summit Value Pass](https://www.epicpass.com/passes/summit-value-pass.aspx){:target="&lowbar;blank"}, given what I have access to with IKON.
+* snowboarding ([IKON Base Pass](https://www.ikonpass.com/en/shop-passes/ikon-base-pass-2020-2021){:target="&lowbar;blank"} and [Epic Summit Value Pass](https://www.epicpass.com/passes/summit-value-pass.aspx){:target="&lowbar;blank"} for 2020-2021)
 * Krav Maga (at [Krav Maga San Francisco](https://www.kravmaga-sf.com){:target="&lowbar;blank"})
 * _Star Trek_
-* piano
-  * current obsession: [BWV 999 (JS Bach Prelude in c minor)](https://musescore.com/nicolas/scores/4526){:target="&lowbar;blank"}
+* piano (current obsession: [BWV 999 (JS Bach Prelude in c minor)](https://musescore.com/nicolas/scores/4526){:target="&lowbar;blank"})
 * [cooking](/favorites/#to-cook) (haven't done anything creative in a while, though)
 * [grammar](#grammar-and-language)
 * good UX (yes, on websites and apps, but really, in the world generally!)
@@ -220,6 +217,7 @@ _Take a peek at the resources below that are available for free (such as on YouT
   * [Facebook: revelatori](https://www.facebook.com/revelatori/){:target="&lowbar;blank"}
   * [Twitter: @revelatori](https://twitter.com/revelatori){:target="&lowbar;blank"}
 * Carl Dweck: _Mindset_: [Audible](https://www.audible.com/pd/0593150422){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B000FCKPHG){:target="&lowbar;blank"}
+* James Clear: _Atomic Habits_: [Audible](https://www.audible.com/pd/1524779261){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B07D23CFGR){:target="&lowbar;blank"}
 * Authentic Relating and Circling
   * [The Circling Institute](https://www.circlinginstitute.com/circling/what-is-circling/){:target="&lowbar;blank"}
   * [Facebook Group: Attachment Healing Through Circling](https://www.facebook.com/groups/1822942984620166/){:target="&lowbar;blank"}
