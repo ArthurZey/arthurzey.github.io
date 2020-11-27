@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-11-26"
+last_modified_at: "2020-11-27"
 ---
 
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
@@ -250,6 +250,7 @@ _A parent's job is to be a guide in a child's development into an adult. A paren
   * Mark Horstman: _The Effective Manager_: [Audible](https://www.audible.com/pd/The-Effective-Manager-Audiobook/B072K1CF7L){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Effective-Manager-Mark-Horstman-ebook/dp/B01H9E36OG){:target="&lowbar;blank"}
 * Kim Scott: _Radical Candor_: [Audible](https://www.audible.com/pd/1250245788){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B07P9LPXPT){:target="&lowbar;blank"}
 * Carl Dweck: _Mindset_: [Audible](https://www.audible.com/pd/0593150422){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B000FCKPHG){:target="&lowbar;blank"}
+* Peter Drucker: _The Effective Executive_: [Audible](https://www.audible.com/pd/B01N40AUFG){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B000FC11JW){:target="&lowbar;blank"}
 
 ### Philosophy: Objectivism
 

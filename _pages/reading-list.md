@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-11-25"
+last_modified_at: "2020-11-27"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -202,10 +202,13 @@ _started in 2019; in progress_
 
 _in progress_
 
+{% endcomment %}
+## Peter Drucker: _The Effective Executive_
+[Audible](https://www.audible.com/pd/B01N40AUFG){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000FC11JW){:target="&lowbar;blank"}
+
 ## Angela Duckworth: _Grit: The Power of Passion and Perseverance_
 [Audible](https://www.audible.com/pd/B01D3AC5BA){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B010MH9V3W){:target="&lowbar;blank"}
 
-{% endcomment %}
 ## Shlomo Benartzi: _The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior_
 [Audible](https://www.audible.com/pd/B014RIC4TU){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00P891E4E){:target="&lowbar;blank"}
 {% comment %}
