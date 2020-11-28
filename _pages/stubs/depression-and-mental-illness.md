@@ -7,7 +7,7 @@ tags:
   - emotions
 description: "Maybe depression isn't always a mental illness; maybe it's sometimes just a part of the normal human experience and a rich emotional life."
 date: "2020-04-07"
-last_modified_at: "2020-08-10"
+last_modified_at: "2020-11-28"
 ---
 
 We hear the word "depression", and we readily conclude we're talking about a mental illness or disease. While it _may_, in some cases, manifest as a pathology, I think that many times, it is just a natural part of human life and experience.
@@ -25,6 +25,7 @@ Additional considerations:
     * "just the mere presence of data like that/articles like that creates an air of depression can create herd mentality there too...sympathy pains... Hypochondria [etc]"
   * it provoked the following response from me:
     * > Here's the thing about "depression": Pathologizing the normal human experience of feeling sad (even for extended periods of time) is what saps people of the resilience to deal with sadness. Because then it's not "normal", so they feel helplessly in the power of a "condition" they cannot control...except through pharmacological intervention. An intervention that actually also undermines the ability to experience joy (fuckin' SSRIs), which then further compromises any possible resilience to sadness. And on and on, it's a vicious cycle. Same shit--often hand-in-hand--with anxiety.
+* from _Radical Acceptance_, quoting someone else: "Pain is inevitable; suffering is optional."
 
 ## Waves
 
