@@ -4,12 +4,12 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-11-27"
+last_modified_at: "2020-11-29"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
 
-Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads.com/user/show/112945867-arthur-zey){:target="&lowbar;blank"} and my [my Audible Listener Page](https://www.audible.com/listener/A21N9AKRB4509R){:target="&lowbar;blank"}.
+Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads.com/arthurzey){:target="&lowbar;blank"} and my [my Audible Listener Page](https://www.audible.com/listener/A21N9AKRB4509R){:target="&lowbar;blank"}.
 
 * TOC
 {:toc}
@@ -203,11 +203,25 @@ _started in 2019; in progress_
 _in progress_
 
 {% endcomment %}
+## Tara Brach: _Radical Acceptance: Embracing Your Life With the Heart of a Buddha_
+[Audible](https://www.audible.com/pd/B006WP75QE){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000FC2NHG){:target="&lowbar;blank"}
+{% comment %}
+CAPTURING SOME HIGH-LEVEL NOTES I JOTTED DOWN
+* Suffering and Desire...need to think more about these...the conventional understanding of those ideas and what the Buddhist concepts of those are not in sync...needs to be untangled.
+{% endcomment %}
+
 ## Peter Drucker: _The Effective Executive_
 [Audible](https://www.audible.com/pd/B01N40AUFG){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000FC11JW){:target="&lowbar;blank"}
 
 ## Angela Duckworth: _Grit: The Power of Passion and Perseverance_
 [Audible](https://www.audible.com/pd/B01D3AC5BA){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B010MH9V3W){:target="&lowbar;blank"}
+{% comment %}
+CAPTURING SOME HIGH-LEVEL NOTES I JOTTED DOWN
+* chapter 7 purpose altruism sigh
+* how applicable are short-term conformity studies to people who have grit? These can seem at odds with one another.
+* talking about success and failure as irrelevant, whereas courage and grit are important (quoting Wooden, I think), and how this is equivocating on success and failure. It's about long term and short term, it's about process versus immediate result / overly identifying with ultimate goal. After all, courage and grit are valuable BECAUSE they lead to ultimate success.
+* interesting point about identity (eg, "I am a person who never misses a workout") and meditation's counseling against that (eg, "I am a meditator"). Needs to be disentangled. Post on its own
+{% endcomment %}
 
 ## Shlomo Benartzi: _The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior_
 [Audible](https://www.audible.com/pd/B014RIC4TU){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00P891E4E){:target="&lowbar;blank"}
