@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-11-29"
+last_modified_at: "2020-12-01"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -203,6 +203,9 @@ _started in 2019; in progress_
 _in progress_
 
 {% endcomment %}
+## David Sedaris: _Calypso_
+[Audible](https://www.audible.com/pd/B07BGGTGBQ){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B0796QV121){:target="&lowbar;blank"}
+
 ## Tara Brach: _Radical Acceptance: Embracing Your Life With the Heart of a Buddha_
 [Audible](https://www.audible.com/pd/B006WP75QE){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000FC2NHG){:target="&lowbar;blank"}
 {% comment %}
