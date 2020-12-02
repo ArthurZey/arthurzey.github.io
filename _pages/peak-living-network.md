@@ -2,7 +2,7 @@
 title: Peak Living Network
 description: "Information about the Denver chapter of the Peak Living Network (PLN)"
 date: "2020-11-05"
-last_modified_at: "2020-11-16"
+last_modified_at: "2020-12-02"
 ---
 
 * TOC
@@ -64,6 +64,7 @@ I'm not sure exactly how to frame this section, but the idea is to give an indic
   * Gary Chapman: _The 5 Love Languages: The Secret to Love that Lasts_: [Kindle](https://smile.amazon.com/dp/B00OICLVBI){:target="&lowbar;blank"}
   * Marc Brackett: _Permission To Feel_: [Audible](https://www.audible.com/pd/Permission-to-Feel-Audiobook/1250242592){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Ph-D-Marc-Brackett-ebook/dp/B07N69F1W7/){:target="&lowbar;blank"}, [website](https://www.marcbrackett.com/about/book-permission-to-feel/){:target="&lowbar;blank"}
   * Marshall Rosenberg: _Nonviolent Communication_: [Audible](https://www.audible.com/pd/Nonviolent-Communication-Audiobook/B00TJJNSQG){:target="&lowbar;blank"}, [Kindle eTextbook](https://smile.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships-ebook/dp/B014OISVU4){:target="&lowbar;blank"}
+  * Susan Campbell: _Getting Real: 10 Truth Skills You Need to Live an Authentic Life_: [Kindle](https://smile.amazon.com/dp/B002L2GK5O){:target="&lowbar;blank"}
   * Kim Scott: _Radical Candor_: [Audible](https://www.audible.com/pd/1250245788){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B07P9LPXPT){:target="&lowbar;blank"}
   * authentic relating and [circling](https://circlinginstitute.com/what-is-circling-method/){:target="&lowbar;blank"}
 * psychology: Attachment Theory

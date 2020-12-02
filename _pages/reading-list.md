@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-12-01"
+last_modified_at: "2020-12-02"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -197,12 +197,16 @@ _started in 2019; in progress_
 
 _started in 2019; in progress_
 
+## Thomas Sowell: _Basic Economics_
+[Audible](https://www.audible.com/pd/B00PKSGTPW){:target="&lowbar;blank"} | [Kindle eTextbook](https://smile.amazon.com/dp/B00L4FSSTA){:target="&lowbar;blank"}
+
+{% endcomment %}
 ## Susan Campbell: _Getting Real: 10 Truth Skills You Need to Live an Authentic Life_
 [Kindle](https://smile.amazon.com/dp/B002L2GK5O){:target="&lowbar;blank"}
 
-_in progress_
+## J M Barrie: _Peter Pan_
+[Audible](https://www.audible.com/pd/B081HG2XXH){:target="&lowbar;blank"}
 
-{% endcomment %}
 ## David Sedaris: _Calypso_
 [Audible](https://www.audible.com/pd/B07BGGTGBQ){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B0796QV121){:target="&lowbar;blank"}
 

@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2020-11-27"
+last_modified_at: "2020-12-02"
 ---
 
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
@@ -210,6 +210,7 @@ _Take a peek at the resources below that are available for free (such as on YouT
 * Bessel Van der Kolk: _The Body Keeps the Score_: [Audible](https://www.audible.com/pd/The-Body-Keeps-the-Score-Audiobook/B00OAOQJXY){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Body-Keeps-Score-Healing-Trauma-ebook/dp/B00G3L1C2K){:target="&lowbar;blank"}
 * Deb Dana: _The Polyvagal Theory in Therapy_: [Audible](https://www.audible.com/pd/The-Polyvagal-Theory-in-Therapy-Audiobook/1977318959){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/Polyvagal-Theory-Therapy-Interpersonal-Neurobiology-ebook/dp/B07DGMBLQK){:target="&lowbar;blank"}
 * Marshall Rosenberg: _Nonviolent Communication_: [Audible](https://www.audible.com/pd/Nonviolent-Communication-Audiobook/B00TJJNSQG){:target="&lowbar;blank"}, [Kindle eTextbook](https://smile.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships-ebook/dp/B014OISVU4){:target="&lowbar;blank"}
+* Susan Campbell: _Getting Real: 10 Truth Skills You Need to Live an Authentic Life_: [Kindle](https://smile.amazon.com/dp/B002L2GK5O){:target="&lowbar;blank"}
 * revelatori (Tori Press)
   * [Website](https://www.revelatori.com/){:target="&lowbar;blank"}
   * _I Am Definitely, Probably Enough (I Think): Revelations on the Journey to Self-Love_: [Hardcover](https://smile.amazon.com/exec/obidos/ASIN/1507212909){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B07Z428JF9){:target="&lowbar;blank"}
