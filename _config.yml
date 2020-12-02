@@ -58,3 +58,10 @@ defaults:
       sitemap: false
       tags:
         - nsfw
+  -
+    scope:
+      path: "_pages/recipes"
+    values:
+      permalink: /recipes/:basename/
+      tags:
+        - recipe
