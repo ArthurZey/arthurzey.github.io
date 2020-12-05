@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-12-02"
+last_modified_at: "2020-12-05"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -197,10 +197,32 @@ _started in 2019; in progress_
 
 _started in 2019; in progress_
 
-## Thomas Sowell: _Basic Economics_
-[Audible](https://www.audible.com/pd/B00PKSGTPW){:target="&lowbar;blank"} | [Kindle eTextbook](https://smile.amazon.com/dp/B00L4FSSTA){:target="&lowbar;blank"}
+
 
 {% endcomment %}
+## Thomas Sowell: _Applied Economics_
+[Audible](https://www.audible.com/pd/B002VA3NJW){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B007JJXBV0){:target="&lowbar;blank"}
+{% comment %}
+SOME HIGH-LEVEL NOTES
+* I resent having to engage in more than stage one thinking, which is why we have philosophical principles to provide guidance. I thought of this when listening to the section on the various implications of land use restrictions and how that can be manipulated by people to increase the value of their own land, and that all seems so horrifically devious. None of that would even occur to me when trying to decide on the justice of a particular policy, since I would always think about it in terms of principles. The point is to make sure that the principles are formed inductively by understanding beyond stage one thinking.
+* Interesting attitude about immigration, which he seems ambivalent about.
+* Really good differentiation between bias, racism, prejudice.
+{% endcomment %}
+
+## Faith G Harper: _This Is Your Brain on Anxiety_
+[Audible](https://www.audible.com/pd/B07DNDXWFY){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07MBD7974){:target="&lowbar;blank"}
+
+## Faith G Harper: _Unfuck Your Brain_
+[Audible](https://www.audible.com/pd/B07BBVWZH2){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07MDZR94F){:target="&lowbar;blank"}
+
+## Thomas Sowell: _Basic Economics_
+[Audible](https://www.audible.com/pd/B00PKSGTPW){:target="&lowbar;blank"} | [Kindle eTextbook](https://smile.amazon.com/dp/B00L4FSSTA){:target="&lowbar;blank"}
+{% comment %}
+SOME HIGH-LEVEL NOTES
+* speculation is different from gambling because it manages risk that is inherent in other economic activity, whereas gambling creates risk were none existed before.
+* fails to differentiate between short-term and long-term rationality, and short-term and long-term interests, particularly with respect to the composition fallacy
+{% endcomment %}
+
 ## Susan Campbell: _Getting Real: 10 Truth Skills You Need to Live an Authentic Life_
 [Kindle](https://smile.amazon.com/dp/B002L2GK5O){:target="&lowbar;blank"}
 
@@ -316,6 +338,7 @@ CAPTURING SOME HIGH-LEVEL NOTES I JOTTED DOWN
   * The errors he makes in his reasoning are actual failures of logic, sometimes known logical fallacies.
   * Definitely a good way of being more mindful of my own motivations and biases, rather than mostly fixating on my known susceptibility to sunken cost fallacy.
 * Another summary: I'd say a fundamental error is in how he defines rationality and irrationality, particularly in that he's very inconsistent in its use. It's not that I'm fixating on a particular definition...it's that he ends up contradicting himself. And then there's one place where he redeems himself (in the chapter on placebos), but then fails to apply that understanding more holistically.
+* interestingly, ariely wants to impugn market economics, despite its superior track record. Why not acknowledge that we need to get there first, then see if there's some further optimization?
 {% endcomment %}
 
 ## Catherine Singer: _Press Pause: A Young Person's Guide to Managing Life's Challenges_
