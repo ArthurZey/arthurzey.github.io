@@ -18,7 +18,7 @@ Lundy Bancroft's PLN provides a good foundation and framework for pursuing this 
 
 # Activities
 
-I have not yet organized anything. Frankly, despite my attraction to and being energized by exchange of ideas, I'm also going to have to overcome what feels like a lot of [introvert](/introversion-and-extroversion/) inertia. Based on my creating this page, I'll be interested to gauge how much interest there is. If you are interested in my Denver chapter of PLN, please [join the PLN Slack Workspace](https://join.slack.com/t/peaklivingnetwork/shared_invite/zt-j0ariu3o-iuPy_pyZ5EEnoKip3O5Z6Q){:target="&lowbar;blank"} and then join the [#group-denver](https://app.slack.com/client/T01EDGRS2S0/C01EL17KVUZ){:target="&lowbar;blank"} channel.
+I have not yet organized anything. Frankly, despite my attraction to and being energized by exchange of ideas, I'm also going to have to overcome what feels like a lot of [introvert](/introversion-and-extroversion/) inertia. Based on my creating this page, I'll be interested to gauge how much interest there is. If you are interested in my Denver chapter of PLN, please [join the PLN Slack Workspace](https://join.slack.com/t/peaklivingnetwork/shared_invite/zt-j0ariu3o-iuPy_pyZ5EEnoKip3O5Z6Q){:target="&lowbar;blank"} and then join the [#hub-denver](https://app.slack.com/client/T01EDGRS2S0/C01EL17KVUZ){:target="&lowbar;blank"} channel.
 
 * [support group](https://peaklivingnetwork.org/support-groups/){:target="&lowbar;blank"}
 * [splitting time / co-counseling](https://peaklivingnetwork.org/split-time/){:target="&lowbar;blank"}
