@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-12-05"
+last_modified_at: "2020-12-06"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -197,9 +197,19 @@ _started in 2019; in progress_
 
 _started in 2019; in progress_
 
-
+## Thomas Sowell: _The Quest for Cosmic Justice_
+[Audible](https://www.audible.com/pd/B074TRHW26){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000FC0T72){:target="&lowbar;blank"}
 
 {% endcomment %}
+## Faith G Harper: _Unfuck Your Adulting_
+[Audible](https://www.audible.com/pd/1982604972){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07MDYT48Y){:target="&lowbar;blank"}
+
+## Thomas Sowell: _Marxism: Philosophy and Economics_
+[Audible](https://www.audible.com/pd/B0098NSM7S){:target="&lowbar;blank"}
+
+## Faith G Harper: _This Is Your Brain on Depression_
+[Audible](https://www.audible.com/pd/1982604891){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/B07M6NL9J8){:target="&lowbar;blank"}
+
 ## Thomas Sowell: _Applied Economics_
 [Audible](https://www.audible.com/pd/B002VA3NJW){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B007JJXBV0){:target="&lowbar;blank"}
 {% comment %}
