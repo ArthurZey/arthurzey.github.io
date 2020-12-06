@@ -1,12 +1,13 @@
 ---
 title: Lomo Saltado
 tags:
+  - recipe
   - gluten-free
   - dairy-free
   - soy-free
-description: "A traditional Peruvian dish, modified to accommodate Paleo needs"
+description: "A traditional Peruvian beef-potato stew served over rice, modified to accommodate Paleo-ish needs"
 date: "2020-12-03"
-last_modified_at: "2020-12-04"
+last_modified_at: "2020-12-06"
 ---
 
 * TOC

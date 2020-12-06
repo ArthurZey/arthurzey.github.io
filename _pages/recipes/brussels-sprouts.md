@@ -1,11 +1,12 @@
 ---
 title: Bacon-Butter Parmesan Brussels Sprouts
 tags:
+  - recipe
   - gluten-free
   - dairy
 description: "Brussels sprouts fried in butter and bacon fat, then drowned in parmesan cheese"
 date: "2020-12-02"
-last_modified_at: "2020-12-02"
+last_modified_at: "2020-12-06"
 ---
 
 * TOC
