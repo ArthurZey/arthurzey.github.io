@@ -197,10 +197,18 @@ _started in 2019; in progress_
 
 _started in 2019; in progress_
 
+
+
+{% endcomment %}
+## Thomas Sowell: _Black Rednecks and White Liberals_
+[Audible](https://www.audible.com/pd/B002V8HBWO){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B003XRDBYE){:target="&lowbar;blank"}
+
+## Faith G Harper: _Coping Skills_
+[Audible](https://www.audible.com/pd/1982641150){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07T8Y1JZF){:target="&lowbar;blank"}
+
 ## Thomas Sowell: _The Quest for Cosmic Justice_
 [Audible](https://www.audible.com/pd/B074TRHW26){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000FC0T72){:target="&lowbar;blank"}
 
-{% endcomment %}
 ## Faith G Harper: _Unfuck Your Adulting_
 [Audible](https://www.audible.com/pd/1982604972){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07MDYT48Y){:target="&lowbar;blank"}
 
