@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-12-06"
+last_modified_at: "2020-12-08"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -197,17 +197,31 @@ _started in 2019; in progress_
 
 _started in 2019; in progress_
 
+## Thomas Sowell: _Ethnic America_
+[Audible](https://www.audible.com/pd/B002V1OJ80){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00ANRU64A){:target="&lowbar;blank"}
 
+## Set Sytes: _How Not to Kill Yourself_
+[Audible](https://www.audible.com/pd/B07F1X9WBQ){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07TXS1R5R){:target="&lowbar;blank"}
 
 {% endcomment %}
+## Faith G Harper: _Unfuck Your Anger_
+[Audible](https://www.audible.com/pd/1982672048){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07QCWNP6D){:target="&lowbar;blank"}
+
 ## Thomas Sowell: _Black Rednecks and White Liberals_
 [Audible](https://www.audible.com/pd/B002V8HBWO){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B003XRDBYE){:target="&lowbar;blank"}
+{% comment %}
+* 4:16: those decrying eurocentric views most take eurocentric view of slavery
+{% endcomment %}
 
 ## Faith G Harper: _Coping Skills_
 [Audible](https://www.audible.com/pd/1982641150){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07T8Y1JZF){:target="&lowbar;blank"}
 
 ## Thomas Sowell: _The Quest for Cosmic Justice_
 [Audible](https://www.audible.com/pd/B074TRHW26){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000FC0T72){:target="&lowbar;blank"}
+{% comment %}
+* glorification of equality is not the same thing as rejecting authority. Equivocation on "authority". Independent judgment and its cultivation in children requires developmentally appropriate ways of having them validate moral rules and knowledge in general independently and not just accept what is handed to them by parents or teachers. Use of phrase "Parental authority" is way too fuzzy and then equates "obey when there isn't time" (like running into street) and abiding by destructive social norms.
+* Discussion about peace and whether we should see others as people like us. Connection to believing people are doing the best they can.
+{% endcomment %}
 
 ## Faith G Harper: _Unfuck Your Adulting_
 [Audible](https://www.audible.com/pd/1982604972){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07MDYT48Y){:target="&lowbar;blank"}
