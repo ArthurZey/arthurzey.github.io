@@ -200,10 +200,10 @@ _started in 2019; in progress_
 ## Thomas Sowell: _Ethnic America_
 [Audible](https://www.audible.com/pd/B002V1OJ80){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00ANRU64A){:target="&lowbar;blank"}
 
+{% endcomment %}
 ## Set Sytes: _How Not to Kill Yourself_
 [Audible](https://www.audible.com/pd/B07F1X9WBQ){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07TXS1R5R){:target="&lowbar;blank"}
 
-{% endcomment %}
 ## Faith G Harper: _Unfuck Your Anger_
 [Audible](https://www.audible.com/pd/1982672048){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07QCWNP6D){:target="&lowbar;blank"}
 
