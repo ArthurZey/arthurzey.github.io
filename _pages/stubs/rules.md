@@ -6,7 +6,7 @@ tags:
   - about
 description: "Most people can't decide whether I'm a compulsive rule follower or completely dismissive of rules."
 date: "2020-05-20"
-last_modified_at: "2020-09-30"
+last_modified_at: "2020-12-11"
 ---
 
 In reality, I'm definitely a rule-follower, but not just any rules merely because they're rules. I have high regard for rules _as such_, but utter contempt for others' rules. That's not to say that I reject others' rules because they're _their_ rules; by contrast, when I agree with the rules, I adopt them as my own, and then they become sacrosanct to me. So, fundamentally, the only rules I actually respect are _my own rules_, whether I am their originator or not.
@@ -24,7 +24,7 @@ Areas to explore:
 * permission versus forgiveness
   * With respect to children and parenting, there's a difference between seeking permission and seeking guidance. A parent ought to encourage a child to feel comfortable seeking guidance. If a parent demands seeking permission, it encourages power struggles and adversarial dynamics.
 * manifestation in terms of [diet](/paleo/) and [fitness](/physical-fitness/)
-* connection to discipline; is it really discipline if I feel compelled by following a rule (even my rules, once I've established them), rather than having to muster up willpower to do the thing?
+* connection to [discipline](/discipline/); is it really discipline if I feel compelled by following a rule (even my rules, once I've established them), rather than having to muster up willpower to do the thing?
 * connection to consistency and other psychological motivators; breaking the rules ("cheating") is psychologically horrific for me in the sense of "Well, the principle is lost, anyway."
 * connection to (resilience to) addiction
 * the value of bright-line rules; what happens when I have fuzzy / non-objective "rules"
