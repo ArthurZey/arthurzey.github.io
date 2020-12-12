@@ -5,7 +5,7 @@ tags:
   - about
 description: "Brown paper packages tied up with strings; these are a few of my favorite things."
 date: "2020-05-15"
-last_modified_at: "2020-11-10"
+last_modified_at: "2020-12-11"
 ---
 
 * TOC
@@ -72,6 +72,7 @@ See also:
   * [artist](https://www.last.fm/user/ArthurZey/library/artists){:target="&lowbar;blank"}
 
 ### Books
+_See also [my Goodreads profile](https://www.goodreads.com/arthurzey){:target="&lowbar;blank"} and my [Reading List](/reading-list) page._
 * fiction
   * Ayn Rand: [_Atlas Shrugged_](https://smile.amazon.com/dp/B003V8B5XO){:target="&lowbar;blank"}
   * Phillip Pullman: [_His Dark Materials_](https://smile.amazon.com/dp/B005WBBYXO){:target="&lowbar;blank"}
@@ -129,9 +130,10 @@ See also:
 ## Food
 
 ### To Cook
+_See also [Recipes](/recipes/)._
 * ribeye caps
-* brussels sprouts
-* [lomo saltado](https://docs.google.com/document/d/1C1u_mlWPhGpfu31FzMTaYrgkrhGxpkBWky6sNx0ltz4/edit?usp=sharing){:target="&lowbar;blank"}
+* [brussels sprouts](/recipes/brussels-sprouts/)
+* [lomo saltado](/recipes/lomo-saltado/)
 * [tacos](https://photos.app.goo.gl/jTXshxZ9dVXThCVG8){:target="&lowbar;blank"}
 * Paleo banana pancakes
 * omelets
