@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-12-08"
+last_modified_at: "2020-12-13"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -197,10 +197,29 @@ _started in 2019; in progress_
 
 _started in 2019; in progress_
 
+## Thomas Sowell: _A Conflict of Visions_
+[Audible](https://www.audible.com/pd/B002V1C73Y){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/gp/product/B003E749SK/){:target="&lowbar;blank"}
+
+{% endcomment %}
+## Thomas Sowell: _Civil Rights: Rhetoric or Reality?_
+[Audible](https://www.audible.com/pd/B002V8H8TA){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000RO9VI6){:target="&lowbar;blank"}
+
+## Thomas Sowell: _The Economics and Politics of Race_
+[Audible](https://www.audible.com/pd/B009POL5VU){:target="&lowbar;blank"}
+{% comment %}
+HIGH-LEVEL NOTES
+* parallel between laissez-faire economics being the fastest way to get a famine over with even though it feels painful with some restrictive policies to get a pandemic over with
+{% endcomment %}
+
+## David Sedaris: _Themes and Variations_
+[Audible](https://www.audible.com/pd/1799700135){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B0854JB35Q){:target="&lowbar;blank"}
+
+## Faith G Harper: _Unfuck Your Boundaries_
+[Audible](https://www.audible.com/pd/1094170534){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07T33HT42){:target="&lowbar;blank"}
+
 ## Thomas Sowell: _Ethnic America_
 [Audible](https://www.audible.com/pd/B002V1OJ80){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00ANRU64A){:target="&lowbar;blank"}
 
-{% endcomment %}
 ## Set Sytes: _How Not to Kill Yourself_
 [Audible](https://www.audible.com/pd/B07F1X9WBQ){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07TXS1R5R){:target="&lowbar;blank"}
 
@@ -399,6 +418,22 @@ CAPTURING SOME HIGH-LEVEL NOTES I JOTTED DOWN
 
 ## Kim Scott: _Radical Candor_
 [Audible](https://www.audible.com/pd/1250245788){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07P9LPXPT){:target="&lowbar;blank"}
+{% comment %}
+HIGH-LEVEL NOTES
+* dichotomies to consider
+  * rock stars (love their immediate work, not new roles) versus super stars (need to be challenged with new kinds of work)
+  * ambitious
+    * "hell bent on personal gain and slightly sinister, willing to trample others to achieve personal goals"
+    * "responsible and gets things done; a force for positive change in the larger group"
+  * stable
+    * "a snooze whom you'd rather not sit next to at a dinner party"
+    * "sense of relief and comfort and think that it's the sort of person you'd like to have more of in your life"
+  * content
+    * "admire", "you'd like to be more like that way yourself"
+    * "someone who is going nowhere"
+* debate meetings versus decision meetings
+* measuring activities versus measuring results
+{% endcomment %}
 
 ## Craig Biddle: _Loving Life: The Morality of Self-Interest and the Facts That Support It_
 [Audible](https://www.audible.com/pd/B07PKRNQLX){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00347A5QK){:target="&lowbar;blank"}
