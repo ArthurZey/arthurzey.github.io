@@ -7,7 +7,7 @@ tags:
   - emotions
 description: "Maybe depression isn't always a mental illness; maybe it's sometimes just a part of the normal human experience and a rich emotional life."
 date: "2020-04-07"
-last_modified_at: "2020-11-28"
+last_modified_at: "2020-12-15"
 ---
 
 We hear the word "depression", and we readily conclude we're talking about a mental illness or disease. While it _may_, in some cases, manifest as a pathology, I think that many times, it is just a natural part of human life and experience.
@@ -18,6 +18,7 @@ Additional considerations:
 * Why do we have to give explanations for crying, but not for laughing?
 * Why are we ritualistically expected to answer "Okay" or "Fine" to inquiries about how we're doing? Isn't it okay (in a broader sense) to be _not_ okay at a given moment? And what does the receptivity of the questioner have to do with it?
 * The unhelpfulness of "Everything will be okay."; maybe it won't, and isn't _that_ okay in its own way?
+* Is the willingness to lean into unpleasant feelings and sadness what also allows being able to lean into moments of joy during a more persistent depressive state/period? Since I'm pro-emotion generally, is this why I don't feel like it's a betrayal of some kind to derive pleasure from good things that happen, even if I'm generally feeling sad, similar to how I don't think it undermines a general state of happiness to be willing to feel momentary/passing sadness?
 * depression versus "chemical imbalance"
 * On 2020-08-01, Helen sent me a link to [A third of Americans now show signs of clinical anxiety or depression](https://www.washingtonpost.com/health/2020/05/26/americans-with-depression-anxiety-pandemic/).
   * her observations:
