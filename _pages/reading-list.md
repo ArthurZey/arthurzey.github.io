@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-12-13"
+last_modified_at: "2020-12-16"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -197,10 +197,26 @@ _started in 2019; in progress_
 
 _started in 2019; in progress_
 
+{% endcomment %}
+## Thomas Sowell: _Compassion Versus Guilt and Other Essays_
+[Audible](https://www.audible.com/pd/B002V8KK2M){:target="&lowbar;blank"}
+{% comment %}
+HIGH-LEVEL THOUGHTS
+* really interesting mentions of homosexuality, sometimes in terms of deriding the "just an alternative lifestyle" and in how he talks about the various political agendas (which he's basically right about, but the way he talks about it betrays his emotional biases)
+* interesting how strict he is in terms of judicial role in interpreting the Constitution, particularly with respect to application of constraints on the Federal government to the states, since that was the result of "judicial activism". But substantively, philosophically, that's absolutely correct, just not politically possible when the country was founded.
+{% endcomment %}
+
 ## Thomas Sowell: _A Conflict of Visions_
 [Audible](https://www.audible.com/pd/B002V1C73Y){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/gp/product/B003E749SK/){:target="&lowbar;blank"}
-
+{% comment %}
+HIGH-LEVEL THOUGHTS
+* Constrained: law doesn't enforce morality, but enables man to be moral
+* Unconstrained: law enforces morality directly
+* Constrained in the non-integrated, non-automatized sense of morality (so need to deal with short-term incentives)
+* Objectivism is unconstrained in its view of human nature; constrained in its economics?
+* "people generally doing the best they can" is unconstrained?
 {% endcomment %}
+
 ## Thomas Sowell: _Civil Rights: Rhetoric or Reality?_
 [Audible](https://www.audible.com/pd/B002V8H8TA){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000RO9VI6){:target="&lowbar;blank"}
 
