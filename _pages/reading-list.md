@@ -198,6 +198,19 @@ _started in 2019; in progress_
 _started in 2019; in progress_
 
 {% endcomment %}
+## Thomas Sowell: _Choosing a College_
+[Audible](https://www.audible.com/pd/B002VAEZC6){:target="&lowbar;blank"}
+{% comment %}
+HIGH-LEVEL THOUGHTS
+* interesting comments about "neutrality" and "intolerance" with respect to bias and teaching "both sides" of an issue...only applies to humanities, apparently. can't imagine he would advocate the same for flat-earth theory as for Marxism
+* How to think, not what to think. Relationship to growth versus fixed mindset. Relationship to fact and value.
+* assumes college is even a good idea
+* again, he betrays a hilariously traditional/conservative/outmoded anti-homosexual bias...he's pretty good about double-standards, but it's pretty funny
+* interesting views about sexual liberation
+* "gays and drugs" LOL
+* discusses philosophy as an easy/unserious discipline
+{% endcomment %}
+
 ## Thomas Sowell: _Compassion Versus Guilt and Other Essays_
 [Audible](https://www.audible.com/pd/B002V8KK2M){:target="&lowbar;blank"}
 {% comment %}
