@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-12-16"
+last_modified_at: "2020-12-18"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -198,6 +198,9 @@ _started in 2019; in progress_
 _started in 2019; in progress_
 
 {% endcomment %}
+## Leonard Piekoff: _Teaching Johnny to Think_
+[Audible](https://www.audible.com/pd/B07BQG288Q){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00J2ECBN4){:target="&lowbar;blank"}
+
 ## Thomas Sowell: _Choosing a College_
 [Audible](https://www.audible.com/pd/B002VAEZC6){:target="&lowbar;blank"}
 {% comment %}
