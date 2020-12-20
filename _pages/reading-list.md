@@ -198,6 +198,15 @@ _started in 2019; in progress_
 _started in 2019; in progress_
 
 {% endcomment %}
+## Thomas Sowell: _Economic Facts and Fallacies_
+[Aduible](https://www.audible.com/pd/B002VACN5C){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B004THDT8A){:target="&lowbar;blank"}
+
+## Thomas Sowell: _Dismantling America_
+[Audible](https://www.audible.com/pd/B003Z8N3EY){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B003VTZXBS){:target="&lowbar;blank"}
+
+## Thomas Sowell: _A Personal Odyssey_
+[Audible](https://www.audible.com/pd/B002V8L2C4){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000FC0SSW){:target="&lowbar;blank"}
+
 ## David Sedaris: _Holidays on Ice_
 [Audible](https://www.audible.com/pd/B002V5BV9G){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000SGRONM){:target="&lowbar;blank"}
 
