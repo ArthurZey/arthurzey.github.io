@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-12-19"
+last_modified_at: "2020-12-21"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -198,11 +198,28 @@ _started in 2019; in progress_
 _started in 2019; in progress_
 
 {% endcomment %}
+## Thomas Sowell: _The Housing Boom and Bust_
+[Audible](https://www.audible.com/pd/B002V9Z42M){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B0036QVONC){:target="&lowbar;blank"}
+{% comment %}
+HIGH-LEVEL NOTES
+* keeps citing the 14th amendment to the Constitution (equal protection of the laws) as applying to state action, but I recall that in earlier works that I read, he didn't agree with the activist judges applying constitutional prohibitions on federal action to state action.
+{% endcomment %}
+
 ## Thomas Sowell: _Economic Facts and Fallacies_
 [Aduible](https://www.audible.com/pd/B002VACN5C){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B004THDT8A){:target="&lowbar;blank"}
+{% comment %}
+HIGH-LEVEL NOTES
+* Slavery caused racism
+{% endcomment %}
 
 ## Thomas Sowell: _Dismantling America_
 [Audible](https://www.audible.com/pd/B003Z8N3EY){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B003VTZXBS){:target="&lowbar;blank"}
+{% comment %}
+HIGH-LEVEL NOTES
+* his attitudes about autism being over-diagnosed and the effect of creating "the spectrum"
+* Attitudes about immigration surprisingly short-sighed
+* redefining family as political issue
+{% endcomment %}
 
 ## Thomas Sowell: _A Personal Odyssey_
 [Audible](https://www.audible.com/pd/B002V8L2C4){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000FC0SSW){:target="&lowbar;blank"}
