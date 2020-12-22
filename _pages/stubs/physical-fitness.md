@@ -6,7 +6,7 @@ tags:
   - fitness
 description: "Why does physical fitness occupy such a prominent place in my life? And how does my concern with physical fitness manifest and relate to other values?"
 date: "2020-04-20"
-last_modified_at: "2020-11-05"
+last_modified_at: "2020-12-22"
 ---
 
 ## On This Page
@@ -155,6 +155,7 @@ Optimizations that make cuts more bearable for me:
 #### Powders
 * meal-replacement shakes: [Ample](https://www.amplemeal.com/){:target="&lowbar;blank"}
 * protein shakes: [whey](https://smile.amazon.com/gp/product/B000MANJPG/){:target="&lowbar;blank"} and [dextrose](https://smile.amazon.com/dp/B002JNM8YM/){:target="&lowbar;blank"}
+* [collagen peptides](https://smile.amazon.com/dp/B083LDJNPK/){:target="&lowbar;blank"}
 
 #### Pills
 
