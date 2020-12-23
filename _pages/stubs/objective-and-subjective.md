@@ -7,7 +7,7 @@ tags:
   - philosophy
 description: "Every time I hear someone use the words \"objective\" or \"subjective\" in a fuzzy way, I really get my knickers in a twist."
 date: "2020-11-03"
-last_modified_at: "2020-11-04"
+last_modified_at: "2020-12-22"
 links:
   resources:
     - type: FACEBOOK
@@ -38,6 +38,7 @@ I'll start with an inventory of how I've heard these words used that I'm objecti
 |abstract|concrete|
 |opinion-based|fact-based|
 |controversial|uncontroversial|
+|persuasive/judgmental|neutral|
 
 Okay, so how do I use these words?
 
@@ -87,6 +88,8 @@ I hasten to reiterate that maybe few individual instances of using the words "su
 ## Opinion-based versus Fact-based
 
 ## Controversial versus Uncontroversial
+
+## Persuasive/Judgmental versus Neutral
 
 ----
 
