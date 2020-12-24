@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-12-22"
+last_modified_at: "2020-12-24"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -198,6 +198,16 @@ _started in 2019; in progress_
 _started in 2019; in progress_
 
 {% endcomment %}
+## Thomas Sowell: _Intellectuals and Society_
+[Audible](https://www.audible.com/pd/B0030URMV2){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B0077BONEY){:target="&lowbar;blank"}
+{% comment %}
+HIGH-LEVEL NOTES
+* equates objectivity with impartiality, then talks about how people can't be objective and how that's not required; makes objectivity a purely metaphysical (not epistemological) idea
+{% endcomment %}
+
+## Robert Louis Stevenson: _The Strange Case of Dr Jekyll and Mr Hyde_
+[Audible](https://www.audible.com/pd/B076FF3QGP){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B0753DFSM4){:target="&lowbar;blank"}
+
 ## Faith F Harper: _Unfuck Your Intimacy_
 [Audible](https://www.audible.com/pd/198264107X){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07T44KG4S){:target="&lowbar;blank"}
 
