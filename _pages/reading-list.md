@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-12-24"
+last_modified_at: "2020-12-25"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -198,6 +198,9 @@ _started in 2019; in progress_
 _started in 2019; in progress_
 
 {% endcomment %}
+## Thomas Sowell: _Intellectuals and Race_
+[Audible](https://www.audible.com/pd/B00CXCXMKS){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00BAH8D6K){:target="&lowbar;blank"}
+
 ## Thomas Sowell: _Intellectuals and Society_
 [Audible](https://www.audible.com/pd/B0030URMV2){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B0077BONEY){:target="&lowbar;blank"}
 {% comment %}
