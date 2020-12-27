@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-12-25"
+last_modified_at: "2020-12-27"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -198,6 +198,25 @@ _started in 2019; in progress_
 _started in 2019; in progress_
 
 {% endcomment %}
+## Milton Friedman: _Capitalism and Freedom_
+[Audible](https://www.audible.com/pd/B071W3575J){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B08KYHC6QV){:target="&lowbar;blank"}
+{% comment %}
+HIGH-LEVEL NOTES
+* political versus economic versus civic freedom: not clearly explained; oddly described as trichotomy, despite maybe claiming they all have to go hand-in-hand?
+* surprising mish-mash of principled and unprincipled thinking; lots of case-by-case thinking, but then trying to reduce some cases to scenarios already solved, but not getting at a fundamental principle
+* Public school vouchers... Very unprincipled approach
+{% endcomment %}
+
+## Malcolm Gladwell: _The Tipping Point_
+[Audible](https://www.audible.com/pd/B002V0A7U0){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000OT8GD0){:target="&lowbar;blank"}
+{% comment %}
+HIGH-LEVEL NOTES
+* the point about smoking and reducing the amount of nicotine for cigarette would probably increase the amount of cigarettes that addicted adults consume and therefore increase a lot of health care costs
+{% endcomment %}
+
+## Thomas Sowell: _Wealth, Poverty, and Politics: An International Perspective_
+[Audible](https://www.audible.com/pd/B014JNHCY0){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B01DWW2F32){:target="&lowbar;blank"}
+
 ## Thomas Sowell: _Intellectuals and Race_
 [Audible](https://www.audible.com/pd/B00CXCXMKS){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00BAH8D6K){:target="&lowbar;blank"}
 
