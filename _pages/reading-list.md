@@ -198,6 +198,9 @@ _started in 2019; in progress_
 _started in 2019; in progress_
 
 {% endcomment %}
+## Yaron Brook and Don Watkins: _Free Market Revolution_
+[Audible](https://www.audible.com/pd/B00995PLUQ){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B0080K3NNS){:target="&lowbar;blank"}
+
 ## Milton Friedman: _Capitalism and Freedom_
 [Audible](https://www.audible.com/pd/B071W3575J){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B08KYHC6QV){:target="&lowbar;blank"}
 {% comment %}
