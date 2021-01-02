@@ -1,7 +1,7 @@
 ---
 title: "2020 Retrospective"
 date: "2021-01-01"
-last_modified_at: "2021-01-01"
+last_modified_at: "2021-01-02"
 description: "2020 was one of the most difficult and painful years of my life. Good riddance."
 tags:
   - draft
@@ -11,7 +11,7 @@ sitemap: false
 * TOC
 {:toc}
 
-# End of My Relationship with Adam
+# End of Relationship with Adam
 
 # Move to Denver
 
@@ -23,7 +23,7 @@ sitemap: false
 
 # Changing Teams at Amazon
 
-# Possible End of Friendship with Diana
+# End of Friendship with Diana
 
 # Burglary of Storage Unit
 
