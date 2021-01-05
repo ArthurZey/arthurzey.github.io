@@ -1,14 +1,14 @@
 ---
 title: "2020 Retrospective"
 date: "2021-01-01"
-last_modified_at: "2021-01-02"
+last_modified_at: "2021-01-04"
 description: "2020 was one of the most difficult and painful years of my life. Good riddance."
 tags:
   - draft
 sitemap: false
 ---
 
-Despite (most?) humans having a natural negativity bias as a sort of survival mechanism, I've long been what many people have described as an eternal optimist. Despite lots of awful stuff going on in the world, I tend to believe that things will work out, and increasingly, I've been able to just find joy in the present moment, without even worrying so much about the future.
+Despite (most?) humans having a natural negativity bias as a sort of survival mechanism, I've long been what many people have described as an eternal optimist. Despite lots of awful stuff going on in the world, I tend to believe that things will work out and that there's generally more good than bad (just stop watching/reading the news!), and increasingly, I've been able to just find joy in the present moment, without even worrying so much about the future.
 
 The last few years had been pretty difficult. But 2020 has been a different beast altogether. I wish I could say that I had the internal strength to be resilient to the challenges thrown at me, but I've been severely dysregulated by a confluence of...I don't even know what to call them...together, they're a shitstorm of hellfuckery. Sure, I had my part to play in these situations; undoubtedly, there were things I could have done better, which is much easier to see in hindsight. But I was doing my fucking best. And when that _best_ ends up corresponding to being so severely beaten down, it's hard to not believe in a malevolent universe premise.
 
@@ -47,9 +47,11 @@ When I opened my unit, I found that it had been burglarized. As of January 4, I 
 
 I summoned the police, and they took fingerprints. I at least had the presence of mind to fall back on what I'd learned from all those crime procedurals that I watched and not touch anything before they arrived and collected as much forensic evidence as possible. Yes, there are some leads that we're pursuing, but the facility has no cameras near my unit, and the available data is sparse, particularly because we don't know for sure when between October 14 and December 29 this happened. Frankly, I have no expectation that I will ever get my things back. I have reason to believe that this happened closer to October, and if that's true, then all the valuable things will long have been sold and the rest dumped.
 
-This has been horrifically devastating for me, and not even so much because of the violation, but the sheer loss of all those things that were meant to be a "backup" for what I know is a fragile and delicate and unreliable thing: human memory. These are things that I had hoped to share with my children one day, looking through them and telling them about my life. Now all that is gone. Just. Fucking. Gone.
+This has been horrifically devastating for me, and not even so much because of the violation, but the sheer loss of all those things that were meant to be a "backup" for what I know is a fragile and delicate and unreliable thing: human memory. These are things that I had hoped to share with my children one day, telling them about my life. Now all that is gone. Just. Fucking. Gone.
 
-Yes, other people suffer similar loses, and they go on with their lives. Numerous people, in the spirit of trying to be helpful, have tried to remind me of this fact, but if we're going to be doing comparisons to other people, then perhaps consider how much I in particular am attached to physical things. I even made it [a bullet in my "about me"](/about/#random-tidbits:~:text=I'm%20extremely%20materialistic%20in%20that%20I,most%20people%20would%20regard%20as%20unimportant). During all the effort I expended in October carefully organizing and packing up my disaster zone of a storage unit in Sunnyvale, I came across so many thing that brought a big grin to my face (and even tears of joy), despite its being such a stressful time for me. I can't even begin to explain how much of a loss this is for me. As the capstone to 2020, going on just feels unbearable and all the more unreal. This isn't a "fresh start". This isn't "liberation". This is just horseshit.
+Yes, other people suffer similar loses, and they go on with their lives. Numerous people, in the spirit of trying to be helpful, have tried to remind me of this fact, but if we're going to be doing comparisons to other people, then perhaps consider how much I in particular am attached to physical things. I even made it [a bullet in my "about me"](/about/#random-tidbits:~:text=I'm%20extremely%20materialistic%20in%20that%20I,most%20people%20would%20regard%20as%20unimportant). During all the effort I expended in October carefully organizing and packing up my disaster zone of a storage unit in Sunnyvale, I came across so many thing that brought a big grin to my face (and even tears of joy), despite its being such a stressful time for me. I can't even begin to explain how much of a loss this is for me. I struggle to throw away things I don't even have any emotional connection to or have any memories of...such as things I accidentally inherited from friends...things that my friends would throw away, but I can't bring myself to throw away because it's a snapshot of something about them. And when a friend needed help to extract her family video files from DVDs to preserve them in Dropbox, I was on that like white on bread.
+
+As the capstone to 2020, going on just feels unbearable and all the more unreal. This isn't a "fresh start". This isn't "liberation". This is just horseshit.
 
 # Reading
 
