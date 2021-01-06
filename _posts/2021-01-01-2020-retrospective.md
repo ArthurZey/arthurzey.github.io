@@ -51,7 +51,7 @@ Adam and our relationship were some of my highest, deeply selfish, personal valu
 
 So I'm rebuilding, because what else can I do? And I'm pursuing what feels like a pale shadow of what I wanted and was building with Adam. It's not that I'm beating myself up over it--because I know that I was doing my best--but I'm plagued by "what if"s, wondering whether some of what I've learned over the last year might have given us a better chance of healing. I don't want to get into specifics here; the point is that I don't feel "complete"...I don't have "closure"...I'm not convinced it couldn't still work out.
 
-So I can't close the door. Aside from the personal psychic cost of reversing my decisions in that way (since that would still possible), when I don't have emotional closure, I know myself well enough to know that I would be even further plagued by regrets and "what if"s. For me, taking some kind of affirmative action to "close the door" would be sidestepping and delaying my processing of the grief and loss. It's why I will [wallow](/wallowing/) and keep our photos in my smart display rotation.
+So I can't close the door. Aside from the personal psychic cost of reversing my decisions in that way (since that would still be possible), when I don't have emotional closure, I know myself well enough to know that I would be even further plagued by regrets and "what if"s. For me, taking some kind of affirmative action to "close the door" would be sidestepping and delaying my processing of the grief and loss. It's why I will [wallow](/wallowing/) and keep our photos in my smart display rotation.
 
 I'm going to go off on even more of a tangent here, but bear with me--I want to address the sort of advice that I often get when I share my approach.
 
