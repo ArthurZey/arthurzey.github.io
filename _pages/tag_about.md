@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2021-01-08"
+last_modified_at: "2021-01-10"
 ---
 
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
@@ -145,7 +145,7 @@ I grew up in Los Angeles, and I live in the San Francisco Bay Area. But I'm in D
 * [philosophy (especially ethics and epistemology, especially Objectivism)](#philosophy-objectivism)
 * [parenting theory](#parenting-and-education) (cannot wait to put this into practice)
 * snowboarding ([IKON Base Pass](https://www.ikonpass.com/en/shop-passes/ikon-base-pass-2020-2021){:target="&lowbar;blank"} and [Epic Summit Value Pass](https://www.epicpass.com/passes/summit-value-pass.aspx){:target="&lowbar;blank"} for 2020-2021)
-* Krav Maga (at [Krav Maga San Francisco](https://www.kravmaga-sf.com){:target="&lowbar;blank"})
+* Krav Maga (will pick this up after COVID-19 restrictions lift, but previously at [Krav Maga San Francisco](https://www.kravmaga-sf.com){:target="&lowbar;blank"})
 * _Star Trek_
 * piano (current obsession: [BWV 999 (JS Bach Prelude in c minor)](https://musescore.com/nicolas/scores/4526){:target="&lowbar;blank"})
 * [cooking](/favorites/#to-cook) (haven't done anything creative in a while, though)
