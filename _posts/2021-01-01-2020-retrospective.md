@@ -1,7 +1,7 @@
 ---
 title: "2020 Retrospective"
 date: "2021-01-01"
-last_modified_at: "2021-01-07"
+last_modified_at: "2021-01-11"
 description: "2020 was one of the most difficult and painful years of my life. Good riddance."
 tags:
   - draft
@@ -80,6 +80,8 @@ Fuck you, 2020.
 (And really, if it weren't for COVID-19 shutdowns, we would have attended the April [Hold Me Tight Workshop](https://holdmetightworkshop.com/){:target="&lowbar;blank"}, and then who knows if that might have been able to work through things. Fuck.)
 
 # Move to Denver
+
+# Loss of MyFitnessPal Data
 
 # State Farm's Bad-Faith Liability Determination Reversal
 
