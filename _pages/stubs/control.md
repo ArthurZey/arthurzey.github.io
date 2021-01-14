@@ -6,7 +6,7 @@ tags:
   - about
 description: "I'm definitely a \"control freak\", but I have zero interest in controlling others."
 date: "2020-07-15"
-last_modified_at: "2020-12-14"
+last_modified_at: "2021-01-14"
 ---
 
 * connection to [autonomy](/autonomy/) and allergy to authority
@@ -26,5 +26,8 @@ last_modified_at: "2020-12-14"
     * I imagine that I know your Attachment Style, so I will not express myself (treat you with kid gloves) for fear of triggering you and not getting the result I want.
     * I imagine I know what else might be going on with you that you're too distraught to interpret what I tell you correctly, so I won't say anything at all.
     * Not saying _what is_ because I'm imagining that you will be upset, so I'll just tiptoe around you to avoid triggering your wrath/rage.
+{% comment %}
+https://www.facebook.com/groups/461389461257253/permalink/825963111466551/?comment_id=826077708121758
+{% endcomment %}
   * line-drawing problem and coming to a mutual understanding of standards of interaction
   * connection to Kim Scott's "ruinous empathy" concept in [_Radical Candor_](https://www.audible.com/pd/1250245788){:target="&lowbar;blank"}; maybe better termed "toxic sensitivity" here?
