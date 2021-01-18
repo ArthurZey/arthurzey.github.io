@@ -6,7 +6,7 @@ tags:
   - about
 description: "People often form erroneous conclusions about me, typically because some superficial manifestation of my traits correlates with some others in their experience. It's understandable, but frustrating."
 date: "2020-08-22"
-last_modified_at: "2020-09-19"
+last_modified_at: "2021-01-17"
 ---
 
 Look-- I get it. I'm a weird guy, at least by the standard of what's prevalent in our culture. The intuition that people might have based on their experiences of which traits correlate with which others doesn't always work on me.
@@ -29,6 +29,7 @@ Here's an inventory of some of the ways in which I'm commonly misunderstood:
 |have strong preferences/favorites<br />and am particular|am difficult and not easy-going|
 |am often very flexible/indifferent/accommodating<br />about superficial concretes|am too eager to please<br />or am codependent/needy/clingy<br />or am insufficiently assertive<br />or have poor boundaries<br />or am engaging in self-abnegation|
 |have difficulty saying "no"<br />and say "yes" too often|am afraid of disappointing people|
+|have expectations of and high behavioral standards for other people|think that I am entitled or am motivated by those expectations|
 |want to _be_ right<br />(understand the truth)|want to _appear_ right<br /> or "win" arguments|
 |don't necessarily change my mind|don't listen to others<br />or consider their opinions|
 |have definite viewpoints|am closed-minded|
