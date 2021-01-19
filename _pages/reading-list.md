@@ -184,7 +184,7 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
 
 <script src="https://www.goodreads.com/review/custom_widget/112945867.Goodreads%20Up%20Next%20List?cover_position=left&cover_size=small&num_books=100&order=a&shelf=up-next&show_author=1&show_cover=1&show_rating=0&show_review=0&show_tags=0&show_title=1&sort=position&widget_bg_color=FFFFFF&widget_bg_transparent=true&widget_border_width=1&widget_id=1606314147&widget_text_color=000000&widget_title_size=medium&widget_width=full" type="text/javascript" charset="utf-8"></script>
 
-# 2020
+# 2021
 {% comment %}
 ########## PULL ITEMS OUT OF COMMENT WHEN COMPLETED ##########
 
@@ -198,6 +198,12 @@ _started in 2019; in progress_
 _started in 2019; in progress_
 
 {% endcomment %}
+
+## Ludwig von Mises: _Liberalism_
+[Audible](https://www.audible.com/pd/B0098NSOBC){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07J2T8TTM){:target="&lowbar;blank"}
+
+# 2020
+
 ## Yaron Brook and Don Watkins: _Free Market Revolution_
 [Audible](https://www.audible.com/pd/B00995PLUQ){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B0080K3NNS){:target="&lowbar;blank"}
 
