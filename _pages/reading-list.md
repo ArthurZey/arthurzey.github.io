@@ -199,6 +199,9 @@ _started in 2019; in progress_
 
 {% endcomment %}
 
+## Harriet Lerner: _Why Won't You Apologize?_
+[Audible](https://www.audible.com/pd/B01MR0VVX0){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B01CO349DY){:target="&lowbar;blank"}
+
 ## Ludwig von Mises: _Liberalism_
 [Audible](https://www.audible.com/pd/B0098NSOBC){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07J2T8TTM){:target="&lowbar;blank"}
 
