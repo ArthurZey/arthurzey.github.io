@@ -3,6 +3,9 @@ title: Status
 description: "Too short for a proper blog post, here's a blurb about what's going on with me right now."
 date: "2021-01-20"
 last_modified_at: "2021-01-20"
+tags:
+  - draft
+sitemap: false
 ---
 
 ## {{ page.date }}
