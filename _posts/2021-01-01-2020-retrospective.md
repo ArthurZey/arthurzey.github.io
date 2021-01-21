@@ -1,7 +1,7 @@
 ---
 title: "2020 Retrospective"
 date: "2021-01-01"
-last_modified_at: "2021-01-11"
+last_modified_at: "2021-01-20"
 description: "2020 was one of the most difficult and painful years of my life. Good riddance."
 tags:
   - draft
@@ -106,6 +106,8 @@ This has been horrifically devastating for me, and not even so much because of t
 Yes, other people suffer similar loses, and they go on with their lives. Numerous people, in the spirit of trying to be helpful, have tried to remind me of this fact, but if we're going to be doing comparisons to other people, then perhaps consider how much I in particular am attached to physical things. I even made it [a bullet in my "about me"](/about/#random-tidbits:~:text=I'm%20extremely%20materialistic%20in%20that%20I,most%20people%20would%20regard%20as%20unimportant). During all the effort I expended in October carefully organizing and packing up my disaster zone of a storage unit in Sunnyvale, I came across so many thing that brought a big grin to my face (and even tears of joy), despite its being such a stressful time for me. I can't even begin to explain how much of a loss this is for me. I struggle to throw away things I don't even have any emotional connection to or have any memories of...such as things I accidentally inherited from friends...things that my friends would throw away, but I can't bring myself to throw away because it's a snapshot of something about them. And when a friend needed help to extract her family video files from DVDs to preserve them in Dropbox, I was on that like white on bread.
 
 As the capstone to 2020, going on just feels unbearable and all the more unreal. This isn't a "fresh start". This isn't "liberation". This is just horseshit.
+
+# Ongoing Misprocessing of Health Care Claims by Aetna
 
 # Reading
 
