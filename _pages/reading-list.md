@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2020-12-27"
+last_modified_at: "2021-01-24"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -197,6 +197,15 @@ _started in 2019; in progress_
 
 _started in 2019; in progress_
 
+{% endcomment %}
+## Friedrich A Hayek: _The Road to Serfdom_
+[Audible](https://www.audible.com/pd/B072W7Z81D){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B0048EJXCK){:target="&lowbar;blank"}
+{% comment %}
+HIGH-LEVEL COMMENTS
+* fixation on competition
+* good on rule of law
+* unprincipled openness to government insurance
+* altruist premise, kantian
 {% endcomment %}
 
 ## Harriet Lerner: _Why Won't You Apologize?_
