@@ -6,7 +6,7 @@ tags:
   - about
 description: "Whether in different aspects of life or looking at dispositions through different lenses, I think certain qualities naturally go hand-in-hand."
 date: "2020-11-23"
-last_modified_at: "2020-11-28"
+last_modified_at: "2021-01-24"
 ---
 
 High-level ideas:
@@ -23,6 +23,7 @@ Not all of these qualities are under direct volitional control (they may take ye
 * [comfort with uncertainty](/objective-truth-and-comfort-with-uncertainty/)
 * egoism
 * [rejection of authority](/rules/) / being willful / independence / "being the wilderness" / immunity from conformity/peer-pressure
+* believing in liberty / (classical) liberalism / (laissez-faire) capitalism / rejection of central planning
 * being [process-oriented](/goal-oriented-is-process-oriented/)
 * guilt talk (instead of shame talk)
 * optimism
