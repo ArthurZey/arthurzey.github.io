@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2021-01-22"
+last_modified_at: "2021-01-24"
 ---
 
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
@@ -67,6 +67,7 @@ I grew up in Los Angeles, and I live in the San Francisco Bay Area. But I'm in D
 * I'm extremely risk-averse, definitely to a fault and in a very anxiety-provoking way. This is a disposition I really need to keep in check.
 * I'm extremely conflict-averse, which [people often find surprising](/misunderstood/), and which sometimes manifests as being too accommodating and encouraging being taken advantage of. But on matters of principle, I absolutely do not shy away from defending my values.
 * I'm not as [extroverted](/introversion-and-extroversion/) as I might seem. Indeed, I think I'm actually a severe [introvert](/introversion-and-extroversion/) who just manifests extroverted behaviors because I find _ideas_ energizing, but I find _people_ (the vehicle for exchanging, discussing, and engaging in ideas) utterly exhausting.
+* I was obsessed with long hair as a kid and had a sort of pony tail (it was more of a poof) at various stages in my life up to about 16 years old. (Before I cut it off for good, when the hair was wet, it would go down to the middle of my back.)
 * As a kid, I _hated_ getting dirty. I didn't like playing in puddles or mud. I _loved_ bathing. It's probably related to my attitudes about hygiene and cleanliness today, including perhaps my tactile aversion to stickiness and dust/chalk, my dislike of slimy foods, and paranoia about STDs. [I literally and figuratively colored inside the lines (and still do).](/rules/)
 * I'm extremely materialistic in that I attach high sentimental value to things most people would regard as unimportant--so I can't throw anything away. I think this is because "things" help to ground me in physical reality and provide an anchor for my memory, which feels fragile and fallible. I love my memorabilia; almost everything "sparks joy" (shove it, Marie Kondo!). But with the exception of groceries and occasional tech splurges, I'm pretty darned frugal by nature. (Also, already having way too many things helps create an incentive against acquiring even more things!)
 * I _love_ the beach and the ocean, and while I don't pursue them often enough, I enjoy all manners of water sports and being on various water crafts.
