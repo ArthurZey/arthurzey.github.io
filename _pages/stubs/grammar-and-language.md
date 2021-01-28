@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-01-24"
+last_modified_at: "2021-01-27"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -94,3 +94,5 @@ Other topics:
   * privilege
   * labour party
   * proletariat
+  * pro-life
+  * detention center
