@@ -197,6 +197,9 @@ _started in 2019; in progress_
 
 _started in 2019; in progress_
 
+## Cal Newport: _Deep Work_
+[Audible](https://www.audible.com/pd/B0189PX1RQ){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00X47ZVXM){:target="&lowbar;blank"}
+
 {% endcomment %}
 ## Friedrich A Hayek: _The Road to Serfdom_
 [Audible](https://www.audible.com/pd/B072W7Z81D){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B0048EJXCK){:target="&lowbar;blank"}
