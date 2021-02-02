@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2021-01-24"
+last_modified_at: "2021-02-01"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -200,6 +200,26 @@ _started in 2019; in progress_
 {% endcomment %}
 ## Richard H Thaler and Cass R Sunstein: _Nudge_
 [Audible](https://www.audible.com/pd/B002VAEKLW){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00A5DCALY){:target="&lowbar;blank"}
+{% comment %}
+HIGH-LEVEL NOTES
+* hurricane katrina government must act because only way to deploy resources. LOL
+* Anecdote about nuts before dinner putting off appetite and removal of choices and contrast between economics and human decision-making
+* Doesn't acknowledge the role of people relying on others' expertise as a factor for being influenced by "peer pressure"
+* Doesn't attribute housing crisis to government intervention in the first place, then says market can't fix all of it.
+* Requirements on credit card companies to allow payment in full automatically each month is not an example of libertarian paternalism. That's just statism.
+* Does not understand externalities or transaction costs
+* Thinks that badly aligned incentives justify government action
+* How is the right to contract for a waiver of suit for medical malpractice any different in principle from credit card companies being able to offer whatever plans they want for automatic payment?
+* Creates a total straw man for the rights to be wrong and how people learn
+* Attitudes about redistribution are the not libertarian attitude
+* Equates being against redistribution with wanting to be better off than other people
+* "forcing people to choose" !?
+* "publicity principle" good
+* Totally fuzzy on "government intervention"
+* Does he think "laissez faire" == anarchy?
+* Totally willing to exploit bad philosophic premises like comparison to others (how/what are the neighbors doing?)
+* "greed and corruption helped create the crises"
+{% endcomment %}
 
 ## Cal Newport: _Deep Work_
 [Audible](https://www.audible.com/pd/B0189PX1RQ){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00X47ZVXM){:target="&lowbar;blank"}
