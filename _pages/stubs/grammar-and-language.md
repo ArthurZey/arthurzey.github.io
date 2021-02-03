@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-01-27"
+last_modified_at: "2021-02-01"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -50,6 +50,8 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "opinion-based" versus "fact-based"
   * "controversial" versus "uncontroversial"
 * "selfish" versus "short-sighted whim pursuit"
+* "practical" versus "pragmatic"
+* "reconcile" versus "rationalize"
 * "judge" versus "condemn"
 * "compromise"
 * "[collection]" versus "[collection] [item]":
@@ -96,3 +98,6 @@ Other topics:
   * proletariat
   * pro-life
   * detention center
+  * energy conservation
+  * the homeless
+  * the environment (this is like referring, in general, to "the context")
