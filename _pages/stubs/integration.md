@@ -6,7 +6,7 @@ tags:
   - about
 description: "Whether in different aspects of life or looking at dispositions through different lenses, I think certain qualities naturally go hand-in-hand."
 date: "2020-11-23"
-last_modified_at: "2021-01-24"
+last_modified_at: "2021-02-04"
 ---
 
 High-level ideas:
@@ -33,3 +33,4 @@ Not all of these qualities are under direct volitional control (they may take ye
 Other ideas to consider:
 * [that episode of Russel Brand's podcast with Brené Brown](https://open.spotify.com/episode/4Lfwf13k6AoDhrOuClU3Bx?si=jn8kO8DsQY20rlDLPnoA7A){:target="&lowbar;blank"} and that one point about her views leading inexorably to certain political views
 * role of Cognitive-Behavioral Therapy (CBT) and Emotionally Focused Therapy (EFT)
+* There's something about assuming that people aren't generally doing the best that they can that's associated with not feeling comfortable expressing needs (assuming others don't want to meet your needs?). If you assume people are generally doing the best that they can, it's easier, maybe, to hold them accountable and express ourselves and our needs. I was wondering what makes it hard to speak up for yourself and what you're wanting. I think it's partly (or perhaps most directly) premised on the idea that others aren't interested in meeting our needs. That seems like the premise that needs to be challenged.
