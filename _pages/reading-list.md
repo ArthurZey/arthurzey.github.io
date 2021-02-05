@@ -195,6 +195,10 @@ _started in 2019; in progress_
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
 
+## Richard Dawkins: _The Selfish Gene_
+[Audible](https://www.audible.com/pd/B004QDTA9Y){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B01GI5F2FS){:target="&lowbar;blank"}
+* fundamental unit (gene versus individual lifeform) depends on context. For philosophy, it's the choice-making entity. For biology, it can be the gene. What about group of individuals? (related also to equivocation on "selfishness")
+
 _started in 2019; in progress_
 
 {% endcomment %}
