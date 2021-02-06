@@ -2,13 +2,21 @@
 title: Status
 description: "Too short for a proper blog post, here's a blurb about what's going on with me right now."
 date: "2021-01-20"
-last_modified_at: "2021-01-20"
+last_modified_at: "2021-02-06"
 tags:
   - draft
 sitemap: false
 ---
 
-## {{ page.date }}
+## 2021-02-06
+
+For the last week, thanks to a suggestion in a [cocounseling](https://peaklivingnetwork.org/split-time/){:target="&lowbar;blank"} session, I've been trying an experiment that I'm feeling nervous and cautious about: I'm intentionally directing my focus away from "all my problems" (that I referred to on [January 20](#2021-01-20) and in my [2020 Retrospective](/blog/2021-01-01/2020-retrospective/)) and trying to connect with the feeling of "I'm too good for all this shit, and I refuse to waste my life on it.". This feels risky to me because it smacks of repression and runs counter to all the reasons that [wallowing](/wallowing/) has been very good for me as a way of working through things. Stuffing down unpleasant feelings and not leaning into discomfort when it arises risks [angry outbursts](/anger-management/). But it's an experiment, and I'm willing to try. The gods know I can't continue the way I have been. And maybe, just maybe, my willingness to try this experiment is itself a reflection of having done enough work and processing, so it's possibly more of an organic evolution of my journey than an artificial interference in the working of my emotional immune system.
+
+So far, the results have been _pretty okay_. I feel more even-keeled and less desirous of alcohol as a numbing agent. There's still a lot on my to-do list that's creating subconscious psychological pressure, so I'm still feeling overwhelmed at times, but pushing that away has had the counterintuitive result of feeling freer to have the energy and enthusiasm for other important things, like a work project demanding a lot of cognitive and emotional labor. And I feel more excited about the prospect of getting things done, even though many of the nagging items remain on my to-do list.
+
+We'll see how this goes...
+
+## 2021-01-20
 
 Here's the short of it: I'm currently extremely emotionally dysregulated and depressed. A lot of really crummy shit has happened over the last few years, and it feels like it really intensified at the end of 2020 and is continuing into 2021. I'm not even talking about COVID or anything happening on a cultural/social/political level.
 
@@ -27,8 +35,8 @@ Part of me feels like the universe really did throw a ton of really awful shit a
 Depending on whether you've interacted with me in the last handful of months, you might find the above somewhat surprising. I _am_ able to enjoy individual activities, conversations, etc. Thank goodness I'm able to lean into moments of joy.
 
 But here's a relatively short inventory of what's weighing me down:
-* continued grief and pain over losing Adam (and Billy) and the future we were building
-* burglary of my storage unit and loss of my life's memorabilia
+* [continued grief and pain over losing Adam (and Billy) and the future we were building](/blog/2021-01-01/2020-retrospective/#end-of-relationship-with-adam)
+* [burglary of my storage unit and loss of my life's memorabilia](/blog/2021-01-01/2020-retrospective/#burglary-of-storage-unit)
 * continuing drama associated with State Farm's bad-faith reversal of a liability determination in which _I_ was struck by a speeding vehicle while I was nearly stationary
 * end of my friendship with Diana, which happened in a deeply painful and frustrating way and which reopened some wounds from other lost friendships
 * my NAS crashing, with 18 TB of data hanging in the balance while I pursue recovery options (even though most of that is backed up to Dropbox)
