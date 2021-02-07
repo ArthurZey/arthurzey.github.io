@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
-    {% if page.url contains "nsfw" or page.tags contains "nsfw" or page.sitemap == false %}<meta name="robots" content="noindex">{% endif %}
+    {% if page.url contains "nsfw" or page.tags contains "nsfw" or page.sitemap == false or page.tags contains "draft" %}<meta name="robots" content="noindex">{% endif %}
     {% if site.google_analytics and site.google_tag_manager and jekyll.environment == 'production' %}
       <!-- Global site tag (gtag.js) - Google Analytics -->
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
@@ -68,6 +68,7 @@
 
     {% comment %}Added style="max-width: 100%;" attribute to next line to fix style before I do proper refactoring.{% endcomment %}
     <section class="main-content" style="max-width: 100%;">
+      {% if page.tags contains "draft" %}<i>This page is a draft and will not come up in site listings or search results. Please consider content provisional and in progress, and check back for updates.</i>{% endif %}
       {{ content | markdownify }}
 
       <footer class="site-footer">
