@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-02-01"
+last_modified_at: "2021-02-09"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -92,7 +92,7 @@ Other topics:
   * liberal
   * progressive
   * social justice
-  * redistribution (of wealth)
+  * (re)distribution (of wealth)
   * privilege
   * labour party
   * proletariat
@@ -101,3 +101,4 @@ Other topics:
   * energy conservation
   * the homeless
   * the environment (this is like referring, in general, to "the context")
+  * (tax) subsidy (referring to a tax break as a "subsidy")
