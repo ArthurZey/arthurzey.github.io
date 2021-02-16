@@ -195,13 +195,32 @@ _started in 2019; in progress_
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
 
-## Richard Dawkins: _The Selfish Gene_
-[Audible](https://www.audible.com/pd/B004QDTA9Y){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B01GI5F2FS){:target="&lowbar;blank"}
-* fundamental unit (gene versus individual lifeform) depends on context. For philosophy, it's the choice-making entity. For biology, it can be the gene. What about group of individuals? (related also to equivocation on "selfishness")
-
-_started in 2019; in progress_
 
 {% endcomment %}
+## James Allen: _As a Man Thinketh_
+[Audible](https://www.audible.com/pd/B00CHTGIE4){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B08LX5ZSXR){:target="&lowbar;blank"}
+{% comment %}
+HIGH-LEVEL NOTES
+* Good can only come from good and bad can only come for bad
+* Sloppy use of "selfish"
+* That bad circumstances can't befall a good person; lots of unqualified characterizations like that
+* Body obeys the mind. But maybe it's actually more integrated or reciprocal.
+* Suffering is only a product of bad thinking or dispositions
+* Chapter 5: rejects dichotomy of oppressor and oppressed, with freedom being the answer. A perfect compassion is for both master and slave. They do it to themselves as much as they do it to each other.
+* I can see why _As a Man Thinketh_ would be triggering for people who are stuck in the paradigm of abuser-victim/oppressor-oppressed/master-slave/exploiter-exploited. They are trapped in a world of "us" versus "them". Somebody has to be the bad guy. Always look outward for explanations for your circumstances. (The irony is that they can't conceive of it in consistent terms.)
+* bad uses of "selfish" and "sacrifice", and unclear uses of "holy" and "sinful" (secular metaphor or religious idea?)
+{% endcomment %}
+
+## Richard Dawkins: _The Selfish Gene_
+[Audible](https://www.audible.com/pd/B004QDTA9Y){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B01GI5F2FS){:target="&lowbar;blank"}
+{% comment %}
+HIGH-LEVEL NOTES
+* fundamental unit (gene versus individual lifeform) depends on context. For philosophy, it's the choice-making entity. For biology, it can be the gene. What about group of individuals? (related also to equivocation on "selfishness")
+* Iterated prisoner's dilemma has to be not envious, but that's not compatible with the altruist ethics he argues for.
+* Iterated prisoner's dilemma "rational mathematician" discounts role of subconscious integration. Doesn't require exploitation at end of life.
+* WWI example demonstrates individual choices being better than coordinated activities. Opposite of what some people say we need government to do things individuals wouldn't.
+{% endcomment %}
+
 ## Richard H Thaler and Cass R Sunstein: _Nudge_
 [Audible](https://www.audible.com/pd/B002VAEKLW){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00A5DCALY){:target="&lowbar;blank"}
 {% comment %}
