@@ -6,7 +6,7 @@ tags:
   - health
 description: "I typically avoid using drugs for merely relieving or suppressing symptoms."
 date: "2020-04-18"
-last_modified_at: "2020-12-22"
+last_modified_at: "2021-02-20"
 ---
 
 There's a lot to say on this topic, including
@@ -18,3 +18,8 @@ There's a lot to say on this topic, including
 * the connection to not numbing emotions
 * uncalibrated emotions and "chemical imbalance"
 * connection to [depression](/depression-and-mental-illness/)
+
+Additional resources:
+
+* [SSRIs – Lorien Psychiatry](https://lorienpsych.com/2020/10/25/ssris/)
+* [Wellbutrin – Lorien Psychiatry](https://lorienpsych.com/2020/10/25/wellbutrin/)
