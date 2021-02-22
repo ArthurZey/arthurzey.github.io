@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2021-02-01"
+last_modified_at: "2021-02-21"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -197,6 +197,32 @@ _started in 2019; in progress_
 
 
 {% endcomment %}
+## Malcolm Gladwell: _Outliers_
+[Audible](https://www.audible.com/pd/B002UZDRK8){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B001ANYDAO){:target="&lowbar;blank"}
+{% comment %}
+HIGH-LEVEL NOTES
+* result of affirmative action programs in law schools show little difference in outcomes after law school, which is not reconcileable with the psychological effects of being worse off than your peers
+* Calls Mexican laborers in California feudal surfs
+* Chapter 7: it slips in a jab about how the United States is individualistic and therefore doesn't provide its citizens with universal health care
+* Chapter 9: why are we glorifying the comparison of children's progress against one another, rather than prioritizing things like play and fun?
+* A lot of the rhetoric around giving people opportunities seems inconsistent with the claim that adversity and overcoming it is partially responsible for success
+* Maybe the cultural legacies of individualism are responsible for some of the hard-working success
+* The way it lands is "you didn't build that", just because it shows the importance of environmental and developmental factors in a person's success and achievement.
+* The thing I really dislike about this book is that it seems to discount the value of individual effort.
+{% endcomment %}
+
+## Malcolm Gladwell: _Blink_
+[Audible](https://www.audible.com/pd/B002VAEK3K){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000PAAH3K){:target="&lowbar;blank"}
+{% comment %}
+HIGH-LEVEL NOTES
+* connection to profile pictures and OkCupid
+* Race IAT reflects that our subconscious integrates experiences, but then doesn't that reflect reality, or at least a certain slice of it, rather than racism? Wouldn't the wisdom and non-racism be a function of understanding the limits of the applicability of the context of our experiences?
+* Why does the fact that white men are disproportionately in CEO roles undoubtedly reflective of some kind of unconscious bias?
+* Autism treating people as objects, particularly parts of brain that recognize faces
+* Autism being an inability to read people's minds through their facial expressions
+* Unconscious bias about race and also businessmen
+{% endcomment %}
+
 ## James Allen: _As a Man Thinketh_
 [Audible](https://www.audible.com/pd/B00CHTGIE4){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B08LX5ZSXR){:target="&lowbar;blank"}
 {% comment %}
