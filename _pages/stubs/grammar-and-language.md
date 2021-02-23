@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-02-19"
+last_modified_at: "2021-02-23"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -27,7 +27,10 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "checkin" versus "check-in"
   * "oncall" versus "on-call"
   * "inline" versus "in-line"
-* hyphenates that should be their own words (eg, "usecase", "enduser")
+* hyphenates that should be their own words
+  * "usecase"
+  * "enduser"
+  * "painpoint"
 * contranyms (eg, "cleave", "sanction", "practically")
 * "begs the question" versus "implies the question"
 * the "[blah] because [noun phrase]" construction
