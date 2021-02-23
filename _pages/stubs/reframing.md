@@ -5,7 +5,7 @@ tags:
   - psychology
 description: "There are a lot of phrases we use that have subtle psychological effects on how we approach ourselves, others, and the world generally."
 date: "2020-04-07"
-last_modified_at: "2020-10-26"
+last_modified_at: "2021-02-22"
 ---
 
 There are a lot of phrases we use that have subtle psychological effects on how we approach ourselves, others, and the world generally.
@@ -23,4 +23,4 @@ I've been thinking a lot about certain kinds of reframings that have been very h
 * "you [X]" &rarr; "I'm imagining you [X]" or "the story I'm telling myself is you [X]"
 * "balance" &rarr; "integrate"
 * "negative emotions" &rarr; "unpleasant emotions"
-* "angry at" &rarr; "angry that"
+* "angry at" &rarr; "angry that" &rarr; "frustrated that"
