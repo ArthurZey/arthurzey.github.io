@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-02-23"
+last_modified_at: "2021-02-27"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -86,6 +86,9 @@ Here are a few of my fixations and particularities (in no particular order) that
   * contrast/connection to "medium"/"mediums" and "media"
 * "formulas" versus "formulae"
 * "terrariums" versus "terraria", "aquarium" versus "aquaria"
+* phrases and words I've either coined or am enamored of
+  * "dermatological phenomena"
+  * "micro-disasters"
 
 Fun games:
 
