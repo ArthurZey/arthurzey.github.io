@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-02-27"
+last_modified_at: "2021-02-28"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -78,6 +78,9 @@ Here are a few of my fixations and particularities (in no particular order) that
   * modular
   * incredulity
   * gradually
+  * Christian
+  * parmesan
+  * pendulum
 * "none are" versus "none is"; "any are" versus "any is"
 * singular "they"
 * singular "data"
@@ -89,6 +92,7 @@ Here are a few of my fixations and particularities (in no particular order) that
 * phrases and words I've either coined or am enamored of
   * "dermatological phenomena"
   * "micro-disasters"
+  * "musical hedonist"
 
 Fun games:
 
