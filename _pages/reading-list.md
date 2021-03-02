@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2021-02-21"
+last_modified_at: "2021-03-02"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -188,15 +188,15 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
 {% comment %}
 ########## PULL ITEMS OUT OF COMMENT WHEN COMPLETED ##########
 
-## Lundy Bancroft: _The Joyous Recovery: A New Approach to Emotional Healing and Wellness_
-[Kindle](https://smile.amazon.com/Joyous-Recovery-Approach-Emotional-Wellness-ebook/dp/B07VYBVMGX){:target="&lowbar;blank"}
-
 _started in 2019; in progress_
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
 
 
 {% endcomment %}
+## Lundy Bancroft: _The Joyous Recovery: A New Approach to Emotional Healing and Wellness_
+[Kindle](https://smile.amazon.com/dp/B07VYBVMGX){:target="&lowbar;blank"}
+
 ## Malcolm Gladwell: _Outliers_
 [Audible](https://www.audible.com/pd/B002UZDRK8){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B001ANYDAO){:target="&lowbar;blank"}
 {% comment %}
