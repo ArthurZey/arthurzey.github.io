@@ -2,7 +2,7 @@
 title: Peak Living Network
 description: "Information about the Denver chapter of the Peak Living Network (PLN)"
 date: "2020-11-05"
-last_modified_at: "2021-01-23"
+last_modified_at: "2021-03-03"
 ---
 
 * TOC
@@ -60,6 +60,7 @@ I'm not sure exactly how to frame this section, but the idea is to give an indic
     * _Unlocking Us_ (podcast): [Website](https://brenebrown.com/unlockingus/){:target="&lowbar;blank"}, [Spotify](https://open.spotify.com/show/4P86ZzHf7EOlRG7do9LkKZ){:target="&lowbar;blank"}
   * Tori Press: _I Am Definitely, Probably Enough (I Think): Revelations on the Journey to Self-Love_: [Hardcover](https://smile.amazon.com/exec/obidos/ASIN/1507212909){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B07Z428JF9){:target="&lowbar;blank"}
   * Carl Dweck: _Mindset_: [Audible](https://www.audible.com/pd/0593150422){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B000FCKPHG){:target="&lowbar;blank"}
+  * James Allen: _As a Man Thinketh_: [Audible](https://www.audible.com/pd/B00CHTGIE4){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B08LX5ZSXR){:target="&lowbar;blank"}
   * Sue Johnson: _Hold Me Tight: Seven Conversations for a Lifetime of Love_: [Audible](https://www.audible.com/pd/154915768X){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B0011UGLQK){:target="&lowbar;blank"}
   * Gary Chapman: _The 5 Love Languages: The Secret to Love that Lasts_: [Kindle](https://smile.amazon.com/dp/B00OICLVBI){:target="&lowbar;blank"}
   * Harriet Lerner: _Why Won't You Apologize?_: [Audible](https://www.audible.com/pd/B01MR0VVX0){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B01CO349DY){:target="&lowbar;blank"}
