@@ -5,7 +5,7 @@ tags:
   - psychology
 description: "How can we be grateful for outcomes that are caused by accidents or wrongdoing?"
 date: "2020-04-09"
-last_modified_at: "2020-04-09"
+last_modified_at: "2021-03-06"
 ---
 
 We sometimes face challenging circumstances that have silver linings or some positive outcomes. Adaptive pressures can help us to grow. We may develop positive traits that we are profoundly proud of, but as a result of injustice or evil.
@@ -21,3 +21,5 @@ Some thoughts on terminology: There are a few different constructions...I'm not 
 * gratitude _to_ the cause of some result (eg, a person)
 * gratitude _for_ either a cause or a result
 * gratitude _that_ some result (usually)
+
+Related: [Tortured monk urges compassion](https://www.buddhistchannel.tv/index.php?id=9,1805,0,0,1,0)
