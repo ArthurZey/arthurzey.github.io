@@ -192,8 +192,20 @@ _started in 2019; in progress_
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
 
+## Daniel Kahneman: _Thinking, Fast and Slow_
+[Audible](https://www.audible.com/pd/B005TKKCWC){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00555X8OA){:target="&lowbar;blank"}
+HIGH-LEVEL NOTES
+* Automatic processes, particularly the ones that make one susceptible to certain kinds of systemic biases or errors, are not rational or irrational, they are arational.
+* Discussion about money-priming and selfishness presupposes a certain idea of what selfishness is (which is smuggling in various false premises).
+* "Individualism is a reluctance to be involved with others"
+* The Halo effect may not be as irrational as author implies. There's a reason that we think that certain things are causally linked.
+* In the example of the legality of the arrest of a union employee who wants to talk to store's employees is only problematic and affected by different presentations of arguments if you don't have a principled viewpoint of the underlying facts in the first place.
+* Talks about propensity to assess costs and benefits of particular political policies by whether you like them, which reverses cause and effect for people who think about it objectively. (affect heuristic)
+* Argues that public policy should address fears because they are debilitating. How about calibrating fear or training resilience?
+* Way too much commentary that undermines certainty, including suspicion of people who are certain.
 
 {% endcomment %}
+
 ## Lundy Bancroft: _The Joyous Recovery: A New Approach to Emotional Healing and Wellness_
 [Kindle](https://smile.amazon.com/dp/B07VYBVMGX){:target="&lowbar;blank"}
 
