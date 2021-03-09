@@ -5,7 +5,7 @@ tags:
   - psychology
 description: "What is forgiveness? What is \"accepting an apology\"? What does it mean to \"forgive and forget\"? What is \"holding a grudge\"? What is \"letting something go\"?"
 date: "2020-04-07"
-last_modified_at: "2020-05-10"
+last_modified_at: "2021-03-08"
 ---
 
 What is forgiveness? What is "accepting an apology"? What does it mean to "forgive and forget"? What is "holding a grudge"? What is "letting something go"?
@@ -19,3 +19,5 @@ Very relevant [Unlocking Us](https://brenebrown.com/unlockingus/){:target="&lowb
 Related to apologizing, I want to explore some topics related to my personal growth:
 
 Being able to apologize as readily as I can now is not something that came naturally to me. I think the operative factors earlier in my life were feelings of righteous indignation and equity. But over time, the logic of "the supreme sanctity of _the truth_" won out. Nowadays, it's very easy for me to accept responsibility for anything I've done wrong, because that's _the truth_. And it has nothing to do with whether anybody else is able to apologize for anything else. Ironically, there's a very narrow and immediate way in which this isn't about the other person or my caring about them or the effect of my apology on them; it's just a matter of personal accountability, an allegiance to reality, and what kind of person I want to be, justice and others' desert be damned. (In reality, these concerns are harmonious, but there's an interesting question of what's _alive_ for me in a given moment of apologizing.)
+
+Another issue I want to explore: How can you have compassion and understanding of wrong-doing and for the wrong-doer, but not forgive them? How does that relate to acceptance and "unconditional love"? How can you lovingly hold people accountable for gravely destructive (and perhaps even intentionally so) behavior?
