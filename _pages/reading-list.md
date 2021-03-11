@@ -203,6 +203,14 @@ HIGH-LEVEL NOTES
 * Talks about propensity to assess costs and benefits of particular political policies by whether you like them, which reverses cause and effect for people who think about it objectively. (affect heuristic)
 * Argues that public policy should address fears because they are debilitating. How about calibrating fear or training resilience?
 * Way too much commentary that undermines certainty, including suspicion of people who are certain.
+* I'm optimistic, and perhaps have an optimistic bias, but I'm also subject to deep bouts of depression, and I'm risk averse. I wonder if there's actually a good causal explanation here.
+* The better than average "fallacy" doesn't actually apply to individuals. Any given individual might have good reason to believe they are above average (and may well be), even if there's no way that 90% of people, who think they are better than average, are actually better than average. You can't use this alleged fallacy to invalidate any given assertion by any given individual.
+* There's something in Prospect Theory, the endowment effect, risk-/loss-aversion, etc that's begging for more analysis:
+  * the ideas as descriptive versus prescriptive
+  * the meaning of "rationality" from which these observed phenomena depart
+  * something that's missing about whether something like giving higher weight to pain of loss than pleasure of gain is
+    * normatively good
+    * itself a function of deeper (and perhaps prevalent) automatized values (versus an inherent psychological fact)
 
 {% endcomment %}
 
