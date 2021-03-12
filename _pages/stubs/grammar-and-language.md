@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-02-28"
+last_modified_at: "2021-03-12"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -45,6 +45,7 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "assume" and "assumption" versus "conclude" and "conclusion"
 * "need" versus "want"
   * the effect of regarding these as being quantitatively on the same spectrum: "strong-enough desire" == "metaphysical requirement", an uncalibrated sense of entitlement
+  * relationship to scarcity and "post-scarcity world"
 * "facts" versus "opinions"
 * ["objective" versus "subjective"](/objective-and-subjective/)
   * "universal" versus "personal"
