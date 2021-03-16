@@ -192,8 +192,11 @@ _started in 2019; in progress_
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
 
+{% endcomment %}
+
 ## Daniel Kahneman: _Thinking, Fast and Slow_
 [Audible](https://www.audible.com/pd/B005TKKCWC){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00555X8OA){:target="&lowbar;blank"}
+{% comment %}
 HIGH-LEVEL NOTES
 * Automatic processes, particularly the ones that make one susceptible to certain kinds of systemic biases or errors, are not rational or irrational, they are arational.
 * Discussion about money-priming and selfishness presupposes a certain idea of what selfishness is (which is smuggling in various false premises).
@@ -211,7 +214,10 @@ HIGH-LEVEL NOTES
   * something that's missing about whether something like giving higher weight to pain of loss than pleasure of gain is
     * normatively good
     * itself a function of deeper (and perhaps prevalent) automatized values (versus an inherent psychological fact)
-
+* Moral intuitions around the tax code for children of the rich versus poor is only problematic in terms of its being dominated by system one if your system one is badly trained.
+* What an amazing confession about morality that he thinks it's not a function of system 2.
+* Freedom to choose does not depend on the conventional rational agent model
+* Total straw man of the Chicago School of economics in the end credits
 {% endcomment %}
 
 ## Lundy Bancroft: _The Joyous Recovery: A New Approach to Emotional Healing and Wellness_
