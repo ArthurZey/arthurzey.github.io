@@ -5,7 +5,7 @@ tags:
   - gluten-free
 description: "Pork ribs that fall off the bone"
 date: "2021-03-19"
-last_modified_at: "2021-03-19"
+last_modified_at: "2021-03-20"
 ---
 
 * TOC
@@ -28,13 +28,13 @@ last_modified_at: "2021-03-19"
 |as desired|BBQ sauce or sour cream| |
 
 Seasonings that I have especially enjoyed:
-* Nobel Classic BBQ
-* 21 Seasoning Salute
-* Cuban Island Spice
-* Vindaloo / Curry
+* [Nobel Made Classic BBQ Seasoning](https://thenewprimal.com/collections/seasonings/products/bbq-seasoning-two-pack){:target="&lowbar;blank"}
+* [21 Seasoning Salute](https://smile.amazon.com/Trader-Joes-Seasoning-Salute-Pack/dp/B00809A9P4){:target="&lowbar;blank"}
+* [Cuban Island Spice](https://www.savoryspiceshop.com/spices/cuban-island-spice){:target="&lowbar;blank"}
+* [Vindaloo](https://www.savoryspiceshop.com/spice-blends/vindaloo.html){:target="&lowbar;blank"}
 
 Sauces that I have enjoyed:
-* Nobel Classic BBQ Sauce (which is Paleo!)
+* [Noble Made Classic BBQ Sauce](https://thenewprimal.com/products/classic-bbq-sauce-whole30-approved-1-pack-bundle-only){:target="&lowbar;blank"} (which is Paleo and Whole30!)
 
 # Preparation
 1. The evening before cooking, cut the rack(s) of ribs into pieces that fit into your Pyrex pan(s) and arrange them so that they don't overlap and there is at least a centimeter or two between the top of the ribs and the top of the pan.
