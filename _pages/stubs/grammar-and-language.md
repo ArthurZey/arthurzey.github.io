@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-03-16"
+last_modified_at: "2021-03-21"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -96,6 +96,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "dermatological phenomena"
   * "micro-disasters"
   * "musical hedonist"
+  * "ussie" (like "selfie", but of multiple subjects)
 
 Fun games:
 
