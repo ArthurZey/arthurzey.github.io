@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-03-21"
+last_modified_at: "2021-03-23"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -32,6 +32,9 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "enduser"
   * "painpoint"
 * contranyms (eg, "cleave", "sanction", "practically")
+* negation prefixes that don't negate
+  * inflammable
+  * delimit
 * "begs the question" versus "implies the question"
 * the "[blah] because [noun phrase]" construction
 * "a-whole-nother"
