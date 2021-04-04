@@ -13,6 +13,9 @@ sitemap: false
 {:toc}
 {::options toc_levels="2" /}
 
+## Recently Played
+<a target="_blank" href="https://trakt.tv/users/arthurzey/history"><img width="500" height="133" alt="ArthurZey" src="https://widgets.trakt.tv/users/cc29f55462147169c2d76ef850a0f94b/watched/banner@2x.jpg" /></a>
+
 ## 2021-03-26
 
 I still haven't heard back from Adam, but after almost a week, I was feeling less preoccupied by the whole situation. It helped that the following weekend, I went out of town to help a friend move. Aside from the joy of seeing my friend (whom I hadn't seen in person in some time, but with whom I had grown especially close in the last year or so), it was a great opportunity to get in some more physical activity, and it was a good distraction from my problems. I dreaded getting back to "normal life" when the trip was ending.
