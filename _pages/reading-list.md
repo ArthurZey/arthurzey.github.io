@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2021-03-02"
+last_modified_at: "2021-04-06"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -192,6 +192,20 @@ _started in 2019; in progress_
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
 
+{% endcomment %}
+
+## Mortimer J Adler: _Aristotle for Everybody_
+[Audible](https://www.audible.com/pd/B007XIE8SC){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00317G7AG){:target="&lowbar;blank"}
+{% comment %}
+HIGH-LEVEL NOTES
+* art being for enjoyment versus a practical purpose (isn't enjoyment a practical purpose?)
+* definition of needs versus wants (needs are inborn; wants are acquired)
+* we "should pursue happiness" (seems like a stolen concept, since happiness is what gives rise to "shoulds" in the first place)
+* limitations on freedom (and what the concept is in general)
+* concepts (eg, "dog") can't be wrong (but what about improperly formed concepts?)
+* definition of knowledge versus opinions
+* limited versus unlimited goods
+* "the mind is immaterial" and that whole can of dualistic worms
 {% endcomment %}
 
 ## Daniel Kahneman: _Thinking, Fast and Slow_
