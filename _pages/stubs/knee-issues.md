@@ -6,7 +6,7 @@ tags:
   - health
 description: "WTF is going on with my knees?"
 date: "2020-09-25"
-last_modified_at: "2020-10-03"
+last_modified_at: "2021-04-06"
 ---
 
 * no cycling; need to be careful with squats, leg press, snowboarding, walking down stairs (!), getting in and out of cars (!); no problem running
@@ -20,3 +20,4 @@ last_modified_at: "2020-10-03"
   * [massage](https://voxsynaesthetica.wordpress.com/massage-therapist/){:target="&lowbar;blank"}
   * [Vibrams](https://us.vibram.com/shop/fivefingers/men/){:target="&lowbar;blank"}
   * TBD: physical therapy with [Quinn Henoch of Clinical Athlete](https://www.clinicalathlete.com/users/quinn-henoch-4584360f-e4fa-4ff7-8960-d95215b1ddff/profile){:target="&lowbar;blank"}
+* had to be ski-patrolled down at Heavenly after going through Milky Way Bowl and going through trees because the shearing force triggered knee pain, and I couldn't even walk down the mountain
