@@ -192,6 +192,9 @@ _started in 2019; in progress_
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
 
+## Timothy Ferriss: _The 4-Hour Workweek_
+[Audible](https://www.audible.com/pd/B0031AS3BE){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B002WE46UW){:target="&lowbar;blank"}
+
 {% endcomment %}
 
 ## Mortimer J Adler: _Aristotle for Everybody_
