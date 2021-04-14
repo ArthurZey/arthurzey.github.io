@@ -6,7 +6,7 @@ tags:
   - about
 description: "I really like myself, but my good-/right-by-default attitude has the built-in failure mode of making it difficult to identify areas for growth. Nevertheless, I've found a few things I can work on."
 date: "2020-06-19"
-last_modified_at: "2021-01-12"
+last_modified_at: "2021-04-14"
 ---
 
 * psychological dispositions
@@ -57,3 +57,4 @@ last_modified_at: "2021-01-12"
     * combatting my default disposition to explain all the things and lay things out in a chain-of-reasoning way
     * bottom line up front (BLUF) / not burying the lede
   * time/energy/bandwidth/focus management: learning to say "no" more often
+  * learning how to judge people more accurately, tempering my "all in" trust with some ability to see and consider warning signs
