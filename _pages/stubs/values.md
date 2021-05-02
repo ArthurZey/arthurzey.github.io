@@ -6,7 +6,7 @@ tags:
   - philosophy
 description: "There are at least three different senses of the concept of \"value\", which I'd like to disentangle."
 date: "2021-04-24"
-last_modified_at: "2021-04-30"
+last_modified_at: "2021-05-01"
 ---
 
 I'd like to differentiate between a few different senses of the concept of "value":
@@ -22,3 +22,5 @@ I'd like to differentiate between a few different senses of the concept of "valu
 (3) is about what one claims to value, which may be at odds with both what one actually acts to gain and/or keep _and_ what actually enhances one's life. An example of this might be a particular lifestyle, which might actually (better) contribute to one's happiness, but one is stuck in the inertia of a current trajectory that makes pursuing it difficult. One professes to have that other lifestyle, but one actually persists in the present course.
 
 The _Ayn Rand Lexicon_ has a great entry on [values](http://aynrandlexicon.com/lexicon/values.html){:target="&lowbar;blank"}.
+
+A potentially interesting parallel here is between "wants" (which I insist is an epistemological phenomenon) versus "needs" (which I insist is a metaphysical phenomenon). My view here differs from Aristotle's and the prevalent approach of putting both on the same quantitative scale, where "needs" are just more intense "wants". (1) and (3) are closer to "wants", with (1) reflecting revealed "wants" and (3) reflecting professed "wants". (2), by contrast, reflects the "needs" that are causally required to achieve one's interests.
