@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-04-06"
+last_modified_at: "2021-05-04"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -50,6 +50,7 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "need" versus "want"
   * the effect of regarding these as being quantitatively on the same spectrum: "strong-enough desire" == "metaphysical requirement", an uncalibrated sense of entitlement
   * relationship to scarcity and "post-scarcity world"
+  * consider Aristotle's view on the distinction
 * "facts" versus "opinions"
 * ["objective" versus "subjective"](/objective-and-subjective/)
   * "universal" versus "personal"
@@ -61,6 +62,8 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "practical" versus "pragmatic"
 * "reconcile" versus "rationalize"
 * "judge" versus "condemn"
+* "feeling" as referring to either emotion or intellectual/cognitive conclusions (ie, "seeming")
+  * "I feel _X_." as being either "My emotion is _X_." or "It seems to me that _X_."
 * "compromise"
 * "[collection]" versus "[collection] [item]":
   * "blog post" versus "blog"
