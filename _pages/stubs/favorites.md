@@ -5,7 +5,7 @@ tags:
   - about
 description: "Brown paper packages tied up with strings; these are a few of my favorite things."
 date: "2020-05-15"
-last_modified_at: "2020-12-11"
+last_modified_at: "2021-05-06"
 ---
 
 * TOC
@@ -134,6 +134,7 @@ _See also [Recipes](/recipes/)._
 * ribeye caps
 * [brussels sprouts](/recipes/brussels-sprouts/)
 * [lomo saltado](/recipes/lomo-saltado/)
+* [slow-cooked ribs](/recipes/slow-cooked-ribs/)
 * [tacos](https://photos.app.goo.gl/jTXshxZ9dVXThCVG8){:target="&lowbar;blank"}
 * Paleo banana pancakes
 * omelets
