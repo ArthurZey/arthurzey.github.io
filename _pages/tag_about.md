@@ -50,9 +50,9 @@ While I buck a lot of social conventions and [many of the superficial manifestat
 
 I love children, and I can't wait to be a dad.
 
-I'm a product manager for the [Alexa Voice Service Device SDK](https://developer.amazon.com/en-US/alexa/devices/alexa-built-in/development-resources/sdk){:target="&lowbar;blank"} for Amazon.
+I'm a product manager for the [Alexa Device SDK](https://developer.amazon.com/en-US/alexa/devices/alexa-built-in/development-resources/sdk){:target="&lowbar;blank"} for Amazon.
 
-I grew up in Los Angeles, and I live in the San Francisco Bay Area. But I'm in Denver to ride out COVID-19...at the very least...
+I grew up in Los Angeles, and my home base is still technically the San Francisco Bay Area. But I'm in Denver to ride out COVID-19...at the very least...
 
 ## Random Tidbits
 
