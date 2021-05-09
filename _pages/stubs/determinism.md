@@ -5,7 +5,7 @@ tags:
   - philosophy
 description: "Volition is self-evident and axiomatic. The universe works by deterministic laws. And yet choice is not an illusion. How is this possible?"
 date: "2020-04-17"
-last_modified_at: "2021-03-23"
+last_modified_at: "2021-05-08"
 ---
 
 This is a favorite topic of many philosophy students. It's fun to think about. But the most important lesson I've learned about this over the years is that _it doesn't matter_. While I think there are valuable things to learn from engaging in it, this is mostly just a fun intellectual exercise.
@@ -20,6 +20,7 @@ Here are a few things I want to address (and this is by no means exhaustive):
 * what choice is and how it can be both deterministic and meaningful (and relatedly, what the role of epistemic ignorance is)
 * how understanding how something works (eg, volition, choice, a volcano) does not cause it to stop existing
 * the connection between moral accountability/agency and determinism
+  * mental incapacity/illness
 * how the search for explanatory _reasons_ for people's choices and behaviors is implicitly premised on determinism
 * the connection to epistemology, especially induction, concept-formation, and principles
   * why you can't use induction and deduction, which presuppose determinism, to establish non-determinism / randomness
