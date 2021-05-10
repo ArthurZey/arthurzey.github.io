@@ -247,6 +247,7 @@ _A parent's job is to be a guide in a child's development into an adult. A paren
   * [Wikipedia](https://en.wikipedia.org/wiki/Montessori_education){:target="&lowbar;blank"}
   * [Association Montessori Internationale: About Montessori](http://montessori-ami.org/about-montessori){:target="&lowbar;blank"}
   * [Mission Montessori](https://www.missionmontessori.org/){:target="&lowbar;blank"}
+  * [Montessori Education](https://www.montessorieducation.com/about){:target="&lowbar;blank"}
 * 3Blue1Brown\\
   This is, hands-down, the most important innovation in math education in history, and I don't say that lightly. Grant Sanderson's approach to grounding math in graphical intuition and connecting it to reality has the ability to inspire curiosity and passion and prevent kids from checking out of math because of how it's so often taught as merely abstract symbol manipulation.
   * [YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw){:target="&lowbar;blank"}
