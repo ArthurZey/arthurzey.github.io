@@ -2,7 +2,7 @@
 title: Peak Living Network
 description: "Information about the Denver chapter of the Peak Living Network (PLN)"
 date: "2020-11-05"
-last_modified_at: "2021-04-22"
+last_modified_at: "2021-05-17"
 ---
 
 * TOC
@@ -24,8 +24,6 @@ I have not yet organized anything. Frankly, despite my attraction to and being e
 * [splitting time / co-counseling](https://peaklivingnetwork.org/split-time/){:target="&lowbar;blank"}
 * [circling](https://circlinginstitute.com/what-is-circling-method/){:target="&lowbar;blank"}
 * reading and discussion group
-
-_Note on COVID-19: As we will likely be meeting in my home, I'll be following state, county, and city guidelines on size of gatherings. To ensure comfort and safety of all attendees, masks will be required, unless we are sitting outside and all agree to remove them._
 
 # Focus
 
