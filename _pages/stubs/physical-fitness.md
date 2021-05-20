@@ -6,7 +6,7 @@ tags:
   - fitness
 description: "Why does physical fitness occupy such a prominent place in my life? And how does my concern with physical fitness manifest and relate to other values?"
 date: "2020-04-20"
-last_modified_at: "2020-12-22"
+last_modified_at: "2021-05-20"
 ---
 
 ## On This Page
@@ -34,6 +34,7 @@ Here are a few areas I'd like to explore:
 * the rebellion against shame triggers
 * simultaneous feelings of pride _and_ revulsion when looking in the mirror
 * the role of my genetics (eg, my being an ectomorph) in why achieving fitness goals is so rewarding
+* the impact of "eat, eat, eat!" and "you've gotten skinnier" as a criticism in my childhood
 * social stigma against judging / concern with the physical: "even deep waters have a surface"
 * terms like "narcissism" and "vanity"
 * exercise versus recreation and cardio
