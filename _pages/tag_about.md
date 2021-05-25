@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2021-05-12"
+last_modified_at: "2021-05-24"
 ---
 
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
@@ -299,13 +299,25 @@ _The purpose of art is to provide spiritual fuel and to directly evoke emotions 
 
 ## Personality and Behavioral Profiles
 ### Myers-Briggs
-_as of 2015_
-* identify with strongly: **\*N\*J**\\
-_abstract, conceptual thinking is my strongest trait_
-* identify with weakly: **\*N\*P**\\
-_mostly a "[control freak](/control/)", but I can be comfortable going with the flow_
-* don't identify with at all: <b>\*S\*\*</b>\\
-_not concrete-bound_
+* as of 2015
+  * identify with strongly: **\*N\*J**\\
+  _abstract, conceptual thinking is my strongest trait_
+  * identify with weakly: **\*N\*P**\\
+  _mostly a "[control freak](/control/)", but I can be comfortable going with the flow_
+  * don't identify with at all: <b>\*S\*\*</b>\\
+  _not concrete-bound_
+* [16Personalities](https://www.16personalities.com/profiles/67722a18a4a0b){:target="&lowbar;blank"}: INFJ-T ("[Turbulent Advocate](https://www.16personalities.com/infj-personality){:target="&lowbar;blank"}" "[Diplomat](https://www.16personalities.com/articles/roles-diplomats){:target="&lowbar;blank"}" with "[Constant Improvement](https://www.16personalities.com/articles/strategies-constant-improvement){:target="&lowbar;blank"}" strategy)\\
+_2021-05-24_
+  * mind: 72% introverted\\
+  _Introverted individuals prefer solitary activities and get exhausted by social interaction. They tend to be quite sensitive to external stimulation (eg, sound, sight, or smell) in general._
+  * energy: 58% intuitive\\
+  _Intuitive individuals are very imaginative, open-minded, and curious. They prefer novelty over stability and focus on hidden meanings and future possibilities._
+  * nature: 61% feeling\\
+  _Feeling individuals are sensitive and emotionally expressive. They are more empathic and less competitive than Thinking types, and focus on social harmony and cooperation._
+  * tactics: 60% judging\\
+  _Judging individuals are decisive, thorough, and highly organized. They value clarity, predictability, and closure, preferring structure and planning to spontaneity._
+  * identity: 56% turbulent\\
+  _Turbulent individuals are self-conscious and sensitive to stress. They are likely to experience a wide range of emotions and to be success-driven, perfectionistic, and eager to improve._
 
 ### DISC
 See [Manager Tools Podcasts](https://www.manager-tools.com/map-universe/communication-disc){:target="&lowbar;blank"} and [summary PDF](https://files.manager-tools.com/files/private/documents/DiSC_Basics_0.pdf){:target="&lowbar;blank"}.
