@@ -326,6 +326,198 @@ _I'm very thing-/fact-/task-/idea-oriented:_
 * high <b>D</b>ominance: like to be in charge and take [control](/control/) of situations
 * high <b>C</b>onscientiousness: love my [rules](/rules/) and structures and processes
 
+### PrinciplesYou
+Wow, does this ever need some editorial commentary... _sigh..._
+
+_[2021-05-25](https://principlesyou.com){:target="&lowbar;blank"}_
+* Archetypes\\
+_Summarizes the pattern of your results_
+  1. [The Orchestrator](https://principlesyou.com/archetypes/orchestrator){:target="&lowbar;blank"}\\
+  _Orchestrators excel at bringing people together, organizing around them, and mobilizing resources to achieve and exceed expectations. They tend to be planful, precise, engaging, and people-oriented._
+  2. [The Planner](https://principlesyou.com/archetypes/planner){:target="&lowbar;blank"}\\
+  _Planners are driven to put structure and systems around goals, translating ideas into practical and achievable plans. They tend to be planful, methodical, and results-oriented._
+  3. [The Commander](https://principlesyou.com/archetypes/commander){:target="&lowbar;blank"}\\
+  _Commanders are driven to achieve goals through determination and holding themselves and others to high standards of performance. They tend to be driven and demanding leaders who are pragmatic and results-oriented._
+* How You Prefer to **Think**\\
+_Your Cognitive Orientations_
+  * Creative: 35%\\
+  _You are willing to think independently and do things your own way, and have more interest in sticking to familiar routines than in exploring new and unfamiliar experiences._
+    * Original: 58%\\
+    _You have a moderate preference to seek novelty and discover new ideas and methods._
+    * Curious: 8%\\
+    _You have a preference for the familiar and known over seeking out unknown and unfamiliar experiences._
+    * Non-Conforming: 61%\\
+    _You have a strong preference for doing things your own way, breaking rules and traditions, and initiating change._
+  * Detailed and Reliable: 84%\\
+  _You tend to be orderly, planful, and detail-focused, as well as generally reliable in meeting deadlines and commitments in a timely way._
+    * Organized: 77%\\
+    _You have a strong preference to control your environment by being orderly, making plans, and following schedules._
+    * Detail-Oriented: 93%\\
+    _You have a very strong preference to focus on details and get things precise, right, and perfect._
+    * Dependable: 51%\\
+    _You have a moderate preference for meeting commitments, obligations, and deadlines in a timely way._
+  * Practical: 13%\\
+  _You you tend to be less concerned with the direct, practical consequences or constraints of a given action as a key factor in decision-making, possibly favoring a more idealistic approach._
+  * Deliberative: 84%\\
+  _You tend to rely on logic, be methodical and process-oriented, but generally trust your instincts when reaching decisions and making choices._
+    * Logical: 97%\\
+    _You have a very strong preference for applying logic and reason to your thinking rather than intuition and feeling._
+    * Systematic: 93%\\
+    _You have a very strong preference to be systematic, methodical, and deliberate in work and decision-making._
+    * Impartial: 25%\\
+    _You have a preference for subjectivity and personal instinct rather than facts and objectivity when making decisions._
+  * Conceptual: 95%\\
+  _You have a preference to think abstractly and philosophically, using theories and models to solve problems._
+* How You **Engage** with Others\\
+_Your Interpersonal Orientations_
+  * Extraverted: 30%\\
+  _You tend to prefer less social activity and to engage in more intimate settings, are more cautious than adventurous in the activities you like to participate in, but are comfortable asserting yourself when you find yourself in social situations._
+    * Gregarious: 32%\\
+    _You have a preference for less social engagement in group settings and to spend more time either alone or in more intimate settings._
+    * Engaging: 71%\\
+    _You have a strong preference for being in the social spotlight and entertaining others._
+    * Adventurous: 5%\\
+    _You have a preference to be more cautious than adventurous in approaching activities and experiences._
+  * Nurturing: 46%\\
+  _You tend to be sensitive to people's feelings and emotions in the moment, while placing less of a priority on actively tending to their needs._
+    * Helpful: 24%\\
+    _You have a tendency to place less value on supporting and tending to the needs of others, prioritizing self-reliance._
+    * Empathic: 65%\\
+    _You have a strong tendency to be sensitive to the emotions and feelings of others._
+    * Person-Oriented: 57%\\
+    _You have a moderate tendency to be genuinely captivated by other people's lives and behavior, perceptive of their quirks and tendencies, and eager to listen to their stories._
+  * Humorous: 3%\\
+  _You tend to be more serious than lighthearted._
+  * Tough: 82%\\
+  _You tend to be willing to debate your and others' ideas, to say what you think, though may be less inclined to be openly critical of others._
+    * Feisty: 90%\\
+    _You have a very strong preference to debate, argue, and fight for your ideas and opinions._
+    * Critical: 33%\\
+    _You have a low inclination to critique others openly, telling them what they did wrong and why, possibly to avoid hurting their feelings._
+    * Direct: 93%\\
+    _You have a very strong preference to express views bluntly and straightforwardly, worrying less about style and nuance._
+  * Leadership: 62%\\
+  _You are willing to take charge in groups and rally others around a common vision or goal, with less inclination to direct others through setting clear standards and applying pressure to see them met._
+    * Taking Charge: 84%\\
+    _You have a very strong willingness to assume leadership for tasks and take charge in groups._
+    * Inspiring: 70%\\
+    _You have a strong preference to use motivation and inspiration to rally others around a vision or goal._
+    * Demanding: 15%\\
+    _You have a low preference toward setting clear goals and objectives for others to meet or applying pressure to see them accomplished._
+* How You **Apply** Yourself\\
+_Your Motivational Orientations_
+  * Composed: 21%\\
+  _You may get frustrated easily or experience worry or self-doubt, though do your best to keep emotions under control in challenging situations._
+    * Calm: 13%\\
+    _You have a tendency to experience swings in moods and emotions and can get upset or frustrated easily._
+    * Confident: 21%\\
+    _You have a tendency to experience self-doubt and be more easily discouraged or melancholic at times._
+    * Poised: 45%\\
+    _You have a moderate tendency to maintain composure and express equanimity under pressure._
+  * Flexible: 13%\\
+  _You prefer environments with less change and uncertainty, to be consistent in who you are and the roles you play regardless of the circumstances, though you have a strong interest in your own growth and development._
+    * Adaptable: 18%\\
+    _You have a preference for less change and ambiguity in how you approach your circumstances and environment._
+    * Agile: 3%\\
+    _You have a preference to keep your behavior and personality consistent regardless of the situation or role you need to play._
+    * Growth-Seeking: 79%\\
+    _You have a strong preference to develop, grow, and change particularly through looking at what you are like and reflecting on mistakes and failures._
+  * Humble: 26%\\
+  _You tend to be receptive to critical feedback, though may be less inclined to actively seek out perspectives that are different from your own to examine where you might be wrong, with a tendency to value projecting self-confidence over modesty._
+    * Receptive to Criticism: 96%\\
+    _You have a very strong preference to seek and receive constructive feedback on mistakes and weaknesses._
+    * Open-Minded: 32%\\
+    _You have a lower preference for openly examining what you don't know or where you might be wrong._
+    * Modest: 2%\\
+    _You have a preference to project your self-confidence, be hesitant to acknowledge limitations, and be inclined to overstate rather than understate your knowledge._
+  * Status-Seeking: 3%\\
+  _You tend to be comfortable with your station in life, content to be who you are, and not worry much about others’ impressions of you._
+  * Autonomous: 99%\\
+  _You are independent, self-motivated, and hold yourself accountable for outcomes you experience._
+    * Independent: 99%\\
+    _You have a very strong preference for taking on goals independently, without much guidance or direction._
+    * Self-Accountable: 90%\\
+    _You have a very strong belief that success and failure is based on your own effort and work, and that success is attributable to factors within your control._
+    * Internally Motivated: 85%\\
+    _You have a very strong preference for finding and pursuing your own motivations in work and life._
+  * Determined: 75%\\
+  _You work hard to go after ambitious goals, tend to take action to seize opportunities and solve problems you confront, and generally push through with resolve to finish what you start._
+    * Persistent: 46%\\
+    _You have a moderate desire to push through with resolve and finish what you start._
+    * Driven: 93%\\
+    _You have a very strong preference to set ambitious goals and objectives, and value achieving them above all else._
+    * Proactive: 66%\\
+    _You have a strong preference to go beyond responsibilities to find answers, seize opportunities, "act like an owner," and take quick action to solve problems._
+  * Energetic: 91%\\
+  _You have high levels of stamina, enthusiasm, and energy in work and life._
+* "You" in Context\\
+_How you behave in work and life situations_
+  * When interacting with others, you...
+    * prefer to spend more time alone, and prefer not to stand out when engaging socially
+    * tend to be more serious than humorous and lighthearted
+    * are willing to speak your mind and make an effort to convey that it comes from a place of care
+    * won't sugarcoat critiques, but try to make it clear that you care
+    * despite your efforts, may be perceived as more tough than compassionate
+  * When planning, you...
+    * favor stability and predictability and orchestrate plans to withstand change
+    * believe changes in strategy should only be made when contingency plans are in place
+    * drive hard toward clear, specific goals
+    * like to identify precisely what's needed to achieve goals
+    * operate best with a well-structured and fleshed-out plan to track progress against
+    * track progress diligently against targets
+    * make a strong effort to complete tasks early
+    * translate big-picture strategies into detailed plans
+  * When setting goals, you...
+    * set practical and realistic targets and push through to achieve them
+    * prefer to go after your own goals rather than following others
+    * move forward with focus and determination, though may not adapt quickly enough when goals demand flexibility
+  * Under stress, you...
+    * gravitate toward stability and predictability to keep you centered
+    * can get more reactive and emotional in situations with more ambiguity and uncertainty
+    * may be resistant to taking advice from others
+    * could benefit, in your desire to accomplish ambitious goals, from working on maintaining your equanimity (eg, via meditation or other techniques)
+    * may tend to retreat into your own head
+    * may be less expressive, so others may perceive you as calm, even if you are experiencing things strongly under the surface
+  * As a leader, you...
+    * demand and hold others accountable for results
+    * argue for your beliefs and say what you think
+    * call out underperformers whenever justified
+    * take initiative and rely on concrete instructions and clear standards when directing others
+    * may be less inclined to instigate major change
+    * prefer to go your own way without getting much direction from others
+    * may prefer to project confidence and certainty, rather than acknowledge weakness and uncertainty openly
+    * balance when to assert direction and when to let others take a lead
+  * When solving problems, you...
+    * like to stick to more traditional methods, and don't have much interest in engaging or debating unproven possibilities
+    * are comfortable finding solutions without much direction or guidance
+    * are quick to put structure and precision around vague ideas
+    * believe it's ill-advised to rely on untested solutions
+    * rely on past experience as a guide
+    * don't take unnecessary risks
+    * trust reason and established rules
+    * like to take a concrete and systematic approach
+  * On a team, you...
+    * are willing to express opinions directly, though may be not be the first to dive into the conversation
+    * are more comfortable working on your own, but help and support others when called upon
+    * like to work independently on tasks without too much interaction or direction
+    * set high goals and push back on any attempts to lower the bar
+    * care about the team's success as well as your own
+    * may perceive more emergent personalities as disorganized, while they might perceive you as a bit rigid
+  * When learning, you...
+    * prefer topics that are logical and objective over those that are intuitive and subjective
+    * pay very close attention to facts and data
+    * prefer an organized curriculum and following a clear schedule
+    * take your deadlines and commitments seriously
+    * may lose interest when subjects get theoretical
+    * like to read, analyze, and process before sharing ideas and conclusions
+    * work things out in your own head rather than actively engage other people's perspectives
+    * don't find open-ended brainstorms particularly productive
+    * like subjects that are abstract and philosophical
+    * like to study in peace and quiet where you can focus
+    * like to watch, read, and write
+    * are interested in applying tested methods using concrete knowledge and skill
+    * have good stamina and endurance
+
 ### TOSCA-3SC
 * [Guilt & Shame Quiz](https://transitionsmft.org/resources/quizzes/shame/results/RY7CfHo2JtuRoV5iG2ONeGx7dTYYDxzxSMUwFWpOw0i3c){:target="&lowbar;blank"}\\
   _2020-04-04 17:15 PDT_
