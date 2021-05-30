@@ -7,6 +7,7 @@ tags:
   - customer-service
   - happenings
   - draft
+sitemap: false
 ---
 
 * Tuesday initial window. Got call, but nobody on the other line. I called back. Automated system told me I had to reschedule. While waiting for customer service rep, I rescheduled online for Wednesday. Agent assured me that I would for sure get it, after I asked why I should have any confidence that this time, they would make the delivery.
