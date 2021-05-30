@@ -1,6 +1,7 @@
 ---
 title: "Overstock.com and Ceva Home Delivery"
 date: "2021-05-21"
+last_modified_at: "2021-05-30"
 description: "I am absolutely floored at the sheer incompetence of Ceva Home Delivery."
 tags:
   - customer-service
@@ -17,3 +18,7 @@ tags:
 On 2021-05-09, I purchased an outdoor daybed on Overstock.com. The projected delivery was 2021-05-18. Perfect. Just in time for a gathering I was hosting on 2021-05-22. On 2021-05-12, I got a call from Ceva Logistics to schedule the home delivery, since it's an oversized item. I scheduled it for the first available window, 09:00 to 13:00 on 2021-05-18. So far, so good.
 
 But then during the delivery window, I got a call from Ceva Logistics. I picked up, but there was nobody on the other line. I called back. The automated system told me that there was a problem with my delivery, and that I would have to reschedule. I waited on hold for about 20 minutes, and I was getting nervous. Before getting connected with a customer service agent, I went online and rescheduled for the next day, same time: 2021-05-19 09:00 to 13:00. When I was finally connected with the agent, she assured me that, despite the hiccup at the local facility today, they would be able to deliver the package tomorrow. I specifically asked how I could be certain that _this_ time, it would be delivered. She just assured me again. Okay, fine. Her visibility into the system is probably limited. But that raises serious questions about whether she should have projected so much confidence. Oh well.
+
+2021-05-19 13:00 came and passed. I called the Ceva Logistics number. I was advised that I had an upcoming appointment "on Wednesday, May 19, from 9am to 1pm"... which was in the past. Boy, did that ever instill confidence in me. I got through their IVR system to get placed on hold to speak to an agent. After 20 minutes, the obnoxious hold muzak stopped, and it sounded like I had been connected to an agent. "Hello? Hello?", but there was nobody on the other line. After about 30 to 45 seconds of this, the IVR prompted me to complete a survey about my customer service experience. You can imagine the glowing review I left. At the end, I was asked to leave a message with more detailed comments. Perfect. I pressed "1" to indicate my interest to do so... "Please leave your comments after the tone."...and then the system hung up on me. Wow.
+
+I went through this exact script two more times. Then I decided to call Overstock.com customer support.
