@@ -1,7 +1,7 @@
 ---
 title: "Overstock.com and Ceva Home Delivery"
 date: "2021-05-21"
-last_modified_at: "2021-05-30"
+last_modified_at: "2021-06-01"
 description: "I am absolutely floored at the sheer incompetence of Ceva Home Delivery."
 tags:
   - customer-service
@@ -23,3 +23,7 @@ But then during the delivery window, I got a call from Ceva Logistics. I picked 
 2021-05-19 13:00 came and passed. I called the Ceva Logistics number. I was advised that I had an upcoming appointment "on Wednesday, May 19, from 9am to 1pm"... which was in the past. Boy, did that ever instill confidence in me. I got through their IVR system to get placed on hold to speak to an agent. After 20 minutes, the obnoxious hold muzak stopped, and it sounded like I had been connected to an agent. "Hello? Hello?", but there was nobody on the other line. After about 30 to 45 seconds of this, the IVR prompted me to complete a survey about my customer service experience. You can imagine the glowing review I left. At the end, I was asked to leave a message with more detailed comments. Perfect. I pressed "1" to indicate my interest to do so... "Please leave your comments after the tone."...and then the system hung up on me. Wow.
 
 I went through this exact script two more times. Then I decided to call Overstock.com customer support.
+
+I was connected rather speedily to Dave, who was extremely apologetic about the inconvenience, opened up a case for me, and credited me $113 for the shipping cost! Good customer service was a welcome change. He said that the team that would handle this kind of case for oversized items would get back to me within 48 hours. That would probably have blown my timeline for the gathering, but I appreciated what Dave was able to do.
+
+Last-ditch effort: I tried calling Ceva again. Miraculously, this time, after my 20-minute hold, I was connected with an agent. She explained that the local office didn't even get the item until just that morning, so there was no way it could have gotten out on a delivery truck the same day... Uhh... Then on what basis did Ceva represented to Overstock.com that delivery would be by 2021-05-18? On what basis did they allow me to schedule a delivery for 2021-05-18 and then 2021-05-19? What a mess. And, of course, the next available delivery window was two days later on 2021-05-21, 09:00 to 13:00. There was just no way, despite their repeated errors, that they would do right by their (indirect) customer and deliver either the same day or even the next day.
