@@ -1,7 +1,7 @@
 ---
 title: "Overstock.com and Ceva Home Delivery"
 date: "2021-05-21"
-last_modified_at: "2021-06-04"
+last_modified_at: "2021-06-06"
 description: "I am absolutely floored at the sheer incompetence of Ceva Home Delivery."
 tags:
   - customer-service
@@ -36,4 +36,6 @@ Despite still no response to my previous inquiry, Ceva confirmed by email the mo
 
 > We have updated our records to reflect the information you have provided.
 
-Imagine my surprise when the first call I received was when the delivery guys were already downstairs.
+Imagine my surprise when the first call I received was when the delivery guys were already downstairs at 10:00.
+
+I was a bit unprepared, but no problem. Vicki was visiting that morning, and we met them at the truck outside. They had already loaded two boxes onto a cart. I noted that they looked pretty small and how the pieces must have been packed really efficiently. They rolled the cart to my elevator. But they insisted that they would not take the items to my door. I said that the order specified "to the door" delivery; they countered with its being the door of the apartment complex, not up to my unit. So I guess I was going to drag the boxes from the elevator lobby to my unit. No big deal, I guess. We parted ways as the elevator doors closed. That's when I noted to Vicki that the exterior of the boxes indicated that they contained the parts to assemble an office desk.
