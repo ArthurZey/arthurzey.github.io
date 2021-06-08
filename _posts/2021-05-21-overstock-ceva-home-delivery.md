@@ -1,7 +1,7 @@
 ---
 title: "Overstock.com and Ceva Home Delivery"
 date: "2021-05-21"
-last_modified_at: "2021-06-06"
+last_modified_at: "2021-06-07"
 description: "I am absolutely floored at the sheer incompetence of Ceva Home Delivery."
 tags:
   - customer-service
@@ -39,3 +39,13 @@ Despite still no response to my previous inquiry, Ceva confirmed by email the mo
 Imagine my surprise when the first call I received was when the delivery guys were already downstairs at 10:00.
 
 I was a bit unprepared, but no problem. Vicki was visiting that morning, and we met them at the truck outside. They had already loaded two boxes onto a cart. I noted that they looked pretty small and how the pieces must have been packed really efficiently. They rolled the cart to my elevator. But they insisted that they would not take the items to my door. I said that the order specified "to the door" delivery; they countered with its being the door of the apartment complex, not up to my unit. So I guess I was going to drag the boxes from the elevator lobby to my unit. No big deal, I guess. We parted ways as the elevator doors closed. That's when I noted to Vicki that the exterior of the boxes indicated that they contained the parts to assemble an office desk.
+
+We immediately returned to the lobby. Vicki stayed with the boxes in the elevator while I ran out to catch the delivery guys.
+
+I explained that I thought they had delivered the wrong package. They checked their records, blamed the main office for a mixup, and then loaded the correct (and much larger) packages, _which actually had my name and address on prominent labels_, onto a dolly and got it to the elevator, taking back the office desk.
+
+On 2021-05-26, Overstock.com's Customer Care department got back to me from the case that Dave had opened for me on 2021-05-19. 5 business days later, not the 2 that Dave promised me or the 4 that Customer Care promised me in their email confirmation on 2021-05-19. But it gets worse: Overstock.com's Customer Care department told me that they got a hold of Ceva and were advised that they're ready to schedule the delivery. I should expect to hear from the local Ceva terminal within the next 1-2 business days... Uh...
+
+Needless to say, I didn't get contacted by Ceva. And while I wouldn't actually do it, part of me wonders whether I could have continued pursuing the matter and gotten a second daybed. I mean, Ceva's left hand doesn't know what their right hand is doing, apparently. I didn't even sign for the delivery.
+
+I wish there were something I could do to escalate this issue, but nobody at Ceva cares. And I doubt that Overstock.com will stop using them as a carrier. This whole ordeal was just shameful, _shameful_ customer service--everybody except for Dave, who was just terrific.
