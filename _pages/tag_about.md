@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2021-05-24"
+last_modified_at: "2021-06-10"
 ---
 
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
@@ -53,6 +53,32 @@ I love children, and I can't wait to be a dad.
 I'm a product manager for the [Alexa Device SDK](https://developer.amazon.com/en-US/alexa/devices/alexa-built-in/development-resources/sdk){:target="&lowbar;blank"} for Amazon.
 
 I grew up in Los Angeles, and my home base is still technically the San Francisco Bay Area. But I'm in Denver to ride out COVID-19...at the very least...
+
+## Interests, Values, and Passions
+* [bodybuilding and physical fitness](/physical-fitness/)
+* [meditation, mindfulness, wholeheartedness, vulnerability, and empathy](#psychological-and-emotional-well-being)
+* tech geekery
+* [philosophy (especially ethics and epistemology, especially Objectivism)](#philosophy-objectivism)
+* [parenting theory](#parenting-and-education) (cannot wait to put this into practice)
+* snowboarding ([IKON Base Pass](https://www.ikonpass.com/en/shop-passes/ikon-base-pass){:target="&lowbar;blank"} and [Epic Local Pass](https://www.epicpass.com/passes/epic-local-pass.aspx){:target="&lowbar;blank"} for 2021-2022)
+* Krav Maga (will pick this up after COVID-19 restrictions lift at [Colorado Krav Maga](https://www.coloradokravmaga.com/){:target="&lowbar;blank"}, but previously at [Krav Maga San Francisco](https://www.kravmaga-sf.com){:target="&lowbar;blank"})
+* _Star Trek_
+* piano (current obsession: [BWV 999 (JS Bach Prelude in c minor)](https://musescore.com/nicolas/scores/4526){:target="&lowbar;blank"})
+* [cooking](/favorites/#to-cook) (haven't done anything creative in a while, though)
+* [grammar](#grammar-and-language)
+* good UX (yes, on websites and apps, but really, in the world generally!)
+* [management theory](#management)
+* learning Hebrew (kind of fell off the wagon on that, honestly)
+
+_Previous Sports_
+
+* soccer ([AYSO](https://ayso.org/){:target="&lowbar;blank"})
+* tennis (throughout childhood and [Palisades High School Boys Tennis](https://www.palihigh.org/m/pages/index.jsp?uREC_ID=411507&type=d&termREC_ID=&pREC_ID=754298){:target="&lowbar;blank"} 1999-2000)
+* swimming ([Santa Monica College Men's Swimming & Diving](https://www.smccorsairs.com/sports/mswimdive/index){:target="&lowbar;blank"} 2001-2002)
+* rowing ([UCLA Men's Rowing](https://www.uclamensrowing.com/){:target="&lowbar;blank"} 2003-2005)
+* triathlon ([UCLA Triathlon Team](https://uclaclubsports.com/sports/2017/11/19/who-are-we.aspx){:target="&lowbar;blank"} 2005-2007)
+* touch rugby ([Stanford Touch Rugby](https://www.facebook.com/pg/valleytouch/about/){:target="&lowbar;blank"} 2011-2013)
+* ultimate frisbee ([Big Gay Frisbee - SF](https://www.facebook.com/groups/bgf.sf/){:target="&lowbar;blank"} 2013-2016)
 
 ## Random Tidbits
 
@@ -146,32 +172,6 @@ I grew up in Los Angeles, and my home base is still technically the San Francisc
   * **sensuality**: 20
   * **charm**: 20
   * **humor**: 20
-
-## Interests, Values, and Passions
-* [bodybuilding and physical fitness](/physical-fitness/)
-* [meditation, mindfulness, wholeheartedness, vulnerability, and empathy](#psychological-and-emotional-well-being)
-* tech geekery
-* [philosophy (especially ethics and epistemology, especially Objectivism)](#philosophy-objectivism)
-* [parenting theory](#parenting-and-education) (cannot wait to put this into practice)
-* snowboarding ([IKON Base Pass](https://www.ikonpass.com/en/shop-passes/ikon-base-pass-2020-2021){:target="&lowbar;blank"} and [Epic Summit Value Pass](https://www.epicpass.com/passes/summit-value-pass.aspx){:target="&lowbar;blank"} for 2021-2022)
-* Krav Maga (will pick this up after COVID-19 restrictions lift, but previously at [Krav Maga San Francisco](https://www.kravmaga-sf.com){:target="&lowbar;blank"})
-* _Star Trek_
-* piano (current obsession: [BWV 999 (JS Bach Prelude in c minor)](https://musescore.com/nicolas/scores/4526){:target="&lowbar;blank"})
-* [cooking](/favorites/#to-cook) (haven't done anything creative in a while, though)
-* [grammar](#grammar-and-language)
-* good UX (yes, on websites and apps, but really, in the world generally!)
-* [management theory](#management)
-* learning Hebrew (kind of fell off the wagon on that, honestly)
-
-_Previous Sports_
-
-* soccer ([AYSO](https://ayso.org/){:target="&lowbar;blank"})
-* tennis (throughout childhood and [Palisades High School Boys Tennis](https://www.palihigh.org/m/pages/index.jsp?uREC_ID=411507&type=d&termREC_ID=&pREC_ID=754298){:target="&lowbar;blank"} 1999-2000)
-* swimming ([Santa Monica College Men's Swimming & Diving](https://www.smccorsairs.com/sports/mswimdive/index){:target="&lowbar;blank"} 2001-2002)
-* rowing ([UCLA Men's Rowing](https://www.uclamensrowing.com/){:target="&lowbar;blank"} 2003-2005)
-* triathlon ([UCLA Triathlon Team](https://uclaclubsports.com/sports/2017/11/19/who-are-we.aspx){:target="&lowbar;blank"} 2005-2007)
-* touch rugby ([Stanford Touch Rugby](https://www.facebook.com/pg/valleytouch/about/){:target="&lowbar;blank"} 2011-2013)
-* ultimate frisbee ([Big Gay Frisbee - SF](https://www.facebook.com/groups/bgf.sf/){:target="&lowbar;blank"} 2013-2016)
 
 ## Valuable Resources
 _These are ideas and approaches to various areas of life that I have derived great value from...with some indication of my own viewpoints sprinkled in._
