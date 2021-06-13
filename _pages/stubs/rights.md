@@ -34,4 +34,6 @@ I used some extreme emergency scenarios to illustrate why I'm against the reific
 
 # AI Rights
 
+_If it looks like a duck, swims like a duck, and quacks like a duck, then it probably **is** a duck..._
+
 # Civil Rights
