@@ -3,11 +3,9 @@ title: Rights
 tags:
   - stub
   - philosophy
-  - draft
 description: "People tend to talk about \"rights\" as a sort of thing that people possess, often forgetting the concept's proper origin in identifying the causality of achieving one's interests in a social context."
 date: "2021-06-11"
-last_modified_at: "2021-06-13"
-sitemap: false
+last_modified_at: "2021-06-17"
 ---
 
 # Reification of Rights
@@ -37,3 +35,5 @@ I used some extreme emergency scenarios to illustrate why I'm against the reific
 _If it looks like a duck, swims like a duck, and quacks like a duck, then it probably **is** a duck..._
 
 # Civil Rights
+
+I hadn't thought much about this until read some of [John McCaskey's work on rights](https://www.johnmccaskey.com/tag/rights/){:target="&lowbar;blank"}, but it's always been in the back of my mind, particularly through law school, as we discussed "[substantive due process](https://en.wikipedia.org/wiki/Substantive_due_process){:target="&lowbar;blank"}" versus "[procedural due process](https://en.wikipedia.org/wiki/Procedural_due_process){:target="&lowbar;blank"}". What I think is interesting to explore here is the various sorts of conventions, defaults, and processes that come into existence because of having a system of government. "Natural" rights are the rights that, conceptually, government is predicated on. Sometimes called "individual rights", these are the rights the give rise to the need of government in the first place. (No, government doesn't invent or grant these rights; ideally, it recognizes and protects them.) But in the process of establishing and administering a government, various rules need to be put into place, and these rules, when they describe an entitlement or expectation that an individual may have in navigating social machinery, are rightly called "rights", too. And this, in my view, is what "civil rights" are. It's a very different species of "right" than what I go on at length above to describe.
