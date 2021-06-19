@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-05-29"
+last_modified_at: "2021-06-18"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -76,6 +76,9 @@ Here are a few of my fixations and particularities (in no particular order) that
 * datetime stamps, 24-hour time
 * "gods"
 * "theater" versus "theatre"
+* British English alternatives I prefer
+  * lift
+  * rubbish (bin)
 * pronunciation of plural words, such as
   * "basis" versus "base"
   * "bias" ("bias-ehz" versus "bias-eez")
@@ -92,6 +95,10 @@ Here are a few of my fixations and particularities (in no particular order) that
   * prescient
   * individual
   * Ventura
+* generic brand names
+  * Kleenex
+  * Band-aid
+  * Speedo
 * "none are" versus "none is"; "any are" versus "any is"
 * singular "they"
 * singular "data"
