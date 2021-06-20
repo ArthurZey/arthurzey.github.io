@@ -5,7 +5,7 @@ tags:
   - about
 description: "Brown paper packages tied up with strings; these are a few of my favorite things."
 date: "2020-05-15"
-last_modified_at: "2021-06-09"
+last_modified_at: "2021-06-19"
 ---
 
 * TOC
@@ -125,6 +125,7 @@ _See also [my Goodreads profile](https://www.goodreads.com/arthurzey){:target="&
 ### YouTube Channels
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw){:target="&lowbar;blank"}
 * [Numberphile](https://www.youtube.com/user/numberphile){:target="&lowbar;blank"}
+* [Michael Penn](https://www.youtube.com/channel/UC6jM0RFkr4eSkzT5Gx0HOAw){:target="&lowbar;blank"}
 * [Personal Development School - Thais Gibson](https://www.youtube.com/channel/UCHQ4lSaKRap5HyrpitrTOhQ){:target="&lowbar;blank"}
 * [Mystery Doug](https://www.youtube.com/channel/UCPRCRM3JKm3sw55lB_427qg){:target="&lowbar;blank"}
 * [RedLetterMedia - Plinkett Star Trek Reviews](https://www.youtube.com/playlist?list=PLPYTEwQJSk-BBhX6JGjpy1ZhJ6X6ZkCsq){:target="&lowbar;blank"}
