@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-06-21"
+last_modified_at: "2021-06-23"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -118,6 +118,13 @@ Fun games:
 
 * alterninyms (eg, "Sleep, Shower, and Sundry")
 * pluralization (eg, mattropodes)
+* silly pronunciations
+  * escape
+  * jalapeño
+  * quesadilla
+  * Chipotle
+  * Target
+  * influencer
 
 Other topics:
 
