@@ -126,6 +126,7 @@ Fun games:
   * Chipotle
   * Target
   * influencer
+  * cocaine
 
 Other topics:
 
