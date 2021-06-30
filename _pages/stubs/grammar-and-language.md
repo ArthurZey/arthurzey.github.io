@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-06-29"
+last_modified_at: "2021-06-30"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -96,6 +96,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * individual
   * Ventura
   * cordial
+  * emaciated
 * generic brand names
   * Kleenex
   * Band-aid
@@ -113,6 +114,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "micro-disasters"
   * "musical hedonist"
   * "ussie" (like "selfie", but of multiple subjects)
+  * "disconcur"
 * "pet owner" / "pet parent" &rarr; "pet guardian" / "pet custodian"
 
 Fun games:
@@ -128,8 +130,9 @@ Fun games:
   * influencer
   * cocaine
   * Paleo
-  * emaciated
   * dangerous
+  * photography
+  * pornography
 
 Other topics:
 
