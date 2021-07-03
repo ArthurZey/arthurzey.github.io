@@ -98,6 +98,8 @@ Here are a few of my fixations and particularities (in no particular order) that
   * cordial
   * emaciated
   * Vellejo
+  * neutral
+  * I want you
 * generic brand names
   * Kleenex
   * Band-aid
@@ -136,6 +138,7 @@ Fun games:
   * dangerous
   * photography
   * pornography
+  * lyrics
 
 Other topics:
 
