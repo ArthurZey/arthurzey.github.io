@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-07-06"
+last_modified_at: "2021-07-07"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -133,7 +133,7 @@ Fun games:
   * quesadilla
   * fajita
   * tortilla
-  * Chipotle
+  * Chipotle / Aristotle
   * Target
   * influencer
   * cocaine
