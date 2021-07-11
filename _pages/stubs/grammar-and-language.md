@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-07-09"
+last_modified_at: "2021-07-10"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -39,7 +39,15 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "begs the question" versus "implies the question"
 * the "[blah] because [noun phrase]" construction
 * "a-whole-nother"
-* "PIN number", "ATM machine", "API interface", etc
+* RAS syndrome
+  * "PIN number"
+  * "ATM machine"
+  * "API interface"
+  * "VIN number"
+  * "DC Comics"
+  * "LCD display"
+  * "UPC code"
+  * "IP protocol"
 * "compose" versus "comprise"
 * "further" versus "farther"
 * "less" versus "fewer"
