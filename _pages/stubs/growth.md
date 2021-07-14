@@ -6,7 +6,7 @@ tags:
   - about
 description: "I really like myself, but my good-/right-by-default attitude has the built-in failure mode of making it difficult to identify areas for growth. Nevertheless, I've found a few things I can work on."
 date: "2020-06-19"
-last_modified_at: "2021-04-19"
+last_modified_at: "2021-07-14"
 ---
 
 * psychological dispositions
@@ -20,6 +20,9 @@ last_modified_at: "2021-04-19"
     * to overwhelm me emotionally
     * to function as enablement, when it's in response to others' inappropriate behavior (ie, figure out how to hold people accountable while knowing that they're doing their best and are trying to pursue legitimate values)
   * procrastination
+  * learning how to differentiate between "running away from a problem" and "running toward a solution"
+    * figuring out when to cultivate resilience (eg, the situation is temporary or part of normal difficulty or challenge in life) versus saying "fuck this shit" and moving on (eg, the situation is inherently toxic or otherwise profits me not)
+    * concrete example: Is moving to the mountains "running away from my problems", where I would better learn how to be resilient to the stresses of human interaction and city life? After all, I even say, somewhat tongue-in-cheek, that I'm doing it because I want to get away from people. Or is it really the pursuit of genuine values and my love of being out in nature and the life I want? (A third alternative is chasing a ghost in the form of what I wanted with Adam, but that's merely a complication for this particular example, not the main principle of this point.)
   * risk-aversion, the devil I know, inertia; my orientation toward routines and comfort undermining taking action to make bigger, non-incremental changes
   * learning to how to better navigate the line between
     * deescalation, being tactful, avoiding/preventing conflict ("conflict-aversion")
