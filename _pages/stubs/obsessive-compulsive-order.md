@@ -6,7 +6,7 @@ tags:
   - about
 description: "How can it be a disorder if I'm organizing things?"
 date: "2020-04-08"
-last_modified_at: "2021-03-31"
+last_modified_at: "2021-07-16"
 ---
 
 In a way, this is probably _the_ fundamental post of this website; it explains the title. A few things to cover:
@@ -25,3 +25,5 @@ In a way, this is probably _the_ fundamental post of this website; it explains t
 * "The Truth about the Dishwasher" and how some manifestations of my OCO particularities are about my viewpoint about what is _objectively_ more efficient in reality and by the rules of logic, not merely what my personal preferences are\\
 _(The phrase originates in the idea that I'm not looking for others (eg, roommates) to accommodate some idiosyncratic preference about how to load the dishwasher, but that the "ideal" way to load it is an independently discoverable and verifiable fact of reality.)_
 * Sara Triplett and the "Just So Brigade"
+* OCO and clutter
+* OCO and dirt/hygiene
