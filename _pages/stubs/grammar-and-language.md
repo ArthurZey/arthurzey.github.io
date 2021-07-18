@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-07-10"
+last_modified_at: "2021-07-17"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -108,6 +108,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * Vellejo
   * neutral
   * I want you
+  * Colorado, Nevada, Iraq, Iran, Afganistan
 * generic brand names
   * Kleenex
   * Band-aid
@@ -134,7 +135,7 @@ Here are a few of my fixations and particularities (in no particular order) that
 Fun games:
 
 * alterninyms (eg, "Sleep, Shower, and Sundry")
-* pluralization (eg, mattropodes, hice, Attorneys General)
+* pluralization (eg, mattropodes, hice, Attorneys General, boxen)
 * silly pronunciations
   * escape
   * jalapeño
@@ -145,12 +146,14 @@ Fun games:
   * Target
   * influencer
   * cocaine
+  * marijuana
   * Paleo
   * dangerous
   * photography
   * pornography
   * lyrics
   * eggs
+  * legs
   * wifis
   * stupid
 
