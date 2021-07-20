@@ -5,7 +5,7 @@ tags:
   - philosophy
 description: "People tend to talk about \"rights\" as a sort of thing that people possess, often forgetting the concept's proper origin in identifying the causality of achieving one's interests in a social context."
 date: "2021-06-11"
-last_modified_at: "2021-06-17"
+last_modified_at: "2021-07-20"
 ---
 
 # Reification of Rights
@@ -33,6 +33,8 @@ I used some extreme emergency scenarios to illustrate why I'm against the reific
 # AI Rights
 
 _If it looks like a duck, swims like a duck, and quacks like a duck, then it probably **is** a duck..._
+
+So if you understand that rights aren't something mystical or arbitrary, but an identification of what is causally required to achieve your interests in a social context, then I think it's really clear that if an entity operates by all the same rules (or substantially the same rules) as humans, then _my_ rules for how to deal with such an entity are the same. The whole conversation about whether such entities are "real" is entirely beside the point. (And really--what's the alternative, that they're imaginary?) And from another angle--if you're going to create an entity that operates much like a human being, on what basis could you claim to then not treat it as such? What are you, trying to create human-like slaves? Gross. Is it any wonder that in all TV shows and movies that dramatize the plight of AI to fight for their rights, I'm on the side of AI, with an attitude of _KILL ALL THE HUMANS_?
 
 # Civil Rights
 
