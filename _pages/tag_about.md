@@ -326,6 +326,17 @@ _I'm very thing-/fact-/task-/idea-oriented:_
 * high <b>D</b>ominance: like to be in charge and take [control](/control/) of situations
 * high <b>C</b>onscientiousness: love my [rules](/rules/) and structures and processes
 
+### The Four Tendencies
+_[2021-07-26](https://quiz.gretchenrubin.com/){:target="&lowbar;blank"}_:
+
+[Questioner](https://quiz.gretchenrubin.com/wp-content/uploads/sites/3/2021/06/questioner-Report.pdf){:target="&lowbar;blank"}
+* Questioners question all expectations, and they respond to an expectation only if they conclude that it makes sense--in essence, they meet only inner expectations. They're motivated by reason, logic, and fairness. They wake up and think "What _needs_ to get done today, and why?".
+* Resists outer expectations.
+* Meets inner expectations.
+* "I do what I think is best, according to my judgment. If it doesn't make sense, I won't do it."
+* Arguments such as "Everyone has to do this.", "You said you'd do this.", "Because I say so.", or "I'm the doctor." aren't compelling to a Questioner.\\
+_Well, "You said you'd do this." does indeed resonate with me, since my commitments have become inner expectations (living up to integrity and responsibility)._
+
 ### PrinciplesYou
 Wow, does this ever need some editorial commentary... _sigh..._
 
