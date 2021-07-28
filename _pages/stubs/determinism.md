@@ -31,6 +31,7 @@ Here are a few things I want to address (and this is by no means exhaustive):
 * consciousness as an _action_ performed by the brain, not a _thing_; brain states as reflective of experiential/mind states; connection to "chemical imbalances" versus unpleasant emotions
 * what brain states (eg, "limbic system hijack", "sympathetic activation", "dorsal vagal collapse", intoxication) result in compromised volition and why it makes sense to say things like "he couldn't do _X_", when doing _X_ is typically the result of or is a volitional action
 * how the non-determinist position implies mystical dualism / mind-body dichotomy
+* whether AI can have genuine volition, even if it's deterministic
 * the evolutionary perspective: at what point did we evolve the gene(s) to be exempt from deterministic physical causality?
 * why I don't use the terms "compatibilist" or "compatibilism" to describe myself or my views
 * connection to other terms, such as "hard determinism", "soft determinism", "indeterminism", and "self-causation"
