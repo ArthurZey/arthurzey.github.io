@@ -192,10 +192,15 @@ _started in 2019; in progress_
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
 
-## Timothy Ferriss: _The 4-Hour Workweek_
-[Audible](https://www.audible.com/pd/B0031AS3BE){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B002WE46UW){:target="&lowbar;blank"}
+## Thomas Sowell: _Knowledge and Decisions_
+[Audible](https://www.audible.com/pd/B009PONY46){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B099FGQFYB/){:target="&lowbar;blank"}
+HIGH-LEVEL NOTES
+* Chapter 8: diminishing returns of morality treats the phenomenon as substance-agnostic, and ignoring the whole purpose and need for morality in the first place. Morality, properly understood, is a set of principles to attain certain kinds of optimums, not out of context maximums. So there can't be such a thing as too much of an optimum.
+* Chapter 9: same approach to justice, and its being a categorical value, contrasting Smith and Rawls
 
 {% endcomment %}
+## Timothy Ferriss: _The 4-Hour Workweek_
+[Audible](https://www.audible.com/pd/B0031AS3BE){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B002WE46UW){:target="&lowbar;blank"}
 
 ## Mortimer J Adler: _Aristotle for Everybody_
 [Audible](https://www.audible.com/pd/B007XIE8SC){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00317G7AG){:target="&lowbar;blank"}
