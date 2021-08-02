@@ -111,6 +111,8 @@ Here are a few of my fixations and particularities (in no particular order) that
   * Colorado, Nevada, Iraq, Iran, Afganistan
   * leisure
   * celestial
+  * niche
+  * associated
 * generic brand names
   * Kleenex
   * Band-aid
