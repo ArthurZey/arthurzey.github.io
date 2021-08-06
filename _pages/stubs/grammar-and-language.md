@@ -160,6 +160,7 @@ Fun games:
   * legs
   * wifis
   * stupid
+  * robot
 
 Other topics:
 
