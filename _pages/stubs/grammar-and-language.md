@@ -134,6 +134,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "musical hedonist"
   * "ussie" (like "selfie", but of multiple subjects)
   * "disconcur"
+  * "foot coffins"
 * "pet owner" / "pet parent" &rarr; "pet guardian" / "pet custodian"
 
 Fun games:
