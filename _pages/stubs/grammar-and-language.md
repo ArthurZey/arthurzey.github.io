@@ -113,6 +113,8 @@ Here are a few of my fixations and particularities (in no particular order) that
   * celestial
   * niche
   * associated
+  * Sebastian
+  * altruism
 * generic brand names
   * Kleenex
   * Band-aid
