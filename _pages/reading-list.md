@@ -192,13 +192,25 @@ _started in 2019; in progress_
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
 
-## Thomas Sowell: _Knowledge and Decisions_
-[Audible](https://www.audible.com/pd/B009PONY46){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B099FGQFYB/){:target="&lowbar;blank"}
-HIGH-LEVEL NOTES
-* Chapter 8: diminishing returns of morality treats the phenomenon as substance-agnostic, and ignoring the whole purpose and need for morality in the first place. Morality, properly understood, is a set of principles to attain certain kinds of optimums, not out of context maximums. So there can't be such a thing as too much of an optimum.
-* Chapter 9: same approach to justice, and its being a categorical value, contrasting Smith and Rawls
+
 
 {% endcomment %}
+
+## Thomas Sowell: _Knowledge and Decisions_
+[Audible](https://www.audible.com/pd/B009PONY46){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B099FGQFYB/){:target="&lowbar;blank"}
+{% comment %}
+HIGH-LEVEL NOTES
+* Chapter 8 (Audible): diminishing returns of morality treats the phenomenon as substance-agnostic, and ignoring the whole purpose and need for morality in the first place. Morality, properly understood, is a set of principles to attain certain kinds of optimums, not out of context maximums. So there can't be such a thing as too much of an optimum.
+* Chapter 9 (Audible): same approach to justice, and its being a categorical value, contrasting Smith and Rawls
+* Chapter 16 (Audible): "social expediency in a long-term sense"
+* Misuse of the word objective
+* Chapter 10 (Book): knowledge costs around ad hoc decisions could mention conceptualization and automatization
+* Chapter 22 (Audible): "ideology" immune from reality
+* Chapter 23 (Audible): freedom equated with ability
+* If all men were angels, no government would be necessary. Reflects attitude about objectivity and values
+
+{% endcomment %}
+
 ## Timothy Ferriss: _The 4-Hour Workweek_
 [Audible](https://www.audible.com/pd/B0031AS3BE){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B002WE46UW){:target="&lowbar;blank"}
 
