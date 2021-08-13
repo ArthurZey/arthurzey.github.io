@@ -116,6 +116,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * Sebastian
   * altruism
   * species
+  * amateur
 * generic brand names
   * Kleenex
   * Band-aid
