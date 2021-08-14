@@ -196,6 +196,16 @@ _started in 2019; in progress_
 
 {% endcomment %}
 
+## don Miguel Ruiz: _The Four Agreements: A Practical Guide to Personal Freedom_
+[Audible](https://www.audible.com/pd/B002VA3GJO){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B005BRS8Z6/){:target="&lowbar;blank"}
+{% comment %}
+* Equivocation on taking things personally, since there are things that are personal, and that dilutes the understanding of this principle
+* Equivocation on what making an assumption means, since people use the word assumption to mean both assumptions and conclusions, and conclusions can be justified
+* Loving someone just the way they are versus wanting growth for them
+* Equivocation on judgment
+* Equivocation on freedom
+{% endcomment %}
+
 ## Thomas Sowell: _Knowledge and Decisions_
 [Audible](https://www.audible.com/pd/B009PONY46){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B099FGQFYB/){:target="&lowbar;blank"}
 {% comment %}
