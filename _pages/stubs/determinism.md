@@ -36,4 +36,7 @@ Here are a few things I want to address (and this is by no means exhaustive):
 * why I don't use the terms "compatibilist" or "compatibilism" to describe myself or my views
 * connection to other terms, such as "hard determinism", "soft determinism", "indeterminism", and "self-causation"
 * what sense of "determinism" I think Ayn Rand was actually objecting to (and [what I think is misunderstood by many Objectivists](http://aynrandlexicon.com/lexicon/determinism.html){:target="&lowbar;blank"})
+  * two different views:
+    * volition has little causal power over outcomes or to affect the course of a person's life
+    * like other phenomena in reality, volition has causal power over outcomes and is mechanistically deterministic
 * maybe some polemics around what prominent cultural figures have to say about it? (meh)
