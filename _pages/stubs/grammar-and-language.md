@@ -139,6 +139,9 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "ussie" (like "selfie", but of multiple subjects)
   * "disconcur"
   * "foot coffins"
+  * "meow"
+    * "right meow"
+    * "over meow"
 * "pet owner" / "pet parent" &rarr; "pet guardian" / "pet custodian"
 
 Fun games:
