@@ -196,6 +196,14 @@ _started in 2019; in progress_
 
 {% endcomment %}
 
+## don Miguel Ruiz, Jr: _The Five Levels of Attachment: Toltec Wisdom for the Modern World_
+[Audible](https://www.audible.com/pd/B00BAU7KFC){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00BEPB004/){:target="&lowbar;blank"}
+{% comment %}
+* Five levels of attachment fanatical beliefs are problematic as such. Commitments to ideas of an ideal world require imposition of those views on others.
+* Clash
+* No need to argue doesn't mean that I don't believe that my viewpoint is correct. It can just mean that I realize that people need to come to their own viewpoints on their own time. And in their own way
+{% endcomment %}
+
 ## don Miguel Ruiz: _The Four Agreements: A Practical Guide to Personal Freedom_
 [Audible](https://www.audible.com/pd/B002VA3GJO){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B005BRS8Z6/){:target="&lowbar;blank"}
 {% comment %}
