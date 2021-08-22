@@ -192,11 +192,10 @@ _started in 2019; in progress_
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
 
+{% endcomment %}
+
 ## Thomas Sowell: _Discrimination and Disparities_
 [Audible](https://www.audible.com/pd/B078N9R9X2){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07JLS7P8D/){:target="&lowbar;blank"}
-
-
-{% endcomment %}
 
 ## don Miguel Ruiz, Jr: _The Five Levels of Attachment: Toltec Wisdom for the Modern World_
 [Audible](https://www.audible.com/pd/B00BAU7KFC){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00BEPB004/){:target="&lowbar;blank"}
