@@ -192,11 +192,15 @@ _started in 2019; in progress_
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
 
+
+{% endcomment %}
+
 ## Malcolm Gladwell: _David and Goliath_
 [Audible](https://www.audible.com/pd/B00EKQO0AG){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00BAXFAOW/){:target="&lowbar;blank"}
+{% comment %}
 * poverty and wealth both ruin children
 * Going to "best" school can be a disadvantage because getting mediocre in a competitive school can be demoralizing. Presupposes second-handedness.
-
+* Got the strong sense toward the end that the whole book was a pretext to make some point about the three-strikes law and effectiveness of punishments.
 {% endcomment %}
 
 ## Thomas Sowell: _Discrimination and Disparities_
