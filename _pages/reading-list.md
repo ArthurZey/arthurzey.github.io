@@ -192,6 +192,8 @@ _started in 2019; in progress_
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
 
+## Simon Winchester: _The Perfectionists: How Precision Engineers Created the Modern World_
+[Audible](https://www.audible.com/pd/B07B6G3W5V){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B072BFJB3Z){:target="&lowbar;blank"}
 
 {% endcomment %}
 
