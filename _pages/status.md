@@ -2,7 +2,7 @@
 title: Status
 description: "Too short for a proper blog post, here's a blurb about what's going on with me right now."
 date: "2021-01-20"
-last_modified_at: "2021-03-27"
+last_modified_at: "2021-08-27"
 tags:
   - draft
 sitemap: false
@@ -15,6 +15,10 @@ sitemap: false
 
 ## Recently Played
 <a target="_blank" href="https://trakt.tv/users/arthurzey/history"><img width="500" height="133" alt="ArthurZey" src="https://widgets.trakt.tv/users/cc29f55462147169c2d76ef850a0f94b/watched/banner@2x.jpg" /></a>
+
+## 2021-08-27
+
+I've been remiss in providing relevant status updates here, but today, I closed on a house in Bailey, CO. I'm a homeowner for the very first time. The closing process took 3.5 hours, and it was a frustrating ordeal, with lots of baits and switches in the 11th hour and a lot of creative accounting on the Closing Disclosure. A fuller writeup is forthcoming, but meanwhile, I have to finish packing for the movers this Sunday!
 
 ## 2021-03-26
 
