@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2021-06-10"
+last_modified_at: "2021-08-29"
 ---
 
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
@@ -52,7 +52,7 @@ I love children, and I can't wait to be a dad.
 
 I'm a product manager for the [Alexa Device SDK](https://developer.amazon.com/en-US/alexa/devices/alexa-built-in/development-resources/sdk){:target="&lowbar;blank"} for Amazon.
 
-I grew up in Los Angeles, and my home base is still technically the San Francisco Bay Area. But I'm in Denver to ride out COVID-19...at the very least...
+I grew up in Los Angeles, I lived in the San Francisco Bay area for nearly 10 years, I was in Denver "temporarily" for about a year to figure out whether I want to live in Colorado permanently, and I've been living in Bailey, Colorado since the end of August 2021.
 
 ## Interests, Values, and Passions
 * [bodybuilding and physical fitness](/physical-fitness/)
