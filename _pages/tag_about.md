@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2021-08-29"
+last_modified_at: "2021-08-31"
 ---
 
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
@@ -1005,11 +1005,17 @@ Boy Scouts?
     <td markdown="span"></td>
   </tr>
   <tr>
-    <th markdown="span">2021</th>
+    <th markdown="span" rowspan="2">2021</th>
     <td markdown="span"></td>
-    <td markdown="span">Amazon:<br />[Alexa Voice Service Device SDK](https://developer.amazon.com/en-US/alexa/devices/alexa-built-in/development-resources/sdk){:target="&lowbar;blank"}</td>
+    <td markdown="span" rowspan="2">Amazon:<br />[Alexa Voice Service Device SDK](https://developer.amazon.com/en-US/alexa/devices/alexa-built-in/development-resources/sdk){:target="&lowbar;blank"}</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
+  </tr>
+  <tr>
+    <td markdown="span">Bailey, CO</td>
+    <td markdown="span"></td>
+    <td markdown="span"></td>
+    <td markdown="span">Bought my first home!</td>
   </tr>
  </tbody>
 </table>
