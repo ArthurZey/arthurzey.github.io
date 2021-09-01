@@ -5,7 +5,7 @@ tags:
   - philosophy
 description: "Volition is self-evident and axiomatic. The universe works by deterministic laws. And yet choice is not an illusion. How is this possible?"
 date: "2020-04-17"
-last_modified_at: "2021-05-08"
+last_modified_at: "2021-09-01"
 ---
 
 This is a favorite topic of many philosophy students. It's fun to think about. But the most important lesson I've learned about this over the years is that _it doesn't matter_. While I think there are valuable things to learn from engaging in it, this is mostly just a fun intellectual exercise.
@@ -36,7 +36,14 @@ Here are a few things I want to address (and this is by no means exhaustive):
 * why I don't use the terms "compatibilist" or "compatibilism" to describe myself or my views
 * connection to other terms, such as "hard determinism", "soft determinism", "indeterminism", and "self-causation"
 * what sense of "determinism" I think Ayn Rand was actually objecting to (and [what I think is misunderstood by many Objectivists](http://aynrandlexicon.com/lexicon/determinism.html){:target="&lowbar;blank"})
-  * two different views:
-    * volition has little causal power over outcomes or to affect the course of a person's life
-    * like other phenomena in reality, volition has causal power over outcomes and is mechanistically deterministic
+  * two different meanings of the word "determinism":
+    * volition has little causal power over outcomes or to affect the course of a person's life (better called "fatalism", HT Andrew Zey)
+      * eg, no matter what career I pursue or how much effort or smarts I invest, I'll end up being poor
+      * Naturalism in aesthetics
+      * tragic heroes in literature
+      * time travel stories where someone goes back in time, and no matter what they do, the outcome remains the same
+    * like other phenomena in reality, volition has causal power to effect outcomes and is mechanistically deterministic
+      * This view doesn't directly comment on whether volition has causal power, but that's an implication: Since volition is something that happens in reality, of course it can affect how things unfold, the same way that anything in reality can have that power (to greater or lesser extents in various contexts). "Physical determinism" can't both have "fixed points" and "non-fixed points", where arbitrary things like whether I am poor (a "fixed point") are not a function of antecedent factors (the "non-fixed points"). I will be poor or not precisely because of all the things that came before, including the contribution of my volitional power and resultant actions. Under "physical determinism", if I'm going to be poor, there's no such thing as "no matter what I do", because whatever I do is the only thing I could do. It can't be that I have to be poor, but I don't have to do any of the things that lead to it. It's all or nothing.
 * maybe some polemics around what prominent cultural figures have to say about it? (meh)
+  * Sam Harris's [Final Thoughts on Free Will (Episode #241)](https://www.youtube.com/watch?v=u45SP7Xv_oU){:target="&lowbar;blank"} (44:00 duration; recommended by Andrew Zey)
+  * The Ayn Rand Institute's [Why Sam Harris is Wrong about Free Will](https://www.youtube.com/watch?v=z-rZotA6SMs){:target="&lowbar;blank"} with Ben Bayer and Onkar Ghate (1:07:50 duration)
