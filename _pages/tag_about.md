@@ -296,6 +296,30 @@ _The purpose of art is to provide spiritual fuel and to directly evoke emotions 
   * [Cordair Art Gallery](https://cordair.com/){:target="&lowbar;blank"}
   * Ayn Rand: _The Romantic Manifesto_: [Audible](https://www.audible.com/pd/The-Romantic-Manifesto-Audiobook/B002V0198E){:target="&lowbar;blank"}
 
+{% comment %}
+## Crest
+
+* wolf
+* lyre
+* dragons
+* fire
+* lotus
+* oars
+* barbell
+* Star Trek
+* triquetra
+  * heart
+* Front Range crown
+  * left side
+    * sun
+    * ocean
+    * snow
+  * right side
+    * Back to the Future
+    * Lord of the Rings
+    * Stargate
+
+{% endcomment %}
 
 ## Personality and Behavioral Profiles
 ### Myers-Briggs
