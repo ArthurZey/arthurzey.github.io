@@ -299,26 +299,26 @@ _The purpose of art is to provide spiritual fuel and to directly evoke emotions 
 {% comment %}
 ## Crest
 
-* wolf
-* lyre
-* dragons
-* fire
-* lotus
-* oars
-* barbell
-* Star Trek
-* triquetra
-  * heart
-* Front Range crown
-  * left side
-    * sun
-    * ocean
-    * snow
-  * right side
-    * Back to the Future
-    * Lord of the Rings
-    * Stargate
-
+|symbol|meaning|
+|-|-|
+|wolf|wildness, freedom, instinctiveness, control, playfulness, curiosity, intelligence, nobility, loyalty, guardianship, sexual ferocity, aggressiveness, ritual|
+|triquetra|integration of mind, body, and spirit|
+|triquetra heart modification|whole-heartedness|
+|lyre|music|
+|dragons|Arthurian legend; power, wisdom, strength, untamed nature, clarity of purpose, guarding material wealth|
+|fire|passion, intensity|
+|lotus|(pursuit of) enlightenment, growth, perseverance over pain and difficulty|
+|rowing oars|discipline, dedication|
+|barbell|weightlifting, narcissism|
+|Starfleet emblem|love of _Star Trek_, optimism, technology|
+|Front Range crown|love of the mountains and Colorado, firmness, stillness|
+|sun|love of heat, energy, clarity, confidence, goodness, peace|
+|wave|love of the ocean, change, flow, serenity _and_ turbulence|
+|snowflake|love of the snow and snowboarding, uniqueness|
+|flux capacitor|love of _Back to the Future_, time travel, four-dimensional / abstract thinking|
+|The One Ring|power|
+|Earth point of origin|love of _Stargate_, exploration|
+|crown symbol orientation|geekiness and nerdom on wolf's right brain and nature on wolf's left brain, inverting the traditional left-right brain dichotomy to represent integration of intellect and emotion|
 {% endcomment %}
 
 ## Personality and Behavioral Profiles
