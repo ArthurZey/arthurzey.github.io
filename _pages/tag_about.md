@@ -745,7 +745,7 @@ Boy Scouts?
     <td markdown="span"></td>
   </tr>
   <tr>
-    <td markdown="span" rowspan="2">[Temple Israel Kindergarden](https://www.tioh.org/){:target="&lowbar;blank"}</td>
+    <td markdown="span" rowspan="2">[Temple Israel Kindergarten](https://www.tioh.org/){:target="&lowbar;blank"}</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
     <td markdown="span"></td>
