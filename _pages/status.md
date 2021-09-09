@@ -2,7 +2,7 @@
 title: Status
 description: "Too short for a proper blog post, here's a blurb about what's going on with me right now."
 date: "2021-01-20"
-last_modified_at: "2021-08-27"
+last_modified_at: "2021-09-08"
 tags:
   - draft
 sitemap: false
@@ -15,6 +15,20 @@ sitemap: false
 
 ## Recently Played
 <a target="_blank" href="https://trakt.tv/users/arthurzey/history"><img width="500" height="133" alt="ArthurZey" src="https://widgets.trakt.tv/users/cc29f55462147169c2d76ef850a0f94b/watched/banner@2x.jpg" /></a>
+
+## 2021-09-08
+
+I'm exhausted. I'm putting out what feels like a million fires:
+* Movers were incompetent (and rude, to boot), so they couldn't get everything from my apartment, let alone anything from the storage unit. I need to file a claim about the whole experience and also for all the damage they caused.
+* The guy taking over my lease generously helped me with moving my squat rack form my apartment to the new house, but it scratched up his truck in the process, and now that's a $600-$700 expense for the paint job.
+* I still need to get everything from my storage unit.
+* Rise Broadband has been difficult in terms of my service and the billing, and I'm having to sink 30-60 minutes daily into that.
+* 24 Hour Fitness continues to fraudulently charge my card, and Citi Bank isn't protecting me, so I need to pursue that.
+* Fidelity is dragging their feet on sending a reimbursement check for an overcontribution (which was my employer's fault).
+* MetaBank has been failing to reissue a $70 Visa gift card for over a month, because they keep sending to the wrong address.
+* Aetna reconciliation of one particular claim required 4 re-processing attempts, but at least that's resolved now. Now I need to get them to reissue expired checks and figure out the checks whose amounts I don't understand.
+* I have a million things on my to-do list with respect to the house.
+* Work life has been very frustrating, especially of late.
 
 ## 2021-08-27
 
