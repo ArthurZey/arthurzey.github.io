@@ -6,8 +6,10 @@ permalink: /about/
 date: "2020-04-15"
 last_modified_at: "2021-08-31"
 ---
-
-<img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" align="center" />
+{:refdef: style="text-align: center;"}
+<img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" />
+<a href="#crest"><img src="/assets/images/Arthur Zey Crest (black on transparent).png" alt="Crest" width="480px" /></a>
+{: refdef}
 
 Something, something, perfect enemy of the good.
 
@@ -296,8 +298,12 @@ _The purpose of art is to provide spiritual fuel and to directly evoke emotions 
   * [Cordair Art Gallery](https://cordair.com/){:target="&lowbar;blank"}
   * Ayn Rand: _The Romantic Manifesto_: [Audible](https://www.audible.com/pd/The-Romantic-Manifesto-Audiobook/B002V0198E){:target="&lowbar;blank"}
 
-{% comment %}
 ## Crest
+{:refdef: style="text-align: center;"}
+<img src="/assets/images/Arthur Zey Crest (black on transparent).png" alt="Crest" width="720px" align="center" />
+{: refdef}
+
+_More to come on this..._
 
 |symbol|meaning|
 |-|-|
@@ -319,7 +325,6 @@ _The purpose of art is to provide spiritual fuel and to directly evoke emotions 
 |The One Ring|power, magic|
 |Earth point of origin|love of _Stargate_, exploration|
 |crown symbol orientation|geekiness and nerdom on wolf's right brain and nature on wolf's left brain, inverting the traditional left-right brain dichotomy to represent integration of intellect and emotion|
-{% endcomment %}
 
 ## Personality and Behavioral Profiles
 ### Myers-Briggs
