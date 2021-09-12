@@ -303,7 +303,7 @@ _The purpose of art is to provide spiritual fuel and to directly evoke emotions 
 <img src="/assets/images/Arthur Zey Crest (black on transparent).png" alt="Crest" width="720px" align="center" />
 {: refdef}
 
-_More to come on this..._
+_More to come on this... But for now, major hat tip to Melissa Cade, who painstakingly implemented and iterated on the design with me!_
 
 |symbol|meaning|
 |-|-|
