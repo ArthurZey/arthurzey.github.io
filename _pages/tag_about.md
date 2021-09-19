@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2021-08-31"
+last_modified_at: "2021-09-19"
 ---
 {:refdef: style="text-align: center;"}
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" />
@@ -347,6 +347,24 @@ _2021-05-24_
   _Judging individuals are decisive, thorough, and highly organized. They value clarity, predictability, and closure, preferring structure and planning to spontaneity._
   * identity: 56% turbulent\\
   _Turbulent individuals are self-conscious and sensitive to stress. They are likely to experience a wide range of emotions and to be success-driven, perfectionistic, and eager to improve._
+
+I'm not sure that Myers-Briggs is especially helpful, but I think it's interesting. I think that the tests are really badly designed (lots of false dichotomies and poor wording that will militate a type in the wrong direction if answered accurately). In 2015, I decided to do my own analysis, reading through the 16 descriptions and bucketing them into (1) identify with strongly, (2) identify with weakly, and (3) don't identify with at all. The results were unsurprisingly consistent:
+* All the _N_/_J_ types were in the _identify with strongly_ bucket.
+* All the _N_/_P_ types were in the _identify with weakly_ bucket.
+* All the _S_ types were in the _don't identify with at all_ bucket.
+
+The interpretation of this, given the premises of Myers-Briggs, is as follows:
+* Abstract thinking is my strongest trait, and I'm not concrete-bound.
+* I'm mostly type-A, but I can go with the flow if necessary.
+* I'm equally split on _E_/_I_ and _T_/_F_.
+
+One of the many problems here is that _N_ is often characterized as big-picture, abstract thinking (without implying a difficulty in dealing with particulars), whereas _S_ is often characterized as being concrete-bound and _unable_ to deal with abstractions. So that makes my results all the less surprising.
+
+With respect to being type-A (_J_) versus going with the flow (_P_), the way I think about that is that I like things how I like them, I like to plan, I like structure and order, and I am selectively flexible, in circumscribed contexts. It's a bit of an exaggeration, but think of it as needing to plan unstructured time on the calendar. A realistic example might be something like _J: Today, we're going to go snowboarding. P: It doesn't matter to me which resort we go to or what time we arrive or leave. J: It would sure be nice to know in advance what the plan is. P: But it's no big deal if we wing it._
+
+[TO DO: Describe E/I.]
+
+[TO DO: Describe T/F.]
 
 ### DISC
 See [Manager Tools Podcasts](https://www.manager-tools.com/map-universe/communication-disc){:target="&lowbar;blank"} and [summary PDF](https://files.manager-tools.com/files/private/documents/DiSC_Basics_0.pdf){:target="&lowbar;blank"}.
