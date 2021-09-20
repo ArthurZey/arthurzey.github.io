@@ -43,3 +43,73 @@ Topics to cover:
 * month after month of asking for refunds and account freezes
 * escalation to CitiBank, disputing charges
 * random charges that don't make sense
+
+# Correspondence Chronology
+
+## 2020-07-03 12:26 PDT
+_From me to customerservice@24hourfitness.com; subject "Followup on membership status"_
+
+Hello--
+
+I realize that your customer service department is likely operating at diminished capacity in light of both the COVID-19 pandemic and the Chapter 11 restructuring, so please forgive my persistence after filing a few inquiries through your website last week.
+
+Having just gone through a difficult breakup and trying to disentangle accounts, I'm trying to tie up as many loose ends as possible...and I need to make sure that I have my gym situation sorted out for when club locations near me open up again.
+
+For continuity/convenience, here's what I had submitted:
+
+> I can't log in because your password reset flow is broken. (I reset the password based on the email, then try to log in with that password, and I'm told it's incorrect.) Also, I put in a fake value for your "Club Location" dropdown on this form because you don't have any San Francisco locations.
+> So I'm instead sending you this message: I'm trying to understand what the situation is with my membership, since my membership was established under Adam Robers's account with a friends and family deal, and he and I have split up, so he was going to disentangle our accounts. Please let me know. Thank you.
+
+Can you tell me why I'm unable to log in? Is it because my account was cancelled already (perhaps because Adam had contacted you)?
+
+Thank you very much.
+
+## 2020-11-04 16:02 MDT
+_From me to customerservice@24hourfitness.com; subject "Followup on membership status"_
+
+Hello--
+
+After getting no reply from you via email for 4 months and not being able to get a hold of your customer service call center back in June and July, I noted that you had not been charging my credit card for membership since April 3. This is good, since your gyms have been closed.
+
+However, I noted that you started charging me again in October:
+* $19.59 on 2020-10-02
+* $36.74 on 2020-11-01
+
+This is after receiving _ZERO_ communication from you about gym openings/closures since my last inquiry. I'm not sure if I was just expected to be checking gym openings manually on some regular cadence, or...?
+
+Meanwhile, I've had to make my own fitness arrangements that didn't depend on your gym.
+
+And I also noted that I _still_ cannot log into your website:
+[TO DO: REPLACE WITH IMAGE: Screen Shot 2020-11-04 at 15.57.36.172 MST.png]
+
+Therefore, I request the following, please:
+1. Reactivate my online account.
+2. Refund me $19.59 + $36.74 = $56.33.
+3. Place a freeze on my membership, so that I can reactivate it at a later date at the same $36.74/month rate.
+
+Thank you.
+
+## 2020-11-11 14:33 MDT
+_From me to customerservice@24hourfitness.com; subject "Followup on membership status"_
+
+Hello. I'm following up on this again, since I still have not heard back about this matter.
+
+I do not wish to have to contact my credit card company about these charges.
+
+## 2020-11-19 12:41 MDT
+_From me to customerservice@24hourfitness.com; subject "Followup on membership status"_
+
+Hello. It's been over a week since the last time I inquired about this.
+
+To remind you: I have no way of managing my membership, since I'm unable to log in, there's no phone number I can call to speak to a representative, and you haven't responded to my emails for over 4 months, despite the autoresponses promising that you'll get to them as soon as possible.
+
+## 2020-11-27 14:34 MDT
+_From me to customerservice@24hourfitness.com; subject "Followup on membership status"_
+
+I randomly got a password reset email. I went through the flow to establish a new password. But I still couldn't log in, which is consistent with my previous experience. I suspect the problem is not that there is a wrong password, but that you have deactivated my account.
+
+I've attached a few relevant screenshots.
+
+I still have not heard a reply to my other inquiries, and it's been weeks. Well, months.
+
+[TO DO: INCLUDE SCREENSHOTS]
