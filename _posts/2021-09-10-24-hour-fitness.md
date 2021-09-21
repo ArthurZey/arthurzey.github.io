@@ -178,7 +178,7 @@ I attempted to reset my password to get access to my account. 24 Hour Fitness (n
 24 Hour Fitness (no_reply224hourfit.com) sent me an email ("Your My24 Account password has been reset") to inform me that I can now log in with my new password.
 
 ## 2020-06-26 16:58 PDT
-After I was still unable to log in, I submitted an inquiry through their website, and I got a stock email from customerservice@24hourfitness.com with some FAQs ("Automatic reply: Forgot User Name/Password").
+After I was still unable to log in, I submitted an inquiry through their website, and I got a stock email from customerservice@24hourfitness.com with some FAQs ("Automatic reply: Forgot User Name/Password"). I referenced my inability to log in in [my followup email on 2020-07-03](#2020-07-03-1226-pdt).
 
 ## 2020-11-27 14:30 MDT
 I again attempted to reset my password to get access to my account. 24 Hour Fitness (no_reply224hourfit.com) sent me an email ("Online Password Request") to allow me to complete the password reset flow.
