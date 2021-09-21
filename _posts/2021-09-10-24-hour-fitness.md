@@ -26,8 +26,8 @@ _To anchor the chronology, I include here the last valid charges from April 2020
 |-|-|-|-|-|-|-|-|
 |2020-04-03|$36.74|Arthur April 2020 membership|_not applicable_| | | | |
 |2020-04-03|$8.25|Adam April 2020 membership|_not applicable_| | | | |
-|2020-10-02|$19.59| | | |2021-09-11|D-686290110921| |
-|2020-11-01|$36.74|Arthur November 2020 membership|2020-12-03| | | | |
+|2020-10-02|$19.59| | |[2020-11-04 16:02 MDT "Followup on membership status"](#2020-11-04-1602-mdt)|2021-09-11|D-686290110921| |
+|2020-11-01|$36.74|Arthur November 2020 membership|2020-12-03|[2020-11-04 16:02 MDT "Followup on membership status"](#2020-11-04-1602-mdt)| | | |
 |2020-11-13|$25.06| |2020-11-27| | | | |
 |2021-04-01|$57.99| |2020-04-08| | | | |
 |2021-06-01|$37.01| |2021-07-08| | | | |
