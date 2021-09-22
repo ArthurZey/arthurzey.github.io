@@ -349,22 +349,24 @@ _2021-05-24_
   _Turbulent individuals are self-conscious and sensitive to stress. They are likely to experience a wide range of emotions and to be success-driven, perfectionistic, and eager to improve._
 
 I'm not sure that Myers-Briggs is especially helpful, but I think it's interesting. I think that the tests are really badly designed (lots of false dichotomies and poor wording that will militate a type in the wrong direction if answered accurately). In 2015, I decided to do my own analysis, reading through the 16 descriptions and bucketing them into (1) identify with strongly, (2) identify with weakly, and (3) don't identify with at all. The results were unsurprisingly consistent:
-* All the _N_/_J_ types were in the _identify with strongly_ bucket.
-* All the _N_/_P_ types were in the _identify with weakly_ bucket.
-* All the _S_ types were in the _don't identify with at all_ bucket.
+* All the **\*N\*J** types were in the _identify with strongly_ bucket.
+* All the **\*N\*P** types were in the _identify with weakly_ bucket.
+* All the <b>\*S\*\*</b> types were in the _don't identify with at all_ bucket.
 
 The interpretation of this, given the premises of Myers-Briggs, is as follows:
 * Abstract thinking is my strongest trait, and I'm not concrete-bound.
 * I'm mostly type-A, but I can go with the flow if necessary.
-* I'm equally split on _E_/_I_ and _T_/_F_.
+* I'm equally split on **E**/**I** and **T**/**F**.
 
-One of the many problems here is that _N_ is often characterized as big-picture, abstract thinking (without implying a difficulty in dealing with particulars), whereas _S_ is often characterized as being concrete-bound and _unable_ to deal with abstractions. So that makes my results all the less surprising.
+One of the many problems here is that **N** is often characterized as big-picture, abstract thinking (without implying a difficulty in dealing with particulars), whereas **S** is often characterized as being concrete-bound and _unable_ to deal with abstractions. So that makes my results all the less surprising.
 
-With respect to being type-A (_J_) versus going with the flow (_P_), the way I think about that is that I like things how I like them, I like to plan, I like structure and order, and I am selectively flexible, in circumscribed contexts. It's a bit of an exaggeration, but think of it as needing to plan unstructured time on the calendar. A realistic example might be something like _J: Today, we're going to go snowboarding. P: It doesn't matter to me which resort we go to or what time we arrive or leave. J: It would sure be nice to know in advance what the plan is. P: But it's no big deal if we wing it._
+With respect to being type-A (**J**) versus going with the flow (**P**), the way I think about that is that I like things how I like them, I like to plan, I like structure and order, and I am selectively flexible, in circumscribed contexts. It's a bit of an exaggeration, but think of it as needing to plan unstructured time on the calendar. A realistic example might be something like _**J**: Today, we're going to go snowboarding. **P**: It doesn't matter to me which resort we go to or what time we arrive or leave. **J**: It would sure be nice to know in advance what the plan is. **P**: But it's no big deal if we wing it._
 
-[TO DO: Describe E/I.]
+I tend to test high on **E**, but that's not necessarily surprising, since I get energy from discussing ideas (and that involves people), even though I actually consider myself an introvert, since people are exhausting. So reading the descriptions, I'm en even split, but [I don't think that's really right](/introversion-and-extroversion/).
 
-[TO DO: Describe T/F.]
+There's a lot more to be said about **T** "versus" **F**, but I'll summarize here. The clearest articulation I've read of the essence of the dichotomy is that it's about what your initial reaction is to a situation or stimulus: Do you first have the big emotion and defer analysis until you've calmed down (**F**)? Or do you first get into analysis, waiting to process feelings later (**T**)? Now, this framing might mostly apply to most people, so I can see why it might be useful. But it's difficult for me to relate to it. It's why I characterize myself as a logic-emotions monist. I have all the feelings and all the thoughts all the time, always. Something happens, and I'm immediately analyzing it _and_ having/embracing/processing strong emotions. While it's possible to separate out thinking and feeling for analysis, experientially, it's all the same phenomenon for me. (I think that's also related to the connection between emotions and induction.) Thinking and feeling are just different dimensions of the same experience. Of course, because of the way that most Myers-Briggs test questions are framed, I end up scoring as a very high **F**, but in reality (and I think the type descriptions bear this out), I'm just very high on both. Technically, I think it's a false dichotomy.
+
+By the way, what do you think it says about my likely Myers-Briggs type that I went through all that analysis?
 
 ### DISC
 See [Manager Tools Podcasts](https://www.manager-tools.com/map-universe/communication-disc){:target="&lowbar;blank"} and [summary PDF](https://files.manager-tools.com/files/private/documents/DiSC_Basics_0.pdf){:target="&lowbar;blank"}.
