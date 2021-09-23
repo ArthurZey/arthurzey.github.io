@@ -12,7 +12,15 @@ sitemap: false
 
 # Summary
 
-In early 2020, 24 Hour Fitness temporarily closed their clubs on account of COVID-19, and to their credit, they correctly stopped charging their customers monthly membership fees. Early on during this closure, Adam and I broke up, and I contacted them to disentangle our memberships and to make sure that his legacy rate of $8.25/month wouldn't be impacted. I got no response. After moving to Denver, with no indication that 24 Hour Fitness would open up anytime soon, I secured gym facilities in the form of my apartment building's gym (a major factor in my selection of residence), which came along with a 17-month lease (through February 2022). Without any proactive communication, 24 Hour Fitness began charging my credit card again, which I only discovered after several months of charges. I immediately contacted them and demanded a refund, explaining the situation and requesting that they freeze my membership. Getting a response from them was like pulling teeth. Meanwhile, I attempted to log into my account on their website, but their login system was utterly broken, with no ability to successfully go through the password reset flow. In the very delayed email responses that I finally started getting from them, they advised me to call a customer support number (for both the membership and login issues), except that their call center was indefinitely closed on account of COVID-19. So my only recourse was to continue to interact with them via email. I had to nag them persistently. Every so often, I would notice that they continued to charge my credit card for a monthly membership fee (or some other inscrutable charge), and each time, I would demand a refund. I would occasionally threaten escalating to my credit card company (CitiBank), but until August 2021, they had always managed to refund the charge before I had to do that. In August 2021, after several weeks of no response, I disputed the charges with CitiBank, including the regular $36.74 monthly membership charge, as well as some inscrutable additional $49.99 charge a week later for which there was no justification. (I later found out this was an annual fee they didn't charge in 2020 and didn't notice in 2019, but it was buried in the contract and never mentioned to me orally when I signed up in 2018.) CitiBank refused the dispute for the $49.99, demanding proof of membership cancellation. Uhh... Well, here's the writeup of the whole chronology.
+In early 2020, 24 Hour Fitness temporarily closed their clubs on account of COVID-19, and to their credit, they correctly stopped charging their customers monthly membership fees. Early on during this closure, Adam and I broke up, and I contacted them via email to disentangle our memberships and to make sure that his legacy rate of $8.25/month wouldn't be impacted. I got no response. I attempted to call their customer service number, but their call centers were closed, due to COVID. So my only recourse was to continue emailing. After moving to Denver, with no indication that 24 Hour Fitness would open up anytime soon, I secured gym facilities in the form of my apartment building's gym (a major factor in my selection of residence), which came along with a 17-month lease (through February 2022). Without any proactive communication, 24 Hour Fitness began charging my credit card again, which I only discovered after several months of charges. I immediately contacted them and demanded a refund, explaining the situation and requesting that they freeze my membership. Getting a response from them was like pulling teeth. Meanwhile, I attempted to log into my account on their website, but their login system was utterly broken, with no ability to successfully go through the password reset flow. In the very delayed email responses that I finally started getting from them, they advised me to call a customer support number (for both the membership and login issues), except that their call center was indefinitely closed on account of COVID-19. So I had to continue to interact with them via email. I had to nag them persistently. Every so often, I would notice that they continued to charge my credit card for a monthly membership fee (or some other inscrutable charge), and each time, I would demand a refund. I would occasionally threaten escalating to my credit card company (CitiBank), but until August 2021, they had always managed to refund the charge before I had to do that. In August 2021, after several weeks of no response, I disputed the charges with CitiBank, including the regular $36.74 monthly membership charge, as well as some inscrutable additional $49.99 charge a week later for which there was no justification. (I later found out this was an annual fee they didn't charge in 2020 and didn't notice in 2019, but it was buried in the contract and never mentioned to me orally when I signed up in 2018.) CitiBank refused the dispute for the $49.99, demanding proof of membership cancellation. Uhh... Well, here's the writeup of the whole chronology.
+
+# Key Points
+
+* On [2020-11-04 at 16:02 MDT](#2020-11-04-1602-mdt), I requested "Place a freeze on my membership, so that I can reactivate it at a later date at the same $36.74/month rate.".
+* On [2020-12-03 at 15:41 MDT](#2020-12-03-1255-mdt), I again unequivocally requested "I would like the freeze to be in effect until I choose to unfreeze.".
+* On [2020-12-09 at 12:05 MDT](#2020-12-09-1205-mdt), my freeze request was confirmed: "We have processed your request to place a temporary freeze on your agreement . During the freeze period, you will not be financially responsible for your monthly dues payment and you will not have access to our facilities. When the requested time has expired, your agreed dues rate will adjust and automatically resume its regularly scheduled payment cycle."\\
+Given that this came after my request for "the freeze to be in effect until I choose to unfreeze", this was an implied confirmation of those terms, particularly because my request was not contradicted. Moreover, because [my 12:28 MDT request for clarification on the same email thread on the same day](#2020-12-09-1228-mdt) did not get a response, I had a reasonable expectation that "until I choose to unfreeze" would be honored.
+* On [2020-12-17 at 14:25 MDT](#2020-12-17-1425-mdt), after [being advised to call their call center](#2020-12-10-1435-mdt), I told them that I was unable to get through to their call centers because they were closed "until further notice", which meant that I could not communicate with them about either membership management or website bug issues, except by email. It's no surprise that we went through the same ridiculous loop again between [2020-12-23](#2020-12-23-0936-mdt) and [2020-12-24](#2020-12-24-1454-mdt).
 
 {:.no_toc}
 * TOC
@@ -26,9 +34,9 @@ _To anchor the chronology, I include here the last valid charges from April 2020
 |-|-|-|-|-|-|-|-|
 |2020-04-03|$36.74|Arthur April 2020 membership|_not applicable_| | | | |
 |2020-04-03|$8.25|Adam April 2020 membership|_not applicable_| | | | |
-|2020-10-02|$19.59| | |[2020-11-04 16:02 MDT "Followup on membership status"](#2020-11-04-1602-mdt)|2021-09-11|D-686290110921| |
-|2020-11-01|$36.74|Arthur November 2020 membership|2020-12-03|[2020-11-04 16:02 MDT "Followup on membership status"](#2020-11-04-1602-mdt)| | | |
-|2020-11-13|$25.06| |2020-11-27| | | | |
+|2020-10-02|$19.59| | |[2020-11-04 16:02 MDT "Followup on membership status"](#2020-11-04-1602-mdt)<br /><br />[2020-11-27 14:46 MDT "24 Hour Fitness"](#2020-11-27-1446-mdt)|2021-09-11|D-686290110921| |
+|2020-11-01|$36.74|Arthur November 2020 membership|[2020-12-03](#2020-12-03-1255-mdt)|[2020-11-04 16:02 MDT "Followup on membership status"](#2020-11-04-1602-mdt)<br /><br />[2020-11-27 14:46 MDT "24 Hour Fitness"](#2020-11-27-1446-mdt)<br /><br />[2020-12-03 12:59 MDT "24 Hour Fitness"](#2020-12-03-1259-mdt)| | | |
+|2020-11-13|$25.06| |[2020-11-27](#2020-11-27-1435-mdt)| | | | |
 |2021-04-01|$57.99| |2020-04-08| | | | |
 |2021-06-01|$37.01| |2021-07-08| | | | |
 |2021-07-01|$36.74|Arthur July 2021 membership|2021-07-08| | | | |
@@ -168,20 +176,260 @@ I still have not heard a reply to my other inquiries, and it's been weeks. Well,
 
 [TO DO: INCLUDE SCREENSHOTS]
 
+## 2020-11-27 14:35 MDT
+_From no_reply@24hourfitness.com to me; subject "24 Hour Fitness Refund Confirmation"_
+
+Refund issued for 2020-11-13 payment of $25.06, ironically, a charge I hadn't asked them about yet.
+
+## 2020-11-27 14:40 MDT
+_From customerservice@24hourfitness.com to me; subject "24 Hour Fitness"_
+
+Dear Arthur,
+
+Membership Number: RY62280
+
+Thank you for your email. We value you as a member and appreciate the opportunity to service your fitness needs.
+
+We apologize for the inconvenience caused regarding accessing your My24 online account.
+
+We have sent you a reset password email, so you may access your My24 account via website. Please be advised that the My24 app is no longer in service and our new app is 24GO. You may access your My24 account online through our website: https://www.24hourfitness.com/registration.html#/.
+
+My24 is available 7 days a week and gives you the ability to review your account details and payments, contact your preferred club via email, and update personal information anytime.
+
+Here is what you can do online.
+* Address, phone number, email address update
+* Make a payment
+* View and print usage history
+* Change EFT information
+* View billing history
+* Print a receipt for payments
+* Request a copy of an agreement
+* View PT sessions used and available
+* Freeze membership
+
+Also, as a courtesy, we have refunded $25.06 to MasterCard ending 9879 .Please allow 3-5 business days.
+
+Please let us know if you have any other questions.
+
+Once again, we apologize for any inconvenience this may have caused and thank you for your valued business.
+
+In good health,
+
+Tamara R.,
+24 Hour Fitness Member Service Team
+
+## 2020-11-27 14:46 MDT
+_From me to customerservice@24hourfitness.com; subject "24 Hour Fitness"_
+
+Hi there. Thank you for getting back to me.
+
+The correct refund is $56.33, as I documented in my November 4 email, assuming you haven't also charged me again since then.
+
+I still cannot log in, despite following the instructions.
+
+I still haven't gotten a confirmation that you have frozen my account, as I requested in the November 4 email.
+
+Can you issue the remaining $31.27 refund, fix my account access, and confirm the rest of in order?
+
+Thank you again.
+
+## 2020-12-03 12:55 MDT
+_From no_reply@24hourfitness.com to me; subject "24 Hour Fitness Refund Confirmation"_
+
+Refund issued for 2020-11-01 payment of $36.74.
+
+## 2020-12-03 12:59 MDT
+_From customerservice@24hourfitness.com to me; subject "24 Hour Fitness"_
+
+Hi Arthur,
+
+Thank you for your email.
+
+We have refunded an additional $36.74 on your membership RY62280.  Your membership is currently on a freeze and will remain on a freeze until clubs in your area allowed to reopen.  To get updates on when clubs will open in your area, please download the 24GO app from the Google Play or Apple app store and turn on notifications.
+
+As for your My24 account, we have reset your password.  You will receive a separate email accordingly.  You will need your membership number, RY62280, or our check-in code, \[REDACTED\], to log-in.
+
+Thanks,
+
+24 Hour Fitness
+
+## 2020-12-03 15:41 MDT
+_From me to customerservice@24hourfitness.com; subject "24 Hour Fitness"_
+
+Thank you. I appreciate that.
+
+I would like the freeze to be in effect until I choose to unfreeze. Also, what area are you considering me in?
+
+And also, I didn't get a password reset email, but the password reset flow is what didn't work before.
+
+I can also try to trigger it myself again.
+
+Thank you again.
+
+## 2020-12-09 12:05 MDT
+_From customerservice@24hourfitness.com to me; subject "24 Hour Fitness"_
+
+Dear  Arthur,
+
+Thank you for your email.  We value you as a member and appreciate the opportunity to service your fitness needs.
+
+We have processed your request to place a temporary freeze on your agreement . During the freeze period, you will not be financially responsible for your monthly dues payment and you will not have access to our facilities.
+
+When the requested time has expired, your agreed dues rate will adjust and automatically resume its regularly scheduled payment cycle.
+
+We have sent a password reset link to your email on file, you can check your spam or your junk mail for the link.
+
+Thank you for your patience while resolving this matter, and I wish you continued success with your fitness goals.
+
+In good health,
+Shenise C.
+24 Hour Fitness Member Service Team
+
+## 2020-12-09 12:28 MDT
+_From me to customerservice@24hourfitness.com; subject "24 Hour Fitness"_
+
+As I keep emailing, the password reset flow isn't working. Please see the other email about that.
+
+What do you mean by "agreed dues rate will adjust"? How does that work? I thought I get the same rate that I originally agreed to.
+
+What is "the requested time"? How long is the freeze period?
+
+
 # Attempts to Access Online Account
 This isn't really that interesting, and it's somewhat tangential to the main issue here, but it illustrates my attempt to manage my own account and that 24 Hour Fitness was unwilling or unable to enable me to do that.
 
 ## 2020-06-26 16:48 PDT
-I attempted to reset my password to get access to my account. 24 Hour Fitness (no_reply224hourfit.com) sent me an email ("Online Password Request") to allow me to complete the password reset flow.
+I attempted to reset my password to get access to my account. 24 Hour Fitness (no_reply@24hourfit.com) sent me an email ("Online Password Request") to allow me to complete the password reset flow.
 
 ## 2020-06-26 16:50 PDT
-24 Hour Fitness (no_reply224hourfit.com) sent me an email ("Your My24 Account password has been reset") to inform me that I can now log in with my new password.
+24 Hour Fitness (no_reply@24hourfit.com) sent me an email ("Your My24 Account password has been reset") to inform me that I can now log in with my new password.
 
 ## 2020-06-26 16:58 PDT
 After I was still unable to log in, I submitted an inquiry through their website, and I got a stock email from customerservice@24hourfitness.com with some FAQs ("Automatic reply: Forgot User Name/Password"). I referenced my inability to log in in [my followup email on 2020-07-03](#2020-07-03-1226-pdt).
 
 ## 2020-11-27 14:30 MDT
-I again attempted to reset my password to get access to my account. 24 Hour Fitness (no_reply224hourfit.com) sent me an email ("Online Password Request") to allow me to complete the password reset flow.
+I again attempted to reset my password to get access to my account. 24 Hour Fitness (no_reply@24hourfit.com) sent me an email ("Online Password Request") to allow me to complete the password reset flow.
 
 ## 2020-11-27 14:32 MDT
-24 Hour Fitness (no_reply224hourfit.com) sent me an email ("Your My24 Account password has been reset") to inform me that I can now log in with my new password. I was still unable to log in, which I reported in [my followup email a few minutes later](#2020-11-27-1434-mdt).
+24 Hour Fitness (no_reply@24hourfit.com) sent me an email ("Your My24 Account password has been reset") to inform me that I can now log in with my new password. I was still unable to log in, which I reported in [my followup email a few minutes later](#2020-11-27-1434-mdt).
+
+## 2020-12-07 11:46 MDT
+I attempted to reset my password to get access to my account. 24 Hour Fitness (no_reply@24hourfit.com) sent me an email ("Online Password Request") to allow me to complete the password reset flow.
+
+## 2020-12-08 07:22 MDT
+_From me to customerservice@24hourfitness.com; subject "Online Password Reset", forwarding [their 2020-12-07 automated email](#2020-12-07-1146-mdt)_
+
+Nope. Doesn't work.
+
+[TO DO: INCLUDE SCREENSHOT]
+
+## 2020-12-08 07:23 MDT
+_From me to customerservice@24hourfitness.com; subject "24 Hour Fitness", replying on the [2020-12-03 15:41 MDT thread](#2020-12-03-1541-mdt)_
+
+I got the password reset email yesterday. Within the 24-hour limit before its expiration (19 hours, actually), I used the link, but I got this error message:
+
+[TO DO: INCLUDE SCREENSHOT]
+
+## 2020-12-09 10:02 MDT
+I attempted to reset my password to get access to my account. 24 Hour Fitness (no_reply@24hourfit.com) sent me an email ("Online Password Request") to allow me to complete the password reset flow.
+
+## 2020-12-09 10:08 MDT
+24 Hour Fitness (no_reply@24hourfit.com) sent me an email ("Your My24 Account password has been reset") to inform me that I can now log in with my new password. I was still unable to log in, which I reported in [my followup email a few minutes later](#2020-11-27-1434-mdt).
+
+## 2020-12-09 10:14 MDT
+_From me to customerservice@24hourfitness.com; subject "24 Hour Fitness", replying on the [2020-12-08 07:23 MDT thread](#2020-12-08-0723-mdt)_
+
+This is getting rather tiresome. We keep going around in circles.
+
+This time, I was able to reset the password and got a confirmation, both on the web and via email. But I still cannot log in with the new credentials. (And I work in technology, so I'm not just being dense about this.)
+
+Here are two different pages offering me error messages:
+
+[TO DO: INCLUDE SCREENSHOTS]
+
+What's the next step? I think continuously trying to reset my password through the normal flow is unlikely to work. This is now, what, the third time we've tried?
+
+As I speculated before, I think this has something to do with my account status.
+
+## 2020-12-09 12:07 MDT
+_From customerservice@24hourfitness.com to me; subject "24 Hour Fitness"_
+
+_[I replied at 12:28 MDT](#2020-12-09-1228-mdt) about the password reset flow. That email is in the other section because there are substantive membership issues discussed in it, too._
+
+Dear Arthur ,
+
+Thank you for your email. We value you as a member and appreciate the opportunity to service your fitness needs.
+
+With regard to your email we have reset your password on our side please try to log in to your online account using your username which is ArthurZey if you are having any other issues please send us another email.
+
+Thank you for being a member of 24 Hour Fitness. We wish you good health and continued success with your fitness goals.
+
+In good health,
+Kenisha W.
+24 Hour Fitness Member Service Team
+
+## 2020-12-10 14:35 MDT
+_From customerservice@24hourfitness.com to me; subject "24Hour Fitness"_
+
+Dear Arthur,
+
+Thank you for your email. We value you as a member and appreciate the opportunity to service your fitness needs.
+
+We apologize for the inconvenience your facing with our online portal to have your password reset. Please call us at 1-800-432-6348 (M-F, 10am-8pm Standard Time) for further assistance.
+
+We wish you and your family continued success with your fitness goals.
+
+In good health,
+Shanae B.
+24 Hour Fitness Member Service Team
+
+## 2020-12-10 14:36 MDT
+_From me to customerservice@24hourfitness.com; subject "24Hour Fitness"_
+
+What is "Standard Time"?
+
+## 2020-12-17 14:25 MDT
+_From me to customerservice@24hourfitness.com; subject "24Hour Fitness"_
+
+Hi, Shanae or whoever can help here--
+
+I'm following up again, another week later.
+
+I don't understand why I'm being instructed to call a phone number for a call center that's closed "until further notice". It's been closed for many months now. Here, I thought maybe you had reopened your call centers, maybe to help with the website bugs. I guess not. So what are we going to do about this? I can't access my account online. And I hasten to reiterate that I'm a technology professional, so I'm not exactly doing something stupid with the password reset flow.
+
+## 2020-12-23 09:36 MDT
+_From crmwebmail@24hourfit.com to me; subject "24 hour fitness"_
+
+Dear Arthur,
+
+Thank you for your email. We value you as a member and appreciate the opportunity to service your fitness needs. We apologize for the inconvenience your facing with our online portal to have your password reset. Please call us at 833-636-0003
+ (M-F, 10am-8pm Standard Time) for further assistance.
+
+Thank you for being a member of 24 Hour Fitness.  I wish you good health and continued success with your fitness goals.
+
+In good health,
+Sabrina.S
+24 Hour Fitness Member Service Team
+
+## 2020-12-24 14:54 MDT
+_From me to crmwebmail@24hourfit.com and customerservice@24hourfitness.com; subject "24 hour fitness"_
+
+Again, I don't know what "Standard Time" is, but I called within the hours that the automated voice recording said were the hours...and yet it also said they were closed.
+
+To be clear, I'm not asking for my password to be reset. I'm asking for you to reactivate my online account (NOT reactivate my membership), since no amount of password resets and going through that flow seems to work, as I've now documented numerous times. (I remind you that I'm a technology professional, so this is not user error.)
+
+## 2020-12-29 10:29 MDT
+Presumably because a 24 Hour Fitness employee triggered the reset flow, 24 Hour Fitness (no_reply@24hourfit.com) sent me an email ("Online Password Request") to allow me to complete the password reset flow.
+
+## 2020-12-29 10:30 MDT
+4 Hour Fitness (no_reply@24hourfit.com) sent me an email ("Online Password Request") to allow me to complete the password reset flow, presumably a duplicate email, but I used this newer one's reset link.
+
+## 2020-12-29 10:33 MDT
+24 Hour Fitness (no_reply@24hourfit.com) sent me an email ("Your My24 Account password has been reset") to inform me that I can now log in with my new password. I was still unable to log in.
+
+## 2020-12-29 10:34 MDT
+_From me to customerservice@24hourfitness.com; subject "Online Password Request", replying on the [2020-12-29 10:30 MDT thread](#2020-12-29-1030-mdt)_
+
+What made you think that it was going to work this time?
+
+[TO DO: INCLUDE SCREENSHOTS]
