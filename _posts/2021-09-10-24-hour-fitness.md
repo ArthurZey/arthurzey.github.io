@@ -1,7 +1,7 @@
 ---
 title: "24 Hour Fitness and Their Organizational Incompetence"
 date: "2021-09-10"
-last_modified_at: "2021-09-15"
+last_modified_at: "2021-09-26"
 description: "24 Hour Fitness has some of the most scattered customer service (and potential lack of scruples) I've seen yet."
 tags:
   - customer-service
@@ -11,23 +11,23 @@ sitemap: false
 ---
 
 # Summary
+{:.no_toc}
 
 In early 2020, 24 Hour Fitness temporarily closed their clubs on account of COVID-19, and to their credit, they correctly stopped charging their customers monthly membership fees. Early on during this closure, Adam and I broke up, and I contacted them via email to disentangle our memberships and to make sure that his legacy rate of $8.25/month wouldn't be impacted. I got no response. I attempted to call their customer service number, but their call centers were closed, due to COVID. So my only recourse was to continue emailing. After moving to Denver, with no indication that 24 Hour Fitness would open up anytime soon, I secured gym facilities in the form of my apartment building's gym (a major factor in my selection of residence), which came along with a 17-month lease (through February 2022). Without any proactive communication, 24 Hour Fitness began charging my credit card again, which I only discovered after several months of charges. I immediately contacted them and demanded a refund, explaining the situation and requesting that they freeze my membership. Getting a response from them was like pulling teeth. Meanwhile, I attempted to log into my account on their website, but their login system was utterly broken, with no ability to successfully go through the password reset flow. In the very delayed email responses that I finally started getting from them, they advised me to call a customer support number (for both the membership and login issues), except that their call center was indefinitely closed on account of COVID-19. So I had to continue to interact with them via email. I had to nag them persistently. Every so often, I would notice that they continued to charge my credit card for a monthly membership fee (or some other inscrutable charge), and each time, I would demand a refund. I would occasionally threaten escalating to my credit card company (CitiBank), but until August 2021, they had always managed to refund the charge before I had to do that. In August 2021, after several weeks of no response, I disputed the charges with CitiBank, including the regular $36.74 monthly membership charge, as well as some inscrutable additional $49.99 charge a week later for which there was no justification. (I later found out this was an annual fee they didn't charge in 2020 and didn't notice in 2019, but it was buried in the contract and never mentioned to me orally when I signed up in 2018.) CitiBank refused the dispute for the $49.99, demanding proof of membership cancellation. Uhh... Well, here's the writeup of the whole chronology.
 
+
 # Key Points
+{:.no_toc}
 
 * On [2020-11-04 at 16:02 MDT](#2020-11-04-1602-mdt), I requested "Place a freeze on my membership, so that I can reactivate it at a later date at the same $36.74/month rate.".
 * On [2020-12-03 at 15:41 MDT](#2020-12-03-1255-mdt), I again unequivocally requested "I would like the freeze to be in effect until I choose to unfreeze.".
 * On [2020-12-09 at 12:05 MDT](#2020-12-09-1205-mdt), my freeze request was confirmed: "We have processed your request to place a temporary freeze on your agreement . During the freeze period, you will not be financially responsible for your monthly dues payment and you will not have access to our facilities. When the requested time has expired, your agreed dues rate will adjust and automatically resume its regularly scheduled payment cycle."\\
 Given that this came after my request for "the freeze to be in effect until I choose to unfreeze", this was an implied confirmation of those terms, particularly because my request was not contradicted. Moreover, because [my 12:28 MDT request for clarification on the same email thread on the same day](#2020-12-09-1228-mdt) did not get a response, I had a reasonable expectation that "until I choose to unfreeze" would be honored.
 * On [2020-12-17 at 14:25 MDT](#2020-12-17-1425-mdt), after [being advised to call their call center](#2020-12-10-1435-mdt), I told them that I was unable to get through to their call centers because they were closed "until further notice", which meant that I could not communicate with them about either membership management or website bug issues, except by email. It's no surprise that we went through the same ridiculous loop again between [2020-12-23](#2020-12-23-0936-mdt) and [2020-12-24](#2020-12-24-1454-mdt).
-
-{:.no_toc}
-* TOC
-{:toc}
-{::options toc_levels="1..3" /}
+* On [2021-04-03 at 05:41 MDT](#2021-04-03-0541-mdt), I had to remind 24 Hour Fitness that my membership was supposed to be frozen. So when I got a confirmation on [2021-04-08 at 12:13 MDT](#2021-04-08-1213-mdt) that my membership was frozen again, but had an erroneous end date of 2021-06-01, I immediately corrected them, with an explanation of the reasons at [12:25 MDT](#2021-04-08-1225-mdt), forbidding them from charging me again. And after they did again on 2021-06-01 and 2021-07-01 (while I continued to email them demanding a refund and threatening escalation to my credit card company), they finally refunded me on [2021-07-08](#2021-07-08-1132-mdt), an implicit acknowledgement that they should not have charged me and that my membership was supposed to have been frozen. 24 Hour Fitness never explicitly replied to my emails about those charges, despite my asking for a response or acknowledgement.
 
 # Charges
+{:.no_toc}
 _To anchor the chronology, I include here the last valid charges from April 2020 of $36.74 and $8.25 for me and Adam, respectively._
 
 |Date of Charge|Amount|(Allegedly) For|Refund Date|Link to Correspondence|Dispute Date|Dispute ID|Dispute Links|
@@ -37,27 +37,23 @@ _To anchor the chronology, I include here the last valid charges from April 2020
 |2020-10-02|$19.59| | |[2020-11-04 16:02 MDT "Followup on membership status"](#2020-11-04-1602-mdt)<br /><br />[2020-11-27 14:46 MDT "24 Hour Fitness"](#2020-11-27-1446-mdt)|2021-09-11|D-686290110921| |
 |2020-11-01|$36.74|Arthur November 2020 membership|[2020-12-03](#2020-12-03-1255-mdt)|[2020-11-04 16:02 MDT "Followup on membership status"](#2020-11-04-1602-mdt)<br /><br />[2020-11-27 14:46 MDT "24 Hour Fitness"](#2020-11-27-1446-mdt)<br /><br />[2020-12-03 12:59 MDT "24 Hour Fitness"](#2020-12-03-1259-mdt)| | | |
 |2020-11-13|$25.06| |[2020-11-27](#2020-11-27-1435-mdt)| | | | |
-|2021-04-01|$57.99| |[2020-04-08](#2021-04-08-1123-mdt)|[2021-04-03 05:41 MDT "Unauthorized charge"](#2021-04-03-0541-mdt)| | | |
-|2021-06-01|$37.01|Arthur June 2021 membership|[2021-07-08](#2021-07-08-1132-mdt)| | | | |
-|2021-07-01|$36.74|Arthur July 2021 membership|[2021-07-08](#2021-07-08-1132-mdt)| | | | |
-|2021-08-01|$36.74|Arthur August 2021 membership| | |2021-08-20|D-53272320082108202021| |
+|2021-04-01|$57.99|Arthur March 12-31 2021 membership<br/>Arthur April 2021 membership|[2020-04-08](#2021-04-08-1123-mdt)|[2021-04-03 05:41 MDT "Unauthorized charge"](#2021-04-03-0541-mdt)<br /><br />[2021-04-08 12:13 MDT "General Billing Inquiry"](#2021-04-08-1213-mdt)| | | |
+|2021-06-01|$37.01|Arthur June 2021 membership|[2021-07-08](#2021-07-08-1132-mdt)|[2021-04-08 12:13 MDT "General Billing Inquiry"](#2021-04-08-1213-mdt)<br /><br />[2021-04-08 12:25 MDT "General Billing Inquiry"](#2021-04-08-1225-mdt)<br /><br />[2021-04-18 15:12 MDT "General Billing Inquiry"](#2021-04-18-1512-mdt)<br /><br />[2021-06-22 10:27 MDT "General Billing Inquiry"](#2021-06-22-1027-mdt)<br /><br />[2021-06-29 09:14 MDT "General Billing Inquiry"](#2021-06-29-0914-mdt)<br /><br />[2021-07-03 08:31 MDT "General Billing Inquiry"](#2021-07-03-0831-mdt)<br /><br />[2021-07-06 12:03 MDT "General Billing Inquiry"](#2021-07-06-1203-mdt)<br /><br />[2021-07-08 11:32 MDT "24 Hour Fitness Refund Confirmation"](#2021-07-08-1132-mdt)<br /><br />[2021-07-13 15:58 MDT "General Billing Inquiry"](#2021-07-13-1558-mdt)| | | |
+|2021-07-01|$36.74|Arthur July 2021 membership|[2021-07-08](#2021-07-08-1132-mdt)|[2021-07-03 08:31 MDT "General Billing Inquiry"](#2021-07-03-0831-mdt)<br /><br />[2021-07-06 12:03 MDT "General Billing Inquiry"](#2021-07-06-1203-mdt)<br /><br />[2021-07-08 11:32 MDT "24 Hour Fitness Refund Confirmation"](#2021-07-08-1132-mdt)<br /><br />[2021-07-13 15:58 MDT "General Billing Inquiry"](#2021-07-13-1558-mdt)| | | |
+|2021-08-01|$36.74|Arthur August 2021 membership| |[2021-07-13 15:58 MDT "General Billing Inquiry"](#2021-07-13-1558-mdt)|2021-08-20|D-53272320082108202021| |
 |2021-08-08|$49.99|Arthur annual fee| | |2021-08-20|D-53685320082108202021| |
 |2021-09-01|$36.74|Arthur September 2021 membership| | |2021-09-10|D-499864100921| |
 
 
+# Email Log
+{:.no_toc}
+* TOC
+{:toc}
+{::options toc_levels="1..3" /}
 
 
-Topics to cover:
 
-* COVID-19 closure, discontinuation of charges
-* emails during this period to sort out separation of account from Adam
-* resuming charging me without notice
-* inability to log in; advising me to call a customer service line that's closed
-* month after month of asking for refunds and account freezes
-* escalation to CitiBank, disputing charges
-* random charges that don't make sense
-
-# Correspondence Chronology
+# Membership Emails
 
 ## 2020-07-03 12:26 PDT
 _From me to customerservice@24hourfitness.com; subject "Followup on membership status"_
@@ -216,6 +212,7 @@ Once again, we apologize for any inconvenience this may have caused and thank yo
 In good health,
 
 Tamara R.,
+
 24 Hour Fitness Member Service Team
 
 ## 2020-11-27 14:46 MDT
@@ -282,7 +279,9 @@ We have sent a password reset link to your email on file, you can check your spa
 Thank you for your patience while resolving this matter, and I wish you continued success with your fitness goals.
 
 In good health,
+
 Shenise C.
+
 24 Hour Fitness Member Service Team
 
 ## 2020-12-09 12:28 MDT
@@ -313,6 +312,26 @@ _From no_reply@24hourfitness.com to me; subject "24 Hour Fitness Refund Confirma
 _Automated email issuing refund for 2021-04-01 charge of $57.99._
 
 ## 2021-04-08 12:13 MDT
+_From crmwebmail@24hourfit.com to me; subject "General Billing Inquiry"_
+
+Dear Arthur,
+
+Thank you for your email. I apologize for any inconvenience.
+
+However, I see that your Monthly Membership was reactivated from Freeze on **03/21/2021 since the Clubs have reopened during those time, hence your Monthly Billing resumed.**
+
+Your regular Monthly Dues is **$36.74. However, as a Freeze Adjustment, you were also charged a fee of $23.70.** This additional charge was a pro-rated dues intending to cover for the period of **03/12/2021 through 03/31/2021.** No worries though! I have gone ahead and refunded the **$57.99** to your Credit Card ending in **\[REDACTED\]** and you should receive a Confirmation Email to "\[REDACTED\]".
+
+As this is not a "Pay-as-you-go" membership and our method of payment is automatic, you will continue to be billed for membership fees whether or not you use the Club. Once a membership is "Active", automatic withdrawal will occur on the designated Monthly Dues dates.
+
+On that premise, we have taken your request into consideration and I have gone ahead and placed your membership on a 1 month freeze. The freeze will be lifted on **05/08/2021, and the Amount Due on Reactivation Date is $28.44.** Monthly Dues Resumes On: **06/01/2021.**
+
+In good health,
+
+Jomeo F.
+
+24 Hour Fitness Member Service Team
+
 _From no_reply@24hourfitness.com to me; subject "24 Hour Fitness Freeze Membership Confirmation"_
 
 _Attached PDF reads as follows:_
@@ -359,13 +378,78 @@ Your friends at 24 Hour Fitness
 \* A prorated dues amount may be due on your reactivation date to cover any billing period between your reactivation date and your next
 scheduled monthly dues debit.
 
+## 2021-04-08 12:25 MDT
+_From me to crmwebmail@24hourfit.com; subject "General Billing Inquiry"_
+
+Hi, Jomeo--
+
+Thank you for getting back to me explicitly and for explaining the amounts.
+
+When I corresponded with your customer service in late 2020, my membership was placed on an indefinite freeze, not until "the Clubs have reopened". Because of the closures, I have had to find an alternative gym solution. I did not authorize (nor was I even apprised in advance) resuming my membership as of March 12. How was I even supposed to know that you had intended to charge me for that or that I could even start using the clubs? If you unfreeze my membership, I should be apprised in advance.
+
+Regardless, a 1-month freeze is insufficient, as I am already under contract with a gym for many more months, so double-paying for a membership I won't use doesn't make sense. Please do not lift the freeze on May 8.
+
+Thank you again.
+
+## 2021-04-18 15:12 MDT
+_From me to crmwebmail@24hourfit.com; subject "General Billing Inquiry"_
+
+Hi there-- Checking in on this again.
+
+Thank you.
+
+## 2021-06-22 10:27 MDT
+_From me to crmwebmail@24hourfit.com; subject "General Billing Inquiry"_
+
+Hello again. I have not heard from you in over 2 months now.
+
+However, I noticed that you charged me $37.01 on June 1, which I did not authorize (and explicitly forbade!). I still have not been to any club., nor do I anticipate returning in the near future until my alternative membership contract runs out.
+
+Can you please refund that and prevent me from getting charged again until I'm ready to unfreeze?
+
+I hope you'll forgive my frustration, but this is getting seriously tiresome.
+
+Thank you.
+
+## 2021-06-29 09:14 MDT
+_From me to crmwebmail@24hourfit.com; subject "General Billing Inquiry"_
+
+Hello, again. It's been a week since my last email. I'm concerned that you will erroneously charge me again on Thursday (July 1), and we're going to be wrestling with yet another refund.
+
+Can you please attend to this matter as soon as possible?
+
+Thank you.
+
+## 2021-07-03 08:31 MDT
+_From me to crmwebmail@24hourfit.com; subject "General Billing Inquiry"_
+
+Now please also refund the July 1 charge of $36.74.
+
+I'm hoping I don't need to escalate this to my credit card company.
+
+Thank you.
+
+## 2021-07-06 12:03 MDT
+_From me to crmwebmail@24hourfit.com and customerservice@24hourfitness.com; subject "General Billing Inquiry"_
+
+Hello there. I will be requesting that my credit card company reverse these erroneous charges on Monday, July 12, if I don't hear back from you before then that you are refunding me $37.01 + $36.74 = $73.75.
+
+Thank you.
+
 ## 2021-07-08 11:32 MDT
 _From no_reply@24hourfitness.com to me; subject "24 Hour Fitness Refund Confirmation"_
 
 _Automated email issuing refund for 2021-06-01 charge of $37.01 and 2021-07-01 charge of $36.74, totaling $73.75._
 
 
+## 2021-07-13 15:58 MDT
+_From me to crmwebmail@24hourfit.com and customerservice@24hourfitness.com; subject "General Billing Inquiry"_
 
+Hello. I received the refunds; thank you. However, I haven't heard back from anybody explicitly.
+
+Are we going to go through the same dance in August?
+
+Thanks again.
 
 
 
@@ -440,7 +524,9 @@ With regard to your email we have reset your password on our side please try to 
 Thank you for being a member of 24 Hour Fitness. We wish you good health and continued success with your fitness goals.
 
 In good health,
+
 Kenisha W.
+
 24 Hour Fitness Member Service Team
 
 ## 2020-12-10 14:35 MDT
@@ -455,7 +541,9 @@ We apologize for the inconvenience your facing with our online portal to have yo
 We wish you and your family continued success with your fitness goals.
 
 In good health,
+
 Shanae B.
+
 24 Hour Fitness Member Service Team
 
 ## 2020-12-10 14:36 MDT
@@ -483,7 +571,9 @@ Thank you for your email. We value you as a member and appreciate the opportunit
 Thank you for being a member of 24 Hour Fitness.  I wish you good health and continued success with your fitness goals.
 
 In good health,
+
 Sabrina.S
+
 24 Hour Fitness Member Service Team
 
 ## 2020-12-24 14:54 MDT
