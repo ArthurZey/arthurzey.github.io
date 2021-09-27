@@ -19,12 +19,14 @@ In early 2020, 24 Hour Fitness temporarily closed their clubs on account of COVI
 # Key Points
 {:.no_toc}
 
+* Notice, overall, how I typically respond right away to their emails, but 24 Hour Fitness either ignores my emails or is severely delayed in responding.
 * On [2020-11-04 at 16:02 MDT](#2020-11-04-1602-mdt), I requested "Place a freeze on my membership, so that I can reactivate it at a later date at the same $36.74/month rate.".
 * On [2020-12-03 at 15:41 MDT](#2020-12-03-1255-mdt), I again unequivocally requested "I would like the freeze to be in effect until I choose to unfreeze.".
 * On [2020-12-09 at 12:05 MDT](#2020-12-09-1205-mdt), my freeze request was confirmed: "We have processed your request to place a temporary freeze on your agreement . During the freeze period, you will not be financially responsible for your monthly dues payment and you will not have access to our facilities. When the requested time has expired, your agreed dues rate will adjust and automatically resume its regularly scheduled payment cycle."\\
 Given that this came after my request for "the freeze to be in effect until I choose to unfreeze", this was an implied confirmation of those terms, particularly because my request was not contradicted. Moreover, because [my 12:28 MDT request for clarification on the same email thread on the same day](#2020-12-09-1228-mdt) did not get a response, I had a reasonable expectation that "until I choose to unfreeze" would be honored.
 * On [2020-12-17 at 14:25 MDT](#2020-12-17-1425-mdt), after [being advised to call their call center](#2020-12-10-1435-mdt), I told them that I was unable to get through to their call centers because they were closed "until further notice", which meant that I could not communicate with them about either membership management or website bug issues, except by email. It's no surprise that we went through the same ridiculous loop again between [2020-12-23](#2020-12-23-0936-mdt) and [2020-12-24](#2020-12-24-1454-mdt).
 * On [2021-04-03 at 05:41 MDT](#2021-04-03-0541-mdt), I had to remind 24 Hour Fitness that my membership was supposed to be frozen. So when I got a confirmation on [2021-04-08 at 12:13 MDT](#2021-04-08-1213-mdt) that my membership was frozen again, but had an erroneous end date of 2021-06-01, I immediately corrected them, with an explanation of the reasons at [12:25 MDT](#2021-04-08-1225-mdt), forbidding them from charging me again. And after they did again on 2021-06-01 and 2021-07-01 (while I continued to email them demanding a refund and threatening escalation to my credit card company), they finally refunded me on [2021-07-08](#2021-07-08-1132-mdt), an implicit acknowledgement that they should not have charged me and that my membership was supposed to have been frozen. 24 Hour Fitness never explicitly replied to my emails about those charges, despite my asking for a response or acknowledgement.
+* On [2021-09-09 at 14:43 MDT](#2021-09-09-1443-mdt), 24 Hour Fitness again re-froze my membership, but again with the wrong parameters, as I explained 9 minutes later at [14:52 MDT](#2021-09-09-1452-mdt), but never got a reply for.
 
 # Charges
 {:.no_toc}
@@ -38,11 +40,11 @@ _To anchor the chronology, I include here the last valid charges from April 2020
 |2020-11-01|$36.74|Arthur November 2020 membership|[2020-12-03](#2020-12-03-1255-mdt)|[2020-11-04 16:02 MDT "Followup on membership status"](#2020-11-04-1602-mdt)<br /><br />[2020-11-27 14:46 MDT "24 Hour Fitness"](#2020-11-27-1446-mdt)<br /><br />[2020-12-03 12:59 MDT "24 Hour Fitness"](#2020-12-03-1259-mdt)| | | |
 |2020-11-13|$25.06| |[2020-11-27](#2020-11-27-1435-mdt)| | | | |
 |2021-04-01|$57.99|Arthur March 12-31 2021 membership<br/>Arthur April 2021 membership|[2020-04-08](#2021-04-08-1123-mdt)|[2021-04-03 05:41 MDT "Unauthorized charge"](#2021-04-03-0541-mdt)<br /><br />[2021-04-08 12:13 MDT "General Billing Inquiry"](#2021-04-08-1213-mdt)| | | |
-|2021-06-01|$37.01|Arthur June 2021 membership|[2021-07-08](#2021-07-08-1132-mdt)|[2021-04-08 12:13 MDT "General Billing Inquiry"](#2021-04-08-1213-mdt)<br /><br />[2021-04-08 12:25 MDT "General Billing Inquiry"](#2021-04-08-1225-mdt)<br /><br />[2021-04-18 15:12 MDT "General Billing Inquiry"](#2021-04-18-1512-mdt)<br /><br />[2021-06-22 10:27 MDT "General Billing Inquiry"](#2021-06-22-1027-mdt)<br /><br />[2021-06-29 09:14 MDT "General Billing Inquiry"](#2021-06-29-0914-mdt)<br /><br />[2021-07-03 08:31 MDT "General Billing Inquiry"](#2021-07-03-0831-mdt)<br /><br />[2021-07-06 12:03 MDT "General Billing Inquiry"](#2021-07-06-1203-mdt)<br /><br />[2021-07-08 11:32 MDT "24 Hour Fitness Refund Confirmation"](#2021-07-08-1132-mdt)<br /><br />[2021-07-13 15:58 MDT "General Billing Inquiry"](#2021-07-13-1558-mdt)| | | |
-|2021-07-01|$36.74|Arthur July 2021 membership|[2021-07-08](#2021-07-08-1132-mdt)|[2021-07-03 08:31 MDT "General Billing Inquiry"](#2021-07-03-0831-mdt)<br /><br />[2021-07-06 12:03 MDT "General Billing Inquiry"](#2021-07-06-1203-mdt)<br /><br />[2021-07-08 11:32 MDT "24 Hour Fitness Refund Confirmation"](#2021-07-08-1132-mdt)<br /><br />[2021-07-13 15:58 MDT "General Billing Inquiry"](#2021-07-13-1558-mdt)| | | |
-|2021-08-01|$36.74|Arthur August 2021 membership| |[2021-07-13 15:58 MDT "General Billing Inquiry"](#2021-07-13-1558-mdt)|2021-08-20|D-53272320082108202021| |
-|2021-08-08|$49.99|Arthur annual fee| | |2021-08-20|D-53685320082108202021| |
-|2021-09-01|$36.74|Arthur September 2021 membership| | |2021-09-10|D-499864100921| |
+|2021-06-01|$37.01|Arthur June 2021 membership|[2021-07-08](#2021-07-08-1132-mdt)|[2021-04-08 12:13 MDT "General Billing Inquiry"](#2021-04-08-1213-mdt)<br /><br />[2021-04-08 12:25 MDT "General Billing Inquiry"](#2021-04-08-1225-mdt)<br /><br />[2021-04-18 15:12 MDT "General Billing Inquiry"](#2021-04-18-1512-mdt)<br /><br />[2021-06-22 10:27 MDT "General Billing Inquiry"](#2021-06-22-1027-mdt)<br /><br />[2021-06-29 09:14 MDT "General Billing Inquiry"](#2021-06-29-0914-mdt)<br /><br />[2021-07-03 08:31 MDT "General Billing Inquiry"](#2021-07-03-0831-mdt)<br /><br />[2021-07-06 12:03 MDT "General Billing Inquiry"](#2021-07-06-1203-mdt)<br /><br />[2021-07-08 11:32 MDT "24 Hour Fitness Refund Confirmation"](#2021-07-08-1132-mdt)<br /><br />[2021-07-13 15:58 MDT "General Billing Inquiry"](#2021-07-13-1558-mdt)<br /><br />[2021-07-29 13:23 MDT "24Hour Fitness"](#2021-07-29-1323-mdt)<br /><br />[2021-09-14 17:51 MDT "Account Update - Chargeback"](#2021-09-14-1751-mdt)| | | |
+|2021-07-01|$36.74|Arthur July 2021 membership|[2021-07-08](#2021-07-08-1132-mdt)|[2021-07-03 08:31 MDT "General Billing Inquiry"](#2021-07-03-0831-mdt)<br /><br />[2021-07-06 12:03 MDT "General Billing Inquiry"](#2021-07-06-1203-mdt)<br /><br />[2021-07-08 11:32 MDT "24 Hour Fitness Refund Confirmation"](#2021-07-08-1132-mdt)<br /><br />[2021-07-13 15:58 MDT "General Billing Inquiry"](#2021-07-13-1558-mdt)<br /><br />[2021-07-29 13:23 MDT "24Hour Fitness"](#2021-07-29-1323-mdt)<br /><br />[2021-09-14 17:51 MDT "Account Update - Chargeback"](#2021-09-14-1751-mdt)| | | |
+|2021-08-01|$36.74|Arthur August 2021 membership| |[2021-07-13 15:58 MDT "General Billing Inquiry"](#2021-07-13-1558-mdt)<br /><br />[2021-08-01 11:47 MDT "24Hour Fitness"](#2021-08-01-1147-mdt)<br /><br />[2021-08-09 06:23 MDT "24Hour Fitness"](#2021-08-09-0623-mdt)<br /><br />[2021-08-20 08:24 MDT "24Hour Fitness"](#2021-08-20-0824-mdt)<br /><br />[2021-08-28 04:07 MDT "Account Update - Chargeback"](#2021-08-28-0407-mdt)<br /><br />[2021-08-28 06:28 MDT "Account Update - Chargeback"](#2021-08-28-0628-mdt)<br /><br />[2021-09-09 14:42 MDT "24 Hour Fitness Waive Balance Confirmation"](#2021-09-09-1442-mdt)<br /><br />[2021-09-09 15:08 MDT "Account Update - Chargeback"](#2021-09-09-1508-mdt)<br /><br />[2021-09-09 15:17 MDT "Account Update - Chargeback"](#2021-09-09-1517-mdt)<br /><br />[2021-09-14 17:51 MDT "Account Update - Chargeback"](#2021-09-14-1751-mdt)|2021-08-20|D-53272320082108202021| |
+|2021-08-08|$49.99|Arthur annual fee| |[2021-08-09 06:23 MDT "24Hour Fitness"](#2021-08-09-0623-mdt)<br /><br />[2021-08-20 08:24 MDT "24Hour Fitness"](#2021-08-20-0824-mdt)<br /><br />[2021-08-28 04:07 MDT "Account Update - Chargeback"](#2021-08-28-0407-mdt)<br /><br />[2021-08-28 06:28 MDT "Account Update - Chargeback"](#2021-08-28-0628-mdt)<br /><br />[2021-09-09 14:51 MDT "24 Hour Fitness Waive Balance Confirmation"](#2021-09-09-1451-mdt)<br /><br />[2021-09-09 15:08 MDT "Account Update - Chargeback"](#2021-09-09-1508-mdt)<br /><br />[2021-09-09 15:17 MDT "Account Update - Chargeback"](#2021-09-09-1517-mdt)<br /><br />[2021-09-14 17:51 MDT "Account Update - Chargeback"](#2021-09-14-1751-mdt)<br /><br />[2021-09-14 18:05 MDT "Account Update - Chargeback"](#2021-09-14-1805-mdt)<br /><br />[2021-09-14 18:08 MDT "Account Update - Chargeback"](#2021-09-14-1808-mdt)<br /><br />[2021-09-16 14:36 MDT "Account Update - Chargeback"](#2021-09-16-1436-mdt)<br /><br />[2021-09-17 14:37 MDT "24 Hour fitness"](#2021-09-17-1437-mdt)|2021-08-20|D-53685320082108202021| |
+|2021-09-01|$36.74|Arthur September 2021 membership| |[2021-09-09 14:51 MDT "24 Hour Fitness Waive Balance Confirmation"](#2021-09-09-1451-mdt)|2021-09-10|D-499864100921| |
 
 
 # Email Log
@@ -340,12 +342,9 @@ _Attached PDF reads as follows:_
 
 **Dear _ARTHUR_,**
 
-Per your request on **_April 8, 2021_**, your 24 Hour Fitness membership has been placed on a freeze effective **_April 8, 2021_**, together with
-any upgrade, personal training or service agreements.
+Per your request on **_April 8, 2021_**, your 24 Hour Fitness membership has been placed on a freeze effective **_April 8, 2021_**, together with any upgrade, personal training or service agreements.
 
-If you have a monthly recurring personal training agreement, future monthly debits will be cancelled, and a new agreement will need to
-be purchased when you resume your membership. When you are ready to resume your workouts, please speak with a club team
-member about using any remaining sessions on your current agreement.
+If you have a monthly recurring personal training agreement, future monthly debits will be cancelled, and a new agreement will need to be purchased when you resume your membership. When you are ready to resume your workouts, please speak with a club team member about using any remaining sessions on your current agreement.
 
 Please see details in the grid below:
 
@@ -361,22 +360,17 @@ Please see details in the grid below:
 
 **(Excluding any available credits)**
 
-Please note that you will not have access to the club facilities, and will not be billed for your dues during your freeze period. You will
-continue to have access to the club for any paid time prior to the effective freeze date. For monthly agreements, your dues billing will
-resume automatically, at the end of your freeze, as indicated in the grid above*.
+Please note that you will not have access to the club facilities, and will not be billed for your dues during your freeze period. You will continue to have access to the club for any paid time prior to the effective freeze date. For monthly agreements, your dues billing will resume automatically, at the end of your freeze, as indicated in the grid above*.
 
-**If you wish to reactivate your membership prior to the end of your freeze period, please visit your local club or contact us at
-1.800.432.6348 and we will be happy to assist you.**
+**If you wish to reactivate your membership prior to the end of your freeze period, please visit your local club or contact us at 1.800.432.6348 and we will be happy to assist you.**
 
 To view your billing details or manage your membership online, please visit 24hourfitness.com/my24.
 
-Helping you reach your fitness goals is important to us, and we look forward to seeing you in the club again soon. Thank you for being a
-24 Hour Fitness member.
+Helping you reach your fitness goals is important to us, and we look forward to seeing you in the club again soon. Thank you for being a 24 Hour Fitness member.
 
 Your friends at 24 Hour Fitness
 
-\* A prorated dues amount may be due on your reactivation date to cover any billing period between your reactivation date and your next
-scheduled monthly dues debit.
+\* A prorated dues amount may be due on your reactivation date to cover any billing period between your reactivation date and your next scheduled monthly dues debit.
 
 ## 2021-04-08 12:25 MDT
 _From me to crmwebmail@24hourfit.com; subject "General Billing Inquiry"_
@@ -451,7 +445,272 @@ Are we going to go through the same dance in August?
 
 Thanks again.
 
+## 2021-07-15 12:58 MDT
+_From crmwebmail@24hourfit.com to me; subject "24Hour Fitness"_
 
+Dear Arthur,
+
+Thank you for your email. We value you as a member and appreciate the opportunity to service your fitness needs.
+
+We do apologize for the inconvenience you are facing with your membership. Please contact us at 1-800-432-6348 (M-F, 10am-8pm Eastern Standard
+ Time) for further assistance with your membership.
+
+We wish you and your family continued success with your fitness goals.
+
+In good health,
+
+Shanae B.
+
+24 Hour Fitness Member Service Team
+
+## 2021-07-29 13:23 MDT
+_From me to crmwebmail@24hourfit.com; subject "24Hour Fitness"_
+
+Hi there--
+
+I received the appropriate refunds and validated that they cleared. However, I'm still concerned about the setup and situation, that I keep getting charged when I'm supposed to be on a freeze. Is there a reason we need to invest time in a phone call?
+
+Thanks so much.
+
+## 2021-08-01 11:47 MDT
+_From me to crmwebmail@24hourfit.com; subject "24Hour Fitness"_
+
+I just noticed that y'all have charged me another $36.74 inappropriately.
+
+Please reverse it immediately.
+
+Thank you.
+
+## 2021-08-09 06:23 MDT
+_From me to crmwebmail@24hourfit.com; subject "24Hour Fitness"_
+
+So after charging me $36.74 on 2021-08-01. I now see a pending charge for $49.99 on 2021-08-08. That doesn't make sense, even if you didn't honor the freeze.
+
+Please immediately refund me $86.73.
+
+If I don't hear back by 2021-08-16 that you have refunded me that amount and prevented me from getting charged again in the future (so we don't have to go through this game every month), I will take this up with my bank.
+
+## 2021-08-20 08:24 MDT
+_From me to crmwebmail@24hourfit.com; subject "24Hour Fitness"_
+
+Please be aware that I have disputed the following charges with my bank:
+
+* 2021-08-01: $36.74
+* 2021-08-08: $49.99
+
+## 2021-08-28 04:07 MDT
+_From customerservice@24hourfitness.com to me; subject "Account Update - Chargeback"_
+
+Dear ARTHUR,
+
+Your action is required in order to keep your membership current.
+
+At your earliest convenience, please update your membership account online at [My24](https://www.24hourfitness.com/MSO.do#){:target="&lowbar;blank"} or call us at 888.900.3194.
+
+Helping you reach your fitness goals is important to us, and we look forward to continuing to help you achieve them.
+
+Together in fitness,
+
+Your 24 Hour Fitness team
+
+## 2021-08-28 06:28 MDT
+_From me to customerservice@24hourfitness.com; subject "Account Update - Chargeback"_
+
+I've already emailed you about the erroneous charges, and requested that you both refund me for them and stop charging me when my account is supposed to be frozen. I warned you that if I didn't hear back within several weeks, I would take up the issue with my bank, and so I did.
+
+You won't fix the problem with my ability to log in, and every time I have called, I've been put on indefinite hold and been unable to get a human being. I don't have time for this nonsense anymore.
+
+Feel free to look through all the numerous emails we've exchanged, oftentimes with your replies coming many weeks, and in some cases months, after I email you.
+
+## 2021-09-09 14:42 MDT
+_From no_reply@24hourfitness.com to me; subject "24 Hour Fitness Waive Balance Confirmation"_
+
+_Attached PDF reads as follows:_
+
+**Re: 24 Hour Member # RY62280**
+
+**Dear _ARTHUR_,**
+
+Thank you for your continued loyalty, we appreciate the opportunity to serve you.
+
+Details of the balance(s) waived on your account is below. To view your billing details or manage your membership online, please visit 24hourfitness.com/my24.
+
+|Member|Invoice Number|Due Date|Invoice Amount|Balance Due|Amount Waived|
+|-|-|-|-|-|-|
+|ARTHUR ZEY<br />(Add-On)|INV66599466|08/01/2021|$36.74|$36.74|$36.74|
+
+Helping you reach your fitness goals is important to us, and we look forward to seeing you in the club again soon.
+
+Your 24 Hour Fitness Team
+
+## 2021-09-09 14:43 MDT
+_From no_reply@24hourfitness.com to me; subject "24 Hour Fitness Freeze Membership Confirmation"_
+
+_Attached PDF reads as follows:_
+
+**Re: 24 Hour Member # _RY62280_**
+
+**Dear _ARTHUR_,**
+
+Per your request on **_September 9, 2021_**, your 24 Hour Fitness membership has been placed on a freeze effective **_September 9, 2021_**, together with any upgrade, personal training or service agreements.
+
+If you have a monthly recurring personal training agreement, future monthly debits will be cancelled, and a new agreement will need to be purchased when you resume your membership. When you are ready to resume your workouts, please speak with a club team member about using any remaining sessions on your current agreement.
+
+Please see details in the grid below:
+
+|**Agreement Number**|**Name**|**Agreement**|
+|-|-|
+|RY62280|ARTHUR ZEY|Membership|
+
+**Reactivation Date:** 12/09/2021
+
+**Monthly Dues Resumes On:** 01/01/2022
+
+**Prorated Amount Due on Reactivation Date:** $27.26
+
+**(Excluding any available credits)**
+
+Please note that you will not have access to the club facilities, and will not be billed for your dues during your freeze period. You will continue to have access to the club for any paid time prior to the effective freeze date. For monthly agreements, your dues billing will resume automatically, at the end of your freeze, as indicated in the grid above*.
+
+**If you wish to reactivate your membership prior to the end of your freeze period, please visit your local club or contact us at 1.800.432.6348 and we will be happy to assist you.**
+
+To view your billing details or manage your membership online, please visit 24hourfitness.com/my24.
+
+Helping you reach your fitness goals is important to us, and we look forward to seeing you in the club again soon. Thank you for being a 24 Hour Fitness member.
+
+Your friends at 24 Hour Fitness
+
+\* A prorated dues amount may be due on your reactivation date to cover any billing period between your reactivation date and your next scheduled monthly dues debit.
+
+## 2021-09-09 14:51 MDT
+_From me to customerservice@24hourfitness.com; subject "24 Hour Fitness Waive Balance Confirmation", replying on the [2021-09-09 14:42 MDT thread](#2021-09-09-1442-mdt)_
+
+Aside from this, you have also charged me $49.99 on 2021-08-08 without explanation, which does not line up with any regular charge amounts, and it was in addition to the incorrect September membership fee (while I was supposed to be frozen).
+
+Please also reverse that and the erroneous $36.74 from September 1.
+
+## 2021-09-09 14:52 MDT
+_From me to customerservice@24hourfitness.com; subject "24 Hour Fitness Freeze Membership Confirmation", replying on the [2021-09-09 14:43 MDT thread](#2021-09-09-1443-mdt)_
+
+Thank you for this, but I requested the freeze over a year ago and explained the context. To be clear, I didn't make the request on September 9, 2021, and I didn't send you any emails. As you can see from the email history, the very last time of the numerous times I've been insisting that I was supposed to be frozen was 2021-08-09. So while I do expect the freeze to be in effect, you should know that your attached PDF is inaccurate about the stated dates.
+
+## 2021-09-09 15:08 MDT
+_From customerserv@24hourfit.com to me; subject "Account Update - Chargeback", replying on the [2021-08-28 06:28 MDT thread](#2021-08-28-0628-mdt)_
+
+HI Arthur,
+
+Thanks for the email, your account was placed on a ONE MONTH Free freeze on 4/8/21 and automatically reactivated on 5/7/21, (There are no indefinite time freezes) therefore all charges after reactivation are valid, never the less you received a complimentary refund for 2 month dues on 7/9/21 as a one-time customer service gesture.
+
+Our records indicate your bank charged back August dues $36.74 and your annual fee $49.99
+
+As an additional customer service gesture we have waived August dues $36.74 for your account to become current and this way we were able to process another complimentary freeze on your account for 3 months, reactivating on 12/9/21.
+
+Also note annual fee $49.99 is non-waivable, non-refundable and it is paid even when memberships remain on a freeze.
+
+Your payment for September dues has created a Credit on your account, which will be used in your payment for the first invoice after reactivation on 12/9/21 and first charge to be made on 1/1/2022, unless you cancel your membership before that date.
+
+Please note any additional freeze after reactivation on 12/9/21 will have a fee of $12 per month.
+
+We apologize if the response times have been long, please note you can self-mange your account online for expedited processing, view and manage your account including billing, payments, freezes, cancellation and more online using My24 account online, If you haven't enrolled you can do it at:
+
+https://www.24hourfitness.com/registration.html#/
+
+Sincerely,
+
+Fernando A.
+
+Member care specialist.
+
+## 2021-09-09 15:17 MDT
+_From me to customerserv@24hourfit.com; subject "Account Update - Chargeback"_
+
+If all that is the case about freeze durations, then your customer service should have advised me of that fact when I described the freeze I was looking for and when I was requesting, month after month, to get refunds for what I legitimately believed were erroneous charges. I never requested a one-month-only freeze, and I explained that because of your closures, I had to secure an alternative gym membership for which I had a contract through February 2022. Because your customer service team failed to apprise me of any problems with that, I should not have had any charges between when you closed your gyms in 2020 to present.
+
+You have confirmed that my freeze is valid through December 2021. We will need to renew it again then.
+
+But meanwhile, I need all charges reversed, please. Please forgive my stern tone, but it's been very frustrating to not get timely, accurate communication from your customer support for over a year, either by email or by phone.
+
+As for this:
+
+> you can self-mange your account online for expedited processing, view and manage your account including billing, payments, freezes, cancellation and more online using My24 account online, If you haven't enrolled you can do it at:
+
+I have been trying to sign in for over a year, with no luck (please see numerous emails about that), and your customer service advised me to call in, when your call centers were indefinitely closed.
+
+
+## 2021-09-14 17:51 MDT
+_From customerserv@24hourfit.com to me; subject "Account Update - Chargeback"_
+
+Hi Arthur,
+
+I confirm your membership RY62280 is on a Complimentary free freeze until 12/8/21, additional freezes will have a $12 monthly fee.
+
+We cannot provide you with any additional refund or credit.
+
+You already received a complimentary refund for 2 month dues on 7/9/21 as a one-time customer service gesture.
+
+Your bank charged back August dues $36.74 and your annual fee $49.99 As an additional customer service gesture we have waived August dues $36.74 for your account to become current and then processed another complimentary freeze on your account for 3 months, reactivating on 12/9/21.
+
+An annual fee $49.99 is non-waivable, non-refundable and it is paid even when memberships remain on a freeze.
+
+Your payment for September dues created a Credit on your account, which will be used in your payment for the first invoice after reactivation on 12/9/21 and first charge to be made on 1/1/2022, unless you cancel your membership before that date.
+
+Note processing times are expedited when self processing is made thru My24 account online, but we'll be happy to assist if you request via our website if you request it.
+
+Sincerely,
+
+Fernando A.
+
+Member care specialist.
+
+## 2021-09-14 18:05 MDT
+_From me to customerserv@24hourfit.com; subject "Account Update - Chargeback"_
+
+Please review the entire correspondence thread. I have been asking for freezes with no contradiction (and only getting ignored) many times. Indeed, I have gotten many refunds without comment, implicitly acknowledging that I was supposed to be frozen.
+
+If you couldn't freeze my account until February 2022, your customer service representatives should have apprised me of that fact when I mentioned that many, many months ago.
+
+Please also show me where in my contract it shows the $49.99 annual fee, which I was not charged in 2020, to my knowledge. I may also have to request its reversal from 2019-08-09.
+
+## 2021-09-14 18:08 MDT
+_From me to customerserv@24hourfit.com; subject "Account Update - Chargeback"_
+
+I managed to find the contract. I don't see where it says that the $49.99 fee is active during a freeze. Moreover, if you were unable to process a freeze until February 2022 when I first asked, you should have apprised me of the fact, and then I would have cancelled my membership altogether. So in any event, I would not have paid the $49.99 fee if I weren't misled. I'll leave the 2019-08-09 fee of $49.99 alone. That one was justified.
+
+## 2021-09-16 14:36 MDT
+_From customerserv@24hourfit.com to me; subject "Account Update - Chargeback"_
+
+HI Arthur,
+
+Copy of your original agreement is being forwarded in a separate email.
+
+I highlighted the clause related to annual fees payment during freeze, for your records,
+
+Sincerely,
+
+Fernando A.
+
+Member care specialist
+
+## 2021-09-17 14:37 MDT
+_From donotreply@24hourfit.com to me; subject "24 Hour fitness"_
+
+_Attached PDF confirmed [what I had already discovered by myself on 2021-09-14](#2021-09-14-1808-mdt)._
+
+Hi Arthur,
+
+Attached is copy of your original agreement.
+
+Please review Page 2, / Membership freeze policy / Dues during Freeze, for your records.
+
+Regards,
+
+Fernando A.
+
+Member Care Specialist \| Member Relations
+
+24 Hour Fitness USA, LLC
+
+24hourfitness.com \| 24life.com
 
 
 # Attempts to Access Online Account
