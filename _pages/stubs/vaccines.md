@@ -77,13 +77,13 @@ _Frankly, with how well-studied COVID-19 and its vaccines are (especially given 
 * cognitive impairment
 * etc
 
-And the same principle for adverse effects from the vaccines (for which we inherently can't have long-term data).
+And the same principle applies for adverse effects from the vaccines (for which we inherently can't have long-term data), but I think it's fair to lump in hospitalization and death into a monolithic "adverse effects" there.
 
 _Ideally, we'd have a breakdown by each different adverse effect._
 
-|risk for sub-cohort &rarr;<br />sub-cohort &darr;|COVID-19 infection<br />|hospitalization from COVID-19|long-term adverse effects from COVID-19|death from COVID-19|hospitalization from vaccine|adverse effects from vaccine|death from vaccine|
-|-|-|-|-|-|-|-|-|
-|unvaccinated| | | | |_n/a_|_n/a_|_n/a_|
-|Johnson & Johnson| | | | | | | |
-|Moderna| | | | | | | |
-|Pfizer| | | | | | | |
+|risk for sub-cohort &rarr;<br />sub-cohort &darr;|COVID-19 infection<br />|hospitalization<br />from COVID-19|long-term adverse effects<br />from COVID-19|death<br />from COVID-19|adverse effects<br />from vaccine|
+|-|-|-|-|-|-|
+|unvaccinated| | | | |_n/a_|
+|Johnson & Johnson| | | | | |
+|Moderna| | | | | |
+|Pfizer| | | | | |
