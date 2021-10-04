@@ -138,6 +138,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "musical hedonist"
   * "ussie" (like "selfie", but of multiple subjects)
   * "disconcur"
+  * "embiggen"
   * "foot coffins"
   * "meow"
     * "right meow"
@@ -169,6 +170,7 @@ Fun games:
   * wifis
   * stupid
   * robot
+  * aminal
 
 Other topics:
 
