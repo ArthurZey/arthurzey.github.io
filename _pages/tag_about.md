@@ -653,6 +653,87 @@ _The 5 Love Languages_ by Gary Chapman: [Kindle](https://smile.amazon.com/dp/B00
   * 46% **The Peacemaker** (type 9)\\
     _Nines like to keep a low profile and let the people around them set the agenda._
 
+### D&D Alignment
+**[Chaotic Good](http://easydamus.com/chaoticgood.html){:target="&lowbar;blank"}**
+
+A chaotic good character acts as his conscience directs him with little regard for what others expect of him. He makes his own way, but he's kind and benevolent. He believes in goodness and right but has little use for laws and regulations. He hates it when people try to intimidate others and tell them what to do. He follows his own moral compass, which, although good, may not agree with that of society.
+
+Chaotic good is the best alignment you can be because it combines a good heart with a free spirit.
+
+Chaotic good can be a dangerous alignment when it disrupts the order of society and punishes those who do well for themselves.
+
+While creatures of this alignment view freedom and the randomness of actions as ultimate truths, they likewise place value on life and the welfare of each individual. Respect for individualism is also great. By promoting the philosophy of chaotic good, characters of this alignments seek to spread their values throughout the world. To the chaotic good individual, freedom and independence are as important to life and happiness. The ethos views this freedom as the only means by which each creature can achieve true satisfaction and happiness. Law, order, social forms, and anything else which tends to restrict or abridge individual freedom is wrong, and each individual is capable of achieving self-realization and prosperity through himself, herself, or itself.
+
+Chaotic good characters are strong individualists marked by a streak of kindness and benevolence. They believe in all the virtues of goodness and right, but they have little use for laws and regulations. They have no use for people who "try to push folk around and tell them what to do." Their actions are guided by their own moral compass which, although good, may not always be in perfect agreement with the rest of society.
+
+These characters are basically good, but tend to be selfish and maybe a bit greedy. They tend to hold personal freedom and welfare above anything else. The chaotic good dislikes confining laws, self-discipline, and they distrust authority.
+
+Chaotic goods believe that freedom is the only means by which each creature can achieve true satisfaction and happiness. Law, order, social forms, and anything else which tends to restrict individual freedom is wrong, and each individual is capable of achieving self-realization and prosperity through himself. These characters believe that life has no grand plan, but each creature's spirit is essentially noble and good. Each being must follow his own conscience. By performing good acts the individual can hope to alleviate the suffering and anguish of others, whether caused by random or structured acts.
+
+The chaotic good character has a "beatific" attitude toward existence. In this character's opinion, any laws, social structures, or other such hierarchies that restrict his freedom are abhorrent and to be done away with. The inviolable right of the individual to seek his own pleasures is one of the cornerstones of society; but, being good, the chaotic good being will not tread on others to get his own way, for he feels that every other creature has the right to the pursuit of pleasure as well. Friends of a chaotic good character will find him unreliable in the clutch only if he puts his own well-being ahead of that of his companions. Obviously, almost everyone has this tendency, but it is left up to this individual whether or not he values a friendship enough to risk self sacrifice. The chaotic good being would not, however, take action that could unnecessarily jeopardize the lives of other persons or creatures. Life is valuable, but without sufficient personal freedom it is demeaned. Life and freedom are the foundation of the universe.
+
+A chaotic good character will keep his word to those who are not evil and will lie only to evil-doers. He will never attack an unarmed foe and will never harm an innocent. He will not use torture to extract information or for pleasure, but he may "rough up" someone to get information. He will never kill for pleasure, only in self-defense or in the defense of others. A chaotic good character will never use poison. He will help those in need and he prefers to work alone, as he values his freedom. He does not respond well to higher authority, is distrustful of organizations, and will disregard the law in his fight against evil. He will never betray a family member, comrade, or friend. Chaotic good characters do not respect the concepts of self-discipline and honor, because they believe such concepts limit freedom to act.
+
+Here are some possible adjectives describing chaotic good characters: unpredictable, independent, free spirited, cheerful, optimistic, easy going, carefree, helpful, kind, merciful, respectful of personal liberties, and anarchic.
+
+Well known chaotic good characters from film or literature include: Han Solo (Star Wars), Batman (DC Comics), Fred and George Weasley (Harry Potter), and Robin Hood.
+
+Equivalent alignment in other game systems: Unprincipled (Palladium), Light Side (Star Wars), Good (Warhammer), Gallant (Alternity).
+
+#### The Ten Chaotic Good Commandments
+A list of Ten Commandments for a chaotic good religion may look like this:
+
+1. You shall lie in the pursuit of goodness.
+2. You shall not harm the innocent.
+3. You shall not murder.
+4. You shall help the needy.
+5. You shall honor those who promote freedom and goodness.
+6. You shall break the law in pursuit of goodness.
+7. You shall not betray others.
+8. You shall avenge the acts of evil-doers and enemies of freedom.
+9. You shall not place duty above personal desire to do good.
+10. You shall seek unlimited good for others and freedom in society.
+
+#### Ten Chaotic Good Sins
+Likewise, a chaotic good religion may list the following as sins. This list is given in the order of least severe infraction to most severe.
+
+1. Failing to perform a random act of kindness when appropriate.
+2. Failing to pursue a new form of pleasure.
+3. Placing duty above personal desire.
+4. Failing to assist allies or good beings in need.
+5. Causing harm to an essentially good being.
+6. Following a law when you feel that it unnecessarily restricts your freedom.
+7. Turning down a chance to trick, cheat, or harm an evil being for personal gain.
+8. Betraying an ally or friend for evil reason.
+9. The murder of an innocent.
+10. Aiding the servants of Order and Evil.
+
+#### Chaotic Good and Society
+A chaotic good being...
+
+* Is not concerned with the desires of family members.
+* Values flexible relationships with romantic partners.
+* Considers himself above the law.
+* Finds most people to be narrow-minded and inflexible.
+* Believes those who seek to rule others are, by nature, corrupt.
+* Seeks to undermine the authority figures of his community or nation.
+* Finds the legal procedures of his nation corrupt.
+* Believes luck determines wealth.
+* Will break any contract when he feels like it.
+* Will not want to disappoint his family.
+* Will support their family even if it means personal discomfort.
+* Will never betray a friend and enjoys having close friends.
+* Considers the needs of the community in personal life.
+* Will give his life in defense of his community.
+* Will take actions to aid others during times of crisis, even if unprofitable to do so.
+* Believes everyone should be treated fairly and kindly.
+* Feels guilt when he commits a wrongdoing and will seek to right his wrong.
+* Uses wealth to help others who are less fortunate.
+
+A chaotic good government influences the community by helping the needy and opposing restrictions on freedom. In a chaotic good society, The people mean well and try to do right, but are hampered by a natural dislike of big government. Although there may be a single ruler, most communities are allowed to manage themselves, so long as their taxes are paid and they obey a few broad edicts. Such areas tend to have weak law enforcement organizations. A local sheriff, baron, or council may hire adventurers to fill the gap. Communities often take the law into their own hands when it seems necessary. Lands on the fringes of vast empires far from the capital tend to have this type of alignment.
+
+
+
 ### StrengthsFinder 2.0
 _as of 2013-01-02_
 1. **Individualization**\\
