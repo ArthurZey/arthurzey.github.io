@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-10-07"
+last_modified_at: "2021-10-09"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -173,6 +173,7 @@ Fun games:
   * stupid
   * robot
   * aminal
+  * curious &rarr; querious
 
 Other topics:
 
