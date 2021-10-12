@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-10-09"
+last_modified_at: "2021-10-12"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -82,6 +82,8 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "meme" versus ???
 * "irregardless", other non-words, and the (d)evolution of language (maybe a separate post in its own right)
 * datetime stamps, 24-hour time
+* "3 times more (than _x_)" versus "3 times _x_"
+* "3 times less (than _x_)" versus "1/3 of _x_"
 * "gods"
 * "theater" versus "theatre"
 * British English alternatives I prefer
@@ -118,6 +120,9 @@ Here are a few of my fixations and particularities (in no particular order) that
   * species
   * amateur
   * procedure / procedural
+  * aficionado
+  * nausea
+  * equilateral
 * generic brand names
   * Kleenex
   * Band-aid
