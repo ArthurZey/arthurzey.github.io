@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2021-09-19"
+last_modified_at: "2021-10-16"
 ---
 {:refdef: style="text-align: center;"}
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" />
@@ -848,7 +848,7 @@ Boy Scouts?
     <th markdown="span" rowspan="2">1989</th>
     <td markdown="span"></td>
     <td markdown="span"></td>
-    <td markdown="span"></td>
+    <td markdown="span">Parents legally changed my name from<br />_Arthur Igor Zey_<br />to<br />_Arthur Igor Lechtholz-Zey_</td>
   </tr>
   <tr>
     <td markdown="span" rowspan="2">[Temple Israel Kindergarten](https://www.tioh.org/){:target="&lowbar;blank"}</td>
@@ -1016,7 +1016,7 @@ Boy Scouts?
     <td markdown="span">Santa Monica, CA</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
-    <td markdown="span"></td>
+    <td markdown="span">Legally changed my name from<br />_Arthur Igor Lechtholz-Zey_<br />to<br />_Arthur Zey_</td>
   </tr>
   <tr>
     <td markdown="span" rowspan="6">Mountain View, CA</td>
