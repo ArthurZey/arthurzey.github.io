@@ -9,7 +9,7 @@ tags:
 
 _In which Richard refused to get from under the bed to go to our playdate with the Vekslers._
 
-Martin and Melissa sent Richard and Robert by plane to spend about five days with me, so that the adults could pack and move in relative peace. Those days happened to include Saturday, which is when the [1FROG](https://www.frontrangeobjectivism.com/study-groups/){:target="&lowbar;blank"} meeting was already scheduled, and since I hadn't been able to attend the last few, I really wanted to go. So I had coordinated with my friend Sarah Veksler to watch the boys at their home in Denver while they had a playdate with Sarah's and David's daughters, Sophie and Hazel.
+Martin and Melissa sent Richard (8) and Robert (6) by plane to spend about five days with me, so that the adults could pack and move in relative peace. Those days happened to include Saturday, which is when the [1FROG](https://www.frontrangeobjectivism.com/study-groups/){:target="&lowbar;blank"} meeting was already scheduled, and since I hadn't been able to attend the last few, I really wanted to go. So I had coordinated with my friend Sarah Veksler to watch the boys at their home in Denver while they had a playdate with Sarah's and David's daughters, Sophie and Hazel.
 
 Saturday afternoon crept up on us, and it was time to get ready to go. Richard suddenly decided that he was not going to go. So he crawled under my bed and refused to get out.
 
