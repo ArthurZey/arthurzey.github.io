@@ -1,12 +1,10 @@
 ---
 title: "Adventures in Uncling: No Negotiating"
 date: "2021-09-25"
-last_modified_at: "2021-10-17"
+last_modified_at: "2021-10-18"
 description: "Firm and kind, I patiently explained the nature of our relationship and acting toward our mutual interest."
 tags:
   - uncling
-  - draft
-sitemap: false
 ---
 
 _In which Richard refused to get from under the bed to go to our playdate with the Vekslers._
@@ -25,7 +23,7 @@ I nearly laughed when he asserted this. Being rather fussy about my own schedule
 
 # Autonomy and Responsibility for the Results of Choices
 
-The previous night, I told Richard that we could look online to figure out what kind of pizza rolls he liked, then we could go to a grocery store to buy them. But he decided to play Minecraft and watch TV/movies all day, so we ran out of time for that when it was time to leave for the Vekslers. Richard had a meltdown about his desire for pizza rolls and how I wasn't getting them for him, and I used the opportunity to remind him that I had offered for us to do that, but he made other choices, and now he has to live with the consequences of those choices. I hoped that, in some small way, this would reinforce his sense of autonomy, connecting his choices and actions with their results. I tried hard to not make it seem like a punishment or some consequence that I was imposing: I offered him some possibilities over the course of the last day, and he decided what would happen. He didn't like the result, but I wasn't the cause of that. I also didn't want to give into his demands and thereby rob him of the learning experience by removing the consequence he created.
+The previous night, I told Richard that we could look online to figure out what kind of pizza rolls he liked, then we could go to a grocery store to buy them. But he decided to play Minecraft and watch TV/movies all day, so we ran out of time for that when it was time to leave for the Vekslers'. Richard had a meltdown about his desire for pizza rolls and how I wasn't getting them for him, and I used the opportunity to remind him that I had offered for us to do that, but he made other choices, and now he has to live with the consequences of those choices. I hoped that, in some small way, this would reinforce his sense of autonomy, connecting his choices and actions with their results. I tried hard to not make it seem like a punishment or some consequence that I was imposing: I offered him some possibilities over the course of the last day, and he decided what would happen. He didn't like the result, but I wasn't the cause of that. I also didn't want to give into his demands and thereby rob him of the learning experience by removing the consequence he created.
 
 # The Trader Principle
 
