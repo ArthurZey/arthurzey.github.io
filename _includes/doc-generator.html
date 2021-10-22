@@ -239,7 +239,8 @@ Parameters:
         {% endif %}
         {% assign permalink = permalink | append: "[" | append: date | append: "](" | append: doc.url | append: ")" %}
         {% if doc.date != doc.last_modified_at and doc.date and doc.last_modified_at %}
-          {% assign permalink = permalink | append: " (last updated on " | append: doc.last_modified_at | append: ")" %}
+          {% assign last_modified_at = doc.last_modified_at | date: "%Y-%m-%d" %}
+          {% assign permalink = permalink | append: " (last updated on " | append: last_modified_at | append: ")" %}
         {% endif %}
       {% else %}
         {% assign permalink = "[Permalink](" | append: doc.url | append: ")" %}

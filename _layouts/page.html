@@ -5,8 +5,11 @@ layout: default
 
 {% if page.description %}{{ page.description }}{% endif %}
 
+{% assign doc_date = page.date | date: "%Y-%m-%d" %}
+{% assign doc_last_modified_at = page.last_modified_at | date: "%Y-%m-%d" %}
+
 {% if page.tags contains "stub" %}
-_This page is a stub{% if page.date or page.last_modified_at %}, created on {{ page.date | default: page.last_modified_at }}{% if page.date != page.last_modified_at and page.date and page.last_modified_at %} (last [updated]({{site.github.repository_url}}/commits/master/{{page.path}}){:target="&lowbar;blank"} on {{ page.last_modified_at }}){% endif %}{% endif %}. Its contents are notes on the issues and angles I want to address about this topic._
+_This page is a stub{% if page.date or page.last_modified_at %}, created on {{ doc_date | default: doc_last_modified_at }}{% if doc_date != doc_last_modified_at and doc_date and doc_last_modified_at %} (last [updated]({{site.github.repository_url}}/commits/master/{{page.path}}){:target="&lowbar;blank"} on {{ doc_last_modified_at }}){% endif %}{% endif %}. Its contents are notes on the issues and angles I want to address about this topic._
 
 ---
 
