@@ -46,6 +46,10 @@ Parameters:
     * default: false
     * otherwise, natural number
     * computed into YYYY-MM-DD stored in date-filter-date
+  * date-created-modified
+    * comma-concatenated list
+    * enum list of `created` and `modified`
+    * default: "created,modified"
 
 {% endcomment %}
 
@@ -154,6 +158,12 @@ Parameters:
   {% assign date-filter-date = false %}
 {% endif %}
 
+{% if include.date-created-modified %}
+  {% assign created-modified = include.date-created-modified | split: "," %}
+{% else %}
+  {% assign created-modified = "created,modified" | split: "," %}
+{% endif %}
+
 
 {% assign docs = "" | split: "," %}
 
@@ -211,13 +221,36 @@ Parameters:
       {% endif %}
       {% if date-filter-direction != "none" and date-filter-date %}
         {% assign doc-date-string = doc.date | date: "%Y-%m-%d" %}
-        {% if date-filter-direction == "before" %}
-          {% if doc-date-string > date-filter-date %}
-            {% assign include-doc = false %}
+        {% assign doc-last-modified-at-string = doc.last_modified_at | date: "%Y-%m-%d" %}
+        {% if created-modified contains "created" and created-modified contains "modified" %}
+          {% if date-filter-direction == "before" %}
+            {% if doc-date-string > date-filter-date and doc-last-modified-at-string > date-filter-date %}
+              {% assign include-doc = false %}
+            {% endif %}
+          {% elsif date-filter-direction == "after" %}
+            {% if doc-date-string < date-filter-date and doc-last-modified-at-string < date-filter-date %}
+              {% assign include-doc = false %}
+            {% endif %}
           {% endif %}
-        {% elsif date-filter-direction == "after" %}
-          {% if doc-date-string < date-filter-date %}
-            {% assign include-doc = false %}
+        {% elsif created-modified contains "created" %}
+          {% if date-filter-direction == "before" %}
+            {% if doc-date-string > date-filter-date %}
+              {% assign include-doc = false %}
+            {% endif %}
+          {% elsif date-filter-direction == "after" %}
+            {% if doc-date-string < date-filter-date %}
+              {% assign include-doc = false %}
+            {% endif %}
+          {% endif %}
+        {% elsif created-modified contains "modified" %}
+          {% if date-filter-direction == "before" %}
+            {% if doc-last-modified-at-string > date-filter-date %}
+              {% assign include-doc = false %}
+            {% endif %}
+          {% elsif date-filter-direction == "after" %}
+            {% if doc-last-modified-at-string < date-filter-date %}
+              {% assign include-doc = false %}
+            {% endif %}
           {% endif %}
         {% endif %}
       {% endif %}

@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2021-10-16"
+last_modified_at: "2021-10-23T21:59:25+00:00"
 ---
 {:refdef: style="text-align: center;"}
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" />
@@ -29,9 +29,9 @@ Frankly, a huge motive for me here is to create what amounts to an "Arthur wiki"
 
 ## Recently Added Content
 
-_[Stubs](/stubs/) written in the last 21 days._
+_[Stubs](/stubs/) written or modified in the last 21 days._
 
-{% include doc-generator.html tags-to-include="stub" tags-to-exclude="" markdown-heading=false heading-level=3 show-date=true show-edit-link=false show-permalink=true sort-by="date" sort-direction="DESC" date-filter-direction="after" date-filter-days-ago=21 %}
+{% include doc-generator.html tags-to-include="stub" tags-to-exclude="" markdown-heading=false heading-level=3 show-date=true show-edit-link=false show-permalink=true sort-by="date" sort-direction="DESC" date-filter-direction="after" date-filter-days-ago=21 date-created-modified="created,modified" %}
 
 
 ## Elevator Pitch
@@ -90,7 +90,7 @@ _Previous Sports_
 * I think glasses are incredible sexy/adorkable. I desperately wanted glasses when I was a kid, and I never understood any of the cultural norms around their being undesirable (like "four eyes, four eyes" taunting). I thought they were super cool, and even if I didn't need vision correction, they felt like a mark of being intellectual. There's more to say about all this, but now I wear glasses that offer mild vision correction, but I'd wear them regardless, just because I like the way I look in them.
 * If I'm not actually barefoot, just nipping out on a quick errand in flipflops, or wearing snow/snowboarding boots, I wear [Vibrams](https://us.vibram.com/shop/fivefingers/men/){:target="&lowbar;blank"}. I've been wearing them since 2011 for everything including work, gym, running, hiking/backpacking, and even formal events demanding a suit... I clearly don't wear them for the "fashion"; I find them comfortable, I think they're good for me physiologically, and I'm so allergic to wearing foot coffins (or dressing in general) just to accommodate others' expectations.
 * I've been eating strict [Paleo](/paleo/) (with various modifications and refinements) since 2009. No cheating.
-* I'm a compulsive nail-biter and "investigator" of my dermatological phenomena. (These are things I struggle with _a lot_.)
+* I'm a compulsive nail-biter and "investigator" of my dermatological phenomena, which is apparently called "dermatillomania" or "excoriation disorder". (These are things I struggle with _a lot_.)
 * I'm a horrible procrastinator. I often struggle to muster up the will to invest effort into tasks that would take 5-15 minutes to complete, so instead, they hang over my head for weeks or months, creating a ton of background stress. I find myself wondering whether this is a function of being extremely susceptible to cognitive inertia and the flip side of why being in a state of flow is such a powerful, productive experience for me. I think this is also related to why it's so important for me to set up daily/weekly routines, especially to handle administrative "adulting" tasks.
 * I'm extremely risk-averse, definitely to a fault and in a very anxiety-provoking way. This is a disposition I really need to keep in check.
 * I'm extremely conflict-averse, which [people often find surprising](/misunderstood/), and which sometimes manifests as being too accommodating and encouraging being taken advantage of. But on matters of principle, I absolutely do not shy away from defending my values.
