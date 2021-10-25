@@ -5,7 +5,7 @@ tags:
   - philosophy
 description: "Volition is self-evident and axiomatic. The universe works by deterministic laws. And yet choice is not an illusion. How is this possible?"
 date: "2020-04-17"
-last_modified_at: "2021-09-01"
+last_modified_at: "2021-10-25T14:55:24+00:00"
 ---
 
 This is a favorite topic of many philosophy students. It's fun to think about. But the most important lesson I've learned about this over the years is that _it doesn't matter_. While I think there are valuable things to learn from engaging in it, this is mostly just a fun intellectual exercise.
@@ -18,6 +18,9 @@ Here are a few things I want to address (and this is by no means exhaustive):
 * what volition is and isn't (and why typical characterizations like "the power to have done otherwise" are illegitimate)
 * why I don't like the phrase "free will" (ie, that it implies "contra-causal freedom")
 * what choice is and how it can be both deterministic and meaningful (and relatedly, what the role of epistemic ignorance is)
+  * different senses of choice; eg, deciding in advance to raise your hand or not versus the choice in the moment of what you do
+* connection to whether you can choose your values or decide to believe a lie (eg, can you choose to like chocolate ice cream or that 2+2=4?)
+* alternative conceptions of causality and "action action" : "things act in accordance with their natures" :: utilitarianism : virtue ethics
 * how understanding how something works (eg, volition, choice, a volcano) does not cause it to stop existing
 * the connection between moral accountability/agency and determinism
   * mental incapacity/illness
@@ -30,6 +33,7 @@ Here are a few things I want to address (and this is by no means exhaustive):
   * perhaps delegated to another post, but why you can't use induction or deduction to establish a lack of pattern/determinism (even if you _can_ prove it's impossible to _know_ something)
 * consciousness as an _action_ performed by the brain, not a _thing_; brain states as reflective of experiential/mind states; connection to "chemical imbalances" versus unpleasant emotions
 * what brain states (eg, "limbic system hijack", "sympathetic activation", "dorsal vagal collapse", intoxication) result in compromised volition and why it makes sense to say things like "he couldn't do _X_", when doing _X_ is typically the result of or is a volitional action
+* "could have done otherwise" as a conceptual shorthand, not dissimilar in principle from "having rights"; different senses of "can do A or B"
 * how the non-determinist position implies mystical dualism / mind-body dichotomy
 * whether AI can have genuine volition, even if it's deterministic
 * the evolutionary perspective: at what point did we evolve the gene(s) to be exempt from deterministic physical causality?
