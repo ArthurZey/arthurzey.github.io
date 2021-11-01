@@ -52,7 +52,7 @@ $(document).ready(function() {
 // First, we trigger on a click on any link.
 // Second, we check if the target URL (without the hash) is the same as the current page's URL (without the hash), which tells us whether it's an internal anchor link.
 $(document).ready(function() {
-  $('a').click(function(event) {
+  $('a:not(#scroll-top):not(#scroll-top-bar').click(function(event) {
     if (event.currentTarget.href.split("#")[0] == window.location.href.split("#")[0]) {
       if ($("body").css("overflow") == "hidden") {
         // This means that the content div is scrolling, not the overall page.
