@@ -1252,53 +1252,7 @@ a:hover {
     right: 0;
     overflow: auto;
   }
-  /*
-  .scroll-top-bar a {
-    display: inline-block;
-  }
-  */
 }
-
-/* Next block added by Arthur Zey 2021-10-31 to make .content scroll */
-@media only screen and (min-height: 1200px) and (min-width: 1080px) {
-  .content {
-    top: 350px;
-    left: 200px;
-  }
-}
-
-/* Next block added by Arthur Zey 2021-10-31 to make .content scroll */
-@media only screen and (min-height: 1200px) and (max-width: 1080px) {
-  .content {
-    top: 325px;
-    left: 190px;
-  }
-}
-
-/* Next block added by Arthur Zey 2021-10-31 to make .content scroll */
-@media only screen and (min-height: 1200px) and (max-width: 890px) {
-  .content {
-    top: 315px;
-    left: 145px;
-  }
-}
-
-/* Next block added by Arthur Zey 2021-10-31 to make .content scroll */
-@media only screen and (min-height: 1200px) and (max-width: 700px) {
-  .content {
-    top: 315px;
-    left: 120px;
-  }
-}
-
-/* Next block added by Arthur Zey 2021-10-31 to make .content scroll */
-@media only screen and (min-height: 1200px) and (max-width: 500px) {
-  .content {
-    top: 350px;
-    left: 120px;
-  }
-}
-
 
 @media only screen and (max-width: 1080px) {
   .left-frame-top,
@@ -1606,8 +1560,6 @@ a:hover {
   }
   .content {
     padding: 0 0 20px 15px;
-    overflow-y: scroll;
-    /* width: 90%; /* Arthur Zey 2021-10-31 added to fix truncated content on mobile. */
   }
   h1 {
     font-size: 30px;

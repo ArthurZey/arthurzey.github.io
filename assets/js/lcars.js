@@ -65,6 +65,34 @@ $(document).ready(function() {
         $("html, body").animate({ scrollTop: window.pageYOffset + $(event.currentTarget.hash).position().top }, "slow");
         // We're setting the scroll position of the page to its current scroll position plus the relative position of the anchor link's target div.
       }
+      // Get rid of the element's focus when we're done, in case its style changed.
+      $(':focus').blur();
     }
   });
+});
+
+// General function to position and resize the content div, for both initial positioning and on window resize, since we need it to be positioned absolutely for scrolling its contents independently.
+function positionAndResizeContent() {
+  // First, we set the position to absolute again (just in case), and set the top of the element to the bottom of the buffer (its top plus its height).
+  $('.content').css({
+    "position": "absolute",
+    "top": $('.corner-bg').position().top + $('.corner-bg').height(),
+    "left": $('.left-frame').position().left + $('.left-frame').width()
+  });
+  // Second, we set the width of the content div by taking the window's viewport size (which we have to take the min of innerWifth and outerWidth because of weird differences between desktop and mobile), subtracting the left-frame (using its left position plus width), and subtracting the margin, border, and padding of the content (by subtracting the width from the outerwidth(true)).
+  $('.content').width(Math.min(window.outerWidth, window.innerWidth) - ($('.left-frame').position().left + $('.left-frame').width()) - ($('.content').outerWidth(true) - $('.content').width()));
+  // Third, we have to adjust the height of panel-10, but only if the whole page is scrolling.
+  if ($("body").css("overflow") != "hidden") {
+    // That is, the whole page is scrolling, not just the content div
+    $('.panel-10').css("padding-bottom", $('.content').height() - ($('.panel-9').position().top + $('.panel-9').outerHeight()) + 300);
+  }
+  return;
+}
+
+$(document).ready(function() {
+  positionAndResizeContent();
+});
+
+$(window).resize(function() {
+  positionAndResizeContent();
 });
