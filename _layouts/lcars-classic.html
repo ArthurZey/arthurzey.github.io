@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		{% if page.redirect_to %}<link rel="canonical" href="{{ page.redirect_to }}"/>{% endif %}
+		{% if page.url contains "nsfw" or page.tags contains "nsfw" or page.sitemap == false or page.tags contains "draft" %}<meta name="robots" content="noindex">{% endif %}
+    {% if site.google_analytics and site.google_tag_manager and jekyll.environment == 'production' %}
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+      <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', '{{ site.google_analytics }}');
+      </script>
+    {% endif %}
+    <meta charset="UTF-8">
+    <title>{% if page.title %}{{ page.title }} | {{ site.title}}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:url" content="{{ page.url | replace: "index.html","" | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | escape }}{% else %}{{ site.description | strip_html | escape | strip_newlines }}{% endif %}" />
+    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/1697359?s=460&v=4" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta name="twitter:url" content="{{ site.url }}{{ page.permalink }}" />
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | escape }}{% else %}{{ site.description | strip_html | escape | strip_newlines }}{% endif %}" />
+    <meta name="twitter:image" content="https://avatars3.githubusercontent.com/u/1697359?s=460&v=4" />
+
+    <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | escape }}{% else %}{{ site.description | strip_html | escape | strip_newlines }}{% endif %}" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#ff0000">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="format-detection" content="date=no">
+		<link rel="stylesheet" type="text/css" href="/assets/css/lcars-classic.min.css">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Antonio:wght@400;700&display=swap" rel="stylesheet">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	</head>
+	<body>
+		<div class="wrap">
+			<div class="scroll-top">
+				<a id="scroll-top" href=""><span class="hop">screen</span> top</a>
+			</div>
+			<div class="left-frame-top">
+				<div class="panel-1"><a href="/about/">LCARS</a></div>
+				<div class="panel-2"><a href="{{site.github.repository_url}}/commit/{{site.github.build_revision}}" target="_blank">{{ site.github.build_revision | truncate: 7, "" }}</a></div>
+			</div>
+			<div class="right-frame-top">
+				<div class="banner">
+					{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
+				</div>
+					<div class="data-cascade-button-group">
+						<div class="cascade-wrapper">
+							<div class="data-cascade">
+								<div class="row-1">
+									<div class="dc1">101</div>
+									<div class="dc2">7109</div>
+									<div class="dc3">1966</div>
+									<div class="dc4">1222</div>
+									<div class="dc5">2020</div>
+									<div class="dc6">1444</div>
+									<div class="dc7">102</div>
+									<div class="dc8">1103</div>
+									<div class="dc9">1935</div>
+									<div class="dc10">1940</div>
+									<div class="dc11">708</div>
+									<div class="dc12">M113</div>
+									<div class="dc13">1956</div>
+									<div class="dc14">1209</div>
+								</div>
+								<div class="row-2">
+									<div class="dc1">102</div>
+									<div class="dc2">8102</div>
+									<div class="dc3">1987</div>
+									<div class="dc4">044</div>
+									<div class="dc5">0051</div>
+									<div class="dc6">607</div>
+									<div class="dc7">1976</div>
+									<div class="dc8">1031</div>
+									<div class="dc9">1984</div>
+									<div class="dc10">1954</div>
+									<div class="dc11">1103</div>
+									<div class="dc12">415</div>
+									<div class="dc13">1045</div>
+									<div class="dc14">1864</div>
+								</div>
+								<div class="row-3">
+									<div class="dc1">103</div>
+									<div class="dc2">714</div>
+									<div class="dc3">1993</div>
+									<div class="dc4">0222</div>
+									<div class="dc5">052</div>
+									<div class="dc6">1968</div>
+									<div class="dc7">2450</div>
+									<div class="dc8">746</div>
+									<div class="dc9">56</div>
+									<div class="dc10">47</div>
+									<div class="dc11">716</div>
+									<div class="dc12">8719</div>
+									<div class="dc13">417</div>
+									<div class="dc14">602</div>
+								</div>
+								<div class="row-4">
+									<div class="dc1">104</div>
+									<div class="dc2">6104</div>
+									<div class="dc3">1995</div>
+									<div class="dc4">322</div>
+									<div class="dc5">90</div>
+									<div class="dc6">1931</div>
+									<div class="dc7">1701</div>
+									<div class="dc8">51</div>
+									<div class="dc9">29</div>
+									<div class="dc10">218</div>
+									<div class="dc11">908</div>
+									<div class="dc12">2114</div>
+									<div class="dc13">85</div>
+									<div class="dc14">3504</div>
+								</div>
+								<div class="row-5">
+									<div class="dc1">105</div>
+									<div class="dc2">08</div>
+									<div class="dc3">2001</div>
+									<div class="dc4">713</div>
+									<div class="dc5">079</div>
+									<div class="dc6">1940</div>
+									<div class="dc7">LV</div>
+									<div class="dc8">426</div>
+									<div class="dc9">105</div>
+									<div class="dc10">10</div>
+									<div class="dc11">1206</div>
+									<div class="dc12">1979</div>
+									<div class="dc13">402</div>
+									<div class="dc14">795</div>
+								</div>
+								<div class="row-6">
+									<div class="dc1">106</div>
+									<div class="dc2">31</div>
+									<div class="dc3">2017</div>
+									<div class="dc4">429</div>
+									<div class="dc5">65</div>
+									<div class="dc6">871</div>
+									<div class="dc7">1031</div>
+									<div class="dc8">541</div>
+									<div class="dc9">656</div>
+									<div class="dc10">764</div>
+									<div class="dc11">88</div>
+									<div class="dc12">001</div>
+									<div class="dc13">27</div>
+									<div class="dc14">05</div>
+								</div>
+							</div>
+						</div> <!-- /cascade-wrapper -->
+						<div class="button-col">
+							<div class="button" id="top-left"><a href="/stubs/">STUBS</a></div>
+							<div class="button" id="bottom-left"><a href="/recipes/">RECIPES</a></div>
+						</div>
+						<div class="button-col">
+							<div class="button" id="top-right"><a href="/blog/">BLOG</a></div>
+							<div class="button" id="bottom-right"><a href="#footer">CONNECT</a></div>
+						</div>
+					</div> <!-- /data-cascade-button-group -->
+				<div class="top-corner-bg">
+					<div class="top-corner"></div>
+				</div>
+				<div class="bar-panel">
+					<div class="bar-1"></div>
+					<div class="bar-2"></div>
+					<div class="bar-3"></div>
+					<div class="bar-4"></div>
+					<div class="bar-5"></div>
+				</div>
+			</div> <!-- /right-frame-top -->
+		</div> <!-- /wrap -->
+		<div class="wrap" id="gap">
+			<div class="left-frame">
+				<div>
+					{% assign doc_date = page.date | date: "%Y-%m-%d" %}
+					{% assign doc_last_modified_at = page.last_modified_at | date: "%Y-%m-%d" %}
+					<div class="panel-3">POSTED<br />{{ doc_date }}</div>
+					<div class="panel-4">
+					{% if doc_date != doc_last_modified_at and doc_date and doc_last_modified_at %}
+						<a href="{{site.github.repository_url}}/commits/master/{{page.path}}" target="_blank">UPDATED<br />{{ doc_last_modified_at }}</a>
+					{% endif %}
+					</div>
+					<div class="panel-5"><a href="{{site.github.repository_url}}/edit/master/{{page.path}}" target="_blank">EDIT</a></div>
+					<div class="panel-6">06<span class="hop">-071984</span></div>
+					<div class="panel-7">07<span class="hop">-081940</span></div>
+					<div class="panel-8">08<span class="hop">-47148</span></div>
+					<div class="panel-9">09<span class="hop">-081966</span></div>
+				</div>
+				<div>
+					<div class="panel-10">10<span class="hop">-31</span></div>
+				</div>
+			</div>
+			<div class="right-frame">
+				<div class="bar-panel">
+				<div class="bar-6"></div>
+				<div class="bar-7"></div>
+				<div class="bar-8"></div>
+				<div class="bar-9"></div>
+				<div class="bar-10 scroll-top-bar"><a id="scroll-top-bar" href="">&#x25B2;</a></div>
+				</div>
+				<div class="corner-bg">
+					<div class="corner"></div>
+				</div>
+				<div class="content">
+
+					<!-- Start your content here. -->
+
+				{% if page.redirect_to %}
+					<h2>Redirecting...</h2>
+					<a href="{{ page.redirect_to }}">Click here if you are not redirected.<a>
+					<script>location='{{ page.redirect_to }}'</script>
+				{% else %}
+					{% if page.tags contains "draft" %}<i>This page is a draft and will not come up in site listings or search results. Please consider content provisional and in progress, and check back for updates.</i>{% endif %}
+      		{{ content | markdownify }}
+				{% endif %}
+					<!-- End content area. -->
+
+					<div class="lcars-bar-slice-top"></div>
+					<div class="lcars-bar">
+						<div class="lcars-bar-inner">
+							<div class="lcars-bar-cutout"></div>
+						</div>
+					</div>
+					<div class="lcars-bar-slice-bottom"></div>
+					<div class="footer" id="footer">
+						<div class="buttons">
+							<a href="https://www.linkedin.com/in/arthurzey" target="_blank" class="blue">LinkedIn</a>
+	            <a href="https://twitter.com/logicalarthur" target="_blank" class="ice">Twitter</a>
+	            <a href="https://www.facebook.com/arthurzey" target="_blank" class="bluey">Facebook</a>
+	            <a href="https://www.goodreads.com/friend/add_as_friend/112945867" target="_blank" class="sunflower">Goodreads</a>
+	            <a href="https://m.me/ArthurZey" target="_blank" class="lilac">Messenger</a>
+	            <a href="https://hdsp.co/buddy/request/9cQ8Bxz/LGm1m9" target="_blank" class="orange">Headspace</a>
+	            <a href="https://open.spotify.com/user/arthurzey" target="_blank" class="green">Spotify</a>
+	            <a href="https://hired.com/x/ffcaf88af5c389141fb9293e4ee3daa5" target="_blank" class="gray">Hired</a>
+						</div>
+						<hr />
+						<div class="buttons">
+							<a href="https://trakt.tv/users/arthurzey/history" target="_blank" class="two-rows red">TV & Movies<br />Trakt</a>
+	            <a href="https://www.last.fm/user/ArthurZey/library" target="_blank" class="two-rows red">Music<br />last.fm</a>
+	            <a href="http://www.myfitnesspal.com/food/diary/ArthurZey" target="_blank" class="two-rows blue">Food<br />MyFitnessPal</a>
+	            <a href="https://foursquare.com/logicalarthur/history" target="_blank" class="two-rows orange">Location<br />Swarm</a>
+	            <a href="https://www.alltrails.com/members/arthur-zey/completed" target="_blank" class="two-rows green">Hikes<br />AllTrails</a>
+						</div>
+						<hr />
+						<p class="go-center">LCARS LAYOUT DEVELOPED BY <a href="https://www.thelcars.com" target="_blank">JIM ROBERTUS</a> AND MODIFIED BY ARTHUR ZEY</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script type="text/javascript" src="/assets/js/lcars.js"></script>
+	</body>
+</html>
