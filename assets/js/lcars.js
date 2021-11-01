@@ -60,10 +60,10 @@ $(document).ready(function() {
         $('.content').animate( { scrollTop: $('.content').scrollTop() + $(event.currentTarget.hash).position().top }, "slow");
         // We're setting the scroll position of the content div to its current scroll position plus the relative position of the anchor link's target div.
       } else {
-        // This means that the ovrerall page is scrolling.
+        // This means that the overall page is scrolling.
         event.preventDefault();
-        $("html, body").animate({ scrollTop: window.pageYOffset + $(event.currentTarget.hash).position().top }, "slow");
-        // We're setting the scroll position of the page to its current scroll position plus the relative position of the anchor link's target div.
+        $("html, body").animate({ scrollTop: $('.content').position().top + $(event.currentTarget.hash).position().top }, "slow");
+        // We're setting the scroll position of the page to where the content div starts plus the relative position of the anchor link's target div in the content div.
       }
       // Get rid of the element's focus when we're done, in case its style changed.
       $(':focus').blur();
