@@ -125,7 +125,8 @@ a:hover {
   text-align: right;
   border-top: 5px solid #000;
   border-bottom: 5px solid #000;
-  padding: 20px 10px 20px 2px;
+  /* padding: 20px 10px 20px 2px; Arthur Zey 2021-10-31 making more responsive on mobile */
+  padding: 5px 5px 20px 2px;
   background: #c8f;
   font-size: 19px;
   font-weight: bold;
@@ -160,7 +161,8 @@ a:hover {
 .panel-1 a {
   display: block;
   background: #c8f;
-  padding: 82px 10px 15px 0;
+  /* padding: 82px 10px 15px 0; Arthur Zey 2021-10-31 making more responsive on mobile */
+  padding: 82px 5px 5px 0;
   text-decoration: none;
   color: #000;
   -webkit-touch-callout: none;
@@ -176,7 +178,8 @@ a:hover {
   outline: none;
 }
 .panel-2 {
-  padding: 15px 10px 0 0;
+  /* padding: 15px 10px 0 0; Arthur Zey 2021-10-31 making more responsive on mobile */
+  padding: 5px 5px 0 0;
 }
 .right-frame-top {
   flex: 1;
@@ -479,36 +482,44 @@ a:hover {
   border-bottom: 5px solid #000;
 }
 .panel-3 {
-  padding: 0 10px 15px 0;
+  /* padding: 0 10px 15px 0; Arthur Zey 2021-10-31 making more responsive on mobile */
+  padding: 0 5px 5px 0;
 }
 .panel-4 {
-  padding: 180px 10px 15px 0;
+  /* padding: 180px 10px 15px 0; Arthur Zey 2021-10-31 making more responsive on mobile */
+  padding: 180px 5px 5px 0;
   background: #d44;
 }
 .panel-5 {
-  padding: 25px 10px 25px 0;
+  /* padding: 25px 10px 25px 0; Arthur Zey 2021-10-31 making more responsive on mobile */
+  padding: 25px 5px 25px 0;
   background: #f70;
 }
 .panel-6 {
-  padding: 230px 10px 15px 0;
+  /* padding: 230px 10px 15px 0; Arthur Zey 2021-10-31 making more responsive on mobile */
+  padding: 230px 5px 5px 0;
   background: #ffaa90;
 }
 .panel-7 {
-  padding: 15px 10px 300px 0;
+  /* padding: 15px 10px 300px 0; Arthur Zey 2021-10-31 making more responsive on mobile */
+  padding: 5px 5px 300px 0;
   background: #78f;
 }
 .panel-8 {
-  padding: 15px 10px 110px 0;
+  /* padding: 15px 10px 110px 0; Arthur Zey 2021-10-31 making more responsive on mobile */
+  padding: 5px 5px 110px 0;
   background: #ffaa90;
 }
 .panel-9 {
-  padding: 15px 10px 170px 0;
+  /* padding: 15px 10px 170px 0; Arthur Zey 2021-10-31 making more responsive on mobile */
+  padding: 5px 5px 170px 0;
   background: #d44;
 }
 .panel-10 {
   border-top: 5px solid #000;
   background: #f70;
-  padding: 15px 10px 300px 0;
+  /* padding: 15px 10px 300px 0; Arthur Zey 2021-10-31 making more responsive on mobile */
+  padding: 5px 5px 300px 0;
 }
 .right-frame {
   flex: 1;
@@ -1336,8 +1347,8 @@ a:hover {
   }
   .scroll-top a {
     width: 130px;
-    padding: 10px 0 0 0;
-    text-align: center;
+    padding: 5px 5px 0 0; /* Arthur Zey 2021-10-31 changed from "10px 0 0 0" for consistency */
+    text-align: right; /* Arthur Zey 2021-10-31 changed from "center" for consistency */
   }
   .banner {
     font-size: 48px;
@@ -1531,7 +1542,9 @@ a:hover {
   }
   /* Arthur Zey 2021-10-31 overwriting these from 12px and 15px to make a YYYY-MM-DD datestamp fit on small screens */
   .sidebar-buttons a,
-  .left-frame {
+  .left-frame,
+  .left-frame-top,
+  .scroll-top a {
     font-size: 10px;
   }
   .top-corner-bg {
