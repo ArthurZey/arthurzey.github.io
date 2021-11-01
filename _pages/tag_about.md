@@ -4,11 +4,11 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2021-10-23T21:59:25+00:00"
+last_modified_at: "2021-11-01T01:06:35+00:00"
 ---
 {:refdef: style="text-align: center;"}
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" />
-<a href="#crest"><img src="/assets/images/Arthur Zey Crest (black on transparent).png" alt="Crest" width="480px" /></a>
+<a href="#crest"><img src="/assets/images/Arthur Zey Crest (white on transparent).png" alt="Crest" width="480px" /></a>
 {: refdef}
 
 Something, something, perfect enemy of the good.
@@ -300,7 +300,7 @@ _The purpose of art is to provide spiritual fuel and to directly evoke emotions 
 
 ## Crest
 {:refdef: style="text-align: center;"}
-<img src="/assets/images/Arthur Zey Crest (black on transparent).png" alt="Crest" width="720px" align="center" />
+<img src="/assets/images/Arthur Zey Crest (white on transparent).png" alt="Crest" width="720px" align="center" />
 {: refdef}
 
 _More to come on this... But for now, major hat tip to Melissa Cade, who painstakingly implemented and iterated on the design with me!_
@@ -385,6 +385,36 @@ _[2021-07-26](https://quiz.gretchenrubin.com/){:target="&lowbar;blank"}_:
 * "I do what I think is best, according to my judgment. If it doesn't make sense, I won't do it."
 * Arguments such as "Everyone has to do this.", "You said you'd do this.", "Because I say so.", or "I'm the doctor." aren't compelling to a Questioner.\\
 _Well, "You said you'd do this." does indeed resonate with me, since my commitments have become inner expectations (living up to integrity and responsibility)._
+
+### The Big Five
+* [Truity](https://www.truity.com/test/big-five-personality-test){:target="&lowbar;blank"}\\
+  _2021-10-28 18:00 MDT_ {% comment %}[(non-sharable results)](https://www.truity.com/test-results/bigfive/17315/22972995){:target="&lowbar;blank"}{% endcomment %}
+  * OCEAN
+    * **Openness**: 90%\\
+    _Openness describes a person's tendency to think in abstract, complex ways. High scorers tend to be creative, adventurous, and intellectual. They enjoy playing with ideas and discovering novel experiences. Low scorers tend to be practical, conventional, and focused on the concrete. They tend to avoid the unknown and follow traditional ways._\\
+    _Openness is strongly related to a person's interest in art and culture. People who are high in openness tend to enjoy the arts and seek out unusual, complex forms of self-expression. People who are low in openness are often suspicious of the arts and prefer to focus on more practical pursuits._
+    * **Conscientiousness**: 79%\\
+    _Conscientiousness describes a person's ability to exercise self-discipline and control in order to pursue their goals. High scorers are organized and determined, and are able to forego immediate gratification for the sake of long-term achievement. Low scorers are impulsive and easily sidetracked._\\
+    _The concept of Conscientiousness focuses on a dilemma we all face: shall I do what feels good now, or instead do what is less fun but will pay off in the future? Some people are more likely to choose fun in the moment, and thus are low in Conscientiousness. Others are more likely to work doggedly toward their goals, and thus are high in this trait._
+    * **Extraversion**: 79%\\ ([_hah!_](/introversion-and-extroversion/))
+    _Extraversion describes a person's inclination to seek stimulation from the outside world, especially in the form of attention from other people. Extraverts engage actively with others to earn friendship, admiration, power, status, excitement, and romance. Introverts, on the other hand, conserve their energy, and do not work as hard to earn these social rewards._\\
+    _Extraversion seems to be related to the emotional payoff that a person gets from achieving a goal. While everyone experiences victories in life, it seems that extroverts are especially thrilled by these victories, especially when they earn the attention of others. Getting a promotion, finding a new romance, or winning an award are all likely to bring an extrovert great joy. In contrast, introverts do not experience as much of a "high" from social achievements. They tend to be more content with simple, quiet lives, and rarely seek attention from others._
+    * **Agreeableness**: 71%\\
+    _Agreeableness describes a person's tendency to put others' needs ahead of their own, and to cooperate rather than compete with others. People who are high in Agreeableness experience a great deal of empathy and tend to get pleasure out of serving and taking care of others. They are usually trusting and forgiving._\\
+    _People who are low in Agreeableness tend to experience less empathy and put their own concerns ahead of others. Low scorers are often described as hostile, competitive, and antagonistic. They tend to have more conflictual relationships and often fall out with people._
+    * **Neuroticism**: 50%\\
+    _Neuroticism describes a person's tendency to experience negative emotions, including fear, sadness, anxiety, guilt, and shame. While everyone experiences these emotions from time to time, some people are more prone to them than others._\\
+    _This trait can be thought of as an alarm system. People experience negative emotions as a sign that something is wrong in the world. You may be in danger, so you feel fear. Or you may have done something morally wrong, so you feel guilty. However, not everyone has the same reaction to a given situation. High Neuroticism scorers are more likely to react to a situation with fear, anger, sadness, and the like. Low Neuroticism scorers are more likely to brush off their misfortune and move on._
+  * Core Personality Patterns\\
+  _This circumplex describes the essential role you take on in approaching the world. This role is a reflection of your core values and motivations, as well as the way you think about things._
+    * **Empathic Idealist**: 80%\\
+    _Uses insight and creativity to help others. Thinks about how the world could be a better and more beautiful place._
+    * **Analytical Thinker**: 59%\\
+    _Solves logical problems with rational, complex analysis. Thinks about innovative ways to improve systems._
+    * **Practical Caretaker**: 41%\\
+    _Helps other people in practical, everyday ways. Uses established institutions to maintain stability and security._
+    * **Logical Mechanic**: 20%\\
+    _Ensures accuracy and efficiency in logical systems. Uses proven methods to accomplish real-world goals._
 
 ### PrinciplesYou
 Wow, does this ever need some editorial commentary... _sigh..._

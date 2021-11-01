@@ -6,13 +6,13 @@ tags:
   - dairy
 description: "Brussels sprouts fried in butter and bacon fat, then drowned in parmesan cheese"
 date: "2020-12-02"
-last_modified_at: "2020-12-06"
+last_modified_at: "2021-11-01T01:06:34+00:00"
 ---
 
 * TOC
 {:toc}
 
-# Equipment
+## Equipment
 * frying pan with large flat surface (cast iron pan is ideal)
 * tongs
 * bowl
@@ -20,7 +20,7 @@ last_modified_at: "2020-12-06"
 * knife
 * serving dish/bowl
 
-# Ingredients
+## Ingredients
 The following proportions are approximate, based on estimating that the Brussels sprout halves will cover the frying pan surface. Adjust as described in the [preparation](#preparation) section.
 
 ~4 servings (400 grams of final product)
@@ -34,7 +34,7 @@ The following proportions are approximate, based on estimating that the Brussels
 |to taste|salt| |
 |to taste|pepper| |
 
-# Preparation
+## Preparation
 1. the pan
   * If the butter and bacon fat is not already melted, add both to a frying pan and heat the pan only enough for both to melt completely. (You can turn off the heat while melting finishes.)
   * Make sure that the bottom of the frying pan is coated generously. It should swirl around in the pan, maybe a few millimeters deep. Add more bacon fat and butter, ideally in equal quantities, if you can't swirl it around.

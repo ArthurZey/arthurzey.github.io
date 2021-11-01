@@ -1,7 +1,7 @@
 ---
 title: "2020 Retrospective"
 date: "2021-01-01"
-last_modified_at: "2021-01-20"
+last_modified_at: "2021-11-01T01:06:35+00:00"
 description: "2020 was one of the most difficult and painful years of my life. Good riddance."
 tags:
   - draft
@@ -25,7 +25,7 @@ And here, I've just [started on a new team at Amazon](#changing-teams-at-amazon)
 * TOC
 {:toc}
 
-# End of Relationship with Adam
+## End of Relationship with Adam
 
 On June 2, I wrote the following Facebook post, which I decided to not post:
 
@@ -79,19 +79,19 @@ Fuck you, 2020.
 
 (And really, if it weren't for COVID-19 shutdowns, we would have attended the April [Hold Me Tight Workshop](https://holdmetightworkshop.com/){:target="&lowbar;blank"}, and then who knows if that might have been able to work through things. Fuck.)
 
-# Move to Denver
+## Move to Denver
 
-# Loss of MyFitnessPal Data
+## Loss of MyFitnessPal Data
 
-# State Farm's Bad-Faith Liability Determination Reversal
+## State Farm's Bad-Faith Liability Determination Reversal
 
-# Identity Theft
+## Identity Theft
 
-# Changing Teams at Amazon
+## Changing Teams at Amazon
 
-# End of Friendship with Diana
+## End of Friendship with Diana
 
-# Burglary of Storage Unit
+## Burglary of Storage Unit
 
 When I updated one of my dating profiles and answered the prompt "Six things I could never do without", I wrote "the physical and digital things/memorabilia that serve as anchors for my memory and nostalgia".
 
@@ -107,10 +107,10 @@ Yes, other people suffer similar loses, and they go on with their lives. Numerou
 
 As the capstone to 2020, going on just feels unbearable and all the more unreal. This isn't a "fresh start". This isn't "liberation". This is just horseshit.
 
-# Ongoing Misprocessing of Health Care Claims by Aetna
+## Ongoing Misprocessing of Health Care Claims by Aetna
 
-# Reading
+## Reading
 
-# Front Range Objectivism
+## Front Range Objectivism
 
-# Peak Living Network and Healing
+## Peak Living Network and Healing

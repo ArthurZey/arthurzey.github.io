@@ -5,19 +5,19 @@ tags:
   - gluten-free
 description: "Pork ribs that fall off the bone"
 date: "2021-03-19"
-last_modified_at: "2021-03-20"
+last_modified_at: "2021-11-01T01:06:35+00:00"
 ---
 
 * TOC
 {:toc}
 
-# Equipment
+## Equipment
 * oven-safe Pyrex pans (2" deep)
 * aluminum foil
 * kitchen shears/scissors or knife
 * cutting board (optional)
 
-# Ingredients
+## Ingredients
 
 |Quantity|Item|Preparation|
 |-|-|-|
@@ -36,7 +36,7 @@ Seasonings that I have especially enjoyed:
 Sauces that I have enjoyed:
 * [Noble Made Classic BBQ Sauce](https://thenewprimal.com/products/classic-bbq-sauce-whole30-approved-1-pack-bundle-only){:target="&lowbar;blank"} (which is Paleo and Whole30!)
 
-# Preparation
+## Preparation
 1. The evening before cooking, cut the rack(s) of ribs into pieces that fit into your Pyrex pan(s) and arrange them so that they don't overlap and there is at least a centimeter or two between the top of the ribs and the top of the pan.
 2. Salt, pepper, and season both sides of all pieces and rub the seasoning in.
 3. Cover the Pyrex pan(s) tightly with foil and put in fridge overnight.

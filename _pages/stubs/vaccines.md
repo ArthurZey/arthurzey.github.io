@@ -6,7 +6,7 @@ tags:
   - science
 description: "Viewpoints about vaccines are an interesting case study in epistemology."
 date: "2021-10-02"
-last_modified_at: "2020-10-03"
+last_modified_at: "2021-11-01T01:06:35+00:00"
 links:
   resources:
     - type: FACEBOOK
@@ -57,7 +57,7 @@ A note I sent to Andrew about what data I want to make an informed decision:
 >
 > I know that might be a tall order, but that strikes me as a reasonable desire for information to make an informed decision.
 
-# Data for an Informed Decision
+## Data for an Informed Decision
 
 Baseline cohort (or as close this as possible):
 * 35-40 years old

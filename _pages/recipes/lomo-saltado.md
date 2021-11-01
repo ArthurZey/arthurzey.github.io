@@ -7,13 +7,13 @@ tags:
   - soy-free
 description: "A traditional Peruvian beef-potato stew served over rice, modified to accommodate Paleo-ish needs"
 date: "2020-12-03"
-last_modified_at: "2020-12-06"
+last_modified_at: "2021-11-01T01:06:35+00:00"
 ---
 
 * TOC
 {:toc}
 
-# Equipment
+## Equipment
 * wok
 * large pot
 * small pot
@@ -31,7 +31,7 @@ last_modified_at: "2020-12-06"
 <img src="https://lh3.googleusercontent.com/pw/ACtC-3cQAXebtWWMQzXckH95MyRPy2STixX9XFP9gOO_TsO_105nTbwZPWvM91Dr29y5_yUbdvWVdFWzmuRgBDfLWWMCTluniD9GTHcZsEstBeW_tSEMIrB7ZzB5Qk1Y7SP5RjU8H-kigYAmFQcAQtZjAXXQSA=w1720-h1277-no?authuser=0" alt="Wok, pot, small pot" width="480px" align="center" />
 <img src="https://lh3.googleusercontent.com/pw/ACtC-3cg7YwxOHPHM19recWeCO20LN6VLoMFJqd9qHJc9YHZlZcQx6pqsJm9zMKBhoIy61DljFu4K99vmR53z0NnaM8yu0deFxKoclCmhtVT4yZHJqPv_ZxdabbsVlupQteqL0jF0_35GianrVixPu-tDVtO7w=w1720-h1277-no?authuser=0" alt="Deep fryer and rice cooker" width="480px" align="center" />
 
-# Ingredients
+## Ingredients
 ~4 servings
 
 |Quantity|Item|Preparation|
@@ -52,10 +52,10 @@ last_modified_at: "2020-12-06"
 
 <img src="https://lh3.googleusercontent.com/pw/ACtC-3eIg--frhji6EeZ7HXKkQuHkANkqELvGhsqUZiO55W7cTSx5XZfj1gyVbP6bGK6SPaauvhqSAHSWz0RtxRqMO-6pLqIVVan7NB_HLQ_Ut1dI7sgPp3QOdLP23CoWkznkToEJThgts_CSArbc9n9wd7yQg=w1720-h1277-no?authuser=0" alt="Non-veggie ingredients" width="480px" align="center" /> <img src="https://lh3.googleusercontent.com/pw/ACtC-3diaLlvNnNgaS2Oj8XkWlE3wWrIH2G5IoaXQOR-Xv0ngPhmJAQuH3tDiyyqBS5SXNOrYVcfp8UmNhG3_gF1t6xRnoQj-dCbfDW7dscKtVK7fdQHv3uE0KbPhFKZMP25hLC_M1yL4B5EE_YydFJigXevLQ=w1720-h1290-no?authuser=0" alt="Most ingredients in bowls, wok, and small pot" width="480px" align="center" />
 
-# Preparation
+## Preparation
 The following sections can be parallelized. Start with whichever first, depending on how much of your potatoes can be deep fried at the same time and whether you have a rice cooker.
 
-## Rice
+### Rice
 1. Optional: rinse rice, if you care about removing arsenic content.
     1. Put dry rice in a bowl.
     2. Fill with water.
@@ -69,7 +69,7 @@ The following sections can be parallelized. Start with whichever first, dependin
     3. As soon as it boils (you have to pay close attention), cover the pot and put on lowest heat.
     4. Allow to simmer until water has been completely absorbed / evaporated (~20-30 minutes).
 
-## Potatoes
+### Potatoes
 1. Put avocado oil in deep pan or deep fryer. Use enough that at least one layer of potato strips will be completely submerged.
 2. Heat to ~375 F; meanwhile prepare potatoes as specified above.
 3. When heated, place potatoes in pan/fryer. Let fry for about ~10 minutes.\\
@@ -79,7 +79,7 @@ The following sections can be parallelized. Start with whichever first, dependin
 5. Repeat steps 3 and 4 until all your potatoes are fried.
 6. Set potatoes aside.
 
-## Stew
+### Stew
 1. Prepare all veggies (onions, tomatoes, jalapeño peppers, cilantro) as specified above and separate into bowls for easy dumping.\\
 <img src="https://lh3.googleusercontent.com/pw/ACtC-3cX7OszkxIYTRwtowmdlsu98rk180-CMITVRvgh0ked0C8dp10iyjXt--JQwDlJfPTakFVf-2zsn2WW-mwY5FfO2feltd5dxydaHTPqSaOWWOVjXuTqLgqvNNMk6ihqJdRO1ZpCwVzv99MMi9wqr7F-FQ=w1720-h1277-no?authuser=0" alt="Seeded jalapeños" width="480px" align="center" /> <img src="https://lh3.googleusercontent.com/pw/ACtC-3eeZmJNBooQpcFRKe00ZPFhwHdcm4hiiFdJEimYp8mvAEv3rQwacujPXrZ0BIAYSV3WtL3mMK-uboECumCoa2vghPnLXKJqCdSNjyoNWx9Yxenqdper2I53XhFb1YvcFX-k1myAJHY7k7KL-PbCh4rH4Q=w1720-h1277-no?authuser=0" alt="Veggies in bowls" width="480px" align="center" />
 2. Reduce the beef broth in a small pot to about half its volume. Set it aside when done. (Move on to further steps while it’s reducing.)

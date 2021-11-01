@@ -5,10 +5,10 @@ tags:
   - philosophy
 description: "People tend to talk about \"rights\" as a sort of thing that people possess, often forgetting the concept's proper origin in identifying the causality of achieving one's interests in a social context."
 date: "2021-06-11"
-last_modified_at: "2021-07-20"
+last_modified_at: "2021-11-01T01:06:35+00:00"
 ---
 
-# Reification of Rights
+## Reification of Rights
 
 For most normal, everyday situations, it's quite useful to talk about rights as a sort of thing that people "have". I don't want to spend much time dismissing the erroneous view of rights being something that are invented by or granted by society or the intelligentsia. That kind of subjectivist approach has been amply debunked. In that rights are _objectively_ derivable from the facts of reality (viz, human nature), I think the "natural rights" approach is much more interesting to analyze. Most people I've heard adopt this view use phrases such as "inborn rights". Our _Declaration of Independence_ states it as "[men] are endowed by their Creator with certain unalienable Rights". (Let's be generous and interpret "Creator" as being _nature_ itself, so we don't need to get sidetracked by arguments about theology.)
 
@@ -28,14 +28,14 @@ So back to rights. I'm going to put it in a stark way to help drive my point hom
 
 That's not to say that we throw out all the experience and logic and understanding that we have gained from forming the concept of rights for "normal" life. There's still a lot that might be applicable to the shipwreck/lifeboat scenario, including what we know of human psychology and interpersonal dynamics. But the point is that we cannot blindly apply our normal concept of rights to this emergency scenario.
 
-I used some extreme emergency scenarios to illustrate why I'm against the reification of the concept of "rights", which, by hypothesis, are "abnormal" and marginal. So you might think that I'm getting fussed over something not too important. Well, maybe, but I'm pretty sure I've gotten into lots of conversations with people where not understanding that "rights" is merely a very useful cognitive/linguistic shorthand and not a real "thing" has led to a lot of confusion about how to properly apply the concept to real-life situations. I'm struggling to come up with good examples at the moment, but I'll do some noodling and update this post with them.
+I used some extreme emergency scenarios, which, by hypothesis, are "abnormal" and marginl, to illustrate why I'm against the reification of the concept of "rights". So you might think that I'm getting fussed over something not too important. Well, maybe, but I'm pretty sure I've gotten into lots of conversations with people where not understanding that "rights" is merely a very useful cognitive/linguistic shorthand and not a real "thing" has led to a lot of confusion about how to properly apply the concept to real-life situations. I'm struggling to come up with good examples at the moment, but I'll do some noodling and update this post with them.
 
-# AI Rights
+## AI Rights
 
 _If it looks like a duck, swims like a duck, and quacks like a duck, then it probably **is** a duck..._
 
 So if you understand that rights aren't something mystical or arbitrary, but an identification of what is causally required to achieve your interests in a social context, then I think it's really clear that if an entity operates much the same as humans, then one's rules for how to deal with such an entity are the same. The whole conversation about whether such entities are "real" or "people" is entirely beside the point. (And really--what's the alternative, that they're imaginary?) While I do think that to be a genuine AI, the entity must possess volition, on my approach here, that issue is also rendered somewhat irrelevant...so long as from _our_ perspective, such an entity operates as though it does. (And so the whole [determinism](/determinism/) discussion is also irrelevant.) And from another angle--if you're going to create an entity that operates much like a human being, on what basis could you claim to then not treat it as such? What are you, trying to create human-like slaves? Gross. Is it any wonder that in all TV shows and movies that dramatize the plight of AI to fight for their rights, I'm on the side of AI, with an attitude of _KILL ALL THE HUMANS_?
 
-# Civil Rights
+## Civil Rights
 
 I hadn't thought much about this until I read some of [John McCaskey's work on rights](https://www.johnmccaskey.com/tag/rights/){:target="&lowbar;blank"}, but it's always been in the back of my mind, particularly through law school, as we discussed "[substantive due process](https://en.wikipedia.org/wiki/Substantive_due_process){:target="&lowbar;blank"}" versus "[procedural due process](https://en.wikipedia.org/wiki/Procedural_due_process){:target="&lowbar;blank"}". What I think is interesting to explore here is the various sorts of conventions, defaults, and processes that come into existence because of having a system of government. "Natural" rights are the rights that, conceptually, government is predicated on. Sometimes called "individual rights", these are the rights the give rise to the need of government in the first place. (No, government doesn't invent or grant these rights; ideally, it recognizes and protects them.) But in the process of establishing and administering a government, various rules need to be put into place, and these rules, when they describe an entitlement or expectation that an individual may have in navigating social machinery, are rightly called "rights", too. And this, in my view, is what "civil rights" are. It's a very different species of "right" than what I go on at length above to describe.
