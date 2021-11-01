@@ -4,7 +4,7 @@ tags:
   - about
 permalink: /about/
 date: "2020-04-15"
-last_modified_at: "2021-11-01T01:06:35+00:00"
+last_modified_at: "2021-11-01T18:25:49+00:00"
 ---
 {:refdef: style="text-align: center;"}
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" />
@@ -13,7 +13,7 @@ last_modified_at: "2021-11-01T01:06:35+00:00"
 
 Something, something, perfect enemy of the good.
 
-I'm Arthur. This is my website. I threw together a basic structure using [GitHub Pages](https://pages.github.com){:target="&lowbar;blank"} (because tech geek) to get something off the ground quickly.
+I'm Arthur. This is my website. In early 2020, I threw together a basic structure using [GitHub Pages](https://pages.github.com){:target="&lowbar;blank"} (because tech geek) to get something off the ground quickly. And, with gratitude to [Jim Robertus](https://www.thelcars.com/){:target="&lowbar;blank"}, in late 2021, I finally did a first-pass / naive adaptation of his LCARS template to my website.
 
 I have about a million and one things I'm passionate about that I want to get out of my brain and onto proverbial paper.
 
