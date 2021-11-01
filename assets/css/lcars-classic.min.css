@@ -1241,7 +1241,7 @@ a:hover {
 }
 
 /* Next block added by Arthur Zey 2021-10-31 to make .content scroll */
-@media only screen and (min-height: 1200px) {
+@media only screen and (min-height: 1000px) {
   body {
     /* color: #c7f; */
     overflow: hidden;
