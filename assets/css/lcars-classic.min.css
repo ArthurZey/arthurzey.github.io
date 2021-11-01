@@ -545,6 +545,14 @@ a:hover {
   height: auto;
 }
 /* Arthur Zey 2021-10-31 added the next two blocks to make tables appear properly */
+.content table {
+  display: block;
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+  margin: 0 auto;
+  overflow-x: auto;
+  white-space: nowrap;
+}
 .content table,
 .content th,
 .content td {
