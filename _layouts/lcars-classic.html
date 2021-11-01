@@ -193,7 +193,7 @@
 				<div>
 					{% assign doc_date = page.date | date: "%Y-%m-%d" %}
 					{% assign doc_last_modified_at = page.last_modified_at | date: "%Y-%m-%d" %}
-					<div class="panel-3">POSTED<br />{{ doc_date }}</div>
+					<div class="panel-3">POSTED<br />{{ doc_date | default: doc_last_modified_at }}</div>
 					<div class="panel-4">
 					{% if doc_date != doc_last_modified_at and doc_date and doc_last_modified_at %}
 						<a href="{{site.github.repository_url}}/commits/master/{{page.path}}" target="_blank">UPDATED<br />{{ doc_last_modified_at }}</a>
