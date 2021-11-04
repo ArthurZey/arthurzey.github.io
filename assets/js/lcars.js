@@ -40,16 +40,6 @@ $(document).ready(function() {
     });
 });
 
-// Arthur Zey 2021-10-31: The following corrects the overall window position if we want the content div to scroll, but we got to the page with an anchor link in the URL:
-// window.location.hash.substr(1).length > 0 tells us that the loaded URL had an anchor link
-// $(window).scrollTop() > 0 tells us that the overall page is scrolled (the default for the template)
-// $("body").css("overflow") == "hidden" tells us that the overall page's overflow is hidden; ie, that the content div is going to scroll (this is set in the CSS)
-$(document).ready(function() {
-  if (window.location.hash.substr(1).length > 0 && $(window).scrollTop() > 0 && $("body").css("overflow") == "hidden") {
-    window.scrollTo(0,0);
-  }
-});
-
 // Arthur Zey 2021-10-31: The following makes internal page anchor links work correctly and scroll smoothly.
 // First, we trigger on a click on any link.
 // Second, we check if the target URL (without the hash) is the same as the current page's URL (without the hash), which tells us whether it's an internal anchor link.
@@ -98,8 +88,16 @@ function positionAndResizeContent() {
   return;
 }
 
+// Arthur Zey 2021-10-31: The following corrects the overall window position if we want the content div to scroll, but we got to the page with an anchor link in the URL:
+// window.location.hash.substr(1).length > 0 tells us that the loaded URL had an anchor link
+// $(window).scrollTop() > 0 tells us that the overall page is scrolled (the default for the template)
+// $("body").css("overflow") == "hidden" tells us that the overall page's overflow is hidden; ie, that the content div is going to scroll (this is set in the CSS)
 $(document).ready(function() {
   positionAndResizeContent();
+  if (window.location.hash.substr(1).length > 0 && $(window).scrollTop() > 0 && $("body").css("overflow") == "hidden") {
+    window.scrollTo(0,0);
+    $('.content').animate( { scrollTop: $('.content').scrollTop() + $(window.location.hash).position().top }, "slow");
+  }
 });
 
 $(window).resize(function() {
