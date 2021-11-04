@@ -54,7 +54,7 @@ $(document).ready(function() {
 $(document).ready(function() {
   $('a:not(#scroll-top):not(#scroll-top-bar').click(function(event) {
     if (event.currentTarget.href.split("#")[0] == window.location.href.split("#")[0]) {
-      if ("#" + event.currentTarget.href.split("#")[1] in hash_redirects) {
+      if (hash_redirects && "#" + event.currentTarget.href.split("#")[1] in hash_redirects) {
         event.preventDefault();
         window.location.href = hash_redirects["#" + event.currentTarget.href.split("#")[1]];
       } else {
