@@ -24,6 +24,7 @@ $('.content').scroll(function() {
 $(document).ready(function() {
     $("#scroll-top").click(function(event) {
         event.preventDefault();
+        window.history.pushState({ additionalInformation: "Stripping URL of the internal anchor link."}, document.title, event.currentTarget.href.split("#")[0]); // clear the anchor from the URL
         $("html, body").animate({ scrollTop: 0 }, "slow");
         return false;
     });
@@ -33,6 +34,7 @@ $(document).ready(function() {
 $(document).ready(function() {
     $("#scroll-top-bar").click(function(event) {
         event.preventDefault();
+        window.history.pushState({ additionalInformation: "Stripping URL of the internal anchor link."}, document.title, event.currentTarget.href.split("#")[0]); // clear the anchor from the URL
         $('.content').animate({ scrollTop: 0 }, "slow");
         return false;
     });
@@ -71,6 +73,8 @@ $(document).ready(function() {
         }
         // Get rid of the element's focus when we're done, in case its style changed.
         $(':focus').blur();
+        // Update the URL with the anchor
+        window.history.pushState({ additionalInformation: "Updated the URL with the internal anchor link."}, document.title, event.currentTarget.href);
       }
     }
   });
