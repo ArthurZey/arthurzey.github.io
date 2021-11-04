@@ -54,19 +54,24 @@ $(document).ready(function() {
 $(document).ready(function() {
   $('a:not(#scroll-top):not(#scroll-top-bar').click(function(event) {
     if (event.currentTarget.href.split("#")[0] == window.location.href.split("#")[0]) {
-      if ($("body").css("overflow") == "hidden") {
-        // This means that the content div is scrolling, not the overall page.
+      if ("#" + event.currentTarget.href.split("#")[1] in hash_redirects) {
         event.preventDefault();
-        $('.content').animate( { scrollTop: $('.content').scrollTop() + $(event.currentTarget.hash).position().top }, "slow");
-        // We're setting the scroll position of the content div to its current scroll position plus the relative position of the anchor link's target div.
+        window.location.href = hash_redirects["#" + event.currentTarget.href.split("#")[1]];
       } else {
-        // This means that the overall page is scrolling.
-        event.preventDefault();
-        $("html, body").animate({ scrollTop: $('.content').position().top + $(event.currentTarget.hash).position().top }, "slow");
-        // We're setting the scroll position of the page to where the content div starts plus the relative position of the anchor link's target div in the content div.
+        if ($("body").css("overflow") == "hidden") {
+          // This means that the content div is scrolling, not the overall page.
+          event.preventDefault();
+          $('.content').animate( { scrollTop: $('.content').scrollTop() + $(event.currentTarget.hash).position().top }, "slow");
+          // We're setting the scroll position of the content div to its current scroll position plus the relative position of the anchor link's target div.
+        } else {
+          // This means that the overall page is scrolling.
+          event.preventDefault();
+          $("html, body").animate({ scrollTop: $('.content').position().top + $(event.currentTarget.hash).position().top }, "slow");
+          // We're setting the scroll position of the page to where the content div starts plus the relative position of the anchor link's target div in the content div.
+        }
+        // Get rid of the element's focus when we're done, in case its style changed.
+        $(':focus').blur();
       }
-      // Get rid of the element's focus when we're done, in case its style changed.
-      $(':focus').blur();
     }
   });
 });
