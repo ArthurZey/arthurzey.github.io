@@ -47,9 +47,8 @@ hash_redirects:
     from: "#autism-test"
     to: "/personality-and-behavioral-profiles/#autism-test"
 date: "2020-04-15"
-last_modified_at: "2021-11-04T02:42:50+00:00"
+last_modified_at: "2021-11-05T17:13:23+00:00"
 ---
-
 
 {:refdef: style="text-align: center;"}
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" />
