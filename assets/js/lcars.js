@@ -64,7 +64,7 @@ $(document).ready(function() {
         // Get rid of the element's focus when we're done, in case its style changed.
         $(':focus').blur();
         // Update the URL with the anchor
-        window.history.pushState({ additionalInformation: "Updated the URL with the internal anchor link."}, document.title, event.currentTarget.href);
+        window.history.pushState({ additionalInformation: "Updated the URL with the internal anchor link."}, event.currentTarget.innerText + " | " + document.title, event.currentTarget.href); // second argument currently does nothing (2021-11-07): https://github.com/whatwg/html/issues/2174
       }
     }
   });
