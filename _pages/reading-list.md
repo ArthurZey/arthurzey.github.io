@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2021-04-06"
+last_modified_at: "2021-11-08T18:43:55+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -192,10 +192,29 @@ _started in 2019; in progress_
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
 
+## Darren Levine: _Complete Krav Maga_
+
+## Aristotle: _On the Soul_
+
+## C Bradley Thompson: _America's Revolutionary Mind_
+[Audible](https://www.audible.com/pd/1705237207){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07N8FSMYC){:target="&lowbar;blank"}
+
+## David Sedaris: _The Best of Me_
+[Audible](https://www.audible.com/pd/1549160761){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B089SPTBWX){:target="&lowbar;blank"}
+
+{% endcomment %}
+
+## Milton Friedman: _Free to Choose_
+[Audible](https://www.audible.com/pd/B002VAEJ4K){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B004MYFLBS){:target="&lowbar;blank"}
+
+## Zak George: _Zak George's Dog Training Revolution_
+[Audible](https://www.audible.com/pd/B01N3KTNB7){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B015BCX05S/){:target="&lowbar;blank"}
+
 ## Simon Winchester: _The Perfectionists: How Precision Engineers Created the Modern World_
 [Audible](https://www.audible.com/pd/B07B6G3W5V){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B072BFJB3Z){:target="&lowbar;blank"}
 
-{% endcomment %}
+## Patrick Lencioni: _The Five Dysfunctions of a Team_
+[Audible](https://www.audible.com/pd/B002V08E64){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B006960LQW/){:target="&lowbar;blank"}
 
 ## Malcolm Gladwell: _David and Goliath_
 [Audible](https://www.audible.com/pd/B00EKQO0AG){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00BAXFAOW/){:target="&lowbar;blank"}
