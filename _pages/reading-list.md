@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2021-11-08T18:43:55+00:00"
+last_modified_at: "2021-11-11T01:34:33+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -206,6 +206,12 @@ _started in 2019; in progress_
 
 ## Milton Friedman: _Free to Choose_
 [Audible](https://www.audible.com/pd/B002VAEJ4K){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B004MYFLBS){:target="&lowbar;blank"}
+{% comment %}
+* chapter 2: conflates freedom with ability
+* chapter 5: claims about inequality under capitalism versus other systems seem wrong
+* chapter 6: vouchers
+* correctly identifies government curricula as religious indoctrination
+{% endcomment %}
 
 ## Zak George: _Zak George's Dog Training Revolution_
 [Audible](https://www.audible.com/pd/B01N3KTNB7){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B015BCX05S/){:target="&lowbar;blank"}
