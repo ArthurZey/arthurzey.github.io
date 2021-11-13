@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-11-05T03:25:27+00:00"
+last_modified_at: "2021-11-13T15:41:28+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -156,7 +156,7 @@ Here are a few of my fixations and particularities (in no particular order) that
 Fun games:
 
 * [alterninyms](https://docs.google.com/document/d/1vVL_BTi4AGYPGwMWcmeMYAQ3LGmPxZhT2dlo6opFltk/edit){:target="&lowbar;blank"} (eg, "Sleep, Shower, and Sundry")
-* pluralization (eg, mattropodes, hice, Attorneys General, boxen)
+* pluralization (eg, mattropodes, hice, Attorneys General, boxen, dominatrices, Starbucies)
 * silly pronunciations
   * escape
   * jalapeño
@@ -183,6 +183,7 @@ Fun games:
   * fluffy &rarr; floofy
   * vitamin
   * cimamin
+  * sammiches
 
 Other topics:
 
