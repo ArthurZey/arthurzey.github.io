@@ -5,7 +5,7 @@ tags:
   - about
 description: "Brown paper packages tied up with strings; these are a few of my favorite things."
 date: "2020-05-15"
-last_modified_at: "2021-06-19"
+last_modified_at: "2021-11-16T21:23:24+00:00"
 ---
 
 * TOC
@@ -205,7 +205,7 @@ _which I wouldn't necessarily cook myself_
 * [Pandemic](https://smile.amazon.com/dp/B00A2HD40E){:target="&lowbar;blank"}
 * [Star Trek: Armada II](https://memory-alpha.fandom.com/wiki/Star_Trek:_Armada_II){:target="&lowbar;blank"}
 * [Sonic the Hedgehog](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog){:target="&lowbar;blank"}
-  * [Sonic 1](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game){:target="&lowbar;blank"}
+  * [Sonic 1](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_%281991_video_game%29){:target="&lowbar;blank"}
   * [Sonic 2](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2){:target="&lowbar;blank"}
   * [Sonic 3](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3){:target="&lowbar;blank"}
   * [Sonic & Knuckles](https://en.wikipedia.org/wiki/Sonic_%26_Knuckles){:target="&lowbar;blank"}
