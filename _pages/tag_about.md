@@ -47,7 +47,7 @@ hash_redirects:
     from: "#autism-test"
     to: "/personality-and-behavioral-profiles/#autism-test"
 date: "2020-04-15"
-last_modified_at: "2021-11-05T17:13:23+00:00"
+last_modified_at: "2021-11-19T15:05:29+00:00"
 ---
 
 {:refdef: style="text-align: center;"}
@@ -336,7 +336,7 @@ _Concepts are inductive generalizations of observations of concrete entities giv
 _The moral purpose of my life is my own happiness, prosperity, and joy, not the mere satisfaction of momentary hedonistic whims or pleasures. Sterilely, the purpose of my relationships with other people is to serve my own well-being, but I experience others as a tremendous potential or actual value to my life, and therefore, emotionally, as ends in themselves. I seek out win-win relationships. [I believe people's true interests are harmonious, so there are no win-lose relationships; anything purported to be a win-lose relationship is really a lose-lose relationship.](/harmony-of-interests/) I reject the glorification of sacrifice and suffering. More concretely, the egoistic [virtues](http://aynrandlexicon.com/lexicon/virtue.html){:target="&lowbar;blank"} I embrace are [rationality](http://aynrandlexicon.com/lexicon/rationality.html){:target="&lowbar;blank"}, [independence](http://aynrandlexicon.com/lexicon/independence.html){:target="&lowbar;blank"}, [integrity](http://aynrandlexicon.com/lexicon/integrity.html){:target="&lowbar;blank"}, [honesty](http://aynrandlexicon.com/lexicon/honesty.html){:target="&lowbar;blank"}, [justice](http://aynrandlexicon.com/lexicon/justice.html){:target="&lowbar;blank"}, [productiveness](http://aynrandlexicon.com/lexicon/productiveness.html){:target="&lowbar;blank"}, and [pride](http://aynrandlexicon.com/lexicon/pride.html){:target="&lowbar;blank"}._
   * Tara Smith: _Ayn Rand's Normative Ethics: The Virtuous Egoist_: [Kindle](https://smile.amazon.com/dp/B00INYGFWM/){:target="&lowbar;blank"}
 * politics: (laissez-faire) capitalism\\
-_The concept of "individual rights" identifies the factual requirements of human flourishing in a social context; the concept identifies the actions that are permissible and prohibited in a society if we want to create the conditions that **enable** prosperity. Negatively put, the initiation of physical force (including fraud) and its threat are prohibited. Positively put, people may act on their own independent judgment with respect to their own person and property, provided they do not interfere with others' ability to do the same. This amounts to **freedom** and what it means to live in a free society (we are not very close to that at present)._
+_The concept of "[individual rights](/rights/)" identifies the factual requirements of human flourishing in a social context; the concept identifies the actions that are permissible and prohibited in a society if we want to create the conditions that **enable** prosperity. Negatively put, the initiation of physical force (including fraud) and its threat are prohibited. Positively put, people may act on their own independent judgment with respect to their own person and property, provided they do not interfere with others' ability to do the same. This amounts to **freedom** and what it means to live in a free society (we are not very close to that at present)._
 * aesthetics: romantic realism\\
 _The purpose of art is to provide spiritual fuel and to directly evoke emotions in a way that may bypass explicit conceptual awareness._
   * [Cordair Art Gallery](https://cordair.com/){:target="&lowbar;blank"}
