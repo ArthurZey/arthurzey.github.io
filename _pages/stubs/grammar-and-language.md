@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-11-13T15:41:28+00:00"
+last_modified_at: "2021-11-20T17:55:40+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -124,6 +124,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * nausea
   * equilateral
   * mischievous
+  * fraudulent
 * generic brand names
   * Kleenex
   * Band-aid
