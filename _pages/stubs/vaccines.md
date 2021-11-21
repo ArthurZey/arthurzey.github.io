@@ -6,7 +6,7 @@ tags:
   - science
 description: "Viewpoints about vaccines are an interesting case study in epistemology."
 date: "2021-10-02"
-last_modified_at: "2021-11-01T01:06:35+00:00"
+last_modified_at: "2021-11-21T17:27:26+00:00"
 links:
   resources:
     - type: FACEBOOK
@@ -87,3 +87,5 @@ _Ideally, we'd have a breakdown by each different adverse effect._
 |Johnson & Johnson| | | | | |
 |Moderna| | | | | |
 |Pfizer| | | | | |
+
+_And it would be really nice if we could see how much risks of infection, hospitalization, long-term adverse effects, and death are affected by other means, such as Vitamin D levels, zinc, sleep, and other lifestyle choices. And what about effectiveness of treatments in different contexts?_
