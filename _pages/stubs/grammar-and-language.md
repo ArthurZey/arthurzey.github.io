@@ -6,13 +6,15 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-11-20T17:55:40+00:00"
+last_modified_at: "2021-11-22T18:20:39+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
 
 * apostrophes
   * "The Bureau of Grammatical Integrity" and the anecdote with Sara Triplett and her parents when we "vandalized" the "WASHER AND DRYER HOOK UPS'" sign
+  * for pluralization of acronyms
+  * for possessives of words that end in "s" or "z"
 * the subjunctive
 * serial comma
 * punctuation and quotation marks
