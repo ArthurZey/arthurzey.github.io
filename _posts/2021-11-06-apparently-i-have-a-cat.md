@@ -1,6 +1,7 @@
 ---
 title: "Apparently, I Have a Cat"
 date: "2021-11-06"
+last_modified_at: "2021-11-25T16:10:16+00:00"
 description: "I didn't get a cat. It turns out I had a cat. He came with the house. His name is Murray."
 tags:
   - happenings
@@ -21,7 +22,7 @@ AZ: "Oh, so he's our cat now!"
 
 JH: "Every time I tried to get him he would run away. He is a sweetheart. But he loves the outdoors. He would come in to sleep and eat once in awhile."
 
-As soon as I learned of Murray, I immediately ran out to buy him some cat food and started leaving it for him. He's survived just fine for a few months without any human care, so I imagine he doesn't really need me to feed him, but with winter coming, I wanted to make sure he felt comfortable with me and that he would seek shelter indoors. The previous owner told me about his favorite food ([Blue Buffalo Salmon & Brown Rice](https://smile.amazon.com/Blue-Buffalo-Indoor-Health-Natural/dp/B000XKEENG/){:target="&lowbar;blank"}), and I also ordered that. I'm worried about making Murray reliant on me for care and his losing his independence, but I also didn't want to subject him to a winter without the option of coming inside.
+I had seen him poking around, but I always figured he was just a neighbor's cat. But as soon as I learned of Murray, I immediately ran out to buy some cat food and started leaving it for him. He's survived just fine for a few months without any human care, so I imagine he doesn't really need me to feed him, but with winter coming, I wanted to make sure he felt comfortable with me and that he would seek shelter indoors. The previous owner told me about his favorite food ([Blue Buffalo Salmon & Brown Rice](https://smile.amazon.com/Blue-Buffalo-Indoor-Health-Natural/dp/B000XKEENG/){:target="&lowbar;blank"}), and I also ordered that. I'm worried about making Murray reliant on me for care and his losing his independence, but I also didn't want to subject him to a winter without the option of coming inside.
 
 My friends Chris and Morten recommended I get a [heated outdoor cathouse](https://smile.amazon.com/gp/product/B07HMPRTXF/){:target="&lowbar;blank"}. Great idea. But before it arrived, nighttime temperatures started dipping well below freezing, with windchill taking it to -18°C (that's just below 0°F), and I felt a strong urgency to bring him indoors from the coming snow.
 
