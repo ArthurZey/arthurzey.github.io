@@ -5,6 +5,16 @@ layout: lcars-classic
 <h1>{{ page.title }}</h1>
 <p class="meta">{{ page.date | date: "%Y-%m-%d" }}</p>
 -->
+
+{% assign doc_date = page.date | date: "%Y-%m-%d" %}
+{% assign doc_last_modified_at = page.last_modified_at | date: "%Y-%m-%d" %}
+
+{% if page.date or page.last_modified_at %}{{ doc_date | default: doc_last_modified_at }}{% if doc_date != doc_last_modified_at and doc_date and doc_last_modified_at %} (last [updated]({{site.github.repository_url}}/commits/master/{{page.path}}){:target="&lowbar;blank"} on {{ doc_last_modified_at }}){% endif %}{% endif %}
+
+{% if page.description %}{{ page.description }}{% endif %}
+
+---
+
 <div class="post">
   {{ content | markdownify }}
 </div>
