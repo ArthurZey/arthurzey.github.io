@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-11-22T18:20:39+00:00"
+last_modified_at: "2021-11-27T18:56:20+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -187,6 +187,7 @@ Fun games:
   * vitamin
   * cimamin
   * sammiches
+  * hummusexual
 
 Other topics:
 
