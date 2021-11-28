@@ -5,14 +5,14 @@ tags:
   - health
 description: "We often talk about biochemical states as causing affective states, but maybe they're really the same thing."
 date: "2021-11-26"
-last_modified_at: "2021-11-26"
+last_modified_at: "2021-11-28T19:23:05+00:00"
 ---
 
 It's not uncommon to hear framings like "the depression was caused by a biochemical imbalance" or the "hyperthyroidism causes fatigue", but I think this reflects a sort of mind-body dichotomy that undermines our ability to understand the true causality and relationships between different aspects of things in reality.
 
 I'm not suggesting that it's always wrong to think in these sorts of _A causes B_ terms. But often, I think it leads us to miss that sometimes _A_ and _B_ are actually just different perspectives on the same fundamental phenomenon. For example, in some cases, the depression _is_ a biochemical imbalance; the particular brand of fatigue a person is experiencing _is_ hyperthyroidism.
 
-This is fundamentally consistent with my view that the mind / consciousness (and our affective, experiential states) is an action performed by the brain (the physical matter). Loosely, you can think of the mind as an emergent property of the brain. I think it's weird to say that legs cause running. Legs _do_ running. The legs moving in a particular way _is_ running. The brain configured in a particular way and the chemicals whizzing around in a particular way _is_ some affective state, such as depression.
+This is fundamentally consistent with my view that the mind / consciousness (and our affective, experiential states) is an action performed by the brain (the physical matter). Loosely, you can think of the mind as an emergent property of the brain. I think it's weird to say that legs cause running. Legs _do_ running. The legs moving in a particular way _is_ running. The brain configured in a particular way and the chemicals whizzing around in a particular way _is_ some affective state, such as depression. I think this is basically what it means to say that [_The Body Keeps the Score_](https://www.goodreads.com/book/show/18693771-the-body-keeps-the-score){:target="&lowbar;blank"}.
 
 What I think is helpful about this way of looking at psychological phenomena (and really, a lot of other medical issues) is that it helps us to search for _true_ causality, not think that we've understood the cause by describing it in biochemical terms. We haven't necessarily _explained_ depression by understanding the chemicals involved, even though we have increased our understanding of the phenomenon. It's like color: Color _is_ different frequencies of light; different frequencies of light don't _cause_ color. Frequencies and the experience of color are just two different perspectives on or aspects of the same phenomenon in reality. (And this is true of our understanding of any phenomenon in reality: Our senses offer a particular perspective on that phenomenon, and we integrate different senses and different items of data into a more and more robust understanding over time.)
 
