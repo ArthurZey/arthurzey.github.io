@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-12-04T03:57:28+00:00"
+last_modified_at: "2021-12-07T16:02:31+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -86,6 +86,7 @@ Here are a few of my fixations and particularities (in no particular order) that
 * datetime stamps, 24-hour time
 * "3 times more (than _x_)" versus "3 times _x_"
 * "3 times less (than _x_)" versus "1/3 of _x_"
+* "verbally" != "orally"; {"orally", "in writing"} ⊂ "verbally"
 * "gods"
 * "theater" versus "theatre"
 * British English alternatives I prefer
