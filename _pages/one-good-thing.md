@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2021-12-06T18:52:40+00:00"
+last_modified_at: "2021-12-08T19:41:16+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,30 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2021-12-08
+### The Good Thing
+
+### What It Means to Me
+
+### What It Says about Me
+
+
+## 2021-12-07
+### The Good Thing
+The plumber came and addressed two pressing issues we've been having for a few months.
+### What It Means to Me
+It feels good to take care of my home and knock things off my to-do list.
+### What It Says about Me
+I'm settling into my home. I'm a responsible adult.
+
+## 2021-12-06
+### The Good Thing
+I did four sets of 6 bodyweight chinups, despite lower-back pain.
+### What It Means to Me
+I've been delaying getting back into a lifting routine, partially based on lots of (relatively reasonable) excuses, and the latest is that my back was really sore from overdoing it snowboarding on Saturday. I've been wanting to get back to lifting, but I've also been making the perfect the enemy of the good by not doing anything if I couldn't have a "proper" planned-out routine. So I'm pleased that I overcame that and started doing _something_, if only to shake myself out of this funk.
+### What It Says about Me
+I'm getting better at being able to pursue values in an incremental way, rather than succumbing to "black-or-white" thinking. I'm being more consistent about pursuing my passion for physical fitness and bodybuilding.
 
 ## 2021-12-05
 ### The Good Thing
@@ -36,6 +60,100 @@ I finished a bunch of required compliance training at my new job nearly a month 
 I'm getting better at not procrastinating. I'm learning to take care of "important" things that aren't urgent. I've knocked out a piece of hateful administrative overhead that would otherwise weigh on my mind until I finally did it.
 ### What It Says about Me
 I'm getting better at staying on top of things. I'm responsible.
+
+## 2021-12-02
+### The Good Thing
+My new manager and I spent a lot of very enjoyable extra time after our scheduled O3 talking about things.
+### What It Means to Me
+
+### What It Says about Me
+
+
+## 2021-12-01
+### The Good Thing
+I finally finished a years-long health care claim reconciliation project.
+### What It Means to Me
+
+### What It Says about Me
+
+
+## 2021-11-30
+### The Good Thing
+I learned a bunch about hyperthyroidism and identified next steps after getting my labwork back.
+### What It Means to Me
+
+### What It Says about Me
+
+
+## 2021-11-29
+### The Good Thing
+I started my new job at Ookla!
+### What It Means to Me
+
+### What It Says about Me
+
+
+## 2021-11-28
+### The Good Thing
+I was able to take a day to relax after getting back home from Thanksgiving and starting my job the next day, including a brief walk with Murray.
+### What It Means to Me
+
+### What It Says about Me
+
+
+## 2021-11-27
+### The Good Thing
+I watched _About Time_, which has turned into one of my favorite movies, and which triggered a good amount of crying.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2021-11-26
+### The Good Thing
+Thanksgiving dinner with my family in Los Altos Hills.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2021-11-25
+### The Good Thing
+I joined my friend Sasha for Thanksgiving dinner at her mom's house.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2021-11-24
+### The Good Thing
+I completed most of my Amazon deboarding activities.
+### What It Means to Me
+It felt good to clear my mind of so much that I had to do to wrap things up at Amazon, since a ton of thing had been nagging at my subconscious.
+### What It Says about Me
+I have a strong sense of ownership and responsibility, particularly in that I wasn't willing to just drop things, but instead set my soon-to-be-former teammates up for success after my departure.
+
+
+## 2021-11-23
+### The Good Thing
+I got to pet Murray!
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2021-11-22
+### The Good Thing
+I knocked out a bunch of errands early, before my first meeting of the morning, including finishing the registration of my car in Colorado.
+### What It Means to Me
+It felt really good to be so productive so early in the morning, particularly things that felt like hateful administrative overhead ("adulting").
+### What It Says about Me
+I'm responsible and on top of things. Now that I have my car registered in Colorado, I'm that much closer to being a real Coloradan.
+
 
 ## 2021-11-21
 ### The Good Thing
