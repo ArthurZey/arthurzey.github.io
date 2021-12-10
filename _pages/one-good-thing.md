@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2021-12-08T19:41:16+00:00"
+last_modified_at: "2021-12-10T17:57:06+00:00"
 tags:
   - happenings
   - draft
@@ -13,12 +13,31 @@ sitemap: false
 {:toc}
 {::options toc_levels="2" /}
 
-## 2021-12-08
+## 2021-12-10
 ### The Good Thing
 
 ### What It Means to Me
 
 ### What It Says about Me
+
+
+
+## 2021-12-09
+### The Good Thing
+I got a Christmas tree!
+### What It Means to Me
+I freakin' love Christmas and the smell of Christmas trees (particularly Douglas firs), and their existence in my proximity brings me joy.
+### What It Says about Me
+Frankly, I'm not really sure...maybe that I can easily derive joy from things?
+
+
+## 2021-12-08
+### The Good Thing
+Got to write a really nice email response to a really nice email I had received.
+### What It Means to Me
+It feels really good for someone to have expressed gratitude for the work I'd done and value I created, and I enjoyed being able to write a response that reciprocated that gratitude, and in particular, being able to articulate why, despite some differences in viewpoints, we managed to work through that and not let those difference stand in the way of our doing good work together.
+### What It Says about Me
+I've been getting better and better with time connecting with people and practicing compassion and empathy, being willing to understand and hear their viewpoints without succumbing to the pressure I feel to offer my own judgments, and being able to work productively with them by not taking those differences out of context.
 
 
 ## 2021-12-07
