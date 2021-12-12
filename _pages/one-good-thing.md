@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2021-12-10T17:57:06+00:00"
+last_modified_at: "2021-12-12T03:28:55+00:00"
 tags:
   - happenings
   - draft
@@ -13,9 +13,17 @@ sitemap: false
 {:toc}
 {::options toc_levels="2" /}
 
+## 2021-12-11
+### The Good Thing
+Brunch with Eric and Rachael Daniels
+### What It Means to Me
+
+### What It Says about Me
+
+
 ## 2021-12-10
 ### The Good Thing
-
+I pan-fried a bunch of lambchops for me and Melissa, and I ate 15 of them.
 ### What It Means to Me
 
 ### What It Says about Me
