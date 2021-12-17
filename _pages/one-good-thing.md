@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2021-12-12T03:28:55+00:00"
+last_modified_at: "2021-12-17T16:43:01+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,47 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2021-12-16
+### The Good Thing
+Got my DRLOGIC Colorado license plates.
+### What It Means to Me
+
+### What It Says about Me
+
+
+## 2021-12-15
+### The Good Thing
+Made some interesting observations about when in my life my relationship to administrative overhead took a turn for the more unpleasant/stressful in the course of doing a cocounseling demonstration in my monthly _Advanced Cocounseling Dropin_ class.
+### What It Means to Me
+
+### What It Says about Me
+
+
+## 2021-12-14
+### The Good Thing
+Reconnected with my long-time and good friend Helen over the phone and worked through a few points of discord between us.
+### What It Means to Me
+
+### What It Says about Me
+
+
+## 2021-12-13
+### The Good Thing
+Got a bunch of minutiae / administrative overhead done in the morning, during my _Setting and Meeting Goals_ group.
+### What It Means to Me
+
+### What It Says about Me
+
+
+## 2021-12-12
+### The Good Thing
+Acted as a mediator in some friction that's arisen among members in a group I'm part of.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2021-12-11
 ### The Good Thing
