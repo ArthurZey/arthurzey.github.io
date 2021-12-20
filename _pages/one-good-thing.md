@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2021-12-18T21:19:35+00:00"
+last_modified_at: "2021-12-20T00:09:30+00:00"
 tags:
   - happenings
   - draft
@@ -13,13 +13,28 @@ sitemap: false
 {:toc}
 {::options toc_levels="2" /}
 
+## 2021-12-19
+### The Good Thing
+Playdate with the Vekslers.
+### What It Means to Me
+
+### What It Says about Me
+
+
+## 2021-12-18
+### The Good Thing
+Caught up on _What If...?_ and a few episodes of _Lucifer_ with Melissa.
+### What It Means to Me
+
+### What It Says about Me
+
+
 ## 2021-12-17
 ### The Good Thing
 Taco night with the Cades.
 ### What It Means to Me
 
 ### What It Says about Me
-
 
 
 ## 2021-12-16
