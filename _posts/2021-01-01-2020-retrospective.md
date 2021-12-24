@@ -1,7 +1,7 @@
 ---
 title: "2020 Retrospective"
 date: "2021-01-01"
-last_modified_at: "2021-12-24T18:48:33+00:00"
+last_modified_at: "2021-12-24T19:04:51+00:00"
 description: "2020 was one of the most difficult and painful years of my life. Good riddance."
 tags:
   - retrospective
@@ -170,7 +170,7 @@ During the winter so far, I managed to get in fair amount of snowboarding. It's 
 <img src="https://lh3.googleusercontent.com/pw/AM-JKLVsOFGlkoO7g0YpoqAe5_aO-b573_sUJ-EZ8PaBHgVqyX9I7BXkTXfaVIAzxkRZ241Z8Udl9L9lEbfl2s7-NRMTgOgxXQuJShmDnGPewoydctKApHtRv_r70snfEGnoLSu9YwfOegrFMi5eAD70CgLeWQ=w2838-h2128-no?authuser=0" alt="2020-12-19" width="720px" align="center" />
 {: refdef}
 
-A slight diversion:
+A slight diversion: <a name="what-i-love-about-colorado"></a>
 
 People often ask me why I moved to Colorado and what I love about it, particularly compared to other places I've lived. I love the sunshine, the mountains, and the natural splendor in general. I love the wild weather (we had a day in September where it went from oppressively hot one day to snowing the next and then back to hot again within a few more days). And the sun beats down so hard that we can have an intense snowstorm and then be snow-free a few days later. And it can be below freezing, but if it's sunny (and it almost always is), it's warm enough to comfortably be shirtless outside. I love the outdoorsy, fitness-oriented culture, which sometimes manifests in annoying ways, like people flaking on you because they got distracted by going on a hike or scaling a [14er](https://en.wikipedia.org/wiki/Fourteener){:target="&lowbar;blank"}. (Flaking is frustrating, but the reasons tend to be more charming here than elsewhere.) I love that it's more libertarian-ish, even in a more leftist region like Denver; it's more consistently "live and let live" than anywhere else I've been. And I love that people love to be here; people who live here genuinely love Colorado, not in some kind of collectivist patriotic/nationalistic way, but because they first-handedly, individually, personally love it.
 
