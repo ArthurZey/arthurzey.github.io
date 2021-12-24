@@ -1,14 +1,14 @@
 ---
 title: Peak Living Network
-description: "Information about the Denver chapter of the Peak Living Network (PLN)"
+description: "Information about the Colorado Front Range chapter of the Peak Living Network (PLN)"
 date: "2020-11-05"
-last_modified_at: "2021-05-17"
+last_modified_at: "2021-12-24T18:21:05+00:00"
 ---
 
 * TOC
 {:toc}
 
-# Introduction
+## Introduction
 
 Having recently gone through (and continuing to go through) significant personal turmoil, I'm considering starting up what I would broadly characterize as a "mutual support group". I was inspired by Lundy Bancroft's [Peak Living Network](https://peaklivingnetwork.org){:target="&lowbar;blank"}, which I learned about from his [_The Joyous Recovery_](https://smile.amazon.com/dp/B07VYBVMGX){:target="&lowbar;blank"}.
 
@@ -16,26 +16,26 @@ Between 2019 and 2020, I invested heavily in learning more about psychological a
 
 Lundy Bancroft's PLN provides a good foundation and framework for pursuing this sort of broad goal of support and healing. And while based on and inspired by his work, I wish for my chapter of PLN to incorporate additional [related resources and perspectives](#perspectives), providing a holistic context in which mutually consistent principles are applied to different areas of life and examined from different angles. I am interested here in integrating psychology and philosophy, the physiological and the experiential, romance and work, and more.
 
-# Activities
+## Activities
 
-I have not yet organized anything. Frankly, despite my attraction to and being energized by exchange of ideas, I'm also going to have to overcome what feels like a lot of [introvert](/introversion-and-extroversion/) inertia. Based on my creating this page, I'll be interested to gauge how much interest there is. If you are interested in my Denver chapter of PLN, please [join the PLN Slack Workspace](https://join.slack.com/t/peaklivingnetwork/shared_invite/zt-p3qcr7nr-rP0H1yfInsZEOIAyAXqulg){:target="&lowbar;blank"} and then join the [#hub-denver](https://app.slack.com/client/T01EDGRS2S0/C01EL17KVUZ){:target="&lowbar;blank"} channel.
+I have not yet organized anything. Frankly, despite my attraction to and being energized by exchange of ideas, I'm also going to have to overcome what feels like a lot of [introvert](/introversion-and-extroversion/) inertia. Based on my creating this page, I'll be interested to gauge how much interest there is. If you are interested in my Colorado Front Range chapter of PLN, please [join the PLN Slack Workspace](https://join.slack.com/t/peaklivingnetwork/shared_invite/zt-p3qcr7nr-rP0H1yfInsZEOIAyAXqulg){:target="&lowbar;blank"} and then join the [#hub-co-front-range](https://app.slack.com/client/T01EDGRS2S0/C01EL17KVUZ){:target="&lowbar;blank"} channel.
 
 * [support group](https://peaklivingnetwork.org/support-groups/){:target="&lowbar;blank"}
 * [splitting time / co-counseling](https://peaklivingnetwork.org/split-time/){:target="&lowbar;blank"}
 * [circling](https://circlinginstitute.com/what-is-circling-method/){:target="&lowbar;blank"}
 * reading and discussion group
 
-# Focus
+## Focus
 
-## Constituency
+### Constituency
 
 There is no particular "constituency" that I'm targeting. Everybody is welcome. While there are certainly cultural dynamics and specific experiences that may make connection and empathy easier for people who are similarly situated, I'm a firm believer that, while concrete circumstances and challenges may vary, we all have a capacity to understand and relate to one another on a more fundamental level, drawing on deeper aspects of the shared human experience. I do not believe that a straight man cannot understand the challenges more readily affecting a lesbian, nor that a white woman cannot understand the challenges that a black man might face. We are able and responsible for understanding others and to help make ourselves understood.
 
-## Issues
+### Issues
 
 Similarly, there are no particular "issues" that I want to focus on. Many of our challenges are variations on a fundamental theme, equipping all of us to mutually support one another through any issue. With that said, a great deal of my own focus recently has been on relationship difficulties, interpersonal dynamics and compassion fatigue, change management, and anxiety and overwhelm generally. In terms of concrete helpfulness, I imagine I can also offer valuable insight into family dynamics and issues specifically confronting gay men.
 
-## Perspectives
+### Perspectives
 
 I'm not sure exactly how to frame this section, but the idea is to give an indication of the different perspectives, angles, and approaches I want to integrate into our work. I'll give an indication of related resources (such as recommended reading/listening/watching) that might serve as the basis for group discussions. The point is that these all provide a wider context, integrating diverse and mutually consistent perspectives.
 
@@ -85,7 +85,7 @@ I'm not sure exactly how to frame this section, but the idea is to give an indic
   * Tara Smith: _Ayn Rand's Normative Ethics: The Virtuous Egoist_: [Kindle](https://smile.amazon.com/dp/B00INYGFWM/){:target="&lowbar;blank"}
   * Craig Biddle: _Loving Life: The Morality of Self-Interest and the Facts That Support It_: [Audible](https://www.audible.com/pd/B07PKRNQLX){:target="&lowbar;blank"}, [Kindle](https://smile.amazon.com/dp/B00347A5QK){:target="&lowbar;blank"}
 
-# Statement of Principles
+## Statement of Principles
 
 "Reprinted" from [The Peak Living Network Statement of Principles](https://peaklivingnetwork.org/principles/){:target="&lowbar;blank"}:
 1. People have a profound and apparently limitless capacity for emotional healing and well-being. Therefore, we take an orientation toward ourselves and each other that assumes that we can all find ways to make our lives work better and that we will succeed in doing so. We are all healing and growing.
