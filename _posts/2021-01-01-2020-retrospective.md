@@ -1,7 +1,7 @@
 ---
 title: "2020 Retrospective"
 date: "2021-01-01"
-last_modified_at: "2021-12-24T19:04:51+00:00"
+last_modified_at: "2021-12-24T19:24:56+00:00"
 description: "2020 was one of the most difficult and painful years of my life. Good riddance."
 tags:
   - retrospective
@@ -186,7 +186,7 @@ Another irony is that I think that a lot of this angst reflected a deep (and pro
 
 Then there was the hypocritical condemnation of the tech industry (let me tell ya, it doesn't feel good to be hated for [doing good work](https://twitter.com/LogicalArthur/status/473879219051565056){:target="&lowbar;blank"}, especially by confused, self-hating coworkers), coupled with the seriously toxic startup culture. [_Silicon Valley_](https://trakt.tv/shows/silicon-valley){:target="&lowbar;blank"} is one of the few shows I've ever stopped watching without finishing because it hit too close to home. I jokingly referred to is as "a documentary where people's names have been changed to protect the guilty".
 
-Gay culture wasn't much better. Whatever its virtues in being sexually liberal, it was muddied by using sex for counterfeit self-esteem, second-handed attention-seeking, and having to make everything political. Drama abound, hardly nobody knew how to communicate about _anything_. And while that might be largely true of gay culture anywhere, if you want a true-to-life perspective (documentary?) about gay life in San Francisco, watch [_Looking_](https://trakt.tv/shows/looking){:target="&lowbar;blank"}. I can't remember the exact phrasing now, but one of my friends quipped about this show something to the effect of "I can just see the head writer documenting exactly everything that happened to him and his shitty friends.". Yup. Exactly.
+Gay culture wasn't much better. Whatever its virtues in being sexually liberal, it was muddied by using sex for counterfeit self-esteem, second-handed attention-seeking, and having to make everything political. Drama abound, hardly anybody knew how to communicate about _anything_. And while that might be largely true of gay culture anywhere, if you want a true-to-life perspective (documentary?) about gay life in San Francisco, watch [_Looking_](https://trakt.tv/shows/looking){:target="&lowbar;blank"}. I can't remember the exact phrasing now, but one of my friends quipped about this show something to the effect of "I can just see the head writer documenting exactly everything that happened to him and his shitty friends.". Yup. Exactly.
 
 Last, and not least, the homelessness was just gut-wrenching. I could write a treatise about the phenomenon (including causes and solutions) from a philosophic and economic perspective, but that's beside my point. All that human suffering caused me a tremendous amount of emotional distress. In 2017, when I left my job at Autodesk in downtown SF and started driving down to the South Bay for my then new job at Amazon, I realized how much relief I felt, not being confronted by so much tragedy on a daily basis. (And I don't think that amounts to turning a blind eye--I have done more than my fair share in terms of activism to change the culture in way that would help alleviate this and many other problems.)
 
