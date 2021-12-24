@@ -1,7 +1,7 @@
 ---
 title: "2020 Retrospective"
 date: "2021-01-01"
-last_modified_at: "2021-12-24T00:11:27+00:00"
+last_modified_at: "2021-12-24T18:48:33+00:00"
 description: "2020 was one of the most difficult and painful years of my life. Good riddance."
 tags:
   - retrospective
@@ -53,6 +53,10 @@ So I'm rebuilding, because what else can I do? And I'm pursuing what feels like 
 
 So I can't close the door. Aside from the personal psychic cost of reversing my decisions in that way (since that would still be possible), when I don't have emotional closure, I know myself well enough to know that I would be even further plagued by regrets and "what if"s. For me, taking some kind of affirmative action to "close the door" would be sidestepping and delaying my processing of the grief and loss. It's why I will [wallow](/wallowing/) and keep our photos in my smart display rotation.
 
+{:refdef: style="text-align: center;"}
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLVIFuyz9PWDoxphjiJHPm0pbSBrOp1sGILgpV20orvV8yvlcrBp29aWKcmn8NRp6oomddDzkDjEKCVfsi_rwijusUrwKAZFGUGq3oRnmQz4YCp5ZVZh-19Q1kiJulHRpX4g9wpZYNBrOLEE8qm3V-u9ng=w2838-h2128-no?authuser=0" alt="2018-02-24" width="720px" align="center" />
+{: refdef}
+
 I'm going to go off on even more of a tangent here, but bear with me--I want to address the sort of advice that I often get when I share my approach.
 
 I have seen and experienced firsthand what happens when we don't let our emotions run their course, when we don't lean into them, when we suppress or repress them. I'm not saying we should vomit those emotions all over the place, irrespective of context, or that we should intentionally pursue misery, but we need to express them. The alternative is to build up subconscious unease and pressure. And when that pressure gets too high, it almost always bursts out as [uncalibrated anger and frustration](/anger-management/). Another consequence of pushing away unpleasant feelings is that we also undermine our ability to experience the pleasant feelings on which resilience to life's challenges depends. This is particularly true when we turn to numbing mechanisms like alcohol or SSRIs. (Those may have their proper place, but that's a [different discussion](/pharmaceuticals/).)
@@ -83,11 +87,19 @@ Fuck you, 2020.
 
 During the 2010s, I developed a sort of background love affair with Colorado. Mostly, I visited for snowboarding, especially with my then close friend Diana, who organized an annual winter philosophy / ski/snowboarding conference called SnowCon for a few years. But every time I visited, I loved Colorado's beauty, enjoyed the activities, connected with the people, and felt at home with the outdoorsy, mind-your-own-business culture. I had unseriously flirted with the idea of moving to Colorado several times during that decade, usually catalyzed by difficulties at work and wanting to "Fuck this shit!" and live a quieter, calmer life outside of tech. Relevant item of context: I only grudging moved to and stayed in the SF Bay Area because I'm a nerd who works in tech, and that's where the jobs predominantly are.
 
-So given how much I'm subject to the influence of inertia, it was so wonderful to learn (and definitely part of the attraction) that, when we met, Adam had recently purchased 35 undeveloped acres in [Fairplay](https://goo.gl/maps/335ChxfQ1WfCRXMM8){:target="&lowbar;blank"}, which he had intended to transform into his future "forever home". I was totally on board.
+So given how much I'm subject to the influence of inertia, it was so wonderful to learn (and it was definitely part of the attraction) that, when we met, Adam had recently purchased 35 undeveloped acres in [Fairplay](https://goo.gl/maps/335ChxfQ1WfCRXMM8){:target="&lowbar;blank"}, which he had intended to transform into his future "forever home". I was totally on board.
 
-Over the course of our relationship, we moved some stuff in a trailer to Fairplay and strategized about how we were going to buy a fixer-upper in Denver, so that we had a landing pad while we continued to turn Fairplay into our dream home. (Relevant context: Adam is an _amazing_ contractor. I've seen his work firsthand, and while I'm no expert, it's finer than anything I've ever seen anybody else do, ever.) Especially when my job went fully remote in October 2019, the only thing holding us back was flipping the house we were living in in SF (which was owned by his business). While I was eager to "get a move on" and encouraged Adam to stop taking on other clients so that he could focus on flipping the house, I get why, in light of our difficulties that were mounting, making himself dependent on my income alone might have felt too risky for him. There's probably more to say about that, but the point is that our plans were not progressing.
+{:refdef: style="text-align: center;"}
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLWeXeRerMVwrdmjaT--CTnoMcwMzepUxlxdQIde0mMmQPOUSHrxoJKzy6APerg-mm-6zp-40H7ZhRvGfRCyEg0FX-ufRLdGTjiE4vgnDOB26uCk8NeYCBo7d-_Bc3--jc65EIPaN7Di7S24ggDBgcE5aA=w2838-h2128-no?authuser=0" alt="2018-04-02" width="720px" align="center" />
+{: refdef}
 
-Our difficulties ultimately culminated in [our breakup](#end-of-relationship-with-adam), and I had to move out of the house. There's a bit more detail there, but it's not relevant to the overall narrative. After a few months living on Christopher's and Morten's boat in Tiburon, it was time for me to start landing on my feet again. As I'm sure will be no surprise to anybody who knows me at all, I made a spreadsheet of candidate cities/regions versus various factors that I care about.
+{:refdef: style="text-align: center;"}
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLVWl0xdQrSLIZnc64Wu_RtxYXgxJc-uUxMqq1yqjeG9cK4efVhWBEzGQoC3jQNeLOggPljp6LLkmmGwAft2Y4HlAJ2Ia5EtVfeziS-1W7TeVzGCSoRQuiFu03f38LwnqRZi0xuU4ir9_F5AOh0MFgVtow=w2838-h2128-no?authuser=0" alt="2019-07-06" width="720px" align="center" />
+{: refdef}
+
+Over the course of our relationship, we moved some stuff in a trailer to Fairplay and strategized about how we were going to buy a fixer-upper in Denver, so that we had a landing pad while we continued to turn Fairplay into our dream home. (Relevant context: Adam is an _amazing_ contractor. I've seen his work firsthand, and while I'm no expert, it's finer than anything I've ever seen anybody else do, ever.) Especially when my job went fully remote in October 2019, the only thing holding us back from moving to Colorado was flipping the house we were living in in SF (which was owned by his business). While I was eager to "get a move on" and encouraged Adam to stop taking on other clients so that he could focus on flipping the house, I get why, in light of our difficulties that were mounting, making himself dependent on my income alone might have felt too risky for him. There's probably more to say about that, but the point is that our plans were not progressing.
+
+Our difficulties ultimately culminated in [our breakup](#end-of-relationship-with-adam), and I had to move out of the house. There's a bit more detail there, but it's not relevant to the overall narrative. After a few months living on Christopher's and Morten's boat in Marin, it was time for me to start landing on my feet again. As I'm sure will be no surprise to anybody who knows me at all, I made a spreadsheet of candidate cities/regions versus various factors that I care about.
 
 Just for fun, here are the locations I considered:
 * Bay Area
@@ -104,7 +116,7 @@ Just for fun, here are the locations I considered:
 * Tel Aviv
 * Santa Barbara / CA Central Coast
 
-And here are the factors that I rated each city by (as ---, --, -, `null`, +, ++, +++), in no particular order:
+And here are the factors that I rated each location by (as ---, --, -, `null`, +, ++, +++), in no particular order:
 * surrogacy laws
 * weather
 * beach
@@ -120,17 +132,31 @@ And here are the factors that I rated each city by (as ---, --, -, `null`, +, ++
 
 These aren't all well-defined categories, and they tend to lump in a lot of other factors. Some are not really mutually exclusive. What's funny is that an straight unweighted analysis put LA on top, which my gut told me was definitely wrong. (The exact ratings aren't important here.) So, of course, weighting the factors got me the result that my gut was already nudging me toward: Denver and Austin are at the top. This is pure rationalism. Or is it? What I realized is that the way I was wanting to approach it is precisely what I mean by _data-informed_, as against _data-driven_, and for exactly the same reasons. That's outside the scope of this post, but the point is that by listing everything out and thinking about it quantitatively, I was making sure that I was going with my gut, _rational eyes wide open_. It meant I was less likely to be overlooking anything, and by _choosing_ the things that weren't ideal about Denver or Austin, I was taking ownership of them, rather than being their victim and later being frustrated by them.
 
-So I planned to make a U-shaped roadtrip, down to LA to spend a few weeks with my folks in Tarzana, then across to Austin to spend a few weeks with my brother Andrew, then up to Denver to spend a few weeks with my cousin Stacy. I had a feeling that I would ultimately decide on Denver, but I wanted to give Austin a fair shot, and I knew that if I went to Denver first, I might fall in love so hard that I would never bother going to Austin. Well, because at that time, Austin was suffering a rather severe COVID-19 outbreak, and Stacy was especially desirous of having me be a roommate, I decided to just go straight to Denver.
+So I planned to make a U-shaped roadtrip, down to LA to spend a few weeks with my folks in Tarzana, then across to Austin to spend a few weeks with my brother Andrew, then up to Denver to spend a few weeks with my cousin Stacy. I had a feeling that I would ultimately decide on Denver, but I wanted to give Austin a fair shot, and I knew that if I went to Denver first, I might fall in love so hard that I would never bother going to Austin. Well, because at that time, Austin was suffering a rather severe COVID-19 outbreak, and Stacy was especially desirous of having me as a roommate, I decided to just go straight to Denver.
 
-At the end of July, I packed up my car and drove out to Denver. I made a short stop in Salt Lake City to see my friends Karl and Tammy, then arrived at Stacy's on July 31. It was good timing, since within a week or so, Adam wanted me to retrieve my belongings from the trailer in Fairplay, and I'm not sure he even knew I was in Denver. While I didn't urgently need those things at Stacy's (primarily my sectional sofa from Daly City, fancy Cal King mattress, and squat rack and lifting equipment), I knew I would likely need them in Colorado soon enough.
+At the end of July, I packed up my car and drove out to Denver. I made a short stop in Salt Lake City to see my friends Karl and Tammy, then arrived at Stacy's on July 31.
+
+{:refdef: style="text-align: center;"}
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLXVrwh8Ov07ohF8gHaTOJ8YQhJU7XKAkHnPb0HFqgTWMUvkMGMx0oyS6Ezr5y1bjffQj79Jd45Nbtq1pXlGfCWFGwIEHW9MAPNR1pJE9DlM-CozguLnwzSD8tufrlpY8_6qUpp-1IE-oHpLJRstCSLLXg=w2838-h2128-no?authuser=0" alt="200-07-31" width="720px" align="center" />
+{: refdef}
+
+{:refdef: style="text-align: center;"}
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLU5fQk2zFKLTcfxbbAmircsvjcS09ThMnLwacTgT9PGd8pKdjtdbwS5_Q4WHh-Un5m6hi60UdqxHrEmf9gXc-Qcnu7lpe7ei1VzYNgh3q8vCccad_8bl18CDziomGuZn86iVASgc_1pVcR-zsEp6sZTQA=w2838-h2128-no?authuser=0" alt="2020-07-31" width="720px" align="center" />
+{: refdef}
+
+It was good timing, since within a week or so, Adam wanted me to retrieve my belongings from the trailer in Fairplay, and I'm not sure he even knew I was in Denver. While I didn't urgently need those things at Stacy's (primarily my sectional sofa from Daly City, fancy Cal King mattress, and squat rack and lifting equipment), I knew I would likely need them in Colorado soon enough.
 
 After a good month with Stacy, I decided that I wanted to live in Denver, to test the waters by renting for a lease term before deciding on whether I'd ultimately settle down in Colorado. So I started looking for my own place. Aside from various "niceness" and convenience requirements, my chief concerns were amazing mountain views and quiet.
 
-I felt a lot of hesitation, because Colorado had become a thing that I was going to do with Adam. I was worried that I would be constantly triggered by being here. I was right; I was. Big time. I knew I couldn't let that stop me from pursuing what I first-handedly wanted for myself. Yes, Adam and our future plans certainly intensified my love of Colorado and put my desire to live there in sharp focus, but I wanted to make my decision based on what I learned I really wanted. So with great angst, I moved forward.
+I felt a lot of hesitation, because Colorado had become a thing that I was going to do with Adam. I was worried that I would be constantly triggered by being here. I was right; I was. And still am regularly. Big time. I knew I couldn't let that stop me from pursuing what I first-handedly wanted for myself. Yes, Adam and our future plans certainly intensified my love of Colorado and put my desire to live there in sharp focus, but I wanted to make my decision based on what I learned I really wanted. So with great angst, I moved forward.
 
 I found a place that I liked, [Country Club Towers II & III](https://towers2and3.com/){:target="&lowbar;blank"}, and signed a 17-month lease.
 
-When I found the place (by the way, HT Savannah Griffin of [Smart City Locating](https://smartcitylocating.com/denver-apartments/){:target="&lowbar;blank"}), it definitely struck me as way too "boujie": way too many amenities I didn't care about, and let's just say that it wasn't the wisest financial decision I ever made in my life. But It came with a surprisingly decent gym for an apartment complex. (During COVID-19 restrictions, that was important.) And the views made it all worthwhile.
+When I found the place (by the way, HT Savannah Griffin of [Smart City Locating](https://smartcitylocating.com/denver-apartments/){:target="&lowbar;blank"}), it definitely struck me as way too "boujie": way too many amenities I didn't care about, and let's just say that it wasn't the wisest financial decision I ever made in my life. But It came with a surprisingly decent gym for an apartment complex. (During COVID-19 restrictions, that was important.) And the view of my beloved Front Range from my patio made it all worthwhile:
+
+{:refdef: style="text-align: center;"}
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLWrTD_cJAxxfy4vlIqlX1q5PwEqQDunb1xRh3Rx-k_5DAz8WtWy85RTYzLfm6vPLXkXWsH3jW2iGM96XLN3M__p6BUQrMd_OLXZzyBZMTBMc5dq2LJ-uuMVELssqwkZOQlI5o8OCPjBPXbnU1K2V3c2bw=w3120-h1406-no?authuser=0" alt="2020-12-20" width="720px" align="center" />
+{: refdef}
 
 In a lot of ways, it's what I needed.
 
@@ -138,7 +164,35 @@ Of course, then it was time to go back to the SF Bay area, pack up my storage un
 
 So here I am, a few months in, and I'm liking Denver just fine. It's been really hard, feeling like I was supposed to be here with Adam, not by myself. And every time I looked out west, the mountains were calling...
 
-During the winter so far, I managed to get in fair amount of snowboarding. It's the first time I'd ever gone snowboarding by myself, and though I thought I'd hate it, I actually really liked it. A lot. I guess I shouldn't find that surprising. And it was quite meditative. (In some ways that was enjoyable; in other ways, agonizing. I can't tell you how many times I had to just stop and bawl my eyes out on the mountain, desperately grieving the time that Adam and I spent together on the slopes.)
+During the winter so far, I managed to get in fair amount of snowboarding. It's the first time I'd ever gone snowboarding by myself, and though I thought I'd hate it, I actually really liked it. A lot. I guess I shouldn't find that surprising. And it was quite meditative. In some ways that was enjoyable; in other ways, agonizing. I can't tell you how many times I had to just stop and bawl my eyes out on the mountain, desperately grieving the time that Adam and I spent together on the slopes.
+
+{:refdef: style="text-align: center;"}
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLVsOFGlkoO7g0YpoqAe5_aO-b573_sUJ-EZ8PaBHgVqyX9I7BXkTXfaVIAzxkRZ241Z8Udl9L9lEbfl2s7-NRMTgOgxXQuJShmDnGPewoydctKApHtRv_r70snfEGnoLSu9YwfOegrFMi5eAD70CgLeWQ=w2838-h2128-no?authuser=0" alt="2020-12-19" width="720px" align="center" />
+{: refdef}
+
+A slight diversion:
+
+People often ask me why I moved to Colorado and what I love about it, particularly compared to other places I've lived. I love the sunshine, the mountains, and the natural splendor in general. I love the wild weather (we had a day in September where it went from oppressively hot one day to snowing the next and then back to hot again within a few more days). And the sun beats down so hard that we can have an intense snowstorm and then be snow-free a few days later. And it can be below freezing, but if it's sunny (and it almost always is), it's warm enough to comfortably be shirtless outside. I love the outdoorsy, fitness-oriented culture, which sometimes manifests in annoying ways, like people flaking on you because they got distracted by going on a hike or scaling a [14er](https://en.wikipedia.org/wiki/Fourteener){:target="&lowbar;blank"}. (Flaking is frustrating, but the reasons tend to be more charming here than elsewhere.) I love that it's more libertarian-ish, even in a more leftist region like Denver; it's more consistently "live and let live" than anywhere else I've been. And I love that people love to be here; people who live here genuinely love Colorado, not in some kind of collectivist patriotic/nationalistic way, but because they first-handedly, individually, personally love it.
+
+There are things I liked about California, too, but I don't think I ever _loved_ California. Living there was mostly an accident. LA and Southern California in general were great for the weather, the beach (fuck, I miss the beach), and the very attractive people. There's a lot of nostalgia for me there. But there was a lot of superficiality, too, and particularly among the transplants. LA feels very busy to me. And that's best reflected in the traffic, where I joke that it takes an hour to get anywhere, even a few miles. It's only partially a joke, and that's why SNL's [_The Californians_](https://en.wikipedia.org/wiki/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2011%E2%80%9312#The_Californians){:target="&lowbar;blank"} (particularly [_Stuart Has Cancer_ (2021-04-14)](https://www.youtube.com/watch?v=Tt-tG6ufH90){:target="&lowbar;blank"}) is so hilarious and really rings true.
+
+And whenever I visit UCLA (mostly for the annual Men's Rowing Alumni Banquet and Races), I'm flooded with anxiety, which I realized has a lot to do with how, for about seven years of undergrad and grad school, I was all piss and vinegar about everything, especially anything philosophical, and that was reflected in the angsty, in-your-face, tone-deaf way I often ran the activism activities of my philosophy club, LOGIC. (And [law school](/law-school/) itself was no walk in the park, either.)
+
+San Francisco and the CA Bay Area in general were more difficult for me. I was never a fan before I moved for work, and there was a lot I found I had to tolerate. I did like that SF was much more sexually liberal, with a fun nude beach and lots of opportunities to be free and frisky. But its charm ends there.
+
+SF was _so_ politically angsty, and it was _so_ in your face. Everybody made it their business what you did or did not do, what you did or did not say, and what you did or did not think. Heaven forfend you did the "wrong" thing or didn't do the "right" thing or said the "wrong" thing or didn't say the "right" thing or thought the "wrong" thing or didn't think the "right" thing; you'd be a monster that everybody ganged up on to condemn. It was intersectionality run amok. And while I realize the irony in opining about what everybody else did, said, and thought, one tragedy about SF is that I got the sense that this obsession was really many people's way of deflecting from focusing on and improving their own lives; superficially, people can feel a lot of relief to point a finger at others, rather than deal with their own misery. (Contrast that with Colorado, where people tend to be too busy going on outdoor adventures to be too bothered by what _you're_ doing.)
+
+Another irony is that I think that a lot of this angst reflected a deep (and proper--or at least understandable) dissatisfaction with aspects of the culture and society, and yet the naive policies they advocated only worsened the problems they found so distressing. (A great example of this is simultaneously bemoaning lack of affordable housing and also supporting rent control laws and direct prohibitions on development. What an eloquent--and tragic--illustration of how limbic system hijack totally takes rational faculties offline.)
+
+Then there was the hypocritical condemnation of the tech industry (let me tell ya, it doesn't feel good to be hated for [doing good work](https://twitter.com/LogicalArthur/status/473879219051565056){:target="&lowbar;blank"}, especially by confused, self-hating coworkers), coupled with the seriously toxic startup culture. [_Silicon Valley_](https://trakt.tv/shows/silicon-valley){:target="&lowbar;blank"} is one of the few shows I've ever stopped watching without finishing because it hit too close to home. I jokingly referred to is as "a documentary where people's names have been changed to protect the guilty".
+
+Gay culture wasn't much better. Whatever its virtues in being sexually liberal, it was muddied by using sex for counterfeit self-esteem, second-handed attention-seeking, and having to make everything political. Drama abound, hardly nobody knew how to communicate about _anything_. And while that might be largely true of gay culture anywhere, if you want a true-to-life perspective (documentary?) about gay life in San Francisco, watch [_Looking_](https://trakt.tv/shows/looking){:target="&lowbar;blank"}. I can't remember the exact phrasing now, but one of my friends quipped about this show something to the effect of "I can just see the head writer documenting exactly everything that happened to him and his shitty friends.". Yup. Exactly.
+
+Last, and not least, the homelessness was just gut-wrenching. I could write a treatise about the phenomenon (including causes and solutions) from a philosophic and economic perspective, but that's beside my point. All that human suffering caused me a tremendous amount of emotional distress. In 2017, when I left my job at Autodesk in downtown SF and started driving down to the South Bay for my then new job at Amazon, I realized how much relief I felt, not being confronted by so much tragedy on a daily basis. (And I don't think that amounts to turning a blind eye--I have done more than my fair share in terms of activism to change the culture in way that would help alleviate this and many other problems.)
+
+So all that, coupled with what is now something I describe as "low-grade PTSD" because of the various traumas I endured, leads me to just feel done with California. I don't hate California by any means, but I do feel frustrated and exasperated by it and its people. I dread visiting UCLA and the CA Bay Area.
+
+Colorado is the first place I've moved to because I wanted to be here in particular, not because of the accident of my birth (and subsequent inertia), which schools I happened to be accepted to, or where I happened to easily find a job. Colorado feels like a choice that reflects my direct values, and that fills me with optimism about living here.
 
 It's too soon to tell, but my gut is telling me that Colorado will become my permanent home.
 
@@ -148,7 +202,7 @@ Many of you know (or wouldn't be surprised to learn) that I'm a meticulous and c
 
 On 2020-09-28, I happened to be talking to my brother on the phone, and I wanted to look up that day in February 2015 that I had set a personal record for total calories consumed (over 11,000), only to find that the logs for that day were empty. I started to feel frantic. And some research revealed that MyFitnessPal had deleted many years of my logs because I didn't subscribe to their Premium tier (the features of which were useless to me). After numerous back-and-forths with their support, they told me that they changed their policy in 2019, so that the free tier would start to have a limited diary history. Did they send an email to their users about this? Of course not. Their customer "support" person told me, matter of factly, that they had written a blog post on their website. _WHAT!?_ Who the _fuck_ reads the MyFitnessPal blog? What universe are these people living in that they think that their users give two shits about the blog--and the _support_ blog at that!? Good gods.
 
-Their justification? Cost. _WHAT!?_ With how cheap storage is and knowing a thing or two about database design and scaling, there's just no way that this is a serious cost-related matter. Clearly, this was a monetization technique. And that would be fine, but (1) be upfront about it, and (2), fuckin' inform your users before deleting their data.
+Their justification? Cost. _WHAT!?_ With how cheap storage is and knowing a thing or two about database design and scaling, there's just no way that this is a serious cost-related matter. Clearly, this was a monetization tactic. And that would be fine, but (1) be upfront about it, and (2) fuckin' inform your users before deleting their data.
 
 Okay, so maybe if I purchase the Premium subscription now, they'd restore my data? Nope! It's permanently deleted. _WHAT!?_ They couldn't preserve a backup? I pleaded and pleaded. Maybe they had a cold storage somewhere. They insisted that they didn't. (I still don't believe that.) WHAT. THE. ACTUAL. FUCK. FUCK!
 
@@ -164,7 +218,13 @@ When I updated one of my dating profiles and answered the prompt "Six things I c
 
 On December 29, I stopped by my storage unit in Arvada, where I had deposited 59 27-gallon bins on October 14 as part of [moving to Denver](/2020-10-14/move-to-denver/). I was there with my friend Christopher to retrieve a spare ski jacket for him, since we had plans to go to Steamboat Springs.
 
-When I opened my unit, I found that it had been burglarized. As of January 4, I still haven't taken a full inventory of what was stolen, but I counted 26 missing bins. Every bin marked "Memorabilia" was gone. That's everything from my entire life, going back to childhood. Every photo. Every trinket from my desks through the years. Every concert program that I saved. The flower I gave Adam on our anniversary. The map of the Denver Botanical Gardens from my trip with Adam. All my _Star Trek_ collectables. All my DVDs and VHS tapes and CDs. Signed mint-condition books...signed by authors I will never see again. My Sega Genesis and _Sonic: The Hedgehog_ stuff. My pony tails. My coin collection. All my Christmas ornaments. Jewelry. All my Boy Scouts stuff and accomplishments, including my uniform and merit badge sash. My report cards and yearbooks from school. My Hogwarts robes. A snowboard, even. And so much more.
+When I opened my unit, I found that it had been burglarized.
+
+{:refdef: style="text-align: center;"}
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLUPxPUo6FT-I4_di2bKipF_fGZGfSQ7Bm6zh-t8fb6_CYyTb8NYiq3xafqv5QXz9WP5tktv4PE3rmKwl6696EVmrAp67AiuLQFc6g_2BGraVOKl5JNd0uJDSO2mcbGRVqImJeni0ZBE2AFTfS9XEXe64g=w1596-h2128-no?authuser=0" alt="2020-12-29" width="720px" align="center" />
+{: refdef}
+
+As of January 4, I still haven't taken a full inventory of what was stolen, but I counted 26 missing bins. Every bin marked "Memorabilia" was gone. That's everything from my entire life, going back to childhood. Every photo. Every trinket from my desks through the years. Every concert program that I saved. The flower I gave Adam on our anniversary. The map of the Denver Botanical Gardens from my trip with Adam. All my _Star Trek_ collectables. All my DVDs and VHS tapes and CDs. Signed mint-condition books...signed by authors I will never see again. My Sega Genesis and _Sonic: The Hedgehog_ stuff. My pony tails. My coin collection. All my Christmas ornaments. Jewelry. All my Boy Scouts stuff and accomplishments, including my uniform and merit badge sash. My report cards and yearbooks from school. My Hogwarts robes. A snowboard, even. And so much more.
 
 I summoned the police, and they took fingerprints. I at least had the presence of mind to fall back on what I'd learned from all those crime procedurals that I watched and not touch anything before they arrived and collected as much forensic evidence as possible. Yes, there are some leads that we're pursuing, but the facility has no cameras near my unit, and the available data is sparse, particularly because we don't know for sure when between October 14 and December 29 this happened. Frankly, I have no expectation that I will ever get my things back. I have reason to believe that this happened closer to October, and if that's true, then all the valuable things will long have been sold and the rest dumped.
 
@@ -188,7 +248,7 @@ I'll keep this section relatively short because it really needs its own blog pos
 
 Fast-forward six months. While [I'm driving my 26-foot truck from California to Denver](/blog/2020-10-14/move-to-denver/), I got a voicemail from a different claims specialist at State Farm, telling me that they reversed their liability determination. After numerous back and forths, I learned that the basis for the change was that the other side didn't accept it. No new evidence. No reevaluation of the existing evidence. Just disagreement by the other party. Oh, and they also trumped up bodily injury damages, which was so outlandish that it triggered a heightened-scrutiny investigating by State Farm. So here, State Farm already questioned the other party's veracity, but their disagreement was sufficient to overturn the liability determination. _WHAT!?_ I think the epistemological problems here stand on their own without need of further comment. And while I might otherwise have been willing to just suck up the injustice, this determination came with a hefty price tag: Even though my policy would be paying out in the immediate term, it would cause my premiums to increase to the point that, over the course of 6 years, I'd be paying an extra $5000. So not trivial.
 
-I engaged an attorney for guidance. And I appealed with State Farm's internal "California Department of Reconsideration", which is supposed to be independent and objective. In less than 24 clock hours to review all the rich detail I provided, the State Farm California Department of Reconsideration upheld the most recent "all Arthur's fault" determination, citing a bunch of factors that showed a glaring lack of attentiveness to the matter at hand, getting both basic facts wrong, re-asserting claims I proved were physically impossible, re-asserting disputed assertions by the other part as though they were incontestable facts, and applying the wrong state law.
+I engaged an attorney for guidance. And I appealed with State Farm's internal "California Department of Reconsideration", which is supposed to be independent and objective. In less than 24 clock hours to review all the rich detail I provided, the State Farm California Department of Reconsideration upheld the most recent "all Arthur's fault" determination, citing a bunch of factors that showed a glaring lack of attentiveness to the matter at hand, getting basic facts wrong, re-asserting claims I proved were physically impossible, re-asserting disputed assertions by the other part as though they were incontestable facts, and applying the wrong state law.
 
 So now I'm continuing to pursue a potential legal avenue, while trying to see if I can escalate through State Farm's own management chain.
 
@@ -196,7 +256,7 @@ But fuckin'-A; do I really need this stress on top of everything else going on?
 
 ## Changing Teams at Amazon
 
-For reasons that I mentioned in [my post on moving to Denver](/blog/2020-10-14/move-to-denver/), I started looking at other teams within Amazon to transfer to in Q4. At the end of December, I had two offers, and I chose to transition from the Alexa Tech Docs team to the Alexa Device SDK team, under a new manager. There were a few yellow flags, and I had to contend with some unfavorable parts of my reputation following me (some earned and some unearned), but I ultimately decided on the Alexa Device SDK team because I wanted to learn more about device software and C++, and there were a lot of opportunities to leverage my previous Alexa experience in API design and cloud services, to say nothing of my skill in unifying/generalizing divergent solutions. This is the primary reason that my colleague on the team recruited me so strongly.
+For reasons that I mentioned in [my post on moving to Denver](/blog/2020-10-14/move-to-denver/), I started looking at other teams within Amazon to transfer to in Q4. At the end of December, I had two offers, and I chose to transition from the Alexa Tech Docs team to the Alexa Device SDK team, under a manager just hired to lead this team. There were a few yellow flags, and I had to contend with some unfavorable parts of my reputation following me (some earned and some unearned), but I ultimately decided on the Alexa Device SDK team because I wanted to learn more about device software and C++, and there were a lot of opportunities to leverage my previous Alexa experience in API design and cloud services, to say nothing of my skill in unifying/generalizing divergent solutions. This is the primary reason that my colleague on the team recruited me so strongly.
 
 So while my heart weighs heavy to leave a team, area, and manger that I love so much, I'm optimistic and excited about the opportunity to do some really cool--and impactful--things on this new team.
 
@@ -212,7 +272,7 @@ I also wish that Diana had treated me better. I had come to expect that she woul
 
 Whatever mistakes I made and whatever I could have done better, I don't think I deserved this. If I sound frustrated, it's because I am. And while I can imagine some benign explanations for all this (not the least of which is that 2020 has been a severely dysregulating time for many people, and not only because of COVID-19), I don't think it excuses or justifies her treatment of me.
 
-My anxious-preoccupied tendencies are manifesting hard, prompting me to overexplain and belabor every point. I have a strong urge to defend myself against what feels like being severely misunderstood. The injustice of it all feels almost unbearable. But the last think I want to do is have this stand as some overall condemnation of Diana. This was not okay, and the loss of her friendship is deeply painful (particular in the context of all the other loss I suffered in 2020), but in many ways, I still admire her and hold her in high esteem.
+My anxious-preoccupied tendencies are manifesting hard, prompting me to overexplain and belabor every point. I have a strong urge to defend myself against what feels like being severely misunderstood. The injustice of it all feels almost unbearable. But the last thing I want to do is have this stand as some overall condemnation of Diana. This was not okay, and the loss of her friendship is deeply painful (particular in the context of all the other loss I suffered in 2020), but in many ways, I still admire her and hold her in high esteem.
 
 I had hoped to continue being a valued friend to her. She was no small part of my decision to come to Colorado. (Even though things were already rocky between us when I was thinking of coming to Denver, I expected it was temporary.) And while I'm coming to grips with losing her friendship, I'm hoping for the best for her, hoping that she finds joy and happiness on her path, even if I'm not part of it.
 
@@ -242,6 +302,41 @@ What I can say is that Aetna is so horrible (and that's to say nothing of numero
 
 Oh, and I've definitely learned my lesson about letting these kinds of things pile up. Never fucking again.
 
+## Ridiculous Beard
+
+Okay, so you probably saw [my ridiculous beard above](#move-to-denver) and maybe thought "Uh, what's up with that?". Believe me, I got plenty of "feedback" about that. I didn't ever think it was attractive; don't you worry.
+
+I don't really know how it happened, but in early 2020, I just accidentally let it get longer. I don't really have good follicle density on my face, so when my beard is longer, it looks fuller. And I'm a sucker for a good beard. So I let it get a little long. And then the COVID-19 restrictions hit, and Supercuts was closed indefinitely, so I couldn't get a haircut. This happened just around the time that I was due for a haircut anyway. So I guess I sort of adopted a "Ah, well, fuck it; I'll just let it all grow out." attitude.
+
+In a way, the sort of disheveled, unkept outward appearance reflected my inner state, given how severely dysregulated I was by the escalating difficulties with Adam and then my grief after [our breakup](#end-of-relationship-with-adam). It felt appropriate. Bummer that my driver license renewal came up in July, and it looks absolutely hideous. But since I'm likely to get a CO driver license soon enough anyway, I guess in retrospect, it's not so bad.
+
+As the summer wore on, I realized that I could actually use my beard as part of a Halloween costume, despite lack of parties or trick-or-treating, on account of COVID-19. So I decided I would be a Viking, and I managed to get a haircut and have my beard cleaned up professionally. The result was pretty good:
+
+{:refdef: style="text-align: center;"}
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLXP2fRtdbhkDRbNGI1cHEEzm10i85QU-avbzDct3uAoJW7el7qCd6JXDdZhfY1lYoszReihPzKJe97E18jsj8E-9VSCNGZhPv8d9VmpPWeFgNSRBr8CGfBOTV5aSQ3BedMco1nidVlHkSAQ-O0plBuqLw=w1596-h2128-no?authuser=0" alt="2020-10-31" width="720px" align="center" />
+{: refdef}
+
+A few days later, I wanted to see what it would look like if I dyed it jet black:
+
+{:refdef: style="text-align: center;"}
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLVQHcbrDf174bIcnuqvaEpwGByqjlJbQY4NmmQQMS4DZSan6B9XnWzn055OYmzMq1fa6DJUztwq5HgR0j5I8aYH570XJU9tSu21fSRVG4EuOrxx9TugOjVn-C0dqPsTtG493f_H8ObbgPl38NZQeEBcrw=w2838-h2128-no?authuser=0" alt="2020-11-02" width="720px" align="center" />
+{: refdef}
+
+I liked it a little better, but within another week, I was done, and I was so relieved to be back to normal:
+
+{:refdef: style="text-align: center;"}
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLVxXMmt0V_a9DiqpzMp4aWlw3K_peZPScPo_0cCOOnVwx-SQ_bN5UKsETo2Mejs5AHGYsl3aDh0wZZOD7-0TlLnl2Fiw9qKkqHUctHdRJZAI8LQM1HdJQZ6_1l1vxQ_XCGccWobE70dgYO56YFEPqiK-w=w2838-h2128-no?authuser=0" alt="2020-11-07" width="720px" align="center" />
+{: refdef}
+
+{:refdef: style="text-align: center;"}
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLV1qRiadI5_gY2CDcNgSM4OjEY6a3DmqvPH_lgB64upG_T573noXb_1jDiI5w4M3rFzr265GBRXG6BTw3mGrVQxCE0ixYvKsLKdB61oY4zvQDV4a5YUxkxPOND61CprlSn3rcvBQ91Huf-AeCifA2bP6g=w2838-h2128-no?authuser=0" alt="2020-11-07" width="720px" align="center" />
+{: refdef}
+
+{:refdef: style="text-align: center;"}
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLXZp5DSkuP4BLHj5N6rWIkjO6TEIQeOOUvzzfcH6IcMyAYR3z54p-7t_x4M8tSSL0QhpiM_x3qTM6X4-ADtb8AkUeWqlHIarPPwWQsDgVAbR2P7Er7HEY1hKpupATgLiYePj5WNAnhyf8DVvHpRaaDZNA=w2838-h2128-no?authuser=0" alt="2020-11-07" width="720px" align="center" />
+{: refdef}
+
+
 ## Reading
 
 One of the good things of 2020 is that, because of my desperate desire to work things out with Adam and understand what was going on with him, me, and us, I started doing [a lot of reading](https://www.goodreads.com/review/list/112945867-arthur-zey?read_at=2020){:target="&lowbar;blank"}. It helped that I was doing it through Audible, since that allowed me to better utilize time weightlifting, driving, walking, cleaning, and even snowboarding. And when I felt like I had had enough of the psychology-related books, I moved on to other topics, especially economics and (mostly) other non-fiction. Most of that was concentrated in the last few months, where I think I averaged more than a book per day. (Some were quite short, and I listen on 2x speed!) I'll probably take a bit of a break from such voracious "reading", but I hope that the general disposition to read more than I had been in previous years will stick.
@@ -254,12 +349,14 @@ Another good thing is that I got involved with [Front Range Objectivism](http://
 
 In February 2020, I finished reading Lundy Bancroft's book [_Why Does He Do That?_](https://www.goodreads.com/book/show/224552.Why_Does_He_Do_That_){:target="&lowbar;blank"}. Diana had recommended the book to me because she worried that, given how I described some of our difficulties, Adam was being abusive. I'm really glad I read the book because it gave me full confidence and a clear understanding that Adam was _not_ abusive, however unacceptable some of his behavior was. But the book was so good in so many ways, and I reached out to Lundy to thank him for writing it. Much to my surprise, he responded, and we ended up exchanging occasional emails. I learned of another book he'd written, [_The Joyous Recovery_](https://www.goodreads.com/book/show/49923035-the-joyous-recovery){:target="&lowbar;blank"}, which I started reading. And then I joined a book club he was running for it. And that book was part of the basis for something Lundy called the [Peak Living Network](https://peaklivingnetwork.org/){:target="&lowbar;blank"}, which I started getting more involved with. And then I started up a Slack workspace for us. And so far, that's seeming to really speed up the level of engagement of members and helping us to feel like a real community, providing one another support and love and care with whatever we're going through.
 
+I even put up a page about having a [local Denver group for PLN](/peak-living-network/), but I haven't done anything proactive about that, yet.
+
 I started doing something called [cocounseling](https://peaklivingnetwork.org/split-time/){:target="&lowbar;blank"}, which has been really helpful. And later in January, I'll be participating in a cocounseling training class that Lundy is running.
 
-I don't always see eye to eye with everybody in the group (I mean, obviously--that's just human relationships), and I do think a lot of folks would benefit on a deep emotional level from reading [Brené Brown](https://www.goodreads.com/author/show/162578.Bren_Brown){:target="&lowbar;blank"}, Marshall Rosenberg's [_Nonviolent Communication_](https://www.goodreads.com/book/show/71730.Nonviolent_Communication){:target="&lowbar;blank"}, Tara Smith's [_Ayn Rand's Normative Ethics_](https://www.goodreads.com/book/show/261369.Ayn_Rand_s_Normative_Ethics){:target="&lowbar;blank"}, and a few other books, but this is a great group of people consciously and earnestly pursuing their well being and prosperity. I'm getting a lot out of being part of this organization, often in ways I didn't expect.
+I don't always see eye to eye with everybody in the group (I mean, obviously--that's just human relationships), and I do think a lot of folks would benefit on a deep emotional level from reading [Brené Brown](https://www.goodreads.com/author/show/162578.Bren_Brown){:target="&lowbar;blank"}, Marshall Rosenberg's [_Nonviolent Communication_](https://www.goodreads.com/book/show/71730.Nonviolent_Communication){:target="&lowbar;blank"}, Susan Campbell's [_Getting Real_](https://www.goodreads.com/book/show/249721.Getting_Real){:target="&lowbar;blank"}, Tara Smith's [_Ayn Rand's Normative Ethics_](https://www.goodreads.com/book/show/261369.Ayn_Rand_s_Normative_Ethics){:target="&lowbar;blank"}, and a few other books, but this is a great group of people consciously and earnestly pursuing their well being and prosperity. I'm getting a lot out of being part of this organization, often in ways I didn't expect.
 
 I'm so grateful to Lundy for his books and for bringing us together in this common pursuit.
 
 ## Conclusion
 
-I'm so glad that 2020 is done. I'm anticipating a lot of difficulty ahead, still, but I have to believe that 2021 can't be nearly as challenging as 2020. I'm just so ready for things to be somewhat easy and calm. I desperately need to be able to relax.
+I'm so glad that 2020 is done. I'm still anticipating a lot of difficulty ahead, but I have to believe that 2021 can't be nearly as challenging as 2020. I'm just so ready for things to be somewhat easy and calm. I desperately need to be able to relax.
