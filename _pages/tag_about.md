@@ -96,8 +96,6 @@ While I buck a lot of social conventions and [many of the superficial manifestat
 
 I love children, and I can't wait to be a dad.
 
-I'm a product manager for the [Alexa Device SDK](https://developer.amazon.com/en-US/alexa/devices/alexa-built-in/development-resources/sdk){:target="&lowbar;blank"} for Amazon.
-
 I grew up in Los Angeles, I lived in the San Francisco Bay area for nearly 10 years, I was in Denver "temporarily" for about a year to figure out whether I want to live in Colorado permanently, and I've been living in Bailey, Colorado since the end of August 2021.
 
 ## Interests, Values, and Passions
