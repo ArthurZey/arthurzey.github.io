@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2021-12-23T01:08:09+00:00"
+last_modified_at: "2022-01-01T21:07:57+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,14 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-02-26
+### The Good Thing
+Got a tour of Boom Supersonic and had dinner with Blake Scholl.
+### What It Means to Me
+
+### What It Says about Me
+
 
 ## 2021-12-22
 ### The Good Thing
