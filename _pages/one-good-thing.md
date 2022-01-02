@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-01-01T21:07:57+00:00"
+last_modified_at: "2022-01-02T17:21:35+00:00"
 tags:
   - happenings
   - draft
@@ -13,9 +13,96 @@ sitemap: false
 {:toc}
 {::options toc_levels="2" /}
 
+## 2022-01-02
+### The Good Thing
+
+### What It Means to Me
+
+### What It Says about Me
+
+
+## 2022-01-01
+### The Good Thing
+Woke up to a bunch of snow and went on a walk with Chris and Morten.
+### What It Means to Me
+
+### What It Says about Me
+
+
+## 2021-12-31
+### The Good Thing
+I had a very enjoyable New Year's Eve dinner with my friends Chris, Morten, Morten's mom (Marian), Melissa, Richard, and Robert.
+### What It Means to Me
+
+### What It Says about Me
+
+
+## 2021-12-30
+### The Good Thing
+I had a nice time at Stacy's post-post-Christmas party.
+### What It Means to Me
+
+### What It Says about Me
+
+
+## 2021-12-29
+### The Good Thing
+Had lunch with an acquaintance who was passing through Bailey, and we managed to discuss controversial topics (where we had different viewpoints) without its being an argument.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2021-12-28
+### The Good Thing
+Went on an enjoyable date at a local pub.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2021-12-27
+### The Good Thing
+
+### What It Means to Me
+
+### What It Says about Me
+
+
+
 ## 2022-02-26
 ### The Good Thing
 Got a tour of Boom Supersonic and had dinner with Blake Scholl.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+
+## 2021-12-25
+### The Good Thing
+Christmas morning with the Cades!
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2021-12-24
+### The Good Thing
+
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2021-12-23
+### The Good Thing
+
 ### What It Means to Me
 
 ### What It Says about Me
