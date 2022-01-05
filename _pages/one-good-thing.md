@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-01-04T02:05:53+00:00"
+last_modified_at: "2022-01-05T04:33:18+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+
+## 2022-01-03
+### The Good Thing
+Got to enjoy a really beautiful sunrise.
+### What It Means to Me
+
+### What It Says about Me
+
 
 ## 2022-01-02
 ### The Good Thing
@@ -65,7 +74,7 @@ Went on an enjoyable date at a local pub.
 
 ## 2021-12-27
 ### The Good Thing
-
+Got to spend the afternoon with Richard and Robert while Martin and Melissa went on a date.
 ### What It Means to Me
 
 ### What It Says about Me
@@ -93,7 +102,7 @@ Christmas morning with the Cades!
 
 ## 2021-12-24
 ### The Good Thing
-
+Christmas Eve steak dinner with the Cades!
 ### What It Means to Me
 
 ### What It Says about Me
