@@ -47,7 +47,7 @@ hash_redirects:
     from: "#autism-test"
     to: "/personality-and-behavioral-profiles/#autism-test"
 date: "2020-04-15"
-last_modified_at: "2021-11-19T15:05:29+00:00"
+last_modified_at: "2022-01-05T18:54:31+00:00"
 ---
 
 {:refdef: style="text-align: center;"}
@@ -86,7 +86,7 @@ I tend to be a generalist and selective specialist, but a huge nerd through and 
 
 To me, integrity means _integrating_ mind, body, and spirit. It means continuously learning rational (ie, practical) principles, and walking the walk and talking the talk. I embrace consistency and reject compartmentalization. I'm a geek about intellectual pursuits, I'm maniacal about physical fitness (in [health](/reactive-preventative-proactive-health/), [bodybuilding, and diet](/physical-fitness/)), and I'm always learning and [growing](/growth/) in the areas of mindfulness and empathy (thank you, meditation).
 
-I'm opinionated and curious, willful and flexible, arrogant and aware of my limitations, direct and sensitive/tactful (or, well, I try!). I always have to _be_ right, not necessarily _appear_ right or merely "win" arguments. I worship at the alter of _the supreme sanctity of the truth_; discovering that I was wrong is a gift that allows me to learn the truth and actually be right. I'm utterly intransigent about certain things (especially more fundamental matters of principle), but really easygoing about a lot of more superficial things. This seems to create [a lot of confusion for people, and most people erroneously conclude](/misunderstood/) that I'm just uptight and inflexible. I'm okay with being _not_ understood, but I really struggle with (and get defensive about) being [<i>mis</i>understood](/misunderstood/).
+I'm opinionated and curious, willful and flexible, arrogant and aware of my limitations, direct and sensitive/tactful (or, well, I try!). I always have to _be_ right, not necessarily _appear_ right or merely "win" arguments. I worship at the altar of _the supreme sanctity of the truth_; discovering that I was wrong is a gift that allows me to learn the truth and actually be right. I'm utterly intransigent about certain things (especially more fundamental matters of principle), but really easygoing about a lot of more superficial things. This seems to create [a lot of confusion for people, and most people erroneously conclude](/misunderstood/) that I'm just uptight and inflexible. I'm okay with being _not_ understood, but I really struggle with (and get defensive about) being [<i>mis</i>understood](/misunderstood/).
 
 I love [logging things](#footer) in the spirit of [Quantified Self](https://quantifiedself.com/about/what-is-quantified-self/){:target="&lowbar;blank"}, though it's not an especially social phenomenon for me. Part of my love of it is in bringing order to the chaos of life through data normalization.
 
