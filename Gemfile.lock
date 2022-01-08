@@ -44,7 +44,7 @@ GEM
     faraday-excon (1.1.0)
     faraday-httpclient (2.0.1)
       httpclient (>= 2.2)
-    faraday-multipart (1.0.2)
+    faraday-multipart (1.0.3)
       multipart-post (>= 1.2, < 3)
     faraday-net_http (2.0.1)
     faraday-net_http_persistent (2.0.1)
