@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2021-11-13T00:21:04+00:00"
+last_modified_at: "2022-01-10T00:41:14+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -184,7 +184,7 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
 
 <script src="https://www.goodreads.com/review/custom_widget/112945867.Goodreads%20Up%20Next%20List?cover_position=left&cover_size=small&num_books=100&order=a&shelf=up-next&show_author=1&show_cover=1&show_rating=0&show_review=0&show_tags=0&show_title=1&sort=position&widget_bg_color=FFFFFF&widget_bg_transparent=true&widget_border_width=1&widget_id=1606314147&widget_text_color=000000&widget_title_size=medium&widget_width=full" type="text/javascript" charset="utf-8"></script>
 
-# 2021
+
 {% comment %}
 ########## PULL ITEMS OUT OF COMMENT WHEN COMPLETED ##########
 
@@ -202,10 +202,30 @@ _started in 2019; in progress_
 * "we hold these truths to be self-evident" didn't need so much to-do for why it was a philosophically valid usage. Could have just said that _we hold_ as self-evident because it's an indisputable premise.
 {% endcomment %}
 
+
+
+{% endcomment %}
+
+# 2022
+
+## Alan Downs: _The Velvet Rage_
+[Audible](https://www.audible.com/pd/B0085E8B40){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B007XUGCUM/){:target="&lowbar;blank"}
+{% comment %}
+* 14% in: So far, really resenting the condescending "This describes all gay men; if you don't feel this way, you're not introspecting hard enough and are repressing." message. I'll keep reading, in hopes that it will at least give me an insight into what may be the experience of many gay men.
+* Really awful advice about distracting yourself when you're feeling depressed or some other unpleasant emotion because it wallowing allegedly makes you feel more of it. Basically, it's risking repression.
+* Basically, this describes most people, using gays as a particular case study. Very little was specific to gays; I see the same patterns in people all around (especially men, but also women), and it may simply be especially magnified among gays for various reasons. But most of the advice was general and applicable to most people, gay or straight, male or female.
+{% endcomment %}
+
 ## David Sedaris: _The Best of Me_
 [Audible](https://www.audible.com/pd/1549160761){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B089SPTBWX){:target="&lowbar;blank"}
 
+## Benjamin Bikman: _Why We Get Sick_
+[Audible](https://www.audible.com/pd/1799933296){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07ZKZ2NRN/){:target="&lowbar;blank"}
+{% comment %}
+* Lots of praise for Gary Taubes's _Good Calories, Bad Calories_, and I wonder how to reconcile that with more recent concerns about the acciracy of some aspects of that book. I should follow up with Andrew about this.
 {% endcomment %}
+
+# 2021
 
 ## Milton Friedman: _Free to Choose_
 [Audible](https://www.audible.com/pd/B002VAEJ4K){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B004MYFLBS){:target="&lowbar;blank"}
