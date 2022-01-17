@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2021-12-26T17:31:20+00:00"
+last_modified_at: "2022-01-17T05:41:04+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -29,6 +29,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "checkin" versus "check-in"
   * "oncall" versus "on-call"
   * "inline" versus "in-line"
+* "the reason why", "the reason is because"
 * hyphenates that should be their own words
   * "usecase"
   * "enduser"
