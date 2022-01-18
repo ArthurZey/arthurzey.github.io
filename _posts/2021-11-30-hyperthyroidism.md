@@ -1,12 +1,11 @@
 ---
 title: Hyperthyroidism
 tags:
-  - stub
   - about
   - health
 description: "So I guess I maybe have hyperthyroidism."
 date: "2021-11-30"
-last_modified_at: "2021-12-02T14:52:20+00:00"
+last_modified_at: "2022-01-18T17:45:50+00:00"
 ---
 
 * TOC
@@ -22,6 +21,7 @@ last_modified_at: "2021-12-02T14:52:20+00:00"
 |2021-11-10|<0.01| | | | | | | | |
 |2021-11-18|<0.005|5.7|2.03|<1.10|<0.10|905|62.3|137.0|pursuant to low TSH test|
 |2021-11-29|<0.005|4.7|1.88| | | | | |after 6 days of discontinuing all [supplements](/physical-fitness/#supplements),<br />most notably, Iodoral, Vitamin D, Vitamin B<sub>7</sub> (Biotin)|
+|2022-01-03|0.050|3.4|1.38| |<1.0| | |59.3|after another month of discontinuing all [supplements](/physical-fitness/#supplements),<br />most notably, Iodoral, Vitamin D, Vitamin B<sub>7</sub> (Biotin)|
 
 ## Narrative
 
