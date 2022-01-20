@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2022-01-10T00:41:14+00:00"
+last_modified_at: "2022-01-20T06:32:37+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -208,6 +208,9 @@ _started in 2019; in progress_
 
 # 2022
 
+## Robert Whitaker: _Anatomy of an Epidemic_
+[Audibe](https://www.audible.com/pd/B003MXR26W){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B0036S4EGE/){:target="&lowbar;blank"}
+
 ## Alan Downs: _The Velvet Rage_
 [Audible](https://www.audible.com/pd/B0085E8B40){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B007XUGCUM/){:target="&lowbar;blank"}
 {% comment %}
@@ -222,7 +225,7 @@ _started in 2019; in progress_
 ## Benjamin Bikman: _Why We Get Sick_
 [Audible](https://www.audible.com/pd/1799933296){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07ZKZ2NRN/){:target="&lowbar;blank"}
 {% comment %}
-* Lots of praise for Gary Taubes's _Good Calories, Bad Calories_, and I wonder how to reconcile that with more recent concerns about the acciracy of some aspects of that book. I should follow up with Andrew about this.
+* Lots of praise for Gary Taubes's _Good Calories, Bad Calories_, and I wonder how to reconcile that with more recent concerns about the accuracy of some aspects of that book. I should follow up with Andrew about this.
 {% endcomment %}
 
 # 2021
