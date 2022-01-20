@@ -5,7 +5,7 @@ tags:
   - health
 description: "So I guess I maybe have hyperthyroidism."
 date: "2021-11-30"
-last_modified_at: "2022-01-18T17:45:50+00:00"
+last_modified_at: "2022-01-20T20:29:41+00:00"
 ---
 
 * TOC
@@ -50,6 +50,18 @@ Incidentally, a medical student friend of mine did not detect any nodules.
 My 2021-11-29 labwork showed a marked lowering of T3 and T4, but still really low TSH. That leads me to wonder how much is a function of (a) discontinuing some of the supplements, (b) natural variability in hormone levels, (c) test measurement error/variability, or some combination of the those. I have a feeling the supplements are a major factor, and I wonder if with more time of not taking any supplements, the T3 and T4 levels would lower to being within the reference range, and my TSH would similarly go back to normal.
 
 Meanwhile, I'm feeling much the same. I wonder what the appointment with the endocrinologist will yield.
+
+### Useless Endocrinologist Appointment
+
+On 2021-12-13, I had an appointment at the Endocrinology, Diabetes & Thyroid Specialists of Colorado. I had provided them all my labwork in advance, as well as details about my supplements, lifestyle, and symptoms. I was instructed to arrive 10 minutes early, but the doctor was running 15 minutes late. Then, our appointment felt very rushed. The doctor was not at all familiar with my case, and we had to go over everything from scratch. I tried to ask all my questions and list out all my symptoms that I thought _might_ be connected, but she kept cutting me off and wanting to move on. In the end, her recommendation was to just redo the labwork and see if my T3 and T4 numbers continue trending in the right direction. If not, she said we could do an iodine uptake test or something and then maybe go on meds. She made zero effort to help me to understand anything about any of this, but seemed to just be cranking me through a script. For the pleasure of this useless appointment, where the doctor's advice was to do what I was going to do anyway and which basically amounted to "let's wait and see" (which itself could have been conveyed without an appointment), I was charged $453.12, which is beyond even the upper range that was shared with me in advance. This was deemed a "moderate complexity" office visit because the doctor spent _so_ much time with me. No amount of appealing that classification yielded any results, but at least there was a cash discount rate of 50%, so I ended up paying only $226.56. (My health plan was of no help here, since it was a new plan and exactly $0 of my deductible had been met, and the contracted rate was also 50%.)
+
+Contrast this with the great experience I had at [The Facility Denver](https://www.thefacilitydenver.com/){:target="&lowbar;blank"} the previous week on 2021-12-09, where I went into a 1.5-hour meeting with the doctor and dietician both, who not only carefully read the documents I had provided in advance, but also "stalked" my [MyFitnessPal food log](http://www.myfitnesspal.com/food/diary/ArthurZey){:target="&lowbar;blank"} and other parts of my website to get a sense for my lifestyle and _how I think about things_. They then proceeded to explore my constellation of symptoms with me, all the while trying to help me to understand various biological mechanisms in my context of knowledge. This was definitely one of the best doctor experiences I'd ever had.
+
+### T3 and T4 Return to Normal
+
+Pursuant to the recommendation of Dr Rasmussen at [The Facility Denver](https://www.thefacilitydenver.com/){:target="&lowbar;blank"}, on 2022-01-03, I redid not only my thyroid labs, but an entire ["Comprehensive Bioscreen"](https://www.thefacilitydenver.com/testing#comp-k68f1nwv){:target="&lowbar;blank"}. Good news: T3 and T4 are back to normal, and TSH is trending correctly (which I understand is a lagging indicator and can take a few more months to normalize).
+
+But now we've uncovered that I have elevated iron levels. That's properly the subject of a new post on my now-battle with hemochromatosis, but in short, I'm needing to find out whether I have the offending genes (thankfully, no family history I've been able to uncover), whether it could have been drinking well water for a month while the reverse osmosis system was offline (as there is such a high iron content in the ground water that water spots often left rust dust), and whether I can bring myself to donate blood (which is the only known short-term treatment for high blood iron levels). Fun fact: [Gays still can't donate blood](https://www.redcrossblood.org/donate-blood/how-to-donate/eligibility-requirements/lgbtq-donors.html){:target="&lowbar;blank"}, unless they abstain from gay sex for three months, and while I'm not exactly getting laid left and right, I'll be damned if I'm going to further restrict my sexual activities so that I can experience the joy of regular vasovagal episodes. _Sigh._
 
 ## Context
 
