@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-01-24T04:37:20+00:00"
+last_modified_at: "2022-01-24T19:23:51+00:00"
 tags:
   - happenings
   - draft
@@ -28,6 +28,15 @@ Had a really productive day of cleaning the house, shoveling the driveway, and p
 ### What It Means to Me
 
 ### What It Says about Me
+
+
+## 2022-01-24
+### The Good Thing
+Got the piano tuned and sticking key fixed.
+### What It Means to Me
+
+### What It Says about Me
+
 
 
 
