@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-01-27T17:52:59+00:00"
+last_modified_at: "2022-01-29T13:36:07+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-01-27
+### The Good Thing
+Got to start _The Wheel of Time_ with Melissa and really enjoying it.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2022-01-26
 ### The Good Thing
