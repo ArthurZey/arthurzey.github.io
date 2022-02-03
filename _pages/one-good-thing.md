@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-02-02T04:02:30+00:00"
+last_modified_at: "2022-02-03T06:02:32+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-02-02
+### The Good Thing
+Produced documentation updates to the Ookla Web SDK using Adobe InDesign, which I'd never used before.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2022-02-01
 ### The Good Thing
