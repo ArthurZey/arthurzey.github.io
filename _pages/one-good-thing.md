@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-02-05T04:41:47+00:00"
+last_modified_at: "2022-02-06T04:30:30+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-02-05
+### The Good Thing
+Went snowboarding at Breckenridge and managed to hit the moguls for over 4 hours, seemingly without worsening my back.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2022-02-04
 ### The Good Thing
