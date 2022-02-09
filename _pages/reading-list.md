@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2022-01-20T06:32:37+00:00"
+last_modified_at: "2022-02-09T15:23:17+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -207,6 +207,9 @@ _started in 2019; in progress_
 {% endcomment %}
 
 # 2022
+
+## Jeff Haden: _The Motivation Myth_
+[Audible](https://www.audible.com/pd/B078KNWTHK){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B06ZYFR2CL/){:target="&lowbar;blank"}
 
 ## Robert Whitaker: _Anatomy of an Epidemic_
 [Audibe](https://www.audible.com/pd/B003MXR26W){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B0036S4EGE/){:target="&lowbar;blank"}
