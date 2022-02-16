@@ -13,6 +13,14 @@ sitemap: false
 {:toc}
 {::options toc_levels="2" /}
 
+## 2022-02-15
+### The Good Thing
+Cleaned out and organized a lot of the garage and then had a very nice evening with the Vekslers.
+### What It Means to Me
+
+### What It Says about Me
+
+
 ## 2022-02-14
 ### The Good Thing
 Good "annual" performance review at new job, reflecting good work in my first 2.5 months.
