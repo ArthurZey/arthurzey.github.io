@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-02-20T18:46:39+00:00"
+last_modified_at: "2022-02-22T01:25:30+00:00"
 tags:
   - happenings
   - draft
@@ -13,7 +13,25 @@ sitemap: false
 {:toc}
 {::options toc_levels="2" /}
 
-## 2022-02-29
+## 2022-02-21
+### The Good Thing
+Thawed frozen drainage pipe in garage and got the RO system back into working order.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2022-02-20
+### The Good Thing
+Celebrated Sophie's birthday at our house and then the park; then donated blood to address my hemochromatosis.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2022-02-19
 ### The Good Thing
 Got to spend 4+ hours shoveling snow and clearing out all the pavement of ice in advance of another snowstorm.
 ### What It Means to Me
