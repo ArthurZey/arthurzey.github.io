@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-03-01T06:26:23+00:00"
+last_modified_at: "2022-03-02T07:08:28+00:00"
 tags:
   - happenings
   - draft
@@ -13,13 +13,21 @@ sitemap: false
 {:toc}
 {::options toc_levels="2" /}
 
+## 2022-03-01
+### The Good Thing
+Got Toothless to the vet.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
 ## 2022-02-28
 ### The Good Thing
 Had a good and interesting conversation with Melissa about Attachment Theory and parenting.
 ### What It Means to Me
 
 ### What It Says about Me
-
 
 
 
