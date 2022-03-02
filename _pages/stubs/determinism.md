@@ -5,7 +5,7 @@ tags:
   - philosophy
 description: "Volition is self-evident and axiomatic. The universe works by deterministic laws. And yet choice is not an illusion. How is this possible?"
 date: "2020-04-17"
-last_modified_at: "2021-10-30T17:42:58+00:00"
+last_modified_at: "2022-03-02T17:40:12+00:00"
 ---
 
 This is a favorite topic of many philosophy students. It's fun to think about. But the most important lesson I've learned about this over the years is that _it doesn't matter_. While I think there are valuable things to learn from engaging in it, this is mostly just a fun intellectual exercise.
@@ -69,3 +69,4 @@ Here are a few things I want to address (and this is by no means exhaustive):
 * maybe some polemics around what prominent cultural figures have to say about it? (meh)
   * Sam Harris's [Final Thoughts on Free Will (Episode #241)](https://www.youtube.com/watch?v=u45SP7Xv_oU){:target="&lowbar;blank"} (44:00 duration; recommended by Andrew Zey)
   * The Ayn Rand Institute's [Why Sam Harris is Wrong about Free Will](https://www.youtube.com/watch?v=z-rZotA6SMs){:target="&lowbar;blank"} with Ben Bayer and Onkar Ghate (1:07:50 duration)
+  * Don Watkins's [Sam Harris's Delusional Case for Determinism](https://donswriting.medium.com/sam-harriss-delusional-case-for-determinism-411fc68a4369){:target="&lowbar;blank"}
