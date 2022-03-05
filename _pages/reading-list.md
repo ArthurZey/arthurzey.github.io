@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2022-02-09T15:23:17+00:00"
+last_modified_at: "2022-03-05T19:39:26+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -198,13 +198,13 @@ _started in 2019; in progress_
 
 ## C Bradley Thompson: _America's Revolutionary Mind_
 [Audible](https://www.audible.com/pd/1705237207){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07N8FSMYC){:target="&lowbar;blank"}
-{% comment %}
 * "we hold these truths to be self-evident" didn't need so much to-do for why it was a philosophically valid usage. Could have just said that _we hold_ as self-evident because it's an indisputable premise.
+
+## Brené Brown: _Atlas of the Heart_
+[Audible](https://www.audible.com/pd/1984844261){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B097416CTT/){:target="&lowbar;blank"}
 {% endcomment %}
 
 
-
-{% endcomment %}
 
 # 2022
 
