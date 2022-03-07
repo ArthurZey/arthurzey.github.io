@@ -1,7 +1,7 @@
 ---
 title: "2021 Retrospective"
 date: "2022-01-01"
-last_modified_at: "2021-12-26"
+last_modified_at: "2022-03-07T05:27:40+00:00"
 description: "While still full of challenges, 2021 saw many major milestones and an overall upward trend."
 tags:
   - retrospective
