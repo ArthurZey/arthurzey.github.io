@@ -1,0 +1,21 @@
+{% comment %}
+Parameters:
+  * albums
+    * " ## "-concatenated pairs of " :: "-concatenated album provider IDs and corresponding album IDs for programmatic access
+    * singleton images as "SingleImage :: https://image.url :: Caption"
+    * for example, "GooglePhotos :: https://some.url ## Dropbox :: https://some.other.url ## SingleImage :: https://image.url :: Caption"
+{% endcomment %}
+
+{% if include.albums %}
+  {% assign albums = include.albums | split: " ## " %}
+  {% for album_string in albums %}
+    {% assign album = album_string | split: " :: " %}
+
+    {% if album[0] == "SingleImage" %}
+{:refdef: style="text-align: center;"}
+<img src="{{ album[1] }}" alt="{{ album[2] }}" width="720px" align="center" />
+{: refdef}
+    {% endif %}
+
+  {% endfor %}
+{% endif %}
