@@ -1,7 +1,7 @@
 ---
 title: "2021 Retrospective"
 date: "2022-01-01"
-last_modified_at: "2022-03-07T05:27:40+00:00"
+last_modified_at: "2022-03-07T05:32:21+00:00"
 description: "While still full of challenges, 2021 saw many major milestones and an overall upward trend."
 tags:
   - retrospective
@@ -134,7 +134,7 @@ Assuming you've read the sections above on how my potentially [leaving Amazon](#
 
 ### Finding the House
 
-While visiting with the Cades in July, Melissa and I settled on four houses that I would see the day after I returned to Denver: one in Nederland, one in Evergreen, and two in Bailey. As it happened, that day was my birthday, and it's when I happened to look at the house I ultimately bought (for which Melissa actually found the listing). So within a few days, I was under contract for a house nestled in the mountains of Bailey, which is about an hour southwest of Denver on the 285 (about 20 minutes past Conifer, if you know that town).
+While visiting with the Cades in July, Melissa and I settled on four houses that I would see the day after I returned to Denver: one in Nederland, one in Evergreen, and two in Bailey. As it happened, that day was my birthday, and it's when I happened to look at the house I ultimately bought (for which Melissa actually found the listing). So within a few days, I was under contract for a house nestled in the mountains of Bailey, which is about an hour southwest of Denver on the 285 (about 20 minutes past Conifer, if you know that town). It really felt like a place where I could find the peace and quiet I so urgently needed.
 
 The views were...seductive:
 
