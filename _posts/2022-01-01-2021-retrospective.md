@@ -1,7 +1,7 @@
 ---
 title: "2021 Retrospective"
 date: "2022-01-01"
-last_modified_at: "2022-03-07T15:51:26+00:00"
+last_modified_at: "2022-03-07T18:33:04+00:00"
 description: "While still full of challenges, 2021 saw many major milestones and an overall upward trend."
 tags:
   - retrospective
@@ -10,7 +10,7 @@ tags:
 sitemap: false
 ---
 
-As I'm writing this, I'm noticing the extreme contrast in my emotional state, relative to my [2020 Retrospective](/blog/2021-01-01/2020-retrospective/). The last handful of months have been very difficult, and I've been very stressed out, but my baseline emotional state has not been one of doom and gloom, pessimism, and depression. I'm exhausted, but more back to my optimistic self, and I feel more like things will work out (and that I will be the cause of that). A major theme for 2021 has been overcoming inertia and some of my [anxious-preoccupied](/personality-and-behavioral-profiles/#attachment-style) tendencies, particularly as those have manifested as sort-of instances of the sunken-cost fallacy.
+As I'm writing this, I'm noticing the extreme contrast in my emotional state relative to my [2020 Retrospective](/blog/2021-01-01/2020-retrospective/). The last handful of months have been very difficult, and I've been very stressed out, but my baseline emotional state has not been one of doom and gloom, pessimism, and depression. I'm exhausted, but more back to my optimistic self, and I feel more like things will work out (and that I will be the cause of that). A major theme for 2021 has been overcoming inertia and some of my [anxious-preoccupied](/personality-and-behavioral-profiles/#attachment-style) tendencies, particularly as those have manifested as sort-of instances of the sunken-cost fallacy.
 
 At the beginning of the year, I had three goals for myself for 2021:
 * take a meaningful step in the direction of having a kid (eg, settle on a surrogacy agency)
