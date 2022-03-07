@@ -1,7 +1,7 @@
 ---
 title: "2021 Retrospective"
 date: "2022-01-01"
-last_modified_at: "2022-03-07T18:33:04+00:00"
+last_modified_at: "2022-03-07T22:59:19+00:00"
 description: "While still full of challenges, 2021 saw many major milestones and an overall upward trend."
 tags:
   - retrospective
@@ -263,6 +263,10 @@ After:
 While I still haven't yet written up a proper post dedicated to this issue, I'm so relieved to be done with my horrific [Aetna auditing/reconciliation project](/blog/2021-01-01/2020-retrospective/#ongoing-misprocessing-of-health-care-claims-by-aetna), which involved having to ask them to reissue about $15,000 of reimbursement checks and accounting for every penny. Everything is now deposited and done with.
 
 I'll never use Aetna again if I have a (reasonable) choice.
+
+## Health Issues
+
+But wait; there's more! On the "physical health" front (as though that's cleanly separable from other aspects of health), I discovered in the course of regular screenings/labwork that I've got [hyperthyroidism](/blog/2021-11-30/hyperthyroidism/). Terrific. Maybe that "explains" the chronic fatigue. Now I'm trying to figure out how to deal with it in a way that doesn't just jump to pharmacological intervention as the first step, particularly because I think that would reflect a false understanding of [medical causation](/medical-causation/). But I do hope that understanding my experience as reflecting hyperthyroidism might help me to address my wellbeing more effectively. I hope to resolve this relatively quickly in early 2022, particularly as the latest labwork shows a trend in the correct direction for various hormone levels.
 
 ## State Farm Liability Resolution
 
