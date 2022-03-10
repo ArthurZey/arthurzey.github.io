@@ -1,13 +1,11 @@
 ---
 title: "2021 Retrospective"
 date: "2022-01-01"
-last_modified_at: "2022-03-07T22:59:19+00:00"
+last_modified_at: "2022-03-10T23:59:58+00:00"
 description: "While still full of challenges, 2021 saw many major milestones and an overall upward trend."
 tags:
   - retrospective
   - happenings
-  - draft
-sitemap: false
 ---
 
 As I'm writing this, I'm noticing the extreme contrast in my emotional state relative to my [2020 Retrospective](/blog/2021-01-01/2020-retrospective/). The last handful of months have been very difficult, and I've been very stressed out, but my baseline emotional state has not been one of doom and gloom, pessimism, and depression. I'm exhausted, but more back to my optimistic self, and I feel more like things will work out (and that I will be the cause of that). A major theme for 2021 has been overcoming inertia and some of my [anxious-preoccupied](/personality-and-behavioral-profiles/#attachment-style) tendencies, particularly as those have manifested as sort-of instances of the sunken-cost fallacy.
@@ -330,7 +328,7 @@ Despite not being a native by birth, I've [written a little already about the wa
 
 When they came in the mail, I cried the whole 1.5-mile drive up from the mailbox back to the house.
 
-Somewhat humorously, I think getting my license plate and my being here feeling _really real_ has intensified my "Colorado supremacy". Bad drivers now automatically trigger "Oh, they must be from California.", even though mathematically, that's absurd. And I bemoan the influx of Californians bringing their toxic culture and politics into our great state. On a more serious note, I think I'm committing the _non_-fallacy of self-exclusion here because I specifically fled California to escape the (dis)values I disliked in favor of embracing the Colorado values I've long held dear, so I'm not bringing along anything antithetical to Coloradoness. I learned a phrase from my dad recently, as he was describing a sign in Texas he'd heard of warning immigrants form California: "Remember: You are a refugee, not a missionary." _AMEN._ That completely resonates with me. Oh my gods; I'm so done with California.
+Somewhat humorously, I think getting my license plate and my being here feeling _really real_ has intensified my "Colorado supremacy". Bad drivers now automatically trigger "Oh, they must be from California.", even though mathematically, that's absurd. And I bemoan the influx of Californians bringing their toxic culture and politics into our great state. On a more serious note, I think I'm committing the _non_-fallacy of self-exclusion here because I specifically fled California to escape the (dis)values I disliked in favor of embracing the Colorado values I've long held dear, so I'm not bringing along anything antithetical to Coloradoness. I learned a phrase from my dad recently, as he was describing a sign in Texas he'd heard of that warned immigrants from California: "Remember: You are a refugee, not a missionary." _AMEN._ That completely resonates with me. Oh my gods; I'm so done with California.
 
 ## Conclusion and Looking Ahead
 
