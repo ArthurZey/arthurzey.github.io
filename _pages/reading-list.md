@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2022-03-05T19:39:26+00:00"
+last_modified_at: "2022-03-11T14:35:14+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -200,13 +200,20 @@ _started in 2019; in progress_
 [Audible](https://www.audible.com/pd/1705237207){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07N8FSMYC){:target="&lowbar;blank"}
 * "we hold these truths to be self-evident" didn't need so much to-do for why it was a philosophically valid usage. Could have just said that _we hold_ as self-evident because it's an indisputable premise.
 
-## Brené Brown: _Atlas of the Heart_
-[Audible](https://www.audible.com/pd/1984844261){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B097416CTT/){:target="&lowbar;blank"}
 {% endcomment %}
 
 
 
 # 2022
+
+## Brené Brown: _Atlas of the Heart_
+[Audible](https://www.audible.com/pd/1984844261){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B097416CTT/){:target="&lowbar;blank"}
+{% comment %}
+* Chapter 4: parallel between desirable and undesirable confusion and good and bad stress
+* Generating curiosity in education. Very connected to the approach I learned about from falling Apple institute with respect to astronomy
+* Chapter 8: shame is self-focused, empathy is other focused. But perfectionism is other focused and self-improvement is self-focused. Miss use of the word selfish.
+* Chapter 13: narcissism depends on a view of oneself as good detached from accomplishments, but that's also true of inherent worthiness
+{% endcomment %}
 
 ## Jeff Haden: _The Motivation Myth_
 [Audible](https://www.audible.com/pd/B078KNWTHK){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B06ZYFR2CL/){:target="&lowbar;blank"}
