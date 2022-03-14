@@ -1,6 +1,6 @@
 ---
 title: "Return to Facebook"
-date: "2022-03-10"
+date: "2022-03-14"
 last_modified_at: "2022-03-10T23:59:58+00:00"
 description: "After a major shift in how I use Facebook in the years leading up to 2019, I took an extended break. Now I'm back. Sort of."
 tags:
