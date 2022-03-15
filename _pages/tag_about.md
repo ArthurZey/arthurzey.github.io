@@ -47,7 +47,7 @@ hash_redirects:
     from: "#autism-test"
     to: "/personality-and-behavioral-profiles/#autism-test"
 date: "2020-04-15"
-last_modified_at: "2022-01-05T18:54:31+00:00"
+last_modified_at: "2022-03-15T17:43:07+00:00"
 ---
 
 {:refdef: style="text-align: center;"}
@@ -97,6 +97,8 @@ While I buck a lot of social conventions and [many of the superficial manifestat
 I love children, and I can't wait to be a dad.
 
 I grew up in Los Angeles, I lived in the San Francisco Bay area for nearly 10 years, I was in Denver "temporarily" for about a year to figure out whether I want to live in Colorado permanently, and I've been living in Bailey, Colorado since the end of August 2021.
+
+Oh, and I'm the product manager for [Speedtest Powered](https://www.ookla.com/speedtest-powered){:target="&lowbar;blank"} at Ookla, where I build technical products for technical customers.
 
 ## Interests, Values, and Passions
 * [bodybuilding and physical fitness](/physical-fitness/)
@@ -717,17 +719,29 @@ Boy Scouts?
     <td markdown="span"></td>
   </tr>
   <tr>
-    <th markdown="span" rowspan="2">2021</th>
+    <th markdown="span" rowspan="3">2021</th>
     <td markdown="span"></td>
     <td markdown="span" rowspan="2">Amazon:<br />[Alexa Voice Service Device SDK](https://developer.amazon.com/en-US/alexa/devices/alexa-built-in/development-resources/sdk){:target="&lowbar;blank"}</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
   </tr>
   <tr>
-    <td markdown="span">Bailey, CO</td>
+    <td markdown="span" rowspan="3">Bailey, CO</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
     <td markdown="span">Bought my first home!</td>
+  </tr>
+  <tr>
+    <td markdown="span"></td>
+    <td markdown="span" rowspan="2">Ookla: [Speedtest Powered](https://www.ookla.com/speedtest-powered){:target="&lowbar;blank"}</td>
+    <td markdown="span"></td>
+    <td markdown="span"></td>
+  </tr>
+  <tr>
+    <td markdown="span">2022</td>
+    <td markdown="span"></td>
+    <td markdown="span"></td>
+    <td markdown="span"></td>
   </tr>
  </tbody>
 </table>
