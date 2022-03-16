@@ -1,7 +1,7 @@
 ---
 title: "2020 Retrospective"
 date: "2021-01-01"
-last_modified_at: "2022-03-07T05:24:10+00:00"
+last_modified_at: "2022-03-16T17:24:00+00:00"
 description: "2020 was one of the most difficult and painful years of my life. Good riddance."
 tags:
   - retrospective
@@ -137,7 +137,7 @@ So I planned to make a U-shaped roadtrip, down to LA to spend a few weeks with m
 At the end of July, I packed up my car and drove out to Denver. I made a short stop in Salt Lake City to see my friends Karl and Tammy, then arrived at Stacy's on July 31.
 
 {:refdef: style="text-align: center;"}
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLXVrwh8Ov07ohF8gHaTOJ8YQhJU7XKAkHnPb0HFqgTWMUvkMGMx0oyS6Ezr5y1bjffQj79Jd45Nbtq1pXlGfCWFGwIEHW9MAPNR1pJE9DlM-CozguLnwzSD8tufrlpY8_6qUpp-1IE-oHpLJRstCSLLXg=w2838-h2128-no?authuser=0" alt="200-07-31" width="720px" align="center" />
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLXVrwh8Ov07ohF8gHaTOJ8YQhJU7XKAkHnPb0HFqgTWMUvkMGMx0oyS6Ezr5y1bjffQj79Jd45Nbtq1pXlGfCWFGwIEHW9MAPNR1pJE9DlM-CozguLnwzSD8tufrlpY8_6qUpp-1IE-oHpLJRstCSLLXg=w2838-h2128-no?authuser=0" alt="2020-07-31" width="720px" align="center" />
 {: refdef}
 
 {:refdef: style="text-align: center;"}
