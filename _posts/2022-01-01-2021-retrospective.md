@@ -1,7 +1,7 @@
 ---
 title: "2021 Retrospective"
 date: "2022-01-01"
-last_modified_at: "2022-03-12T22:18:22+00:00"
+last_modified_at: "2022-03-16T20:39:09+00:00"
 description: "While still full of challenges, 2021 saw many major milestones and an overall upward trend."
 tags:
   - retrospective
@@ -110,7 +110,7 @@ It's definitely been an adventure--a wonderful one! Melissa warned me that how m
 
 Aside from some minor things like lipsticking the walls and drawing on my sofa, the biggest snafu was Richard's having hammered a nail into the radiant floor heating pipe in his room. I'm gonna say that it was largely motivated by having been inspired by the contractor's work on the deck... But let's just say that it involved water dripping into the kitchen below and some desperate attempts to plug the hole, shut off the water, and drain the system at 03:00 in the morning. What a fun way to first learn how to read plumbing schematics!
 
-Overall, though, I'm very happy to have them with me, and I'm enjoying being an uncle for the first time. And if nothing else, this is _really_ good practice for having my own kid (I think Melissa called it "deep-end learning").
+Overall, though, I'm very happy to have them with me, and I'm enjoying being a "full-time uncle" for the first time. And if nothing else, this is _really_ good practice for having my own kid (I think Melissa called it "deep-end learning").
 
 {% include image.html albums="SingleImage :: https://lh3.googleusercontent.com/pw/AM-JKLXaJEKijuqHMpK4Rpfk8zvukweGTmyrsOk0AMFsh_Slun_XUb39AA94Xly2P3Wi3WFe2dHOYyweWOqEkAl99HSMTC2TfoP1qx8JfbRzxhtk89Ah6a66FwNDby2dKpzArvmj_slzNIlsNzgk2GPl5nMTxw=w2704-h2030-no?authuser=0 :: 2021-09-24 Dinner with Richard and Robert after I picked them up from the airport" %}
 
