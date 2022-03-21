@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-03-19T22:09:48+00:00"
+last_modified_at: "2022-03-21T00:16:48+00:00"
 tags:
   - happenings
   - draft
@@ -21,7 +21,27 @@ sitemap: false
 ### What It Says about Me
 
 
-## 2022-03-01
+## 2022-03-05
+### The Good Thing
+Attended the annual UCLA Men's Rowing Alumni Banquet and got to see my friend Christopher Beeckler and his new girlfriend Jackie, both of whose company I enjoyed tremendously.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+
+## 2022-03-04
+### The Good Thing
+Arrived at parents' place in Tarzana and got to meet their new dog Max, with whom I instantly fell in love.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+
+## 2022-03-03
 ### The Good Thing
 Got Toothless to the vet.
 ### What It Means to Me
