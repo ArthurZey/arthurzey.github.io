@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-03-21T00:16:48+00:00"
+last_modified_at: "2022-03-21T14:30:59+00:00"
 tags:
   - happenings
   - draft
@@ -19,6 +19,25 @@ sitemap: false
 ### What It Means to Me
 
 ### What It Says about Me
+
+
+## 2022-03-09
+### The Good Thing
+Got to meet Charlotte Rose and hang out with Sara and Jeremy all day.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2022-03-07
+### The Good Thing
+Had dinner with David May, six years after meeting online.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 
 ## 2022-03-05
