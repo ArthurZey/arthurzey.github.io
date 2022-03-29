@@ -7,7 +7,7 @@ tags:
   - media
 description: "Why are we so attracted to the idea of \"good versus evil\"? How is it helpful, and where do we need to be more careful?"
 date: "2021-04-15"
-last_modified_at: "2022-03-28T19:40:25+00:00"
+last_modified_at: "2022-03-29T15:53:02+00:00"
 ---
 
 Oof--there are a bunch of thoughts I have on this that are super scattered and which I really need to straighten out.
@@ -39,6 +39,9 @@ Oof--there are a bunch of thoughts I have on this that are super scattered and w
   * how my views on the Middle East and the difficulties therein have evolved
   * how and when motives become irrelevant in self-defense, ranging from personal to international scales/scopes, as well as in a legal context
   * connection to [Benevolent Universe Premise](http://aynrandlexicon.com/lexicon/benevolent_universe_premise.html){:target="&lowbar;blank"}
+* connection to our culture's addiction to the drama du jour and to fear
+* connection to avoidance of introspection and growth by focusing outward
+* proper role of activism
 * how judgment of other people (and their motives) affects our own experience of events (and even objectively harmful behavior)
 
 Some parallels:
