@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-03-31T02:18:16+00:00"
+last_modified_at: "2022-04-05T04:48:29+00:00"
 tags:
   - happenings
   - draft
@@ -13,12 +13,31 @@ sitemap: false
 {:toc}
 {::options toc_levels="2" /}
 
-## 2022-03-14
+## 2022-04-03
 ### The Good Thing
-[Returned to Facebook](/blog/2022-03-14/return-to-facebook/) and updated my profile there and on LinkedIn. Finally.
+Had a great time at A-Basin, partially with Stacy.
 ### What It Means to Me
 
 ### What It Says about Me
+
+
+
+## 2022-04-02
+### The Good Thing
+Had a nice time with the Vekslers' visit and helping the kids to feed the deer.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2022-04-01
+### The Good Thing
+Ran a good meeting at work to scope high-level engineering requirements/effort and got good feedback from my engineering VP.
+### What It Means to Me
+
+### What It Says about Me
+
 
 
 ## 2022-03-30
@@ -37,7 +56,12 @@ Had a really nice day snowboarding at A-Basin, where I hadn't been in 5 years.
 ### What It Says about Me
 
 
+## 2022-03-14
+### The Good Thing
+[Returned to Facebook](/blog/2022-03-14/return-to-facebook/) and updated my profile there and on LinkedIn. Finally.
+### What It Means to Me
 
+### What It Says about Me
 
 
 ## 2022-03-09
