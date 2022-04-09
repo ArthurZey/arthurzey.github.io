@@ -7,7 +7,7 @@ tags:
   - draft
 description: "Much to my surprise, I find myself practicing something like Starfleet's Prime Directive."
 date: "2022-04-08"
-last_modified_at: "2022-04-08"
+last_modified_at: "2022-04-09T05:58:25+00:00"
 sitemap: false
 ---
 
@@ -26,7 +26,7 @@ And the Prime Directive reminds me of this principle. A more technologically and
 
 [TO DO] Other points:
 * how I feel nowadays
-* my history with activism; being mindful of a false dichotomy
+* my history with activism; being mindful of a false dichotomy between _telling people how it is_ and _complete withdrawal_
 * what I'd do with omnipotent powers
 * connection to a benevolent god, the Ancients
 * people have to take their own journeys, and it's not even my job to show them a map
