@@ -8,7 +8,7 @@ tags:
   - startrek
 description: "Much to my surprise, I find myself practicing something like Starfleet's Prime Directive."
 date: "2022-04-08"
-last_modified_at: "2022-04-10T00:57:32+00:00"
+last_modified_at: "2022-04-11T03:29:52+00:00"
 links:
   posted_at:
     - type: FACEBOOK
@@ -49,6 +49,7 @@ And then, in the course of life after college, a ton of stuff happened:
 * I devoured all of Brené Brown's work, and her exploration of "people are generally doing the best that they can" helped me to fully integrate everything I learned from Objectivism (in terms of the [harmony of people's (genuine) interests](/harmony-of-interests/)), [Positive Discipline](https://en.wikipedia.org/wiki/Positive_discipline){:target="&lowbar;blank"}, and my own introspective and extrospective experience, leading to a radical shift in how I approach the [phenomenon of judgment](/good-versus-evil/). This was probably the most meaningful factor in changing both my immediate emotional reaction to things that happen in life, as well as how I respond to those things behaviorally.
 * I read numerous other books that served to enhance, refine, and create connections across my understanding of so many of the above topics, including
   * Susan Campbell's [_Getting Real_](https://www.goodreads.com/book/show/8198356-getting-real){:target="&lowbar;blank"}
+  * Deb Dana's [_The Polyvagal Theory in Therapy_](https://www.goodreads.com/book/show/35187211-the-polyvagal-theory-in-therapy){:target="&lowbar;blank"}
   * Sue Johnson's [_Hold Me Tight_](https://www.goodreads.com/book/show/2153780.Hold_Me_Tight){:target="&lowbar;blank"}
   * Lundy Bancroft's [_The Joyous Recovery_](https://www.goodreads.com/book/show/49923035-the-joyous-recovery){:target="&lowbar;blank"}
   * Harriet Lerner's [_Why Won't You Apologize?_](https://www.goodreads.com/book/show/29430730-why-won-t-you-apologize){:target="&lowbar;blank"}
