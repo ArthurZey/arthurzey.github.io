@@ -1,10 +1,17 @@
 ---
 title: "Return to Facebook"
 date: "2022-03-14"
-last_modified_at: "2022-03-14T19:47:50+00:00"
+last_modified_at: "2022-04-14T03:14:01+00:00"
 description: "After a major shift in how I use Facebook in the years leading up to 2019, I took an extended break. Now I'm back. Sort of."
 tags:
   - happenings
+links:
+  posted_at:
+    - type: FACEBOOK
+      scheme: POST
+      value:
+        user: ArthurZey
+        id: "10112530977033396"
 ---
 
 In the years leading up to 2019, I drastically changed my approach to how I use Facebook.

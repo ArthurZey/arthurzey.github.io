@@ -1,11 +1,18 @@
 ---
 title: "2021 Retrospective"
 date: "2022-01-01"
-last_modified_at: "2022-03-16T20:39:09+00:00"
+last_modified_at: "2022-04-14T03:14:01+00:00"
 description: "While still full of challenges, 2021 saw many major milestones and an overall upward trend."
 tags:
   - retrospective
   - happenings
+links:
+  posted_at:
+    - type: FACEBOOK
+      scheme: POST
+      value:
+        user: ArthurZey
+        id: "10112531326582896"
 ---
 
 As I'm writing this, I'm noticing the extreme contrast in my emotional state relative to my [2020 Retrospective](/blog/2021-01-01/2020-retrospective/). The last handful of months have been very difficult, and I've been very stressed out, but my baseline emotional state has not been one of doom and gloom, pessimism, and depression. I'm exhausted, but more back to my optimistic self, and I feel more like things will work out (and that I will be the cause of that). A major theme for 2021 has been overcoming inertia and some of my [anxious-preoccupied](/personality-and-behavioral-profiles/#attachment-style) tendencies, particularly as those have manifested as sort-of instances of the sunken-cost fallacy.
