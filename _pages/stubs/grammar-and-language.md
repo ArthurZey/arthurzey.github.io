@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2022-04-14T17:23:37+00:00"
+last_modified_at: "2022-04-17T05:27:07+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -142,6 +142,10 @@ Here are a few of my fixations and particularities (in no particular order) that
   * Ziplock
   * Jello
   * Tupperware
+* pronunciations I'm not okay with
+  * foyer
+  * Louisville
+  * Buena Vista
 * "none are" versus "none is"; "any are" versus "any is"
 * singular "they"
 * singular "data"
