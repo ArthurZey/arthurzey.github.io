@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-04-18T02:49:53+00:00"
+last_modified_at: "2022-04-18T15:41:53+00:00"
 tags:
   - happenings
   - draft
@@ -41,6 +41,14 @@ Really fantastic snowboarding day at Keystone.
 ## 2022-04-10
 ### The Good Thing
 Really great snowboarding day at Keystone.
+### What It Means to Me
+
+### What It Says about Me
+
+
+## 2022-04-13
+### The Good Thing
+Finished my rewatch of _Stargate SG-1_, and I cried and cried and cried about how much I love that show.
 ### What It Means to Me
 
 ### What It Says about Me
