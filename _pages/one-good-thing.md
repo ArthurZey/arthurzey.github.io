@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-04-18T15:41:53+00:00"
+last_modified_at: "2022-04-21T17:37:37+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-04-19
+### The Good Thing
+Got to meet with Minh Ha Ngo, my favorite math teacher, from high school.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2022-04-17
 ### The Good Thing
