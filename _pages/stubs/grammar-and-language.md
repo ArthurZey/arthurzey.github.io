@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2022-04-17T05:27:07+00:00"
+last_modified_at: "2022-04-25T15:28:20+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -167,6 +167,8 @@ Here are a few of my fixations and particularities (in no particular order) that
     * "over meow"
   * "tinylittlebabygoi"
 * "pet owner" / "pet parent" &rarr; "pet guardian" / "pet custodian"
+* "crazy" &rarr; "absurd", "ludicrous", "ridiculous"
+* "hysterical" &rarr; "hilarious" (for funny things); "frantic", "frenetic", "uncalibrated" etc (for uncontrolled extreme emotion)
 
 Fun games:
 
