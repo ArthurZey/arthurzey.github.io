@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2022-04-25T03:19:39+00:00"
+last_modified_at: "2022-04-26T18:22:49+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -201,6 +201,12 @@ _started in 2019; in progress_
 
 
 # 2022
+
+## Hannah Fry: _The Mathematics of Love_
+[Audible](https://www.audible.com/pd/B00RM40Y4E){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00NZWJE70){:target="&lowbar;blank"}
+
+## Eugene Gendlin: _Focusing_
+[Audible](https://www.audible.com/pd/B006GVPBY2){:target="&lowbar;blank"}
 
 ## C Bradley Thompson: _America's Revolutionary Mind_
 [Audible](https://www.audible.com/pd/1705237207){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B07N8FSMYC){:target="&lowbar;blank"}
