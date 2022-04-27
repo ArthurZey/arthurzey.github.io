@@ -47,7 +47,7 @@ hash_redirects:
     from: "#autism-test"
     to: "/personality-and-behavioral-profiles/#autism-test"
 date: "2020-04-15"
-last_modified_at: "2022-03-15T17:43:07+00:00"
+last_modified_at: "2022-04-27T14:28:46+00:00"
 ---
 
 {:refdef: style="text-align: center;"}
@@ -57,7 +57,7 @@ last_modified_at: "2022-03-15T17:43:07+00:00"
 
 Something, something, perfect enemy of the good.
 
-I'm Arthur. This is my website. In early 2020, I threw together a basic structure using [GitHub Pages](https://pages.github.com){:target="&lowbar;blank"} (because tech geek) to get something off the ground quickly. And, with gratitude to [Jim Robertus](https://www.thelcars.com/){:target="&lowbar;blank"}, in late 2021, I finally did a first-pass / naive adaptation of his LCARS template to my website.
+I'm Arthur. This is my website. In early 2020, I threw together a basic structure using [GitHub Pages](https://pages.github.com){:target="&lowbar;blank"} (because tech geek) to get something off the ground quickly. And, with gratitude to [Jim Robertus](https://www.thelcars.com/){:target="&lowbar;blank"}, in late 2021, I finally did a first-pass / naive adaptation of his [LCARS](https://en.wikipedia.org/wiki/LCARS){:target="&lowbar;blank"} template to my website.
 
 I have about a million and one things I'm passionate about that I want to get out of my brain and onto proverbial paper.
 
@@ -729,7 +729,7 @@ Boy Scouts?
     <td markdown="span" rowspan="3">Bailey, CO</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
-    <td markdown="span">Bought my first home!</td>
+    <td markdown="span">[Bought my first home!](/blog/2022-01-01/2021-retrospective/#buying-my-first-home)</td>
   </tr>
   <tr>
     <td markdown="span"></td>
