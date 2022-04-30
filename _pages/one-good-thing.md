@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-04-21T17:37:37+00:00"
+last_modified_at: "2022-04-30T04:17:31+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,23 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-04-24
+### The Good Thing
+Really improved riding switch on closing day at Copper Mountain, where I also had a great time riding moguls all day.
+### What It Means to Me
+
+### What It Says about Me
+
+
+## 2022-04-23
+### The Good Thing
+Had a great time with Dave Denison at Copper Mountain.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2022-04-19
 ### The Good Thing
