@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-04-30T04:17:31+00:00"
+last_modified_at: "2022-05-01T00:53:59+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-04-30
+### The Good Thing
+Went to Winter Park (Mary Jane) for the first time this season with Steve Kahley, and we had a really good time in spring skiing conditions, and did lots of moguls and trees. I'm getting much better at both moguls and riding switch.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2022-04-24
 ### The Good Thing
