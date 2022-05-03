@@ -1,7 +1,7 @@
 ---
 title: "2020 Retrospective"
 date: "2021-01-01"
-last_modified_at: "2022-03-16T17:24:00+00:00"
+last_modified_at: "2022-05-03T19:26:09+00:00"
 description: "2020 was one of the most difficult and painful years of my life. Good riddance."
 tags:
   - retrospective
@@ -53,9 +53,7 @@ So I'm rebuilding, because what else can I do? And I'm pursuing what feels like 
 
 So I can't close the door. Aside from the personal psychic cost of reversing my decisions in that way (since that would still be possible), when I don't have emotional closure, I know myself well enough to know that I would be even further plagued by regrets and "what if"s. For me, taking some kind of affirmative action to "close the door" would be sidestepping and delaying my processing of the grief and loss. It's why I will [wallow](/wallowing/) and keep our photos in my smart display rotation.
 
-{:refdef: style="text-align: center;"}
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLVIFuyz9PWDoxphjiJHPm0pbSBrOp1sGILgpV20orvV8yvlcrBp29aWKcmn8NRp6oomddDzkDjEKCVfsi_rwijusUrwKAZFGUGq3oRnmQz4YCp5ZVZh-19Q1kiJulHRpX4g9wpZYNBrOLEE8qm3V-u9ng=w2838-h2128-no?authuser=0" alt="2018-02-24" width="720px" align="center" />
-{: refdef}
+{% include image.html albums="SingleImage :: https://lh3.googleusercontent.com/pw/AM-JKLVIFuyz9PWDoxphjiJHPm0pbSBrOp1sGILgpV20orvV8yvlcrBp29aWKcmn8NRp6oomddDzkDjEKCVfsi_rwijusUrwKAZFGUGq3oRnmQz4YCp5ZVZh-19Q1kiJulHRpX4g9wpZYNBrOLEE8qm3V-u9ng=w2838-h2128-no?authuser=0 :: 2018-02-24" %}
 
 I'm going to go off on even more of a tangent here, but bear with me--I want to address the sort of advice that I often get when I share my approach.
 
@@ -89,13 +87,9 @@ During the 2010s, I developed a sort of background love affair with Colorado. Mo
 
 So given how much I'm subject to the influence of inertia, it was so wonderful to learn (and it was definitely part of the attraction) that, when we met, Adam had recently purchased 35 undeveloped acres in [Fairplay](https://goo.gl/maps/335ChxfQ1WfCRXMM8){:target="&lowbar;blank"}, which he had intended to transform into his future "forever home". I was totally on board.
 
-{:refdef: style="text-align: center;"}
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLWeXeRerMVwrdmjaT--CTnoMcwMzepUxlxdQIde0mMmQPOUSHrxoJKzy6APerg-mm-6zp-40H7ZhRvGfRCyEg0FX-ufRLdGTjiE4vgnDOB26uCk8NeYCBo7d-_Bc3--jc65EIPaN7Di7S24ggDBgcE5aA=w2838-h2128-no?authuser=0" alt="2018-04-02" width="720px" align="center" />
-{: refdef}
+{% include image.html albums="SingleImage :: https://lh3.googleusercontent.com/pw/AM-JKLWeXeRerMVwrdmjaT--CTnoMcwMzepUxlxdQIde0mMmQPOUSHrxoJKzy6APerg-mm-6zp-40H7ZhRvGfRCyEg0FX-ufRLdGTjiE4vgnDOB26uCk8NeYCBo7d-_Bc3--jc65EIPaN7Di7S24ggDBgcE5aA=w2838-h2128-no?authuser=0 :: 2018-04-02" %}
 
-{:refdef: style="text-align: center;"}
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLVWl0xdQrSLIZnc64Wu_RtxYXgxJc-uUxMqq1yqjeG9cK4efVhWBEzGQoC3jQNeLOggPljp6LLkmmGwAft2Y4HlAJ2Ia5EtVfeziS-1W7TeVzGCSoRQuiFu03f38LwnqRZi0xuU4ir9_F5AOh0MFgVtow=w2838-h2128-no?authuser=0" alt="2019-07-06" width="720px" align="center" />
-{: refdef}
+{% include image.html albums="SingleImage :: https://lh3.googleusercontent.com/pw/AM-JKLVWl0xdQrSLIZnc64Wu_RtxYXgxJc-uUxMqq1yqjeG9cK4efVhWBEzGQoC3jQNeLOggPljp6LLkmmGwAft2Y4HlAJ2Ia5EtVfeziS-1W7TeVzGCSoRQuiFu03f38LwnqRZi0xuU4ir9_F5AOh0MFgVtow=w2838-h2128-no?authuser=0 :: 2019-07-06" %}
 
 Over the course of our relationship, we moved some stuff in a trailer to Fairplay and strategized about how we were going to buy a fixer-upper in Denver, so that we had a landing pad while we continued to turn Fairplay into our dream home. (Relevant context: Adam is an _amazing_ contractor. I've seen his work firsthand, and while I'm no expert, it's finer than anything I've ever seen anybody else do, ever.) Especially when my job went fully remote in October 2019, the only thing holding us back from moving to Colorado was flipping the house we were living in in SF (which was owned by his business). While I was eager to "get a move on" and encouraged Adam to stop taking on other clients so that he could focus on flipping the house, I get why, in light of our difficulties that were mounting, making himself dependent on my income alone might have felt too risky for him. There's probably more to say about that, but the point is that our plans were not progressing.
 
@@ -136,13 +130,9 @@ So I planned to make a U-shaped roadtrip, down to LA to spend a few weeks with m
 
 At the end of July, I packed up my car and drove out to Denver. I made a short stop in Salt Lake City to see my friends Karl and Tammy, then arrived at Stacy's on July 31.
 
-{:refdef: style="text-align: center;"}
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLXVrwh8Ov07ohF8gHaTOJ8YQhJU7XKAkHnPb0HFqgTWMUvkMGMx0oyS6Ezr5y1bjffQj79Jd45Nbtq1pXlGfCWFGwIEHW9MAPNR1pJE9DlM-CozguLnwzSD8tufrlpY8_6qUpp-1IE-oHpLJRstCSLLXg=w2838-h2128-no?authuser=0" alt="2020-07-31" width="720px" align="center" />
-{: refdef}
+{% include image.html albums="SingleImage :: https://lh3.googleusercontent.com/pw/AM-JKLXVrwh8Ov07ohF8gHaTOJ8YQhJU7XKAkHnPb0HFqgTWMUvkMGMx0oyS6Ezr5y1bjffQj79Jd45Nbtq1pXlGfCWFGwIEHW9MAPNR1pJE9DlM-CozguLnwzSD8tufrlpY8_6qUpp-1IE-oHpLJRstCSLLXg=w2838-h2128-no?authuser=0 :: 2020-07-31" %}
 
-{:refdef: style="text-align: center;"}
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLU5fQk2zFKLTcfxbbAmircsvjcS09ThMnLwacTgT9PGd8pKdjtdbwS5_Q4WHh-Un5m6hi60UdqxHrEmf9gXc-Qcnu7lpe7ei1VzYNgh3q8vCccad_8bl18CDziomGuZn86iVASgc_1pVcR-zsEp6sZTQA=w2838-h2128-no?authuser=0" alt="2020-07-31" width="720px" align="center" />
-{: refdef}
+{% include image.html albums="SingleImage :: https://lh3.googleusercontent.com/pw/AM-JKLU5fQk2zFKLTcfxbbAmircsvjcS09ThMnLwacTgT9PGd8pKdjtdbwS5_Q4WHh-Un5m6hi60UdqxHrEmf9gXc-Qcnu7lpe7ei1VzYNgh3q8vCccad_8bl18CDziomGuZn86iVASgc_1pVcR-zsEp6sZTQA=w2838-h2128-no?authuser=0 :: 2020-07-31" %}
 
 It was good timing, since within a week or so, Adam wanted me to retrieve my belongings from the trailer in Fairplay, and I'm not sure he even knew I was in Denver. While I didn't urgently need those things at Stacy's (primarily my sectional sofa from Daly City, fancy Cal King mattress, and squat rack and lifting equipment), I knew I would likely need them in Colorado soon enough.
 
@@ -154,9 +144,7 @@ I found a place that I liked, [Country Club Towers II & III](https://towers2and3
 
 When I found the place (by the way, HT Savannah Griffin of [Smart City Locating](https://smartcitylocating.com/denver-apartments/){:target="&lowbar;blank"}), it definitely struck me as way too "boujie": way too many amenities I didn't care about, and let's just say that it wasn't the wisest financial decision I ever made in my life. But It came with a surprisingly decent gym for an apartment complex. (During COVID-19 restrictions, that was important.) And the view of my beloved Front Range from my patio made it all worthwhile:
 
-{:refdef: style="text-align: center;"}
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLWrTD_cJAxxfy4vlIqlX1q5PwEqQDunb1xRh3Rx-k_5DAz8WtWy85RTYzLfm6vPLXkXWsH3jW2iGM96XLN3M__p6BUQrMd_OLXZzyBZMTBMc5dq2LJ-uuMVELssqwkZOQlI5o8OCPjBPXbnU1K2V3c2bw=w3120-h1406-no?authuser=0" alt="2020-12-20" width="720px" align="center" />
-{: refdef}
+{% include image.html albums="SingleImage :: https://lh3.googleusercontent.com/pw/AM-JKLWrTD_cJAxxfy4vlIqlX1q5PwEqQDunb1xRh3Rx-k_5DAz8WtWy85RTYzLfm6vPLXkXWsH3jW2iGM96XLN3M__p6BUQrMd_OLXZzyBZMTBMc5dq2LJ-uuMVELssqwkZOQlI5o8OCPjBPXbnU1K2V3c2bw=w3120-h1406-no?authuser=0 :: 2020-12-20" %}
 
 In a lot of ways, it's what I needed.
 
@@ -166,9 +154,7 @@ So here I am, a few months in, and I'm liking Denver just fine. It's been really
 
 During the winter so far, I managed to get in fair amount of snowboarding. It's the first time I'd ever gone snowboarding by myself, and though I thought I'd hate it, I actually really liked it. A lot. I guess I shouldn't find that surprising. And it was quite meditative. In some ways that was enjoyable; in other ways, agonizing. I can't tell you how many times I had to just stop and bawl my eyes out on the mountain, desperately grieving the time that Adam and I spent together on the slopes.
 
-{:refdef: style="text-align: center;"}
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLVsOFGlkoO7g0YpoqAe5_aO-b573_sUJ-EZ8PaBHgVqyX9I7BXkTXfaVIAzxkRZ241Z8Udl9L9lEbfl2s7-NRMTgOgxXQuJShmDnGPewoydctKApHtRv_r70snfEGnoLSu9YwfOegrFMi5eAD70CgLeWQ=w2838-h2128-no?authuser=0" alt="2020-12-19" width="720px" align="center" />
-{: refdef}
+{% include image.html albums="SingleImage :: https://lh3.googleusercontent.com/pw/AM-JKLVsOFGlkoO7g0YpoqAe5_aO-b573_sUJ-EZ8PaBHgVqyX9I7BXkTXfaVIAzxkRZ241Z8Udl9L9lEbfl2s7-NRMTgOgxXQuJShmDnGPewoydctKApHtRv_r70snfEGnoLSu9YwfOegrFMi5eAD70CgLeWQ=w2838-h2128-no?authuser=0 :: 2020-12-19" %}
 
 A slight diversion: <a name="what-i-love-about-colorado"></a>
 
@@ -222,9 +208,7 @@ On December 29, I stopped by my storage unit in Arvada, where I had deposited 59
 
 When I opened my unit, I found that it had been burglarized.
 
-{:refdef: style="text-align: center;"}
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLUPxPUo6FT-I4_di2bKipF_fGZGfSQ7Bm6zh-t8fb6_CYyTb8NYiq3xafqv5QXz9WP5tktv4PE3rmKwl6696EVmrAp67AiuLQFc6g_2BGraVOKl5JNd0uJDSO2mcbGRVqImJeni0ZBE2AFTfS9XEXe64g=w1596-h2128-no?authuser=0" alt="2020-12-29" width="720px" align="center" />
-{: refdef}
+{% include image.html albums="SingleImage :: https://lh3.googleusercontent.com/pw/AM-JKLUPxPUo6FT-I4_di2bKipF_fGZGfSQ7Bm6zh-t8fb6_CYyTb8NYiq3xafqv5QXz9WP5tktv4PE3rmKwl6696EVmrAp67AiuLQFc6g_2BGraVOKl5JNd0uJDSO2mcbGRVqImJeni0ZBE2AFTfS9XEXe64g=w1596-h2128-no?authuser=0 :: 2020-12-29" %}
 
 As of January 4, I still haven't taken a full inventory of what was stolen, but I counted 26 missing bins. Every bin marked "Memorabilia" was gone. That's everything from my entire life, going back to childhood. Every photo. Every trinket from my desks through the years. Every concert program that I saved. The flower I gave Adam on our anniversary. The map of the Denver Botanical Gardens from my trip with Adam. All my _Star Trek_ collectables. All my DVDs and VHS tapes and CDs. Signed mint-condition books...signed by authors I will never see again. My Sega Genesis and _Sonic: The Hedgehog_ stuff. My pony tails. My coin collection. All my Christmas ornaments. Jewelry. All my Boy Scouts stuff and accomplishments, including my uniform and merit badge sash. My report cards and yearbooks from school. My Hogwarts robes. A snowboard, even. And so much more.
 
@@ -314,29 +298,19 @@ In a way, the sort of disheveled, unkept outward appearance reflected my inner s
 
 As the summer wore on, I realized that I could actually use my beard as part of a Halloween costume, despite lack of parties or trick-or-treating, on account of COVID-19. So I decided I would be a Viking, and I managed to get a haircut and have my beard cleaned up professionally. The result was pretty good:
 
-{:refdef: style="text-align: center;"}
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLXP2fRtdbhkDRbNGI1cHEEzm10i85QU-avbzDct3uAoJW7el7qCd6JXDdZhfY1lYoszReihPzKJe97E18jsj8E-9VSCNGZhPv8d9VmpPWeFgNSRBr8CGfBOTV5aSQ3BedMco1nidVlHkSAQ-O0plBuqLw=w1596-h2128-no?authuser=0" alt="2020-10-31" width="720px" align="center" />
-{: refdef}
+{% include image.html albums="SingleImage :: https://lh3.googleusercontent.com/pw/AM-JKLXP2fRtdbhkDRbNGI1cHEEzm10i85QU-avbzDct3uAoJW7el7qCd6JXDdZhfY1lYoszReihPzKJe97E18jsj8E-9VSCNGZhPv8d9VmpPWeFgNSRBr8CGfBOTV5aSQ3BedMco1nidVlHkSAQ-O0plBuqLw=w1596-h2128-no?authuser=0 :: 2020-10-31" %}
 
 A few days later, I wanted to see what it would look like if I dyed it jet black:
 
-{:refdef: style="text-align: center;"}
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLVQHcbrDf174bIcnuqvaEpwGByqjlJbQY4NmmQQMS4DZSan6B9XnWzn055OYmzMq1fa6DJUztwq5HgR0j5I8aYH570XJU9tSu21fSRVG4EuOrxx9TugOjVn-C0dqPsTtG493f_H8ObbgPl38NZQeEBcrw=w2838-h2128-no?authuser=0" alt="2020-11-02" width="720px" align="center" />
-{: refdef}
+{% include image.html albums="SingleImage :: https://lh3.googleusercontent.com/pw/AM-JKLVQHcbrDf174bIcnuqvaEpwGByqjlJbQY4NmmQQMS4DZSan6B9XnWzn055OYmzMq1fa6DJUztwq5HgR0j5I8aYH570XJU9tSu21fSRVG4EuOrxx9TugOjVn-C0dqPsTtG493f_H8ObbgPl38NZQeEBcrw=w2838-h2128-no?authuser=0 :: 2020-11-02" %}
 
 I liked it a little better, but within another week, I was done, and I was so relieved to be back to normal:
 
-{:refdef: style="text-align: center;"}
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLVxXMmt0V_a9DiqpzMp4aWlw3K_peZPScPo_0cCOOnVwx-SQ_bN5UKsETo2Mejs5AHGYsl3aDh0wZZOD7-0TlLnl2Fiw9qKkqHUctHdRJZAI8LQM1HdJQZ6_1l1vxQ_XCGccWobE70dgYO56YFEPqiK-w=w2838-h2128-no?authuser=0" alt="2020-11-07" width="720px" align="center" />
-{: refdef}
+{% include image.html albums="SingleImage :: https://lh3.googleusercontent.com/pw/AM-JKLVxXMmt0V_a9DiqpzMp4aWlw3K_peZPScPo_0cCOOnVwx-SQ_bN5UKsETo2Mejs5AHGYsl3aDh0wZZOD7-0TlLnl2Fiw9qKkqHUctHdRJZAI8LQM1HdJQZ6_1l1vxQ_XCGccWobE70dgYO56YFEPqiK-w=w2838-h2128-no?authuser=0 :: 2020-11-07" %}
 
-{:refdef: style="text-align: center;"}
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLV1qRiadI5_gY2CDcNgSM4OjEY6a3DmqvPH_lgB64upG_T573noXb_1jDiI5w4M3rFzr265GBRXG6BTw3mGrVQxCE0ixYvKsLKdB61oY4zvQDV4a5YUxkxPOND61CprlSn3rcvBQ91Huf-AeCifA2bP6g=w2838-h2128-no?authuser=0" alt="2020-11-07" width="720px" align="center" />
-{: refdef}
+{% include image.html albums="SingleImage :: https://lh3.googleusercontent.com/pw/AM-JKLV1qRiadI5_gY2CDcNgSM4OjEY6a3DmqvPH_lgB64upG_T573noXb_1jDiI5w4M3rFzr265GBRXG6BTw3mGrVQxCE0ixYvKsLKdB61oY4zvQDV4a5YUxkxPOND61CprlSn3rcvBQ91Huf-AeCifA2bP6g=w2838-h2128-no?authuser=0 :: 2020-11-07" %}
 
-{:refdef: style="text-align: center;"}
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLXZp5DSkuP4BLHj5N6rWIkjO6TEIQeOOUvzzfcH6IcMyAYR3z54p-7t_x4M8tSSL0QhpiM_x3qTM6X4-ADtb8AkUeWqlHIarPPwWQsDgVAbR2P7Er7HEY1hKpupATgLiYePj5WNAnhyf8DVvHpRaaDZNA=w2838-h2128-no?authuser=0" alt="2020-11-07" width="720px" align="center" />
-{: refdef}
+{% include image.html albums="SingleImage :: https://lh3.googleusercontent.com/pw/AM-JKLXZp5DSkuP4BLHj5N6rWIkjO6TEIQeOOUvzzfcH6IcMyAYR3z54p-7t_x4M8tSSL0QhpiM_x3qTM6X4-ADtb8AkUeWqlHIarPPwWQsDgVAbR2P7Er7HEY1hKpupATgLiYePj5WNAnhyf8DVvHpRaaDZNA=w2838-h2128-no?authuser=0 :: 2020-11-07" %}
 
 
 ## Reading
