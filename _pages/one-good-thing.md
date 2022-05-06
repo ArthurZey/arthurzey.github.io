@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-05-03T05:23:03+00:00"
+last_modified_at: "2022-05-06T15:14:33+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-05-03
+### The Good Thing
+Had a nice steak dinner with Garret Motelet, who came over, and we chatted for many hours.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2022-05-02
 ### The Good Thing
