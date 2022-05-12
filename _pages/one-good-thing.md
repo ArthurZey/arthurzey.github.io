@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-05-12T04:10:27+00:00"
+last_modified_at: "2022-05-12T15:29:29+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,14 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-05-11
+### The Good Thing
+Watched two episodes of _The Witcher_ season 2 with Melissa.
+### What It Means to Me
+
+### What It Says about Me
+
 
 
 ## 2022-05-10
