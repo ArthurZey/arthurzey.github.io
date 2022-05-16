@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-05-16T04:36:53+00:00"
+last_modified_at: "2022-05-16T22:51:53+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-05-16
+### The Good Thing
+Started the Cade-Zey West Coast Adventure!
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2022-05-15
 ### The Good Thing
