@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-05-31T18:18:52+00:00"
+last_modified_at: "2022-06-03T00:21:21+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-06-01
+### The Good Thing
+Got to watch _The Orville_ season 3 premier on the IMAX big screen with Johannes and got a picture with Penny Johnson Jerald!
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2022-05-30
 ### The Good Thing
