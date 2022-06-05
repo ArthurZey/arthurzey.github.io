@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-06-04T17:25:15+00:00"
+last_modified_at: "2022-06-05T17:18:10+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-06-04
+### The Good Thing
+Emily and Austin got married, and it was a wonderful ceremony and reception!
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2022-06-03
 ### The Good Thing
