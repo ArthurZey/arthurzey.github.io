@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-06-05T17:18:10+00:00"
+last_modified_at: "2022-06-08T21:08:44+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,16 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+
+## 2022-06-05
+### The Good Thing
+Randomly got to see Indi in Culver City when she was there for work, and we had dinner.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2022-06-04
 ### The Good Thing
