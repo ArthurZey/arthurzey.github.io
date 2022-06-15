@@ -245,7 +245,7 @@ _which I wouldn't necessarily cook myself_
 ## Technology
 
 ### Internet Cameras
-* Android / Google Pixel (currently 4 XL)
+* Android / Google Pixel (currently 6 Pro)
 
 ### Computers
 * MacBook Pro
