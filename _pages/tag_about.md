@@ -47,7 +47,7 @@ hash_redirects:
     from: "#autism-test"
     to: "/personality-and-behavioral-profiles/#autism-test"
 date: "2020-04-15"
-last_modified_at: "2022-04-27T14:28:46+00:00"
+last_modified_at: "2022-06-20T15:11:29+00:00"
 ---
 
 {:refdef: style="text-align: center;"}
@@ -94,7 +94,7 @@ What is "The Truth about the Dishwasher"? You'll have to wait until I write abou
 
 While I buck a lot of social conventions and [many of the superficial manifestations of my traits are baffling to a lot of people](/misunderstood/) (believe me, I will write plenty on this), if you really get me, if you _really see and understand the core of my being_, I am super predictable.
 
-I love children, and I can't wait to be a dad.
+I love children, and I can't wait to be a dad. Meanwhile, [doggo Max is my trusty companion](/blog/2022-06-15/max/).
 
 I grew up in Los Angeles, I lived in the San Francisco Bay area for nearly 10 years, I was in Denver "temporarily" for about a year to figure out whether I want to live in Colorado permanently, and I've been living in Bailey, Colorado since the end of August 2021.
 
@@ -741,7 +741,7 @@ Boy Scouts?
     <td markdown="span">2022</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
-    <td markdown="span"></td>
+    <td markdown="span">[Welcomed Max into my Life!](/blog/2022-06-15/max/)</td>
   </tr>
  </tbody>
 </table>
