@@ -5,7 +5,7 @@ tags:
   - philosophy
 description: "Volition is self-evident and axiomatic. The universe works by deterministic laws. And yet choice is not an illusion. How is this possible?"
 date: "2020-04-17"
-last_modified_at: "2022-03-02T17:40:12+00:00"
+last_modified_at: "2022-06-24T12:50:19+00:00"
 ---
 
 This is a favorite topic of many philosophy students. It's fun to think about. But the most important lesson I've learned about this over the years is that _it doesn't matter_. While I think there are valuable things to learn from engaging in it, this is mostly just a fun intellectual exercise.
@@ -18,7 +18,9 @@ Here are a few things I want to address (and this is by no means exhaustive):
 * what volition is and isn't (and why typical characterizations like "the power to have done otherwise" are illegitimate)
 * why I don't like the phrase "free will" (ie, that it implies "contra-causal freedom")
 * what choice is and how it can be both deterministic and meaningful (and relatedly, what the role of epistemic ignorance is)
-  * different senses of choice; eg, deciding in advance to raise your hand or not versus the choice in the moment of what you do
+  * different senses of choice:
+    * deciding in advance to raise your hand or not versus the choice in the moment of what you do
+    * choosing something for yourself (directing your behavior) versus what it means when someone chooses something for you or "takes away" your choice
 * connection to whether you can choose your values or decide to believe a lie (eg, can you choose to like chocolate ice cream or that 2+2=4?)
 * alternative conceptions of causality:
   * "action action" : "things act in accordance with their natures" :: utilitarianism : virtue ethics
@@ -33,6 +35,7 @@ Here are a few things I want to address (and this is by no means exhaustive):
   * mental incapacity/illness
   * "[policeman at the elbow](https://en.wikipedia.org/wiki/Irresistible_impulse){:target="&lowbar;blank"}" thought experiment
   * connection to mindset: we praise effort and the process, not fixate on the result; it doesn't matter as much what the result is / whether it was predetermined, but the responsibility/praise/agency is in the doing of the work that leads to the result
+  * The response to "You should do _X_." being countered with "I just have to do whatever is determined." is that being told "You should do _X_." _is_ part of the causal factors influencing what the person has to do.
 * how the search for explanatory _reasons_ for people's choices and behaviors is implicitly premised on determinism
 * the connection to epistemology, especially induction, concept-formation, and principles
   * why you can't use induction and deduction, which presuppose determinism, to establish non-determinism / randomness
@@ -51,12 +54,15 @@ Here are a few things I want to address (and this is by no means exhaustive):
   * appearance of volition's mechanics does not tell us directly/automatically/infallibly what they are
   * connection to other illusions that "delude" our senses
   * connection to Sam Harris's "meditation" on how "thoughts just arise"
+    * You can't control the thoughts that arise, but that kind of control is not what constitutes volition. There are all kinds of bodily processes that we can't control, including mental processes, but that doesn't mean that there isn't something that we _do_ control. (Related: A person _is_ the control.) There's a failure here to differentiate between different senses of "controlling one's next thoughts".
 * how the non-determinist position implies mystical dualism / mind-body dichotomy
 * whether AI can have genuine volition, even if it's deterministic
 * the evolutionary perspective: at what point did we evolve the gene(s) to be exempt from deterministic physical causality?
 * why I don't use the terms "compatibilist" or "compatibilism" to describe myself or my views
 * connection to other terms, such as "hard determinism", "soft determinism", "indeterminism", and "self-causation"
 * what sense of "determinism" I think Ayn Rand was actually objecting to (and [what I think is misunderstood by many Objectivists](http://aynrandlexicon.com/lexicon/determinism.html){:target="&lowbar;blank"})
+  * the ability/choice to focus/think or not, to active your mind or not
+  * Per Craig Biddle at TOS-Con 2022, the determinist view commits the fallacy of the frozen abstraction as applied to "causality", because determinist accept mechanistic and biological causality, but not volitional causality. But I think it's the opposite: non-determinists are committing the fallacy of the frozen abstraction as it applies to necessitation or determinism: They accept determinism for simpler phenomena, but then need to invent something different when it comes to man and his brain processes.
   * two different meanings of the word "determinism":
     * volition has little causal power over outcomes or to affect the course of a person's life (better called "fatalism", HT Andrew Zey)
       * eg, no matter what career I pursue or how much effort or smarts I invest, I'll end up being poor
