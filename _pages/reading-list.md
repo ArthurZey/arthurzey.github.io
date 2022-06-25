@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2022-04-26T18:22:49+00:00"
+last_modified_at: "2022-06-25T15:40:07+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -201,6 +201,25 @@ _started in 2019; in progress_
 
 
 # 2022
+
+## Benjamin Hardy: _The Gap and the Gain_
+[Audible](https://www.audible.com/pd/B09HN7K7W8){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B08TGTK2L2){:target="&lowbar;blank"}
+{% comment %}
+* Jefferson pursuit of happiness
+* Can't be in gap and gain at the same time: but what about my fitness
+* Personal ideals are equated with interpersonal comparisons because "external"
+* Can't achieve an ideal; not what ideals are for
+* Needs versus wants
+* Want it because I want it; justifications are rationalizations and second-handed
+* Watching TV is about others' worlds instead of own interests; ignores value of thinking about fiction
+* Just reframing all unpleasant experiences as gains of one kind or another is an example of toxic positivity, and it undermines the emotional mechanisms of processing things and can breed resentment and later angry outbursts
+* Using the word fairness to equivocate between Justice and equality, in describing how a concern with fairness is a sign of emotional immaturity and being in the gap
+* Mental subtraction and "needing" things: if there's something that I would regret not having, then I "need it"
+* Focusing on past mistakes, eg, government response to COVID, as being unhelpful. Instead of thinking about the future: sometimes, analyzing the past can be very helpful terms of extracting what best you can learn from it
+* A problem with doing goal setting by primary reference only to prior accomplishments is that that might optimize for local Maxima, rather than global Maxima. Sometimes, we have pursued and achieved various accomplishments that are not connected to our actual goals or what would actually make us happy
+* We make up interpretations of things that happen: subjectivism
+* Trading is a zero-sum game
+{% endcomment %}
 
 ## Hannah Fry: _The Mathematics of Love_
 [Audible](https://www.audible.com/pd/B00RM40Y4E){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B00NZWJE70){:target="&lowbar;blank"}
