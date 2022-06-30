@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-06-28T20:43:33+00:00"
+last_modified_at: "2022-06-30T23:57:42+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,14 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-06-25
+### The Good Thing
+Really enjoyed Amala Ekpunobi's talk at TOS-Con.
+### What It Means to Me
+
+### What It Says about Me
+
 
 ## 2022-06-22
 ### The Good Thing
