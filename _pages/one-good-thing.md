@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-07-02T18:03:46+00:00"
+last_modified_at: "2022-07-03T20:24:16+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-06-28
+### The Good Thing
+Went on a fun hike with a ton of other TOS-Con folks (including Craig), completing the Ouray Perimeter Trail, and having a really good chat about the connection between volition, ethics, and determinism with Jon and Angel.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2022-06-27
 ### The Good Thing
