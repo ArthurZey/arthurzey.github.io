@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-07-05T15:44:14+00:00"
+last_modified_at: "2022-07-06T15:56:14+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-06-30
+### The Good Thing
+Aside from the horrific headache, all my COVID symptoms were relatively mild.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2022-06-29
 ### The Good Thing
