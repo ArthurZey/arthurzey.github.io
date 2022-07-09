@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-07-08T16:30:34+00:00"
+last_modified_at: "2022-07-09T20:41:16+00:00"
 tags:
   - happenings
   - draft
@@ -25,6 +25,15 @@ Met and had a nice long chat with neighbor Carole and her dog Sweet Pea.
 ## 2022-07-04
 ### The Good Thing
 Most of the acute COVID symptoms have passed.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2022-07-02
+### The Good Thing
+Attended Helen's baby shower.
 ### What It Means to Me
 
 ### What It Says about Me
