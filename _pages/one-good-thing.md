@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-07-13T22:41:53+00:00"
+last_modified_at: "2022-07-18T15:54:44+00:00"
 tags:
   - happenings
   - draft
@@ -15,7 +15,7 @@ sitemap: false
 
 ## 2022-07-13
 ### The Good Thing
-Friendsnight dinner with the Cades and Vekslers!
+Friendsnight dinner with the Cades, Vekslers, Jess, Maddy, Jenn, Maddy, and Rafi!
 ### What It Means to Me
 
 ### What It Says about Me
