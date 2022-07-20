@@ -1,7 +1,7 @@
 ---
 title: "The Orville"
 date: "2022-07-15"
-last_modified_at: "2022-07-17T16:20:44+00:00"
+last_modified_at: "2022-07-20T14:01:32+00:00"
 description: "The Orville is not just the best science fiction currently airing; it's the best show on TV right now, period."
 tags:
   - TV
@@ -13,6 +13,22 @@ links:
       value:
         user: ArthurZey
         id: "pfbid02HGtEWxHVLFBrjiiqzWnSt5T4mUvENkc1kMwm8pkhFbvxR1Aq4Tx5SFTXMeKdEkTol"
+    - type: TWEET
+      scheme: ID
+      value:
+        user: LogicalArthur
+        id: "1549122366919278593"
+  resources:
+    - type: TWEET
+      scheme: ID
+      value:
+        user: LogicalArthur
+        id: "1543382493683859461"
+    - type: FACEBOOK
+      scheme: POST
+      value:
+        user: ArthurZey
+        id: "pfbid0BnRjRVTY7ozEx5yhEWd3rGzrJEmDVL7es2xEG8jp961JrGo8XKwZemGkNnjMAMJxl"
 ---
 
 TL;DR: [_The Orville_](https://www.hulu.com/series/the-orville-21e70fbf-6a51-41b3-88e9-f111830b046c){:target="&lowbar;blank"} is the true spiritual successor to [_Star Trek: The Next Generation_](https://trakt.tv/shows/star-trek-the-next-generation){:target="&lowbar;blank"}, delivering on the fundamental promise of good sci-fi. It's supremely accessible, even to those who don't typically like sci-fi. Hulu had better renew it for many seasons to come, or else I'm cancelling my subscription. Go watch (or rewatch!) [_The Orville_](https://www.hulu.com/series/the-orville-21e70fbf-6a51-41b3-88e9-f111830b046c){:target="&lowbar;blank"} ASAP!
