@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2022-04-25T15:28:20+00:00"
+last_modified_at: "2022-07-22T14:07:48+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -79,6 +79,9 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "feeling" as referring to either emotion or intellectual/cognitive conclusions (ie, "seeming")
   * "I feel _X_." as being either "My emotion is _X_." or "It seems to me that _X_."
 * "compromise"
+* "entitlement" / "entitled" equivocating between
+  * an actual entitlement and actually being entitled to something
+  * an attitude of entitlement irrespective of whether an actual entitlement exists
 * "[collection]" versus "[collection] [item]":
   * "blog post" versus "blog"
   * "podcast" versus "podcast episode"
