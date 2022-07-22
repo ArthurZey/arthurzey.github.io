@@ -35,6 +35,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "usecase"
   * "enduser"
   * "painpoint"
+  * "roadtrip"
 * contranyms (eg, "cleave", "sanction", "practically")
 * negation prefixes that don't negate
   * inflammable
