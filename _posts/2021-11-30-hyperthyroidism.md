@@ -5,7 +5,7 @@ tags:
   - health
 description: "So I guess I maybe have hyperthyroidism."
 date: "2021-11-30"
-last_modified_at: "2022-01-20T20:29:41+00:00"
+last_modified_at: "2022-07-29T14:30:20+00:00"
 ---
 
 * TOC
@@ -13,15 +13,16 @@ last_modified_at: "2022-01-20T20:29:41+00:00"
 
 ## Labs
 
-|Date|TSH (uIU/mL)<br />0.450 - 4.500|Free T3 (pg/mL)<br />2.0 - 4.4|Free T4 (ng/dL)<br />0.82 - 1.77|Thyrotropin<br />Receptor Ab (IU/L)<br />0.00 - 1.75|Thyroid Stimulating<br />Immunoglobulin (IU/L)<br />0.00 - 0.55|Total Testosterone (ng/dL)<br />264-916|Sex Hormone<br />Binding Globulin (nmol/L)<br />16.5-55.9|Vitamin D (ng/mL)<br />30.0 - 100.0|Comments|
-|-|-|-|-|-|-|-|-|-|-|
-|2015-06-16|2.01| | | | |718| |86.5| |
-|2016-07-13| |2.8|1.2| | | | |110| |
-|2019-01-30|2.1| |1.26| | |713| | | |
-|2021-11-10|<0.01| | | | | | | | |
-|2021-11-18|<0.005|5.7|2.03|<1.10|<0.10|905|62.3|137.0|pursuant to low TSH test|
-|2021-11-29|<0.005|4.7|1.88| | | | | |after 6 days of discontinuing all [supplements](/physical-fitness/#supplements),<br />most notably, Iodoral, Vitamin D, Vitamin B<sub>7</sub> (Biotin)|
-|2022-01-03|0.050|3.4|1.38| |<1.0| | |59.3|after another month of discontinuing all [supplements](/physical-fitness/#supplements),<br />most notably, Iodoral, Vitamin D, Vitamin B<sub>7</sub> (Biotin)|
+|Date|TSH (uIU/mL)<br />0.450 - 4.500|T3 Total (ng/dL)<br />71-180|T3 Free (pg/mL)<br />2.0 - 4.4|T4 Free (ng/dL)<br />0.82 - 1.77|Thyrotropin<br />Receptor Ab (IU/L)<br />0.00 - 1.75|Thyroid Stimulating<br />Immunoglobulin (IU/L)<br />0.00 - 0.55|Total Testosterone (ng/dL)<br />264-916|Sex Hormone<br />Binding Globulin (nmol/L)<br />16.5-55.9|Vitamin D (ng/mL)<br />30.0 - 100.0|Comments|
+|-|-|-|-|-|-|-|-|-|-|-|
+|2015-06-16|2.01| | | | | |718| |86.5| |
+|2016-07-13| | |2.8|1.2| | | | |110| |
+|2019-01-30|2.1| | |1.26| | |713| | | |
+|2021-11-10|<0.01| | | | | | | | | |
+|2021-11-18|<0.005| |5.7|2.03|<1.10|<0.10|905|62.3|137.0|pursuant to low TSH test|
+|2021-11-29|<0.005| |4.7|1.88| | | | | |after 6 days of discontinuing all [supplements](/physical-fitness/#supplements),<br />most notably, Iodoral, Vitamin D, Vitamin B<sub>7</sub> (Biotin)|
+|2022-01-03|0.050|116|3.4|1.38| |<1.0| | |59.3|after another month of discontinuing all [supplements](/physical-fitness/#supplements),<br />most notably, Iodoral, Vitamin D, Vitamin B<sub>7</sub> (Biotin)|
+|2022-07-27|1.580|94| |1.33| | | | | |after 7+ more months of discontinuing all [supplements](/physical-fitness/#supplements),<br />but reintroducing everything except Iodoral, Selenium,<br />and Glucosamine on 2022-06-29|
 
 ## Narrative
 
