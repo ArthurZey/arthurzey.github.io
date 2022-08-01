@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-07-31T17:43:07+00:00"
+last_modified_at: "2022-08-01T13:43:42+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,14 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-07-27
+### The Good Thing
+Family dinner with the Cades, Leesie, and Rosie.
+### What It Means to Me
+
+### What It Says about Me
+
 
 ## 2022-07-23
 ### The Good Thing
