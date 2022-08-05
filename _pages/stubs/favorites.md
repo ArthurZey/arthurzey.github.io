@@ -5,7 +5,7 @@ tags:
   - about
 description: "Brown paper packages tied up with strings; these are a few of my favorite things."
 date: "2020-05-15"
-last_modified_at: "2021-11-16T21:23:24+00:00"
+last_modified_at: "2022-08-05T17:14:09+00:00"
 ---
 
 * TOC
@@ -26,36 +26,59 @@ What follows is a hodgepodge of stack-ranked and hierarchically organized genres
   * Baroque
     * Johann Sebastian Bach
       * [Magnificat in D, BWV 243: IV. Omnes generationes](https://open.spotify.com/track/5OHR6ZdwzaQJwllrxpJpAn?si=cT9tJ2bJRxakhhWXjUaMhg){:target="&lowbar;blank"} (favorite choral work, hands down)
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5OHR6ZdwzaQJwllrxpJpAn?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
       * [Prelude in C Minor, BWV 999](https://open.spotify.com/track/3m8V6PIYg1n1y2vQ3EVmK3){:target="&lowbar;blank"} ("This is how men like me pray." --[_American Gods_](https://trakt.tv/shows/american-gods/seasons/2/episodes/4){:target="&lowbar;blank"})
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3m8V6PIYg1n1y2vQ3EVmK3?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
       * [Concerto for 2 Violins, Strings, and Continuo in D minor, BWV 1043: 1. Vivace](https://open.spotify.com/track/4aQXgiJNI18FFS0YbKJkXq){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4aQXgiJNI18FFS0YbKJkXq?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
       * [Concerto for 2 Violins, Strings, and Continuo in D minor, BWV 1043: 3. Allegro](https://open.spotify.com/track/3FYchPrDsPucM1pn7jt8JV){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3FYchPrDsPucM1pn7jt8JV?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
       * [Keyboard Concerto No. 1 In D Minor, BWV 1052: I. Allegro](https://open.spotify.com/track/47HPTrKutwt8n3ZNsmbH7S){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/47HPTrKutwt8n3ZNsmbH7S?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
       * [Violin Concerto No. 2 In E Major, Op. 3, BWV 1042: Allegro](https://open.spotify.com/track/35N4DeOVz55MUj9cc5MUCy){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/35N4DeOVz55MUj9cc5MUCy?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
       * [Concerto for Flute, Strings And Basso Continuo in G minor, BWV 1056: I. Allegro & Allegro ma non tanto](https://open.spotify.com/track/0qZLGHCZbt8t7uSpfBv3xD){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0qZLGHCZbt8t7uSpfBv3xD?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
       * [Concerto for Flute, Strings And Basso Continuo in G minor, BWV 1056: III. Presto](https://open.spotify.com/track/7kMIagwMj61D1zHAcFUXHF){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7kMIagwMj61D1zHAcFUXHF?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
       * [Overture (Suite) No. 2 in B Minor, BWV 1067: VII. Badinerie](https://open.spotify.com/track/43qYpcyqEKb9muCjxcJjYJ){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/43qYpcyqEKb9muCjxcJjYJ?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
     * Vivaldi
-      * [Concerto For 4 Violins In B Minor, Op. 3, No. 10, RV 580: I. Allegro](https://open.spotify.com/track/2HrDeUcfs5MGPKRo8gD1BI?si=QugElP3qT9OhwsAIZJFcDA){:target="&lowbar;blank"}
-      * [Concerto For 4 Violins In B Minor, Op. 3, No. 10, RV 580: III. Allegro](https://open.spotify.com/track/6hJBvyS2qaY5GC5O750hge?si=8gwcGQtVS0itGtauoqjtIw){:target="&lowbar;blank"}
+      * [Concerto For 4 Violins In B Minor, Op. 3, No. 10, RV 580: I. Allegro](https://open.spotify.com/track/2HrDeUcfs5MGPKRo8gD1BI){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2HrDeUcfs5MGPKRo8gD1BI?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+      * [Concerto For 4 Violins In B Minor, Op. 3, No. 10, RV 580: III. Allegro](https://open.spotify.com/track/6hJBvyS2qaY5GC5O750hge){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6hJBvyS2qaY5GC5O750hge?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
   * Classical
     * Mozart
       * [_The Magic Flute_](https://open.spotify.com/album/45QGB3unppoM0c5CoRobJK?si=M9oJTpCBTbGAQeFNE_dQBg){:target="&lowbar;blank"}
-      * [Requiem](https://open.spotify.com/playlist/30PY19zVSuXylDEQbqj3Da?si=apSR6wgiSH6QdEVWSi7glw){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/45QGB3unppoM0c5CoRobJK?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+      * [Requiem](https://open.spotify.com/album/1UHmYlkLdS2iwvDOUxzvW5){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1UHmYlkLdS2iwvDOUxzvW5?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
       * basically all of [_Mozart for Your Mind_](https://open.spotify.com/album/6DF0Kj9vuo6GTCNzTbilt6?si=3UI-40SaRfaRLL5wy0eaSg){:target="&lowbar;blank"}
-      * [Concerto for Flute in D Major, K 314: I. Allegro asperto](https://open.spotify.com/track/2Cepw4vjRUBvx2bkdQ8xDG?si=b3525416b8ea4705){:target="&lowbar;blank"}
-      * [Concerto for Flute in D Major, K 314: III. Rondo](https://open.spotify.com/track/1YR1QgxCyGnKO0WXj569wE?si=01fcc57f6feb4cb0){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6DF0Kj9vuo6GTCNzTbilt6?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+      * [Concerto for Flute in D Major, K 314: I. Allegro asperto](https://open.spotify.com/track/2Cepw4vjRUBvx2bkdQ8xDG){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2Cepw4vjRUBvx2bkdQ8xDG?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+      * [Concerto for Flute in D Major, K 314: III. Rondo](https://open.spotify.com/track/1YR1QgxCyGnKO0WXj569wE){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1YR1QgxCyGnKO0WXj569wE?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
     * Haydn
       * [Cello Concerto No. 1 in C Major, Hob. VIIb:1: III. Allegro molto](https://open.spotify.com/track/0jr0pJALTE1bWKrfeETeQT){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0jr0pJALTE1bWKrfeETeQT?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
     * Beethoven
       * [Fantasia in C Minor, Op. 80, "Choral Fantasy": Finale](https://open.spotify.com/track/38ABrYcSmSvSJey4PyEx7R){:target="&lowbar;blank"}
-      * [Piano Sonata No. 8 in C Minor, Op. 13 "Pathétique": I. Grave - Allegro di molto e con brio](https://open.spotify.com/track/1y8f2hsciVBT6khpBYjr9L?si=oCsl4730TJqjdQ7wVmIzBw){:target="&lowbar;blank"}
-      * [Piano Sonata No. 8 in C Minor, Op. 13 "Pathétique": III. Rondo. Allegro](https://open.spotify.com/track/5oeCUaV0W5D2ygK7bIkXIk?si=c_AiDqafTrCAb8lZrfhSNQ){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/38ABrYcSmSvSJey4PyEx7R?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+      * [Piano Sonata No. 8 in C Minor, Op. 13 "Pathétique": I. Grave - Allegro di molto e con brio](https://open.spotify.com/track/1y8f2hsciVBT6khpBYjr9L){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1y8f2hsciVBT6khpBYjr9L?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+      * [Piano Sonata No. 8 in C Minor, Op. 13 "Pathétique": III. Rondo. Allegro](https://open.spotify.com/track/5oeCUaV0W5D2ygK7bIkXIk){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5oeCUaV0W5D2ygK7bIkXIk?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
   * Romantic
     * Chopin
-      * [Etude No. 4 in C Sharp Minor Op.10](https://open.spotify.com/track/51ZuJ0mymabMyaN3FHph1g?si=r5fxD-n9QgKqBK_NFRtl6A){:target="&lowbar;blank"}
+      * [Etude No. 4 in C Sharp Minor Op.10](https://open.spotify.com/track/36VuQTRDHN8DLFoA0wpDwb){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/36VuQTRDHN8DLFoA0wpDwb?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
       * [Piano Concerto No. 1 in E Minor, Op. 11: III. Rondo.](https://open.spotify.com/track/4VXbp6HMO2ROmqiD4sFRRs){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4VXbp6HMO2ROmqiD4sFRRs?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
     * Tchaikovsky
-      * [Piano Concerto No. 1 in B-Flat Minor, Op. 23: I. Allegro non troppo e molto maestoso - Allegro con spirito](https://open.spotify.com/track/4jOCmpSFMS8iXi2crUELIB?si=U5N4rfl5TPOho3g1zfICtg){:target="&lowbar;blank"}
+      * [Piano Concerto No. 1 in B-Flat Minor, Op. 23: I. Allegro non troppo e molto maestoso - Allegro con spirito](https://open.spotify.com/track/4jOCmpSFMS8iXi2crUELIB){:target="&lowbar;blank"}
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4jOCmpSFMS8iXi2crUELIB?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
       * _The Nutcracker_
       * _Swan Lake_
       * _Sleeping Beauty_
@@ -63,7 +86,8 @@ What follows is a hodgepodge of stack-ranked and hierarchically organized genres
 * [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d){:target="&lowbar;blank"}
 * [Disney](https://open.spotify.com/genre/disney-page){:target="&lowbar;blank"} (pre-<i>Pocahontas</i>)
 * [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU){:target="&lowbar;blank"}
-  * [_Viva La Vida_](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b?si=CRPUSLyxQ46QeDr9WgvwoQ){:target="&lowbar;blank"}
+  * [_Viva La Vida_](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b){:target="&lowbar;blank"}
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1mea3bSkSGXuIRvnydlB5b?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 * disco
 
 See also:
