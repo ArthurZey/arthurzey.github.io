@@ -1,12 +1,27 @@
 ---
-title: Anger Management
+title: Anger
 tags:
   - stub
   - psychology
-description: "Could \"having a temper\" really be a symptom of emotional repression?"
+description: "When is anger helpful? Could \"having a temper\" really be a symptom of emotional repression?"
 date: "2020-04-12"
 last_modified_at: "2021-10-24T15:13:39+00:00"
 ---
+
+## In General
+
+* "He who is not angry when there is just cause for anger is immoral. Why? Because anger looks to the good of justice. And if you can life amid injustice without anger, you are immoral as well as unjust." -- Thomas Aquinas
+  * There's some disagreement about whether this idea or quotation is accurately attributed to Thomas Aquinas, but that's beside my point; I'm more interested in dissecting the idea.
+* Anger can be extremely emotionally dysregulating and encourage rationalization of itself, creating a vicious cycle.
+* The subconscious identifications and subconsciously integrated value judgments leading to an instance of anger may be wrong.
+  * Example: Getting angry at kids or pets when they frustrate your desires because we impute a bad motive, rather than recognizing that they are doing the best that they can and are _attempting_ to achieve a value.
+* Anger is often not really about the stimulus, but about one's own previous baggage or some more abstract idea.
+  * Example: My own fury about bad UX in apps and websites is not about the concrete inconvenience of the bad experience (otherwise, my reaction would be wildly uncalibrated in magnitude), but more my reaction to things like my passion for good UX, pride on one's work, etc.
+* Anger's usefulness is dubious, given that the typical intensity of its manifestation represents a severe limbic system hijack that undermines the ability to reason about a situation in the most accurate and effective way.
+* Anger can naturally and effortlessly dissipate when recognizing that people are generally doing the best that they can (a type of assuming positive intent), believing in your bones that [people's interests are fundamentally harmonious](/harmony-of-interests/), and dropping our cultural obsession with [good versus evil](/good-versus-evil/).
+* "Imagine you are walking in the woods and you see a small dog sitting by a tree. As you approach it, it suddenly lunges at you, teeth bared. You are frightened and angry. But then you notice that one of its legs is caught in a trap. Immediately your mood shifts from anger to concern: You see that the dog's aggression is coming from a place of vulnerability and pain. This applies to all of us. When we behave in hurtful ways, it is because we are caught in some kind of trap. The more we look through the eyes of wisdom at ourselves and one another, the more we cultivate a compassionate heart." - Tara Brach, [_True Refuge_](https://www.goodreads.com/book/show/40651734-true-refuge){:target="&lowbar;blank"}
+
+## Anger Management
 
 It seems to me that "has a temper" and "anger management problem" are superficial characterizations that have the force of being dispositive, like they're some unchangeable, irreducible primary that describes a person's fundamental nature.
 
