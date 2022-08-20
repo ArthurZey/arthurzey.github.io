@@ -6,7 +6,7 @@ Parameters:
   * tags-to-exclude
     * comma-concatenated list
     * docs matching any of the exclude tags override and docs with the included tags
-    * default: "draft,stub,nsfw"
+    * default: "draft,stub,nsfw", except that if a page that's including this has one of these tags, it won't be part of the default exclusion
   * exclude-sitemap-false
     * will exclude docs with "sitemap: false" in Front Matter
     * default: true
@@ -64,10 +64,21 @@ Parameters:
 {% if include.tags-to-exclude %}
   {% assign tags-to-exclude = include.tags-to-exclude | split: "," %}
 {% else %}
-  {% assign tags-to-exclude = "draft,stub,nsfw" | split: "," %}
+  {% assign default-tags-to-exclude = "draft,stub,nsfw" | split: "," %}
+  {% assign tags-to-exclude = "" | split: "," %}
+  {% for tag in default-tags-to-exclude %}
+    {% if page.tags %}
+      {% unless page.tags contains tag %}
+        {% assign tag-as-array = tag | split: "," %}
+        {% assign tags-to-exclude = tags-to-exclude | concat: tag-as-array %}
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+  {% comment %}{% assign tags-to-exclude = "draft,stub,nsfw" | split: "," %}{% endcomment %}
 {% endif %}
 
-{% if include.exclude-sitemap-false %}
+
+{% if include.exclude-sitemap-false == true or include.exclude-sitemap-false == false %}
   {% assign exclude-sitemap-false = include.exclude-sitemap-false %}
 {% else %}
   {% assign exclude-sitemap-false = true %}
