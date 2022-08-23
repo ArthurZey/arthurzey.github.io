@@ -5,7 +5,7 @@ description: "How is it that I'm not all that shy about being naked in person, a
 tags:
   - nsfw
 date: "2022-08-21"
-last_modified_at: "2020-09-02"
+last_modified_at: "2022-08-23T00:24:55+00:00"
 ---
 
 Odds are that I referred you to this page because I told you that I don't send nude pics (and I don't even snap them), and you were all like "Why?". Well, here we go.
@@ -26,7 +26,7 @@ So I ended up with this policy of never even snapping nude pics, and despite som
 
 The short of it is that I remain uncomfortable with the prospect of sending nude pics, but I'm not shy at all about being nude in person. It's not a matter of having any kind of hangups about sex; there are no shame issues here; there's no internalized homophobia or any other such self-esteem issue at play.
 
-That's not to say that I won't ever change my position on this matter; it's not like I view this as a moral issue. Part of me wants to, but given how longstanding a policy this has been for me, I'd need to made a decision to change it very thoughtfully, deliberately, and soberly (and not because I happen to be horny one day!). Perhaps one day, I will decide to snap some nude photos. And then maybe I'll even share some. But today is not that day. And if you're hoping, I'd encourage you to not hold your breath.
+That's not to say that I won't ever change my position on this matter; it's not like I view this as a moral issue. Part of me wants to, but given how longstanding a policy this has been for me, I'd need to make a decision to change it very thoughtfully, deliberately, and soberly (and not because I happen to be horny one day!). Perhaps one day, I will decide to snap some nude photos. And then maybe I'll even share some. But today is not that day. And if you're hoping, I'd encourage you to not hold your breath.
 
 ## Some Background Context
 
