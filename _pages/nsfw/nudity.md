@@ -5,7 +5,7 @@ description: "How is it that I'm not all that shy about being naked in person, a
 tags:
   - nsfw
 date: "2022-08-21"
-last_modified_at: "2022-08-23T00:24:55+00:00"
+last_modified_at: "2022-09-02T14:37:02+00:00"
 ---
 
 Odds are that I referred you to this page because I told you that I don't send nude pics (and I don't even snap them), and you were all like "Why?". Well, here we go.
@@ -14,7 +14,7 @@ In 2002, when I started being pretty open about my sexuality and dating and hook
 
 At that time, I was already a huge computer nerd, and I knew quite well that "the internet is forever" and that if you take a photo, you can expect that it will _never_ disappear.
 
-Also at that time, I had this idea in my mind that I might one day have a career that would put me in the public spotlight. I wasn't sure yet exactly what form that would take, but I was developing what turned into a serious activist streak that lasted through 2010, and I went to law school 2005-2009 as a manifestation of that passion. Maybe I would ultimately be in business or head an activist organization or be a judge. I didn't know yet, but I didn't want nude pics coming back to bite me in the ass.
+Also at that time, I had this idea in my mind that I might one day have a career that would put me in the public spotlight. I wasn't sure yet exactly what form that would take, but I was developing what turned into a serious activist streak that lasted through 2010, and I went to law school 2005-2009 as a manifestation of that passion. Maybe I would ultimately be in business or head an activist organization or be a judge. I didn't know yet, but I didn't want nude pics coming back to bite me in the ass. I wanted to keep my options open.
 
 It's not that I personally had any shame about nude pics. I wasn't worried about ridicule or anything. And I don't have any problem with people who do snap and send nude pics--hey, more power to ya!
 
@@ -34,7 +34,7 @@ While I was a "late bloomer" in some respects (onset of puberty, when I started 
 
 I even remember this one scene from my early childhood--I might have been 4, maybe 5, years old, and I was alone in my bedroom, climbing around in the closet (no metaphor intended!) like a monkey in some tighty whities and suspenders. There was something about the addition of the suspenders that made the whole thing sexual for me (though I have no such fetish today). Of course, I had no explicit concept or understanding of it, but when my nanny walked in on me, I was super embarrassed and scampered away to cover myself. Clearly, some messages from our culture about nudity and sex and "privacy" had gotten through to me on a subconscious level.
 
-Anecdotes like that, in combination with things like never having any experience with or exposure to non-sexual nudity, led to my _really_ sexualizing (fetishizing?) nudity. And so nudity was never a "no big deal" kind of thing for me. All the other messages I passively absorbed through the culture were that nudity and sex are integral to one another. (For the record, I never directly experienced or was "exposed to" sexual nudity as a child, either, but one makes subconscious integrations based on things on TV, in the movies, etc.)
+Anecdotes like that, in combination with things like never having any experience with or exposure to non-sexual nudity, led to my _really_ sexualizing (fetishizing?) nudity. And so nudity was never a "no big deal" kind of thing for me. All the other messages I passively absorbed through the culture were that nudity and sex are integral to one another. (For the record, I never directly experienced or was "exposed to" sexual nudity as a child, either, but one makes subconscious integrations based on things on TV, in the movies, etc. What's odd is that my parents never made a big deal of nudity in the way that a lot of parents in our culture do, and I occasionally saw them naked, so I really don't know what to make of that.)
 
 So growing up, there was a bit of a vicious cycle around being naked: I was never around naked peers in non-sexual contexts (eg, in a lockerroom), so I didn't have any experiences to challenge the "nudity is sexual" idea, so I was especially shy about being naked, so I avoided situations where I might be naked around others. (Surprise, surprise, then, that as my sexual development continued, lockerrooms, bathhouses, nude beaches, and clothing-optional hotsprings and resorts all turned into major fetishes for me.)
 
