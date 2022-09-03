@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2022-07-22T14:07:48+00:00"
+last_modified_at: "2022-09-03T14:14:02+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -95,7 +95,9 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "3 times less (than _x_)" versus "1/3 of _x_"
 * "verbally" != "orally"; {"orally", "in writing"} ⊂ "verbally"
 * "gods"
-* "theater" versus "theatre"
+* British English spellings I prefer
+  * theatre (and when I use the American English "theater" instead)
+  * spectre
 * British English alternatives I prefer
   * lift
   * rubbish (bin)
