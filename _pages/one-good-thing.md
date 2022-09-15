@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-09-12T16:36:39+00:00"
+last_modified_at: "2022-09-15T03:13:29+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-09-01
+### The Good Thing
+Finally got T-Mobile static IPv4 address configured correctly. 
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2022-08-30
 ### The Good Thing
