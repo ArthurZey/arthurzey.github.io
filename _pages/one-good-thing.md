@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-09-17T13:55:02+00:00"
+last_modified_at: "2022-09-18T15:22:38+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-09-17
+### The Good Thing
+Had dinner with Dad, Masha, and Stacy at Fogo de Chão and stuffed myself silly.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2022-09-16
 ### The Good Thing
@@ -25,6 +34,15 @@ Picked up parents from their conference center in Denver, went to a dog park, ha
 ## 2022-09-15
 ### The Good Thing
 Finally got exterior-to-interior cabling sorted and wifi access point set up in main house living room!
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2022-09-10
+### The Good Thing
+Jay and Kevin came over for brunch, and we had a good time.
 ### What It Means to Me
 
 ### What It Says about Me
