@@ -7,7 +7,7 @@ tags:
   - philosophy
 description: "Every time I hear someone use the words \"objective\" or \"subjective\" in a fuzzy way, I really get my knickers in a twist."
 date: "2020-11-03"
-last_modified_at: "2021-03-09"
+last_modified_at: "2022-09-24T14:33:08+00:00"
 links:
   resources:
     - type: FACEBOOK
@@ -40,6 +40,7 @@ I'll start with an inventory of how I've heard these words used that I'm objecti
 |experiential|measurable|
 |controversial|uncontroversial|
 |persuasive/judgmental|neutral|
+|internal|external|
 
 Okay, so how do I use these words?
 
@@ -106,6 +107,8 @@ _Think: The experience of brightness versus some measurable quantity that descri
 ## Controversial versus Uncontroversial
 
 ## Persuasive/Judgmental versus Neutral
+
+## Internal versus External
 
 ----
 
