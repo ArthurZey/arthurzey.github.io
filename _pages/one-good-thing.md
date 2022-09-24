@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-09-22T22:58:27+00:00"
+last_modified_at: "2022-09-24T03:54:07+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-09-23
+### The Good Thing
+Had a surprisingly good call with a representative from Nationwide Pet Insurance about the claim for Toothless's disappearance/death.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2022-09-21
 ### The Good Thing
