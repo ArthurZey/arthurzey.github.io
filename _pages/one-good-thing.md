@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-09-25T13:53:58+00:00"
+last_modified_at: "2022-09-26T13:40:32+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-09-25
+### The Good Thing
+While a lot about it was emotionally difficult, going with Andrew Goldberg down to Huerfano County to look at 80 acres for Phase 2 and talking to him for 8ish hours led to a lot of good, serious reflection on future plans.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2022-09-24
 ### The Good Thing
