@@ -7,7 +7,7 @@ tags:
   - philosophy
 description: "Every time I hear someone use the words \"objective\" or \"subjective\" in a fuzzy way, I really get my knickers in a twist."
 date: "2020-11-03"
-last_modified_at: "2022-09-24T14:33:08+00:00"
+last_modified_at: "2022-09-28T13:26:03+00:00"
 links:
   resources:
     - type: FACEBOOK
@@ -103,6 +103,7 @@ Am I being dramatic? Yes, a little. But this is, in essence, what happens, littl
 
 ## Experiential versus Measurable
 _Think: The experience of brightness versus some measurable quantity that describes the brightness._
+_Related framing: Qualitative versus Quantitative_
 
 ## Controversial versus Uncontroversial
 
