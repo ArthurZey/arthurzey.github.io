@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2022-09-13T14:25:27+00:00"
+last_modified_at: "2022-10-02T17:08:29+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -99,6 +99,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * theatre (and when I use the American English "theater" instead)
   * spectre
   * cancelled / cancelling
+  * channelled / channelling
 * British English alternatives I prefer
   * lift
   * rubbish (bin)
