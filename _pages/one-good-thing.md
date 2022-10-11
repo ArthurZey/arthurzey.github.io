@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-10-10T16:08:17+00:00"
+last_modified_at: "2022-10-11T14:02:12+00:00"
 tags:
   - happenings
   - draft
@@ -52,6 +52,24 @@ My STC pricing update presentation at Sales Summit went really well.
 ## 2022-10-03
 ### The Good Thing
 Just an amazing day connecting with Ookla coworkers.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2022-10-02
+### The Good Thing
+Had a nice time seeing Olivia perform at CroatiaFest and then dinner with her afterward.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2022-09-30
+### The Good Thing
+Got a haircut!
 ### What It Means to Me
 
 ### What It Says about Me
