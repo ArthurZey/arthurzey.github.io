@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-10-21T00:28:15+00:00"
+last_modified_at: "2022-10-21T19:03:29+00:00"
 tags:
   - happenings
   - draft
@@ -16,6 +16,15 @@ sitemap: false
 ## 2022-10-18
 ### The Good Thing
 Climbed my first 14er (Mt Huron) with Chase Popp and had a great time!
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2022-10-13
+### The Good Thing
+Drove to and arrived at Jonathan Wands's family cabin in South Fork with Jonathan and Tyler and got settled in.
 ### What It Means to Me
 
 ### What It Says about Me
