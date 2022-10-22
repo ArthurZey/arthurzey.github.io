@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2022-10-02T17:08:29+00:00"
+last_modified_at: "2022-10-22T18:26:23+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -144,6 +144,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * grandure
   * spatula
   * sentient
+  * dynasty
 * generic brand names
   * Kleenex
   * Band-aid
