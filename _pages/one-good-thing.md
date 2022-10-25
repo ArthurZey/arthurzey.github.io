@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-10-24T16:05:16+00:00"
+last_modified_at: "2022-10-25T15:13:46+00:00"
 tags:
   - happenings
   - draft
@@ -19,6 +19,15 @@ Climbed my first 14er (Mt Huron) with Chase Popp and had a great time!
 ### What It Means to Me
 
 ### What It Says about Me
+
+
+## 2022-10-17
+### The Good Thing
+Chase Popp came over, and we had a nice evening before our hiking adventure the next day.
+### What It Means to Me
+
+### What It Says about Me
+
 
 
 
