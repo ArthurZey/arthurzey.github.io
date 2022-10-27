@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-10-25T15:13:46+00:00"
+last_modified_at: "2022-10-27T00:21:38+00:00"
 tags:
   - happenings
   - draft
@@ -13,12 +13,23 @@ sitemap: false
 {:toc}
 {::options toc_levels="2" /}
 
+## 2022-10-19
+### The Good Thing
+Found out from the dentist that my periodontal health is significantly improving, and we're reducing appointment frequency to once every four months from once every three months.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
 ## 2022-10-18
 ### The Good Thing
 Climbed my first 14er (Mt Huron) with Chase Popp and had a great time!
 ### What It Means to Me
 
 ### What It Says about Me
+
+
 
 
 ## 2022-10-17
