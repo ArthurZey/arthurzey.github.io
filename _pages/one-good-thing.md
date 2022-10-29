@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-10-28T14:52:36+00:00"
+last_modified_at: "2022-10-29T15:45:28+00:00"
 tags:
   - happenings
   - draft
@@ -13,12 +13,30 @@ sitemap: false
 {:toc}
 {::options toc_levels="2" /}
 
+## 2022-10-28
+### The Good Thing
+Had a really nice day shopping and running errands with Melissa, Richard, and Robert.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
 ## 2022-10-27
 ### The Good Thing
 Finished setting up my new IKEA bookshelves.
 ### What It Means to Me
 
 ### What It Says about Me
+
+
+## 2022-10-26
+### The Good Thing
+Max made really good progress on his reactivity with Murray: only one "outburst", which didn't even frighten Murray out of my arms (and we were right next to Max's crate), and Murray even reached out with his paw through the crate to let Max sniff him.
+### What It Means to Me
+
+### What It Says about Me
+
 
 
 
