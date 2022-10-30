@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2022-10-22T18:26:23+00:00"
+last_modified_at: "2022-10-30T22:15:43+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -90,6 +90,9 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "FAQ" versus "FAQ entry"
   * "meme" versus ???
 * "irregardless", other non-words, and the (d)evolution of language (maybe a separate post in its own right)
+* paradox
+* irony
+* humility and arrogance
 * datetime stamps, 24-hour time
 * "3 times more (than _x_)" versus "3 times _x_"
 * "3 times less (than _x_)" versus "1/3 of _x_"
