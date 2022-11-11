@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2022-10-30T22:15:43+00:00"
+last_modified_at: "2022-11-11T01:26:13+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -82,6 +82,7 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "entitlement" / "entitled" equivocating between
   * an actual entitlement and actually being entitled to something
   * an attitude of entitlement irrespective of whether an actual entitlement exists
+* "behave" actually being used to mean "conform"
 * "[collection]" versus "[collection] [item]":
   * "blog post" versus "blog"
   * "podcast" versus "podcast episode"
