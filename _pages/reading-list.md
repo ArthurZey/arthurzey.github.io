@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2022-06-25T15:40:07+00:00"
+last_modified_at: "2022-11-11T16:55:04+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -188,6 +188,8 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
 {% comment %}
 ########## PULL ITEMS OUT OF COMMENT WHEN COMPLETED ##########
 
+
+
 _started in 2019; in progress_
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
@@ -201,6 +203,28 @@ _started in 2019; in progress_
 
 
 # 2022
+
+## Adam Grant: _Think Again_
+[Audible](https://www.audible.com/pd/0593394763){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B08H177WQP){:target="&lowbar;blank"}
+{% comment %}
+* Chapter 1: the bias of thinking one is unbiased: denial is the proof you have a problem
+* Chapter 2: muddled use of "humility" and "arrogance"
+* Chapter 3: infinite regress / self-refuting position around identification with ideas; false dichotomy in terms of opinions versus values; it's actually okay to look for what's potentially wrong about something that contradicts your beliefs, if you know you've been careful about reaching your beliefs
+* Chapter 4: lots of good distinctions between different types of disagreement/arguing/debating, being agreeable/disagreeable, willingness to defend views versus attacking people, etc
+* Chapter 5: "willingness to change mind means open to learning"; depends on the issue and how you made up your mind in the first place
+* Chapter 6: after space travel, less concern with individual achievement and more concern with collective good
+  * Also, changing someone's mind needs to depend on something actually being true. Convincing someone of a falsehood is just manipulation.
+  * The whole tenor of the book so far is that the viewpoints and opinions are ultimately arbitrary, even if they vary in how much they can be supported by various facts.
+  * Not all stereotypes are the same. Isn't that ironic? Some stereotypes are actually based on an inductive process, whereas others are just prejudice.
+  * "we might question our belief that it makes sense to hold opinions about groups at all": depends on what kind of groups and whether the opinion is about a characteristic essential to the group
+* Chapter 7: good analysis about listening and understanding, instead of convincing
+* Chapter 8: "climate change" is, ironically, not a monolithic idea
+* "If you find yourself saying that anything is always good, then you might be a member of an idea cult."
+* "No behavior is always effective "
+* Chapter 9: "Pluto is not a planet, no longer true; Columbus discovered America, never true."
+* Chapter 10: process accountability instead of result accountability; Amazon PR-FAQ; gets "disagree and commit" wrong
+* conclusion: Pursuit of happiness and individualistic versus collectivistic societies; direct pursuit versus process orientation
+{% endcomment %}
 
 ## Benjamin Hardy: _The Gap and the Gain_
 [Audible](https://www.audible.com/pd/B09HN7K7W8){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B08TGTK2L2){:target="&lowbar;blank"}
