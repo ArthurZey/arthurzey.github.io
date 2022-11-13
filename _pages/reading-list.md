@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2022-11-11T16:55:04+00:00"
+last_modified_at: "2022-11-13T16:52:23+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -191,6 +191,10 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
 
 
 _started in 2019; in progress_
+
+## Gary John Bishop: _Unfu*k Yourself_
+[Audible](https://www.audible.com/pd/B0731R4RFX){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B071F7C5NQ/){:target="&lowbar;blank"}
+* Chapter 5: running away from uncertainty; false alternative between knowing that you know nothing and thinking you know everything
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
 
