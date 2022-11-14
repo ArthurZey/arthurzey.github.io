@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-11-09T14:57:30+00:00"
+last_modified_at: "2022-11-18T03:27:02+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,25 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-11-13
+### The Good Thing
+Finished migrating Plex to the Intel NUC (core47pi)!
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2022-11-10
+### The Good Thing
+Had a great time at R&A yoga.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
 
 ## 2022-11-08
 ### The Good Thing
