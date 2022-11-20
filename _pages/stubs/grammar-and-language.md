@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2022-11-11T01:26:13+00:00"
+last_modified_at: "2022-11-20T00:13:01+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -29,6 +29,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "checkin" versus "check-in"
   * "oncall" versus "on-call"
   * "inline" versus "in-line"
+  * "workout" versus "work out"
 * "the reason why", "the reason is because"
 * "coincidence" versus "mere coincidence"
 * hyphenates that should be their own words
@@ -54,6 +55,9 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "LCD display"
   * "UPC code"
   * "IP protocol"
+  * "SIP protocol"
+  * "IHP program"
+  * "RPC call"
 * "compose" versus "comprise"
 * "further" versus "farther"
 * "less" versus "fewer"
