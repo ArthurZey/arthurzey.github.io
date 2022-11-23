@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-11-20T17:32:08+00:00"
+last_modified_at: "2022-11-23T06:21:38+00:00"
 tags:
   - happenings
   - draft
@@ -20,6 +20,16 @@ Got my tea box that's engraved with my crest!
 ### What It Means to Me
 
 ### What It Says about Me
+
+
+## 2022-11-16
+### The Good Thing
+Got to go into the Denver Ookla office!
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 
 ## 2022-11-13
