@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-11-24T04:20:43+00:00"
+last_modified_at: "2022-11-24T21:05:43+00:00"
 tags:
   - happenings
   - draft
@@ -20,6 +20,13 @@ Factory reset the Synology, got some basic things set up, and started copying fi
 
 ### What It Says about Me
 
+
+## 2022-11-21
+### The Good Thing
+_Disenchanted_ movie night with Melissa, Richard, and Chase.
+### What It Means to Me
+
+### What It Says about Me
 
 
 
