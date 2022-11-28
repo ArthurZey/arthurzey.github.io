@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-11-27T19:03:28+00:00"
+last_modified_at: "2022-11-28T21:24:08+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-11-27
+### The Good Thing
+Got to play with Sasha's wolfdogs, got my eyebrows did, and had a lovely dinner with Christopher and Morten at their "new" place in Richmond Point.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2022-11-26
 ### The Good Thing
