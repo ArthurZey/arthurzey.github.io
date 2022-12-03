@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2022-11-20T00:13:01+00:00"
+last_modified_at: "2022-12-03T18:37:43+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -43,6 +43,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * delimit
   * deploy/employ
 * "begs the question" versus "implies the question"
+* "Your call will be answered in the order in which it was received." versus "Calls are answered in the order in which they are received."
 * "try and" &rarr; "try to"
 * the "[blah] because [noun phrase]" construction
 * "a-whole-nother"
