@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-12-17T17:50:49+00:00"
+last_modified_at: "2022-12-19T17:15:17+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,25 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-12-18
+### The Good Thing
+Really enjoyed hanging out with Andrew and Jacob in the American Express Centurion Lounge before our flights back to our respective homes.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+
+## 2022-12-17
+### The Good Thing
+Had a nice time with some RP folks driving around Red Rocks and then at Olympia 2022.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2022-12-16
 ### The Good Thing
