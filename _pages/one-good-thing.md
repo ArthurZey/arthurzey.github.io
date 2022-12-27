@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2022-12-21T16:52:07+00:00"
+last_modified_at: "2022-12-27T00:13:54+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,16 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2022-12-22
+### The Good Thing
+Found out that I actually have three years (not two years) to submit my burglary claim to State Farm, along with receipts for replacement purchases, in order to get full replacement value reimbursement.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
 
 ## 2022-12-19
 ### The Good Thing
