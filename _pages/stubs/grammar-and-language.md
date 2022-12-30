@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2022-12-20T23:25:02+00:00"
+last_modified_at: "2022-12-30T21:59:05+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -33,6 +33,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "wakeup" versus "wake up"
 * "the reason why", "the reason is because"
 * "coincidence" versus "mere coincidence"
+* "altitude" versus "elevation"
 * hyphenates that should be their own words
   * "usecase"
   * "enduser"
