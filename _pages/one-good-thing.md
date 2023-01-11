@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-01-11T19:59:28+00:00"
+last_modified_at: "2023-01-11T19:59:53+00:00"
 tags:
   - happenings
   - draft
@@ -24,7 +24,7 @@ Had a really great chat with Andrew about how I can get involved with RP.
 
 ## 2023-01-07
 ### The Good Thing
-Had a great time at Breckenridge, my first day snowboaridng this season!
+Had a great time at Breckenridge, my first day snowboarding this season!
 ### What It Means to Me
 
 ### What It Says about Me
