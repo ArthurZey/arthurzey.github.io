@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-01-11T19:59:53+00:00"
+last_modified_at: "2023-01-12T18:02:59+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2023-01-09
+### The Good Thing
+Successful start of a new mesocycle within Bulk 10, this time using the RP Diet app!
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2023-01-08
 ### The Good Thing
