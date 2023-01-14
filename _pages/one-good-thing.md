@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-01-12T18:02:59+00:00"
+last_modified_at: "2023-01-14T20:52:00+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,23 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2023-01-13
+### The Good Thing
+Had a really great chat with Andrew and Jared Volpe about RP.
+### What It Means to Me
+
+### What It Says about Me
+
+
+## 2023-01-12
+### The Good Thing
+Got to see some Ookla coworkers at the Denver office holiday party after spending some time with Nikki.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2023-01-09
 ### The Good Thing
