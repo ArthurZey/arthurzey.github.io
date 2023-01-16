@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2022-12-30T21:59:05+00:00"
+last_modified_at: "2023-01-16T16:38:28+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -168,6 +168,8 @@ Here are a few of my fixations and particularities (in no particular order) that
   * foyer
   * Louisville
   * Buena Vista
+  * Rio Grande
+  * Vallejo
 * "none are" versus "none is"; "any are" versus "any is"
 * singular "they"
 * singular "data"
@@ -228,6 +230,7 @@ Fun games:
   * hummusexual
   * again
   * puppy-doughgs
+  * meecrowavay
 
 Other topics:
 
