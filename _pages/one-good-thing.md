@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-01-16T04:22:26+00:00"
+last_modified_at: "2023-01-19T14:40:31+00:00"
 tags:
   - happenings
   - draft
@@ -13,9 +13,20 @@ sitemap: false
 {:toc}
 {::options toc_levels="2" /}
 
+
+
+## 2023-01-16
+### The Good Thing
+Went on a hike to Staunton State Park with Chase and Max.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
 ## 2023-01-15
 ### The Good Thing
-Cleaned up the garbage in the neighborhood that the garbage "collector" people carelessly distributed.
+Cleaned up the garbage in the neighborhood that the garbage "collector" people carelessly distributed. Discovered that Murray is alive, after all.
 ### What It Means to Me
 
 ### What It Says about Me
