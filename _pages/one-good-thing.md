@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-01-19T14:40:31+00:00"
+last_modified_at: "2023-01-22T18:04:37+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,19 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+
+Movie night with Melissa
+Snowboarding Saturday
+Call with Greg / Daric
+Advanced cocounseling class
+
+## 2023-01-17
+### The Good Thing
+Had the first PLN Level 2 Cocounseling class.
+### What It Means to Me
+
+### What It Says about Me
 
 
 
