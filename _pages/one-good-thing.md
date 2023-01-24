@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-01-22T18:04:37+00:00"
+last_modified_at: "2023-01-24T15:14:13+00:00"
 tags:
   - happenings
   - draft
@@ -14,10 +14,18 @@ sitemap: false
 {::options toc_levels="2" /}
 
 
-Movie night with Melissa
 Snowboarding Saturday
 Call with Greg / Daric
 Advanced cocounseling class
+
+## 2023-01-18
+### The Good Thing
+Watched _Matilda: The Musical_ with Melissa for a movie night, just the two of us.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2023-01-17
 ### The Good Thing
