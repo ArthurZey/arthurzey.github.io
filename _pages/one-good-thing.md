@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-01-24T15:14:13+00:00"
+last_modified_at: "2023-01-26T13:47:13+00:00"
 tags:
   - happenings
   - draft
@@ -14,9 +14,41 @@ sitemap: false
 {::options toc_levels="2" /}
 
 
-Snowboarding Saturday
-Call with Greg / Daric
-Advanced cocounseling class
+## 2023-01-24
+### The Good Thing
+Got a haircut and got to spend some time with Nikki.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2023-01-21
+### The Good Thing
+Had a fun time snowboarding Winter Park.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2023-01-20
+### The Good Thing
+Had a good call with Greg about Daric.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2023-01-19
+### The Good Thing
+Enjoyed the PLN Advanced Cocounseling Dropin class.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2023-01-18
 ### The Good Thing
