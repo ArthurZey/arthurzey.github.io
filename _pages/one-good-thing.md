@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-01-26T13:47:13+00:00"
+last_modified_at: "2023-01-29T22:36:37+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,42 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2023-01-28
+### The Good Thing
+Had a nice time with 1FROG folks at our annual holiday potluck and meeting.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2023-01-27
+### The Good Thing
+Got my car serviced.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+
+## 2023-01-26
+### The Good Thing
+Got to catch up with Mařenka on the phone.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2023-01-25
+### The Good Thing
+Registered Zey Enterprises, LLC!
+### What It Means to Me
+
+### What It Says about Me
+
 
 
 ## 2023-01-24
