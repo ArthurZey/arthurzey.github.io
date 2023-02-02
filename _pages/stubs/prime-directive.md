@@ -8,7 +8,7 @@ tags:
   - startrek
 description: "Much to my surprise, I find myself practicing something like Starfleet's Prime Directive."
 date: "2022-04-08"
-last_modified_at: "2022-12-23T05:03:35+00:00"
+last_modified_at: "2023-02-02T13:05:26+00:00"
 links:
   posted_at:
     - type: FACEBOOK
@@ -72,7 +72,7 @@ I've found that my time and energy and focus are much better invested _in my own
 
 Okay, okay--Prime Directive. So the way that I now somewhat jokingly characterize my attitude (which I first explicitly formulated in a conversation with my dad in March 2022) is that with all the hoopla going on in the world all the time and how so many people react to it in such an unhealthy, uncalibrated way, I often feel like I'm an alien or time-traveler stuck on Earth in the 21st century, watching as things unfold, because the Prime Directive prohibits my interference in the natural development of this less advanced culture. (Yes, I'm that arrogant.) It sucks, because I'm still _in_ the culture (no matter how far into the mountains I might flee) and therefore subject to the consequences of what humanity does, but look--people need to figure things out for themselves on their own timelines. It's not my job to go about convincing people of the truth, however right I may be. If I start arguing against some government regulation because it represents a violation of individual rights and would have a disastrous effect on the economy, I may be right, but many in our society just aren't ready to hear that, when there are much deeper cultural and philosophical matters to be addressed first. It's like Starfleet sharing a technology with a culture that hasn't yet developed the wisdom to use responsibly, which they might have, if they had had to struggle to develop the technology themselves in the first place.
 
-Look, I'm mindful of wanting to avoid a false dichotomy here, so despite my dramatic, extreme, and unqualified characterization in the proceeding paragraph, I don't think that practically, I'm just completely withdrawing. The alternative is not "argue about politics" versus "shut the fuck up".
+Look, I'm mindful of wanting to avoid a false dichotomy here, so despite my dramatic, extreme, and unqualified characterization in the preceding paragraph, I don't think that practically, I'm just completely withdrawing. The alternative is not "argue about politics" versus "shut the fuck up".
 
 There are a bunch of variations on a certain idea in our culture, like "You can lead a horse to water, but you can't make him drink." and "I can show you a map, but you ultimately have to walk the path.", and there's great value in that idea. A good teacher will help students to take the journey, instead of merely having them memorize details about the destination. There's often no shortcut to the destination, and any attempt to circumvent the work leads you to falsely believe that you've reached your goal, because it looks and feels so much like you've reached it. (In epistemology, this is like trying to skip the hard work of experience-based induction and just get at principles directly (so-called "intrinsicism"), which really just leads to rationalism and floating abstractions, however much it may feel like bona fide knowledge.)
 
