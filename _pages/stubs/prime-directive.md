@@ -8,7 +8,7 @@ tags:
   - startrek
 description: "Much to my surprise, I find myself practicing something like Starfleet's Prime Directive."
 date: "2022-04-08"
-last_modified_at: "2023-02-02T13:05:26+00:00"
+last_modified_at: "2023-02-04T04:58:35+00:00"
 links:
   posted_at:
     - type: FACEBOOK
@@ -74,7 +74,7 @@ Okay, okay--Prime Directive. So the way that I now somewhat jokingly characteriz
 
 Look, I'm mindful of wanting to avoid a false dichotomy here, so despite my dramatic, extreme, and unqualified characterization in the preceding paragraph, I don't think that practically, I'm just completely withdrawing. The alternative is not "argue about politics" versus "shut the fuck up".
 
-There are a bunch of variations on a certain idea in our culture, like "You can lead a horse to water, but you can't make him drink." and "I can show you a map, but you ultimately have to walk the path.", and there's great value in that idea. A good teacher will help students to take the journey, instead of merely having them memorize details about the destination. There's often no shortcut to the destination, and any attempt to circumvent the work leads you to falsely believe that you've reached your goal, because it looks and feels so much like you've reached it. (In epistemology, this is like trying to skip the hard work of experience-based induction and just get at principles directly (so-called "intrinsicism"), which really just leads to rationalism and floating abstractions, however much it may feel like bona fide knowledge.)
+There are a bunch of variations on a certain idea in our culture, like "You can lead a horse to water, but you can't make him drink." and "I can show you a map, but you ultimately have to walk the path.", and there's great value in that idea. A good teacher will help students to take the journey, instead of merely having them memorize details about the destination. There's often no shortcut to the destination, and any attempt to circumvent the work leads you to falsely believe that you've reached your goal, because it looks and feels so much like you've reached it. (In epistemology, this is like trying to skip the hard work of experience-based induction and just get at principles directly (so-called "intrinsicism"), which really just leads to rationalism and floating abstractions, however much it may feel like bona fide knowledge.) There are many unpleasant consequences of just dispensing "knowledge" in this fashion that breeds second-handedness, appeals to authority, and authoritarianism in general, but an example of a symptom that jumps to mind readily from the not-too-distant past is all those inane arguments that people had about whether Pluto is a planet, the vast majority of which were little else than a battle of parrots, all of whom insisted that _their_ elementary school teachers' revelations were the _real_ truth.
 
 But here's the thing: I am not here to be anybody's teacher, and _certainly_ not when nobody has asked for my opinion. So really, it's not my job to even show anybody any proverbial maps. Sometimes, what you have to do is grope around in the dark or get lost, and then you learn the terrain better than you ever might have if somebody had shown you a map.
 
