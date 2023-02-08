@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2023-02-05T03:41:19+00:00"
+last_modified_at: "2023-02-08T16:05:32+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -255,5 +255,6 @@ Other topics:
   * human rights
   * economic rights
   * anticompetitive
+  * working class
 * words I struggle to pronounce
   * remunerative
