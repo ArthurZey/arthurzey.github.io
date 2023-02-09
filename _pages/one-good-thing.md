@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-02-07T13:49:10+00:00"
+last_modified_at: "2023-02-09T18:36:45+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2023-02-08
+### The Good Thing
+Got through two RP Certified Nutrition Coach modules and started a third.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2023-02-04
 ### The Good Thing
