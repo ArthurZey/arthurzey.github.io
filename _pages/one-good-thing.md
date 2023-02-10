@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-02-09T18:36:45+00:00"
+last_modified_at: "2023-02-10T15:23:12+00:00"
 tags:
   - happenings
   - draft
@@ -13,9 +13,9 @@ sitemap: false
 {:toc}
 {::options toc_levels="2" /}
 
-## 2023-02-08
+## 2023-02-09
 ### The Good Thing
-Got through two RP Certified Nutrition Coach modules and started a third.
+Andrew and Sheila arrived for their weekend visit!
 ### What It Means to Me
 
 ### What It Says about Me
@@ -33,14 +33,6 @@ Went snowboarding at Keystone with Chase.
 ## 2023-02-03
 ### The Good Thing
 Got to help Vicki move house.
-### What It Means to Me
-
-### What It Says about Me
-
-
-## 2023-02-01
-### The Good Thing
-Got through two RP Certified Nutrition Coach modules and started a third.
 ### What It Means to Me
 
 ### What It Says about Me
