@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-02-15T03:39:00+00:00"
+last_modified_at: "2023-02-15T14:54:38+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2023-02-14
+### The Good Thing
+Had a good meeting with Jen from Circle Surrogacy and Melissa.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2023-02-12
 ### The Good Thing
