@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-02-20T20:50:29+00:00"
+last_modified_at: "2023-02-21T14:56:42+00:00"
 tags:
   - happenings
   - draft
@@ -25,6 +25,15 @@ Managed to get a few items replaced from the storage unit burglary.
 ## 2023-02-17
 ### The Good Thing
 Despite what seemed like systemic inflammation and some tooth/gum sensitivity in recent weeks, I had a good report of my periodontal health at my dental appointment.
+### What It Means to Me
+
+### What It Says about Me
+
+
+
+## 2023-02-16
+### The Good Thing
+Got to shovel lots of snow for a good long while.
 ### What It Means to Me
 
 ### What It Says about Me
