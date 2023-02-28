@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-02-28T06:28:23+00:00"
+last_modified_at: "2023-02-28T19:30:49+00:00"
 tags:
   - happenings
   - draft
@@ -24,7 +24,7 @@ Had a nice time at Indian Hot Springs with Blake.
 
 ## 2023-02-26
 ### The Good Thing
-Despite feeling completely tired and exhausted, I ended up having a decent day snowboarding, with decent performance, not too cold, and without aggravating any of my injuries/sensativities.
+Despite feeling completely tired and exhausted, I ended up having a decent day snowboarding, with decent performance, not too cold, and without aggravating any of my injuries/sensitivities.
 ### What It Means to Me
 
 ### What It Says about Me
