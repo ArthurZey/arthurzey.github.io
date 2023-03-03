@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-03-02T18:33:58+00:00"
+last_modified_at: "2023-03-03T19:36:08+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2023-03-02
+### The Good Thing
+Met Ryan Dosa from Team Full ROM at the LA Fitness in Tarzana totally by accident, and then had a really nice dinner with Dad, Masha, Elizabeth, and Grandma Bella.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2023-03-01
 ### The Good Thing
