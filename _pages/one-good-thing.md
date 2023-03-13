@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-03-11T21:50:11+00:00"
+last_modified_at: "2023-03-13T04:22:40+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2023-03-11
+### The Good Thing
+Elizabeth, Chase, and I got to see Stacy, Daniel, and Lane for a walk around Sloans Lake.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2023-03-10
 ### The Good Thing
