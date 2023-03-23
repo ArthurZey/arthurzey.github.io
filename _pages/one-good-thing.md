@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-03-22T14:49:00+00:00"
+last_modified_at: "2023-03-23T14:21:28+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2023-03-21
+### The Good Thing
+First nutrition/diet coaching session with Helen.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2023-03-20
 ### The Good Thing
