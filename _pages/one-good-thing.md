@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-03-24T12:35:58+00:00"
+last_modified_at: "2023-03-26T05:43:32+00:00"
 tags:
   - happenings
   - draft
@@ -12,6 +12,15 @@ sitemap: false
 * TOC
 {:toc}
 {::options toc_levels="2" /}
+
+## 2023-03-25
+### The Good Thing
+Enjoyed going to the Hatch Surrogacy presentation in Denver with Chase, then Howard's 75th birthday, followed by 1FROG and Stacy's house-cooling party.
+### What It Means to Me
+
+### What It Says about Me
+
+
 
 ## 2023-03-22
 ### The Good Thing
