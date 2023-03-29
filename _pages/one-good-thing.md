@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-03-28T03:18:13+00:00"
+last_modified_at: "2023-03-29T14:48:48+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-03-28
+Got to bed at a decent hour, after many days of bad sleep habits.
 
 ## 2023-03-26
 Took a nice long walk with Sarah Veksler and Max.
