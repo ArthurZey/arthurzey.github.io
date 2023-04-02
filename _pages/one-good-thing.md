@@ -2,12 +2,14 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-03-31T20:16:47+00:00"
+last_modified_at: "2023-04-02T21:56:58+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+## 2023-04-01
+Even though my snowboard got even more broken over the course of the day, I had a pretty good time at Copper and improved my ability to ride switch.
 
 ## 2023-03-30
 Installed the Toto C5 bidet that I finally got around to ordering!
