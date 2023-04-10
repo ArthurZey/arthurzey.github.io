@@ -5,7 +5,7 @@ tags:
   - about
 description: "Brown paper packages tied up with strings; these are a few of my favorite things."
 date: "2020-05-15"
-last_modified_at: "2023-04-08T22:41:11+00:00"
+last_modified_at: "2023-04-10T17:18:52+00:00"
 ---
 
 * TOC
@@ -212,6 +212,8 @@ _which I wouldn't necessarily cook myself_
 ## Smells
 * the leaves of tomato plants
 * plumeria
+* freshly struck matches (of a certain kind)
+* Brussels sprouts roasting in butter and bacon fat
 
 ## Sports and Recreation
 * weightlifting
