@@ -5,7 +5,7 @@ description: "Why am I not on PrEP if I'm so paranoid about HIV that I won't eve
 tags:
   - nsfw
 date: "2022-08-28"
-last_modified_at: "2022-08-29T13:56:06+00:00"
+last_modified_at: "2023-04-15T02:41:46+00:00"
 ---
 
 ## Paranoia
@@ -24,7 +24,7 @@ So I've been in situations where things have gotten hot and heavy with a guy bef
 
 Not being able to get it up is an unpleasant experience for a dude. And it's also not great for someone on the receiving end (or would-be receiving end--hah!). Getting over my fear by forcing myself to engage in the behavior is not a winning strategy in this situation: More than anything, it's really not fair to the other dude to use him for something like this and subject him to a high risk of "equipment malfunction" (which, by the way, has downstream effects on other sexual experiences), and also, I can't will myself to actually "complete" the behavior, since getting it up is not under my volitional control.
 
-So, I'm open to ideas about how to deal with this, but for now, I don't know what else to do but just pass up opportunities for sexual relationships/engagements with HIV+ dudes. (For those of you who might offer me advice, please realize that avoiding knowledge of HIV positivity by not asking about it is also a failing strategy: Aside from the fact that it's generally foolish to avoid frank conversations about STDs, the moment it even occurs to me to ask, if I don't affirmatively learn the guy is HIV-, it's a boner-killer.
+So, I'm open to ideas about how to deal with this, but for now, I don't know what else to do but just pass up opportunities for sexual relationships/engagements with HIV+ dudes. (For those of you who might offer me advice, please realize that avoiding knowledge of HIV positivity by not asking about it is also a failing strategy: Aside from the fact that it's generally foolish to avoid frank conversations about STDs, the moment it even occurs to me to ask, if I don't affirmatively learn the guy is HIV-, it's a boner-killer.)
 
 ### Connection to COVID
 
