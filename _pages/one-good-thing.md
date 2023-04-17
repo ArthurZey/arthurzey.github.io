@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-04-15T13:18:52+00:00"
+last_modified_at: "2023-04-17T02:05:43+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-04-16
+Had a really congenial conversation with Lundy about Ayn Rand and capitalism, without going too deep into politics and instead finding a lot of common ground in ethics.
 
 ## 2023-04-11
 Really good annual review at work.
