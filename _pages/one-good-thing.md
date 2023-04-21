@@ -2,12 +2,14 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-04-20T14:20:52+00:00"
+last_modified_at: "2023-04-21T16:27:33+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+## 2023-04-20
+Got to bed much earlier than I had been able to in quite a few weeks.
 
 ## 2023-04-19
 Watched _Mighty Morphin Power Rangers: Once & Always_, which was delightfully nostalgic (and corny)!
