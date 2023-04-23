@@ -2,12 +2,16 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-04-21T16:27:33+00:00"
+last_modified_at: "2023-04-23T00:43:29+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-04-22
+Had a great time snowboarding Breckenridge: conditions were great with lots of powder, I got a lot better at riding switch (including unstrapping goofy and even doing some soft, shallow moguls), I got to see Nikki for her birthday, and I had a lovely chat with the shuttle driver on the way back to the lot where I parked.
+
 ## 2023-04-20
 Got to bed much earlier than I had been able to in quite a few weeks.
 
