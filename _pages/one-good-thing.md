@@ -2,12 +2,14 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-04-23T21:37:39+00:00"
+last_modified_at: "2023-04-25T00:48:19+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+## 2023-04-24
+Woke up feeling like I finally had higher-quality sleep than I'd had in a really long time.
 
 ## 2023-04-23
 Had a fairly relaxing, lazy morning in bed with Chase.
