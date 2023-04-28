@@ -2,12 +2,16 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-04-26T18:05:28+00:00"
+last_modified_at: "2023-04-28T19:31:20+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-04-26
+Had a really wonderful call catching up with Tori for the first time after several years.
+
 ## 2023-04-25
 Had a nice chat with Chuck on the phone.
 
