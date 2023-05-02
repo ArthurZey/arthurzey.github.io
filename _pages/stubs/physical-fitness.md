@@ -6,7 +6,7 @@ tags:
   - fitness
 description: "Why does physical fitness occupy such a prominent place in my life? And how does my concern with physical fitness manifest and relate to other values?"
 date: "2020-04-20"
-last_modified_at: "2022-09-01T19:56:07+00:00"
+last_modified_at: "2023-05-02T02:30:50+00:00"
 ---
 
 ## On This Page
@@ -156,7 +156,6 @@ Optimizations that make cuts more bearable for me:
 #### Powders
 * meal-replacement shakes: [Ample](https://www.amplemeal.com/){:target="&lowbar;blank"}
 * protein shakes: [whey](https://smile.amazon.com/gp/product/B000MANJPG/){:target="&lowbar;blank"} and [dextrose](https://smile.amazon.com/dp/B002JNM8YM/){:target="&lowbar;blank"}
-* [collagen peptides](https://smile.amazon.com/dp/B083LDJNPK/){:target="&lowbar;blank"}
 
 #### Pills
 
@@ -175,7 +174,7 @@ Keep in mind that it's not a recommendation for anybody else.
 |[curcumin](https://smile.amazon.com/dp/B00WT4D57K){:target="&lowbar;blank"}|1500 mg|1500 mg|anti-inflammatory<br />(recommended by Andrew)|
 |[vitamin C](https://smile.amazon.com/dp/B0013P1GD6){:target="&lowbar;blank"}|1000 mg| |immune function|
 |[calcium citrate](https://smile.amazon.com/dp/B00172XUWU){:target="&lowbar;blank"}|150 mg| |bone health<br />separated from magnesium to avoid competition for absorption pathways<br />(recommended by Andrew and Tom)|
-|[vitamin B complex](https://smile.amazon.com/dp/B00HST919C){:target="&lowbar;blank"}|[409.467 mg (various)](https://images-na.ssl-images-amazon.com/images/I/81gc-FtaAxL._AC_SL1500_.jpg){:target="&lowbar;blank"}| |energy|
+|[vitamin B stress complex](https://www.amazon.com/dp/B0797DVMF3){:target="&lowbar;blank"}|[451.514 mg (various)](https://m.media-amazon.com/images/I/81rPCG9f8ML._AC_SL1500_.jpg){:target="&lowbar;blank"}| |energy, stress-management|
 |[magnesium glycinate](https://smile.amazon.com/dp/B0017HYB2I){:target="&lowbar;blank"}| |120 mg|pre-bed calming support<br />separated from calcium to avoid competition for absorption pathways<br />(recommended by Andrew and Tom)|
 |[zinc aspartate and zinc orotate](https://main.poliquinstore.com/uberzinc-px){:target="&lowbar;blank"}| |30 mg|[immune function, thyroid function](https://www.youtube.com/watch?v=hE_V-5GgBo8){:target="&lowbar;blank"}<br />(recommended by Christian Wernstedt)|
 |~~[iodine and potassium iodide](https://smile.amazon.com/dp/B000X843VG/){:target="&lowbar;blank"}~~| |~~12.5 mg~~|~~thyroid function<br />(recommended by Diana)~~<br />_Discontinued because likely culprit in triggering [hyperthyroidism](/blog/2021-11-30/hyperthyroidism/)._|
