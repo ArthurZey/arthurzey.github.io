@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-05-03T00:16:20+00:00"
+last_modified_at: "2023-05-04T01:39:39+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-05-03
+Finally finished some hateful busy work of converting issues in a spreadsheet to JIRA issues.
 
 ## 2023-05-02
 Got to meet Susan Campbell on one of her group coaching sessions.
