@@ -6,7 +6,7 @@ tags:
   - language
 description: "Whether \"curse words\" or hurtful words, whether rooted in sexism, racism, sex-negativity, or anything else, there's a lot to say about how we use language and so-called \"bad words\"."
 date: "2020-04-30"
-last_modified_at: "2020-10-15"
+last_modified_at: "2023-05-05T19:56:14+00:00"
 ---
 
 There are a lot of dimensions here I'd like to explore...and I might have to split some of this off into different posts altogether:
@@ -52,3 +52,4 @@ There are a lot of dimensions here I'd like to explore...and I might have to spl
 * perhaps subject for a different post, but connection to stereotypes generally and the role of "positive" stereotypes
 * my own journey
   * allergy to "retarded" in particular
+  * "crazy"
