@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-05-08T03:57:06+00:00"
+last_modified_at: "2023-05-09T07:27:29+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-05-08
+Had a really pleasant chat with Brit and scheduled a time to have a video chat.
 
 ## 2023-05-07
 Had a really great time rock climbing outdoors for the first time in my life, with Chase, Richard, Robert, David, and Sophie.
