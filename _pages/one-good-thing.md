@@ -2,15 +2,21 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-05-07T03:26:54+00:00"
+last_modified_at: "2023-05-08T03:57:06+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
 
+## 2023-05-07
+Had a really great time rock climbing outdoors for the first time in my life, with Chase, Richard, Robert, David, and Sophie.
+
 ## 2023-05-06
 Had a good day snowboarding at Copper, where I significant improved riding switch.
+
+## 2023-05-05
+Got to meet my neighbor Heidie and her doggo Ellie, who had a playdate with Max, and they got along really well.
 
 ## 2023-05-04
 It was a busy, but really productive work day, which felt really good.
