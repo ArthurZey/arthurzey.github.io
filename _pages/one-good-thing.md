@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-05-09T07:27:29+00:00"
+last_modified_at: "2023-05-10T01:29:57+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-05-09
+Sent out my first customer-facing email at Ookla, got my local developer environment set up, and got added to Ookla's developer team in GitHub.
 
 ## 2023-05-08
 Had a really pleasant chat with Brit and scheduled a time to have a video chat.
