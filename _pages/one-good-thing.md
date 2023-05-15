@@ -1,8 +1,8 @@
-embryos---
+---
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-05-15T19:05:08+00:00"
+last_modified_at: "2023-05-15T20:11:36+00:00"
 tags:
   - happenings
   - draft
