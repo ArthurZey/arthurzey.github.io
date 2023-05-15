@@ -1,8 +1,8 @@
----
+embryos---
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-05-15T03:17:38+00:00"
+last_modified_at: "2023-05-15T19:05:08+00:00"
 tags:
   - happenings
   - draft
@@ -13,7 +13,7 @@ sitemap: false
 Had a great, full day of snowboarding at A-Basin and getting pretty good at riding switch, including some good progress on moguls. It was also a lovely sunny day, despite rain and snow in the forecast.
 
 ## 2023-05-12
-Had a nice time at the FROLIC dinner seeing Kirk for the first time in a while.
+Officially decided to move forward with creating embryos with Brit! Later, had a nice time at the FROLIC dinner seeing Kirk for the first time in a while.
 
 ## 2023-05-10
 Enjoyed playing around with D2 to create a diagram that tries to be a taxonomy of feelings and thought language and how they're causally related.
