@@ -2,12 +2,16 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-05-13T19:07:36+00:00"
+last_modified_at: "2023-05-15T03:17:38+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-05-14
+Had a great, full day of snowboarding at A-Basin and getting pretty good at riding switch, including some good progress on moguls. It was also a lovely sunny day, despite rain and snow in the forecast.
+
 ## 2023-05-12
 Had a nice time at the FROLIC dinner seeing Kirk for the first time in a while.
 
