@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-05-18T01:23:32+00:00"
+last_modified_at: "2023-05-18T14:42:20+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-05-17
+Attended a virtual PLN retreat reunion, and it was nice to see everybody.
 
 ## 2023-05-16
 Max had a really great puppy playdate with Ellie, neighbor Heidie's doggo.
