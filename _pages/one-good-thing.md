@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-05-18T14:42:20+00:00"
+last_modified_at: "2023-05-21T02:14:04+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-05-19
+Max and Faux Murray booped noses without any drama, and there was really great progress on Max's part in terms of getting used to Faux Murray and being calm around him.
 
 ## 2023-05-17
 Attended a virtual PLN retreat reunion, and it was nice to see everybody.
