@@ -7,7 +7,7 @@ tags:
   - media
 description: "Why are we so attracted to the idea of \"good versus evil\"? How is it helpful, and where do we need to be more careful?"
 date: "2021-04-15"
-last_modified_at: "2022-04-02T17:51:57+00:00"
+last_modified_at: "2023-05-22T23:44:45+00:00"
 ---
 
 Oof--there are a bunch of thoughts I have on this that are super scattered and which I really need to straighten out.
@@ -15,7 +15,7 @@ Oof--there are a bunch of thoughts I have on this that are super scattered and w
 * the importance of moral judgment
 * moral versus non-moral judgment
 * judgment versus condemnation
-* when it's appropriate
+* when judgment is appropriate
   * judging things and ideas ("that is good or bad") versus judging people ("he/she/you is/are good or bad") versus judging behavior/results
     * moral agency and mental disorders
     * cognitive utility and practicality of judging people
@@ -48,6 +48,7 @@ Oof--there are a bunch of thoughts I have on this that are super scattered and w
 Some parallels:
 
 |"you are bad"|"you did a bad thing"|
+|shame|guilt|
 |fixed mindset|growth mindset|
 |willful evasion|error of knowledge|
 |anger/hate|love/compassion|
