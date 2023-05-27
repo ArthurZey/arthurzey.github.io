@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-05-22T02:56:29+00:00"
+last_modified_at: "2023-05-27T17:38:49+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-05-24
+The PLN Open Meeting about forgiveness was very interesting and engaging.
 
 ## 2023-05-21
 Made great progress on riding switch at A-Basin on a beautiful, sunny, warm day with great snow.
