@@ -2,15 +2,18 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-05-30T21:04:04+00:00"
+last_modified_at: "2023-05-31T23:44:51+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
 
+## 2023-05-28
+Went on a really nice hike with Chase, his dad (Scott), and Max at Maxwell Falls.
+
 ## 2023-05-27
-Had a nice time at Asher Veksler's baby shower.
+Had a nice time at Asher Veksler's baby shower
 
 ## 2023-05-26
 Got to meet Chase's dad at dinner at Fogo de Chão.
