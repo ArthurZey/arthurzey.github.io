@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-05-31T23:44:51+00:00"
+last_modified_at: "2023-06-01T16:49:27+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-05-29
+Had a great day of shirtless snowboarding at A-Basin.
 
 ## 2023-05-28
 Went on a really nice hike with Chase, his dad (Scott), and Max at Maxwell Falls.
