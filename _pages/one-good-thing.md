@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-06-03T17:41:49+00:00"
+last_modified_at: "2023-06-05T13:32:37+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-06-03
+Had a nice time at 1FROG with Chase.
 
 ## 2023-05-30
 Max and Murrby had their first day of being off-leash together, and they did great!
