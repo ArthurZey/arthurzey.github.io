@@ -7,7 +7,7 @@ tags:
   - media
 description: "Why are we so attracted to the idea of \"good versus evil\"? How is it helpful, and where do we need to be more careful?"
 date: "2021-04-15"
-last_modified_at: "2023-05-22T23:44:45+00:00"
+last_modified_at: "2023-06-06T13:46:49+00:00"
 ---
 
 Oof--there are a bunch of thoughts I have on this that are super scattered and which I really need to straighten out.
@@ -44,6 +44,7 @@ Oof--there are a bunch of thoughts I have on this that are super scattered and w
 * proper role of activism
 * how judgment of other people (and their motives) affects our own experience of events (and even objectively harmful behavior)
 * what "good versus evil" does to our inclination to use retaliatory force: even when it might be justified (from the perspective of individual rights), it may lead us to resort to force instead of a more effective, safe, and mutually beneficial resolution
+* consider points from [_Fact and Value_](https://ari.aynrand.org/issues/culture-and-society/religion-and-morality/fact-and-value/){:target="&lowbar;blank"} and [_Truth and Toleration_](https://archive.atlassociety.org/sites/default/files/The_Contested_Legacy_of_Ayn_Rand.pdf){:target="&lowbar;blank"}
 
 Some parallels:
 
