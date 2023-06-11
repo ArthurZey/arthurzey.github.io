@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-06-05T13:32:37+00:00"
+last_modified_at: "2023-06-11T05:40:08+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-06-06
+Had a fun chat with Andrew and Volpe about some UI design for the RP Hypertrophy app.
 
 ## 2023-06-03
 Had a nice time at 1FROG with Chase.
