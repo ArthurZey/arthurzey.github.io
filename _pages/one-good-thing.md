@@ -2,12 +2,14 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-06-11T05:40:08+00:00"
+last_modified_at: "2023-06-11T06:58:15+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+## 2023-06-07
+Got Murrby chipped, symbolizing that he's officially "my" cat.
 
 ## 2023-06-06
 Had a fun chat with Andrew and Volpe about some UI design for the RP Hypertrophy app.
