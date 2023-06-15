@@ -5,7 +5,7 @@ tags:
   - philosophy
 description: "Volition is self-evident and axiomatic. The universe works by deterministic laws. And yet choice is not an illusion. How is this possible?"
 date: "2020-04-17"
-last_modified_at: "2023-06-15T14:54:37+00:00"
+last_modified_at: "2023-06-15T16:46:40+00:00"
 ---
 
 This is a favorite topic of many philosophy students. It's fun to think about. But the most important lesson I've learned about this over the years is that _it doesn't matter_. While I think there are valuable things to learn from engaging in it, this is mostly just a fun intellectual exercise.
@@ -36,6 +36,7 @@ Here are a few things I want to address (and this is by no means exhaustive):
   * "[policeman at the elbow](https://en.wikipedia.org/wiki/Irresistible_impulse){:target="&lowbar;blank"}" thought experiment
   * connection to mindset: we praise effort and the process, not fixate on the result; it doesn't matter as much what the result is / whether it was predetermined, but the responsibility/praise/agency is in the doing of the work that leads to the result
   * The response to "You should do _X_." being countered with "I just have to do whatever is determined." is that being told "You should do _X_." _is_ part of the causal factors influencing what the person has to do.
+  * From a certain angle, it's quite irrelevant whether volition is deterministic. Holding people accountable for actions that are a product of volition (whatever that exactly is in terms of brain structures and however it works) has tremendous causal power in determining their later actions. The truth of that fact is part of what causes _us_ to hold others accountable. Someone does not need to have literally been able to do otherwise for us to hold them accountable; it is sufficient that the action was (dominantly) a product of their choice (ie, deliberative process). If an action wasn't the product of such a process, it wouldn't make sense to hold them accountable, since it would be useless. Autonomic and other non-volitional processes aren't sensitive to being held morally accountable. This is the essence of the connection between volition and moral accountability, not some unprovable claim or supposition that a person could have literally done/chosen otherwise.
 * how the search for explanatory _reasons_ for people's choices and behaviors is implicitly premised on determinism
 * the connection to epistemology, especially induction, concept-formation, and principles
   * why you can't use induction and deduction, which presuppose determinism, to establish non-determinism / randomness (even if you _can_ prove it's impossible to _know_ something)
