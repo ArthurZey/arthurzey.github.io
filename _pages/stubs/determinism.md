@@ -5,7 +5,7 @@ tags:
   - philosophy
 description: "Volition is self-evident and axiomatic. The universe works by deterministic laws. And yet choice is not an illusion. How is this possible?"
 date: "2020-04-17"
-last_modified_at: "2022-06-24T12:50:19+00:00"
+last_modified_at: "2023-06-15T14:54:37+00:00"
 ---
 
 This is a favorite topic of many philosophy students. It's fun to think about. But the most important lesson I've learned about this over the years is that _it doesn't matter_. While I think there are valuable things to learn from engaging in it, this is mostly just a fun intellectual exercise.
@@ -38,12 +38,11 @@ Here are a few things I want to address (and this is by no means exhaustive):
   * The response to "You should do _X_." being countered with "I just have to do whatever is determined." is that being told "You should do _X_." _is_ part of the causal factors influencing what the person has to do.
 * how the search for explanatory _reasons_ for people's choices and behaviors is implicitly premised on determinism
 * the connection to epistemology, especially induction, concept-formation, and principles
-  * why you can't use induction and deduction, which presuppose determinism, to establish non-determinism / randomness
+  * why you can't use induction and deduction, which presuppose determinism, to establish non-determinism / randomness (even if you _can_ prove it's impossible to _know_ something)
   * connection to measurement being inherently relational and relationships/dynamics being a valid lens for causality
 * how causality _must imply_ determinism
 * the difference between "random" (metaphysical) and "effectively random" (epistemic)
 * how "but quantum mechanics!" is an attempt to rationalize volition while still voiding it of the meaning non-determinists want it to have
-  * perhaps delegated to another post, but why you can't use induction or deduction to establish a lack of pattern/determinism (even if you _can_ prove it's impossible to _know_ something)
 * consciousness as an _action_ performed by the brain (approximately synonymous with _awareness_), not a _thing_; brain states as reflective of experiential/mind states; connection to "chemical imbalances" versus unpleasant emotions
 * what brain states (eg, "limbic system hijack", "sympathetic activation", "dorsal vagal collapse", intoxication) result in compromised volition and why it makes sense to say things like "he couldn't do _X_", when doing _X_ is typically the result of or is a volitional action
   * how psychotropic drugs can affect volition and behavior
