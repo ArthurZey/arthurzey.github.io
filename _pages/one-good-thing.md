@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-06-11T06:58:15+00:00"
+last_modified_at: "2023-06-15T14:52:31+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+## 2023-06-08
+Had a great day with Richard, digging a ditch to address rainwater runoff, collecting trash that Mountain View Waste distributed across the property, and planting some herbs and vegetables!
+
 ## 2023-06-07
 Got Murrby chipped, symbolizing that he's officially "my" cat.
 
