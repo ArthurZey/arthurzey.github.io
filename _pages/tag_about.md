@@ -47,7 +47,7 @@ hash_redirects:
     from: "#autism-test"
     to: "/personality-and-behavioral-profiles/#autism-test"
 date: "2020-04-15"
-last_modified_at: "2022-06-20T15:11:29+00:00"
+last_modified_at: "2023-06-16T15:49:05+00:00"
 ---
 
 {:refdef: style="text-align: center;"}
@@ -226,7 +226,6 @@ _These are ideas and approaches to various areas of life that I have derived gre
 * [Renaissance Periodization](https://renaissanceperiodization.com/){:target="&lowbar;blank"}
 * [Carolyn Hart Manual Therapy](https://voxsynaesthetica.wordpress.com/massage-therapist/){:target="&lowbar;blank"} (San Francisco Bay Area, CA)
 * [Jeffrey Lem Optometry](https://www.yelp.com/biz/jeffrey-lem-od-san-francisco-3){:target="&lowbar;blank"} (San Francisco Bay Area, CA)
-* [Scott McKinzie Family Dentistry](http://www.scottdentist.com/){:target="&lowbar;blank"} (San Francisco Bay Area, CA)
 * [Washington Square Park Dental](https://wsparkdental.com/){:target="&lowbar;blank"} (San Francisco Bay Area, CA)
 
 ### Psychological and Emotional Well-Being
