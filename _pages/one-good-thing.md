@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-06-18T15:21:01+00:00"
+last_modified_at: "2023-06-19T16:00:13+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+## 2023-06-11
+Installed entryway hooks (for Max's leashes etc) and wall-mounted shoe rack.
+
 ## 2023-06-10
 Chase and I had a nice lunch with Ben and Indi, followed by 3FROG.
 
