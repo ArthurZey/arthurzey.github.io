@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-06-24T18:04:21+00:00"
+last_modified_at: "2023-06-26T01:53:25+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-06-22
+Had a great first day of LevelUp (TOS-Con) 2023 with Chase!
 
 ## 2023-06-21
 Got to go the pool with Honor!
