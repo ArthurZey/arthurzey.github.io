@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-06-26T18:29:53+00:00"
+last_modified_at: "2023-06-29T22:48:44+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-06-24
+Got to sit with Craig, Sarah, Jen, and Guy at the LevelUp closing banquet, and we had great conversation!
 
 ## 2023-06-23
 Got to have dinner with Laura (and Chad, Christopher, Joe, Kayla, and, of course, Chase)!
