@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-07-04T13:23:44+00:00"
+last_modified_at: "2023-07-07T17:20:57+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-07-03
+Helped Martin finish building the greenhouse!
 
 ## 2023-07-02
 Had an amazing time at Fan Expo with Chase (as my early birthday present), where I got to meet and get photographs with and autographs from Gates McFadden, Brent Spiner, Michael Dorn, Jonathan Frakes, and Christopher Lloyd.
