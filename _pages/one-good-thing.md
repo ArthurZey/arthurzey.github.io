@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-07-07T17:20:57+00:00"
+last_modified_at: "2023-07-09T00:39:25+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-07-04
+Climbed Mt Yale (14,200 feet) with Chase and Max!
 
 ## 2023-07-03
 Helped Martin finish building the greenhouse!
