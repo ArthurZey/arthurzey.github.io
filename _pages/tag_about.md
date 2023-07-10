@@ -47,7 +47,7 @@ hash_redirects:
     from: "#autism-test"
     to: "/personality-and-behavioral-profiles/#autism-test"
 date: "2020-04-15"
-last_modified_at: "2023-06-16T15:49:05+00:00"
+last_modified_at: "2023-07-10T18:29:03+00:00"
 ---
 
 {:refdef: style="text-align: center;"}
@@ -106,7 +106,7 @@ Oh, and I'm the product manager for [Speedtest Powered](https://www.ookla.com/sp
 * tech geekery
 * [philosophy (especially ethics and epistemology, especially Objectivism)](#philosophy-objectivism)
 * [parenting theory](#parenting-and-education) (cannot wait to put this into practice)
-* snowboarding ([IKON Base Pass](https://www.ikonpass.com/en/shop-passes/ikon-base-pass){:target="&lowbar;blank"} and [Epic Local Pass](https://www.epicpass.com/passes/epic-local-pass.aspx){:target="&lowbar;blank"} for 2021-2022)
+* snowboarding ([IKON Base Pass](https://www.ikonpass.com/en/shop-passes/ikon-base-pass){:target="&lowbar;blank"} and [Epic Local Pass](https://www.epicpass.com/passes/epic-local-pass.aspx){:target="&lowbar;blank"} for 2023-2024)
 * Krav Maga (will pick this up after COVID-19 restrictions lift at [Colorado Krav Maga](https://www.coloradokravmaga.com/){:target="&lowbar;blank"}, but previously at [Krav Maga San Francisco](https://www.kravmaga-sf.com){:target="&lowbar;blank"})
 * _Star Trek_
 * piano (current obsession: [BWV 999 (JS Bach Prelude in c minor)](https://musescore.com/nicolas/scores/4526){:target="&lowbar;blank"})
