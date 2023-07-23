@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2023-07-21T16:45:33+00:00"
+last_modified_at: "2023-07-23T01:37:35+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -197,6 +197,7 @@ _started in 2019; in progress_
 * Chapters 13 and 14: virtue ethics, muddling use of "selfish", especially with empathy
 * Sometimes empathy itself lessens others' pain and provides comfort
 * Very end of chapter 14: false dichotomies about exploiting versus being exploited
+* Behave 16: straw man of "complete free will"; more to the point, doesn't seem to address what the phenomenon we all experience actually is
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
 
