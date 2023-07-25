@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2023-07-23T15:52:52+00:00"
+last_modified_at: "2023-07-25T15:27:16+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -201,6 +201,7 @@ _started in 2019; in progress_
 * Tries to use the analogy that because we got rid of punishment of epilepsy as reflecting some kind of satanic possession, we could do that with all forms of punishment for all behaviors, which is exactly what erases the distinction between a volitional and non-volitional act. He thinks that the relevant thing around punishment is whether it's caused. And even if I believe that punishment is a bad idea in all or most cases, it's not because all actions are caused. It's because I don't think it's the most effective way to deal with volitional acts.
 * It seems one of his conclusions is that punishment can't be deserved, but that's because he's defined desert out of existence. Again, I might not believe that punishment is a good idea for various reasons, but it has nothing to do with whether someone's behavior was determined (inside or outside the person's control). He's also equating punishment/desert with a sort of mystical retributivism.
 * But still, he touches an important point about how we go about moralizing and dealing with issues of good versus evil. The analogy to the broken car that's evil is a little absurd, since it has no processes that could be characterized as being volitional, whatever that even is "under the hood".
+* Chapter 17: claims that it is not inevitable that humans will behave any particular way, contradicting his determinism view in the previous chapter. He thinks individuals can "make a difference".
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
 
