@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-07-24T16:42:10+00:00"
+last_modified_at: "2023-07-28T21:43:26+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-07-24
+Replaced broken deck screen doors with Ann.
 
 ## 2023-07-22
 Picked up Ann from the airport for her visit with me!
