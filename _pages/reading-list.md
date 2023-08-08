@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2023-07-25T15:27:16+00:00"
+last_modified_at: "2023-08-08T04:09:38+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -192,16 +192,7 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
 
 _started in 2019; in progress_
 
-## Robert Sapolsky: _Behave_
 
-* Chapters 13 and 14: virtue ethics, muddling use of "selfish", especially with empathy
-* Sometimes empathy itself lessens others' pain and provides comfort
-* Very end of chapter 14: false dichotomies about exploiting versus being exploited
-* Behave 16: straw man of "complete free will"; more to the point, doesn't seem to address what the phenomenon we all experience actually is
-* Tries to use the analogy that because we got rid of punishment of epilepsy as reflecting some kind of satanic possession, we could do that with all forms of punishment for all behaviors, which is exactly what erases the distinction between a volitional and non-volitional act. He thinks that the relevant thing around punishment is whether it's caused. And even if I believe that punishment is a bad idea in all or most cases, it's not because all actions are caused. It's because I don't think it's the most effective way to deal with volitional acts.
-* It seems one of his conclusions is that punishment can't be deserved, but that's because he's defined desert out of existence. Again, I might not believe that punishment is a good idea for various reasons, but it has nothing to do with whether someone's behavior was determined (inside or outside the person's control). He's also equating punishment/desert with a sort of mystical retributivism.
-* But still, he touches an important point about how we go about moralizing and dealing with issues of good versus evil. The analogy to the broken car that's evil is a little absurd, since it has no processes that could be characterized as being volitional, whatever that even is "under the hood".
-* Chapter 17: claims that it is not inevitable that humans will behave any particular way, contradicting his determinism view in the previous chapter. He thinks individuals can "make a difference".
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
 
@@ -212,6 +203,28 @@ _started in 2019; in progress_
 {% endcomment %}
 
 # 2023
+
+## Gary John Bishop: _Do the Work_
+[Audible](https://www.audible.com/pd/0062952250)  | [Kindle](https://www.amazon.com/dp/B07PFWTY3T/)
+{% comment %}
+* Chapter 3 (Project 2): Even though not clear about the definition, makes good points about "forgiveness" and what it does _not_ demand.
+{% endcomment %}
+
+## Deborah Tannen: _That's Not What I Meant_
+[Audible](https://www.audible.com/pd/B0038ETCX6){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B007OWRB6I/){:target="&lowbar;blank"}
+
+## Robert Sapolsky: _Behave_
+[Audible](https://www.audible.com/pd/B06XW3MVNF){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B01IAUGC5S/)
+{% comment %}
+* Chapters 13 and 14: virtue ethics, muddling use of "selfish", especially with empathy
+* Sometimes empathy itself lessens others' pain and provides comfort
+* Very end of chapter 14: false dichotomies about exploiting versus being exploited
+* Behave 16: straw man of "complete free will"; more to the point, doesn't seem to address what the phenomenon we all experience actually is
+* Tries to use the analogy that because we got rid of punishment of epilepsy as reflecting some kind of satanic possession, we could do that with all forms of punishment for all behaviors, which is exactly what erases the distinction between a volitional and non-volitional act. He thinks that the relevant thing around punishment is whether it's caused. And even if I believe that punishment is a bad idea in all or most cases, it's not because all actions are caused. It's because I don't think it's the most effective way to deal with volitional acts.
+* It seems one of his conclusions is that punishment can't be deserved, but that's because he's defined desert out of existence. Again, I might not believe that punishment is a good idea for various reasons, but it has nothing to do with whether someone's behavior was determined (inside or outside the person's control). He's also equating punishment/desert with a sort of mystical retributivism.
+* But still, he touches an important point about how we go about moralizing and dealing with issues of good versus evil. The analogy to the broken car that's evil is a little absurd, since it has no processes that could be characterized as being volitional, whatever that even is "under the hood".
+* Chapter 17: claims that it is not inevitable that humans will behave any particular way, contradicting his determinism view in the previous chapter. He thinks individuals can "make a difference".
+{% endcomment %}
 
 ## Gary John Bishop: _Unfu*k Yourself_
 [Audible](https://www.audible.com/pd/B0731R4RFX){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B071F7C5NQ/){:target="&lowbar;blank"}
