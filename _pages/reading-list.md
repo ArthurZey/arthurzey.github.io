@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2023-08-08T04:09:38+00:00"
+last_modified_at: "2023-08-09T14:32:21+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -188,11 +188,10 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
 {% comment %}
 ########## PULL ITEMS OUT OF COMMENT WHEN COMPLETED ##########
 
-
+## Susan Campbell: _From Triggered to Tranquil_
+[Audible](https://www.audible.com/pd/B09RYGRZ8T){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B09B81YP3F/){:target="&lowbar;blank"}
 
 _started in 2019; in progress_
-
-
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
 
