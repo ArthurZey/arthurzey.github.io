@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2023-08-09T14:32:21+00:00"
+last_modified_at: "2023-08-12T17:01:36+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -206,6 +206,8 @@ _started in 2019; in progress_
 ## Gary John Bishop: _Do the Work_
 [Audible](https://www.audible.com/pd/0062952250)  | [Kindle](https://www.amazon.com/dp/B07PFWTY3T/)
 {% comment %}
+* Acceptance: of what is versus what ought to be?
+* Is my apparent introversion actually a manifestation of avoiding people because of my people pleasing tendencies?
 * Chapter 3 (Project 2): Even though not clear about the definition, makes good points about "forgiveness" and what it does _not_ demand.
 {% endcomment %}
 
