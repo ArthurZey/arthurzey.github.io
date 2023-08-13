@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-08-08T14:36:22+00:00"
+last_modified_at: "2023-08-13T14:35:29+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-08-09
+Seems like we "finally" got our RO water treatment system issues sorted out.
 
 ## 2023-08-07
 Got to provide feedback about Fi collar to their product managers in a Zoom interview.
