@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-08-13T14:35:29+00:00"
+last_modified_at: "2023-08-14T14:26:51+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-08-10
+Got a haircut, took a walk with Hadley and Max around the park, and got to meet baby Asher for the first time!
 
 ## 2023-08-09
 Seems like we "finally" got our RO water treatment system issues sorted out.
