@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2023-08-12T17:01:36+00:00"
+last_modified_at: "2023-08-17T00:05:52+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -190,6 +190,9 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
 
 ## Susan Campbell: _From Triggered to Tranquil_
 [Audible](https://www.audible.com/pd/B09RYGRZ8T){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B09B81YP3F/){:target="&lowbar;blank"}
+* How do I tell whether something is a trigger or just something I find intolerable?
+* For instance, lying, hypocrisy, or injustice--perhaps my heightened sensitivity to these is a result of some childhood experiences (in which case, is there a "core wound" involved?), but these are also things that we just rightly need to hold others accountable for and deal with in an effective manner. When is "trigger work" appropriate, and when is something else appropriate? When I'm thrown into dysregulation by having my time wasted by or dealing with incompetent customer "service", is that kind of trigger a result of a core wound (and if so, how can I figure out what that is?), or is it something else?
+* What is the connection to Attachment Theory? Is there more to say about this topic in light of different attachment styles, or is it just a matter of different attachment styles tending toward different triggers (because of the different correlative core wounds)?
 
 _started in 2019; in progress_
 
