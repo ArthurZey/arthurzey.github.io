@@ -5,7 +5,7 @@ tags:
   - health
 description: "I've been in a terrible funk for most of 2023. Perhaps it's Long COVID?"
 date: "2023-08-17"
-last_modified_at: "2023-08-18T14:15:50+00:00"
+last_modified_at: "2023-08-19T00:05:18+00:00"
 ---
 
 _Warning: This post includes content related to sexual health and habits; make your own decision about whether you wish to continue reading._
@@ -36,7 +36,7 @@ But this is more as a baseline, chronic, _systemic_ state. Surprisingly, perhaps
 
 On the psychological motivation side, I have had basically zero motivation to do anything, and I have no ambition to accomplish anything. Everything, and I mean almost _everything_, has been just white-knuckling it. I don't care about anything; I don't want to do anything...except maybe just stay in bed all day. Were it not for my obsession with [consistency](/discipline/), [rules](/rules/), spreadsheets, and checklists, I think I would have really been utterly incapacitated, unable to accomplish anything. I'm also relying a lot on making external commitments and relying on deadlines (which of course come with procrastination up until the last minute), because I have nothing internal to draw on. (In a weird way, it's like in order to pursue my first-handed values, I need to rely on second-handed mechanisms--but hey, that's better than abandoning my values altogether, I think.) And there's a part of me that realizes (or at least fervently hopes) that this is all temporary, and I so desperately don't want to disappoint future Arthur. I already feel time and life slipping away, and I don't want in a few years to be upset that I wasted all this time on doing nothing and not making any progress on any of the values and goals I (claim to) have. (And, ironically, while my spreadsheets and checklists have motivated me to actually do the things I need to do, they have also rendered all of those things hateful duties, further sapping me of any joy in anything I do.)
 
-Of course, when I'm just forcing myself to do things I don't want to do, it's also exceedingly difficult to focus on anything or get into a state of flow. And activation energy for everything seems like it's at least ten times what it had been before. Sucking it up _sucks_.
+Of course, when I'm just forcing myself to do things I don't want to do, it's also exceedingly difficult to focus on anything or get into a state of flow. And activation energy for everything seems like it's at least ten times what it had been before. I've been called [disciplined](/discipline/) before, but I've never thought of myself as that, mostly because I just create mechanisms to want to do things, where the thing I "should" do becomes irresistible. In some ways, my checklists and streaks are continuing to do that, but the amount of will power I have to muster up to do _anything_ is just so fuckin' taxing. Even when I have mechanisms to get me to do things, I have to exert so much effort to actually do the things. Sucking it up _sucks_.
 
 I find myself wondering whether the [chemical dimension of this](/medical-causation/) is a problem with my production or use of dopamine and/or serotonin.
 
