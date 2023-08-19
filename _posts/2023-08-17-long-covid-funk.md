@@ -5,7 +5,7 @@ tags:
   - health
 description: "I've been in a terrible funk for most of 2023. Perhaps it's Long COVID?"
 date: "2023-08-17"
-last_modified_at: "2023-08-19T00:05:18+00:00"
+last_modified_at: "2023-08-19T00:27:51+00:00"
 ---
 
 _Warning: This post includes content related to sexual health and habits; make your own decision about whether you wish to continue reading._
@@ -25,7 +25,7 @@ People would ask me how I'm doing, and I would try to answer truthfully, without
 
 I even thought to ask ChatGPT to speculate on what could explain my symptoms, and the number one explanation, several times, was [Chronic Fatigue Syndrome (CFS)](https://en.wikipedia.org/wiki/Chronic_fatigue_syndrome){:target="&lowbar;blank"}, sometimes also called myalgic encephalomyelitis (ME) or ME/CFS. I didn't find that surprising, after a friend of mine posted on Facebook about having been dealing with that for a little while, and one of my favorite online content creators, [Dianna Cowern](https://en.wikipedia.org/wiki/Dianna_Cowern){:target="&lowbar;blank"} (better known online as [Physics Girl](https://physicsgirl.org/){:target="&lowbar;blank"}), came down with an extremely severe case of ME/CFS after a bout with COVID. [To this day, she's still heartbreakingly in a largely incapacitated state.](https://www.facebook.com/thephysicsgirl/posts/pfbid0yDTGxw6UJQWTWtvopB2zyVEEHVnZMrHTWPrnYFWEn1zuSdA9RfoAqqub6hCkbMCCl){:target="&lowbar;blank"} And so that led me to wonder whether I had a relatively milder case of the same thing, given how well the timing lines up with my December 2022 COVID infection. But even as a possible "diagnosis", it wasn't very satisfying, since my cursory research on Dr Google (and even asking further questions of Dr ChatGPT) didn't reveal anything especially helpful as far as treatments...probably because, as is so often the case, "syndrome" means "We don't know what the fuck is actually going on, but here's a constellation of symptoms that usually go together, so we'll give it a respectable-sounding name.".
 
-So I'm writing this in past tense, but this has been going on consistently and continuously since it began. At the time of the first draft of this post, that's roughly 7.5 months.
+So I'm writing this in past tense, but this has been going on consistently and continuously since it began. At the time of the first draft of this post, that's roughly 7.5 months. It's hard for me to even believe that it's been the better part of a year that I've had what I guess I should be calling "chronic anhedonia", but that disbelief is purely intellectual. Intellectually, I remember what it's like to be happy, but on an emotional level, I don't remember it beyond a vague echo that occasionally fills me with grief, sorrow, and longing for being back to my normal self.
 
 What follows is a bit more detail about different dimensions of my experience over the last handful of months.
 
