@@ -2,12 +2,14 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-08-15T14:21:02+00:00"
+last_modified_at: "2023-08-20T13:26:15+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+## 2023-08-14
+I enjoyed nerding out with Google Sheets for tracking Daric projects.
 
 ## 2023-08-13
 Chase and I had a really nice lunch with Rachael and Eric Daniels.
