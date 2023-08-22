@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2023-07-01T15:36:07+00:00"
+last_modified_at: "2023-08-22T16:35:40+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -34,12 +34,14 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "the reason why", "the reason is because"
 * "coincidence" versus "mere coincidence"
 * "altitude" versus "elevation"
+* "hurricane" versus "typhoon"
 * hyphenates that should be their own words
   * "usecase"
   * "enduser"
   * "painpoint"
   * "roadtrip"
   * "longshot"
+  * "willpower"
 * contranyms (eg, "cleave", "sanction", "practically")
 * negation prefixes that don't negate
   * inflammable
@@ -190,7 +192,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "meow"
     * "right meow"
     * "over meow"
-  * "tinylittlebabygoi"
+  * "cutelittletinybabygoi"
 * "pet owner" / "pet parent" &rarr; "pet guardian" / "pet custodian"
 * "crazy" &rarr; "absurd", "ludicrous", "ridiculous"
 * "hysterical" &rarr; "hilarious" (for funny things); "frantic", "frenetic", "uncalibrated" etc (for uncontrolled extreme emotion)
@@ -236,6 +238,7 @@ Fun games:
   * jojoba oil
   * snyack
   * chamomile
+  * volcanoes
 
 Other topics:
 
