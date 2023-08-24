@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2023-08-22T16:35:40+00:00"
+last_modified_at: "2023-08-24T18:44:08+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -187,6 +187,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "musical hedonist"
   * "ussie" (like "selfie", but of multiple subjects)
   * "disconcur"
+  * "pathetisad"
   * "embiggen"
   * "foot coffins"
   * "meow"
