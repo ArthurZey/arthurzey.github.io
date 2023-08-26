@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2023-08-25T16:59:09+00:00"
+last_modified_at: "2023-08-26T16:28:44+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -187,6 +187,10 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
 
 {% comment %}
 ########## PULL ITEMS OUT OF COMMENT WHEN COMPLETED ##########
+
+
+## Gary John Bishop: _Stop Doing That Sh*t_
+[Audible](https://www.audible.com/pd/0062872389){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B07GNGY9QR/){:target="&lowbar;blank"}
 
 _started in 2019; in progress_
 
