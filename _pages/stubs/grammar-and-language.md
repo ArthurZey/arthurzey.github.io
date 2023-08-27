@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2023-08-24T18:44:08+00:00"
+last_modified_at: "2023-08-27T23:12:18+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -120,7 +120,11 @@ Here are a few of my fixations and particularities (in no particular order) that
 * pronunciation of plural words, such as
   * "basis" versus "base"
   * "bias" ("bias-ehz" versus "bias-eez")
-* Picard-isms: schedule, issue, appreciate
+* Picard-isms
+  * schedule
+  * issue
+  * appreciate
+  * process
 * other words I like to pronounce in my own way
   * controversial
   * mature
