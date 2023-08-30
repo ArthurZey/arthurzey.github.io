@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2023-08-26T16:28:44+00:00"
+last_modified_at: "2023-08-30T03:42:27+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -191,6 +191,8 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
 
 ## Gary John Bishop: _Stop Doing That Sh*t_
 [Audible](https://www.audible.com/pd/0062872389){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B07GNGY9QR/){:target="&lowbar;blank"}
+* Chapter 6: uses the fact of some people being non-objective about their interpretation of facts as an argument for there being no objective truth whatsoever.
+* In general, lots of good straight-talk, but also a lot that smacks of "denial is confirmation", which doesn't account for how to navigate things that don't fit his "problem paradigm" (eg, negative self-talk).
 
 _started in 2019; in progress_
 
