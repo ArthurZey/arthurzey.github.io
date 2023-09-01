@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-08-31T11:29:26+00:00"
+last_modified_at: "2023-09-01T12:48:18+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+## 2023-08-30
+Started my waking-up-at-04:00-to-get-shit-done experiment, which felt pretty good over the course of the day, despite slightly insufficient sleep.
+
 ## 2023-08-26
 Had a nice time with Chase at 1FROG at Howard's and Susan's.
 
