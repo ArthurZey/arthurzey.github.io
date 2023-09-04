@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2023-08-27T23:12:18+00:00"
+last_modified_at: "2023-09-04T12:33:14+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -35,13 +35,16 @@ Here are a few of my fixations and particularities (in no particular order) that
 * "coincidence" versus "mere coincidence"
 * "altitude" versus "elevation"
 * "hurricane" versus "typhoon"
-* hyphenates that should be their own words
-  * "usecase"
-  * "enduser"
-  * "painpoint"
-  * "roadtrip"
-  * "longshot"
-  * "willpower"
+* hyphenates that should be or are their own words
+  * usecase
+  * enduser
+  * painpoint
+  * roadtrip
+  * longshot
+  * willpower
+  * dogfood (in a tech context)
+  * pushpin
+  * filename
 * contranyms (eg, "cleave", "sanction", "practically")
 * negation prefixes that don't negate
   * inflammable
