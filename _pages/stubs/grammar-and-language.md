@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2023-09-05T14:51:06+00:00"
+last_modified_at: "2023-09-06T12:47:00+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -31,6 +31,8 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "inline" versus "in-line"
   * "workout" versus "work out"
   * "wakeup" versus "wake up"
+  * "followup" versus "follow up"
+  * "handwriting" versus "hand-writing"
 * "the reason why", "the reason is because"
 * "coincidence" versus "mere coincidence"
 * "altitude" versus "elevation"
