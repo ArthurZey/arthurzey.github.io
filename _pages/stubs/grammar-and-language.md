@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2023-09-08T15:04:59+00:00"
+last_modified_at: "2023-09-09T14:25:18+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -49,6 +49,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * filename
   * labcoat
   * chairlift / skilift
+  * hardcode
 * contranyms (eg, "cleave", "sanction", "practically")
 * negation prefixes that don't negate
   * inflammable
