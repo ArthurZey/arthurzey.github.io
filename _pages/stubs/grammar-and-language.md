@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2023-09-15T13:42:14+00:00"
+last_modified_at: "2023-09-17T16:53:25+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -53,6 +53,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * timezone
   * keycard
   * litterbox
+  * hairstyle
 * contranyms (eg, "cleave", "sanction", "practically")
 * negation prefixes that don't negate
   * inflammable
