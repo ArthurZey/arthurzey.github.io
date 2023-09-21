@@ -4,9 +4,15 @@ layout: page
 permalink: /calendar/
 tags:
   - index
-last_modified_at: "2023-08-05T03:41:47+00:00"
+last_modified_at: "2023-09-21T12:12:22+00:00"
 ---
 
+## Appointment Scheduler
+<!-- Google Calendar Appointment Scheduling begin -->
+<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0qwq5uimqB4eqHk_uVt6CAtlw1RRHW6hK21aNMPfSqdGy66H15zKOaQ0YO_YIWgBqhJSXbv_VW?gv=true" style="border: 0; background-color: #ffffff" width="100%" height="1200" frameborder="0"></iframe>
+<!-- end Google Calendar Appointment Scheduling -->
+
+## Full Calendar
 _This view shows both personal and work events._
 
 [Schedule an appointment with me using Google Calendar.](https://calendar.google.com/calendar/render?action=TEMPLATE&add=arthurlz%40gmail.com){:target="&lowbar;blank"}
