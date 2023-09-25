@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-09-20T12:31:27+00:00"
+last_modified_at: "2023-09-25T13:12:56+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+## 2023-09-17
+Had a nice time with Chase and his parents at the park, and then Chase and I ran a bunch of errands.
+
 ## 2023-09-16
 Had a nice time seeing Chase's parents (including meeting his mom for the first time) for a walk, then dinner, then the _Carbonaro: Lies on Stage_ magic show.
 
