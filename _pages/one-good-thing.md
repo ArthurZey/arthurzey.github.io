@@ -2,12 +2,16 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-09-30T14:58:46+00:00"
+last_modified_at: "2023-10-01T15:30:11+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-09-22
+Had a nice time catching up with Alden over breakfast while he was in town, then had a relaxing evening camping with Chase at Goblins Forest in Rocky Mountain National Park.
+
 ## 2023-09-19
 Had a nice catch-up call with Ann.
 
