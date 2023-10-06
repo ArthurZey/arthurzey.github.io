@@ -2,15 +2,21 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-10-03T11:45:06+00:00"
+last_modified_at: "2023-10-06T10:33:17+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
 
+## 2023-10-01
+The Cades and I hosted 1FROG, and it was really nice to have everybody there.
+
+## 2023-09-26
+Had an enjoyable day at the Denver Museum of Nature & Science for homeschooling day with the Cades.
+
 ## 2023-09-23
-Had an enjoyable hike up to Chasm Lake with Chase.
+Had an enjoyable hike up to Chasm Lake with Chase and then got to see a bunch of FRO people at Vicki's going-away dinner.
 
 ## 2023-09-22
 Had a nice time catching up with Alden over breakfast while he was in town, then had a relaxing evening camping with Chase at Goblins Forest in Rocky Mountain National Park.
