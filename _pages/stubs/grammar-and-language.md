@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2023-10-02T12:43:13+00:00"
+last_modified_at: "2023-10-07T17:29:10+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -60,7 +60,18 @@ Here are a few of my fixations and particularities (in no particular order) that
   * datacenter
   * goodnight
   * lockerroom
-* contranyms (eg, "cleave", "sanction", "practically")
+* contranyms
+  * cleave: to adhere, or to separate
+  * sanction: to approve, or to boycott/penalize
+  * practically
+  * apology: a statement of contrition for an action or a defense of one
+  * bolt: to secure, or to flee
+  * bound: heading to a destination, or restrained from movement
+  * dust: to add fine particles, or to remove them
+  * fast quick, or stuck or made stable
+  * left: remained, or departed
+  * peer: a person of the nobility, or an equal
+  * weather: to withstand, or to wear away
 * negation prefixes that don't negate
   * inflammable
   * delimit
