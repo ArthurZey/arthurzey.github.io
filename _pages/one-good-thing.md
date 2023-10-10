@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-10-09T13:20:24+00:00"
+last_modified_at: "2023-10-10T11:57:17+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-10-07
+Had a fairly relaxing day with Chase at home.
 
 ## 2023-10-06
 Got to join Chase at Bergen Valley Elementary School for their Field Day and had a really great time helping out and being around hordes of kids.
