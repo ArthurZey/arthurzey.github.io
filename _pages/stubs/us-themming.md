@@ -5,7 +5,7 @@ tags:
   - philosophy
 description: "The problems are real; the frustration is legitimate; the prevalent approaches are disastrous."
 date: "2023-10-13"
-last_modified_at: "2023-10-13"
+last_modified_at: "2023-10-14T15:24:36+00:00"
 ---
 
 ## Cultural Problems
@@ -14,8 +14,10 @@ last_modified_at: "2023-10-13"
 ## Us-Themming
 [TO DO]
 
-## Oppression and Victimization
-[TO DO]
+## Oppression, Bullying, and Victimization
+* the emotional experience of being victimized versus technically being a victim of some wrongdoing
+* how one's attitudes about an experience affect one's emotional experience of it
+* immunity from bullying and victimization as a product of mindset
 
 ## Power Dynamics, Stereotyping, and Nuanced Conversations
 
