@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-10-15T16:14:06+00:00"
+last_modified_at: "2023-10-17T12:23:45+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-10-14
+Had a fun time with Chase at 3FROG and then going to Scheels for the first time.
 
 ## 2023-10-12
 Had a nice call with Jessica Bartlett and then later a nice call with Linda from PLN.
