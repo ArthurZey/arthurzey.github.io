@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2023-08-30T03:42:27+00:00"
+last_modified_at: "2023-10-19T12:19:58+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -188,11 +188,24 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
 {% comment %}
 ########## PULL ITEMS OUT OF COMMENT WHEN COMPLETED ##########
 
+## Robert Sapolsky: _Determined: A Science of Life Without Free Will_
+[Audible](https://www.audible.com/pd/B0BVNNWFR5){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B0BSKQ5ZDM){:target="&lowbar;blank"}
+* Chapter 1
+  * fallacy of the stolen concept. He says we don't have control over things, but is thereby defining control out of existence.
+  * On what basis can he give us advice as to how to treat criminals whether retributively or otherwise, if we have no free will?
+  * Attributed decision making to lilacs and tornadoes, even though there's clearly some kind of process that the human brain performs that it makes sense to call decision making.
+  * So far, maybe halfway through chapter 1, if he had just replaced the word "free will" with "determinism", that the sciences all point toward determinism, I would have been on board. But he doesn't even define what free will is to say that all these sciences are suggesting that it doesn't exist.
+  * On his view, we can't "make changes" because there is no us that can do anything of the sort; we would just do what we have to do, so he can't be giving us advice.
+  *  "There's no free will, and therefore, holding people morally responsible for their actions is wrong." Talk about fallacy of the stolen concept.
+  * His characterization of the compatibilist view is an amazing straw man. Compatibilists may not be doing themselves any favors in how they represent themselves, but he definitely shows a lack of trying to come up with what I think is a pretty straightforward argument for non-mystical free will and moral accountability.
+  * When he finally defines free will, he defines it as something so absurd, as to effectively define it out of existence anyway.
+  * [Goodreads status update](https://www.goodreads.com/user_status/show/718177663){:target="&lowbar;blank"}: So far in chapter 1, I've picked up on significant use of the Fallacy of the Stolen Concept (most notably saying that it's wrong to hold people morally responsible for things) and defining "free will" as something so absurd as to make it obviously impossible. And maybe compatibilists don't do themselves any favors with how they put forward their viewpoint, but the author sure does a good job of straw-manning it.
 
-## Gary John Bishop: _Stop Doing That Sh*t_
-[Audible](https://www.audible.com/pd/0062872389){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B07GNGY9QR/){:target="&lowbar;blank"}
-* Chapter 6: uses the fact of some people being non-objective about their interpretation of facts as an argument for there being no objective truth whatsoever.
-* In general, lots of good straight-talk, but also a lot that smacks of "denial is confirmation", which doesn't account for how to navigate things that don't fit his "problem paradigm" (eg, negative self-talk).
+## Robert Zubrin: _The Case for Nukes_
+[Kindle](https://www.amazon.com/dp/B0BXPCZ33K/){:target="&lowbar;blank"}
+
+## C Bradley Thompson: _What America Is_
+[Kindle](https://www.amazon.com/gp/aw/d/B0C86NS7PQ/){:target="&lowbar;blank"}
 
 _started in 2019; in progress_
 
@@ -205,6 +218,16 @@ _started in 2019; in progress_
 {% endcomment %}
 
 # 2023
+
+## Zak George: _Zak George's Guide to a Well-Behaved Dog_
+[Audible](https://www.audible.com/pd/059310644X){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B015BCX05S/){:target="&lowbar;blank"}
+
+## Gary John Bishop: _Stop Doing That Sh*t_
+{% comment %}
+[Audible](https://www.audible.com/pd/0062872389){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B07GNGY9QR/){:target="&lowbar;blank"}
+* Chapter 6: uses the fact of some people being non-objective about their interpretation of facts as an argument for there being no objective truth whatsoever.
+* In general, lots of good straight-talk, but also a lot that smacks of "denial is confirmation", which doesn't account for how to navigate things that don't fit his "problem paradigm" (eg, negative self-talk).
+{% endcomment %}
 
 ## Thomas Sowell: _Charter Schools and Their Enemies_
 [Audible](https://www.audible.com/pd/1549104721){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B08421GP4S/){:target="&lowbar;blank"}
