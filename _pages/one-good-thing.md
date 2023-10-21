@@ -2,12 +2,14 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-10-17T12:23:45+00:00"
+last_modified_at: "2023-10-21T13:47:40+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+## 2023-10-20
+Had a great time climbing The Pooka at Staunton State Park with Chase, Richard, and Robert.
 
 ## 2023-10-14
 Had a fun time with Chase at 3FROG and then going to Scheels for the first time.
