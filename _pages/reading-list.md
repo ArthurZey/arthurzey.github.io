@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2023-10-19T12:19:58+00:00"
+last_modified_at: "2023-10-22T14:19:56+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -200,6 +200,13 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
   * His characterization of the compatibilist view is an amazing straw man. Compatibilists may not be doing themselves any favors in how they represent themselves, but he definitely shows a lack of trying to come up with what I think is a pretty straightforward argument for non-mystical free will and moral accountability.
   * When he finally defines free will, he defines it as something so absurd, as to effectively define it out of existence anyway.
   * [Goodreads status update](https://www.goodreads.com/user_status/show/718177663){:target="&lowbar;blank"}: So far in chapter 1, I've picked up on significant use of the Fallacy of the Stolen Concept (most notably saying that it's wrong to hold people morally responsible for things) and defining "free will" as something so absurd as to make it obviously impossible. And maybe compatibilists don't do themselves any favors with how they put forward their viewpoint, but the author sure does a good job of straw-manning it.
+* Chapter 2
+  * Acknowledges that there's such a thing as intent, and then asks where intent came from, but then decides that because intent came from somewhere, there's no such thing as free will. This is instead of understanding free will as involving some kind of intent.
+  * All the various studies that show that there is a certain brain activity that precipitates one's conscious awareness of having made a decision is all rather beside the point. That brain activity is the choosing. Awareness of the choosing is something different.
+  * "This suggests that the SMA keeps volition on task, binding intention to action, all before the person believes they have formed that intention."
+  * The studies about people imputing control and causality to certain outcomes based on their behaviors are also beside the point. That has more to do with whether people are good at induction.
+  * Oh, good. He addresses the distinction between making the choice and being aware of it... Roske (sp?) "difference between conscious intention and consciousness of intention". "readiness potential is when you have legitimately freely chosen" and then it takes time to become consciously aware. But he says that the "readiness potential" is a process leading to deciding, rather than the decision itself. Then he talks around urges versus decisions, which strikes me as irrelevant. But this goes back to mystical views of free will, because Roske (sp?) says something like that the 60% rate in the test that predicts the behavior only suggests that there are "some physical factors" involved in decision-making. So in the end, he basically doesn't really address this issue at all, which strikes me as being at the heart of these Lebidian (sp?) studies.
+  * Oh my gods; I'm halfway through chapter 2 now, and he continues to be infuriating. His position and arguments against "free will" (whatever he means by the term--he seems almost dishonestly vague about it) may still be the best I've heard, but so far in this chapter, he's claiming that brain scans of various kinds predict with shockingly high accuracy physical activity in the brain significantly BEFORE a person claims to have made a decision. And even though he purports to address this distinction between decision-making and awareness of decision-making, he talks around it and ends up doing absolutely nothing of the sort. And that's to say nothing of the fact that he seems to implicitly concede that there IS such a thing as "intent", but then defines it out of existence instead of trying to describe the phenomenon that actually exists in reality, whatever it is and however it works.
 
 ## Robert Zubrin: _The Case for Nukes_
 [Kindle](https://www.amazon.com/dp/B0BXPCZ33K/){:target="&lowbar;blank"}
