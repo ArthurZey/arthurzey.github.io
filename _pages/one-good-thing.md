@@ -2,12 +2,16 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-10-21T13:47:40+00:00"
+last_modified_at: "2023-10-23T14:16:12+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-10-22
+Officially finished my 12-week cut in the RP Diet app with 100%, exceeding the projected fat-loss rate.
+
 ## 2023-10-20
 Had a great time climbing The Pooka at Staunton State Park with Chase, Richard, and Robert.
 
