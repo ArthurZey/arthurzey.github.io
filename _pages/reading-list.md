@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2023-10-22T14:19:56+00:00"
+last_modified_at: "2023-10-24T12:18:22+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -207,6 +207,18 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
   * The studies about people imputing control and causality to certain outcomes based on their behaviors are also beside the point. That has more to do with whether people are good at induction.
   * Oh, good. He addresses the distinction between making the choice and being aware of it... Roske (sp?) "difference between conscious intention and consciousness of intention". "readiness potential is when you have legitimately freely chosen" and then it takes time to become consciously aware. But he says that the "readiness potential" is a process leading to deciding, rather than the decision itself. Then he talks around urges versus decisions, which strikes me as irrelevant. But this goes back to mystical views of free will, because Roske (sp?) says something like that the 60% rate in the test that predicts the behavior only suggests that there are "some physical factors" involved in decision-making. So in the end, he basically doesn't really address this issue at all, which strikes me as being at the heart of these Lebidian (sp?) studies.
   * Oh my gods; I'm halfway through chapter 2 now, and he continues to be infuriating. His position and arguments against "free will" (whatever he means by the term--he seems almost dishonestly vague about it) may still be the best I've heard, but so far in this chapter, he's claiming that brain scans of various kinds predict with shockingly high accuracy physical activity in the brain significantly BEFORE a person claims to have made a decision. And even though he purports to address this distinction between decision-making and awareness of decision-making, he talks around it and ends up doing absolutely nothing of the sort. And that's to say nothing of the fact that he seems to implicitly concede that there IS such a thing as "intent", but then defines it out of existence instead of trying to describe the phenomenon that actually exists in reality, whatever it is and however it works.
+  * The idea of consciously allowing an implicit subconscious behavior to take over, such as in the soccer example is not super relevant, as far as I can tell, so far. It reminds me of how people choose to get drunk, and it's related to why we hold people accountable for their actions while intoxicated.
+  * "Free won't" seems utterly irrelevant to me. (Glad he ultimately makes it clear that that's exactly the same thing as "free will".)
+  * Middle to end of chapter 2, good differentiation between different senses of the word "intent". I wish he had done the same thing with volition. And I'm glad that he realizes that the Lebidian (sp?) arguments are irrelevant, even if they're not enough to disprove free will.
+  * Good example of the criminal who says he fully knowingly intended to perform the act and what would result from it. And it seems consistent with his approach that he doesn't think that free will exists in that situation, either.
+  * I'm glad he raises the issue of where intent comes from, and why that's what makes the Lebidian (sp?) analysis irrelevant.
+  * "Why would you ignore what came before the present in analyzing someone's behavior? Because you don't care why someone else turned out to be different from you." Here we go...
+  * Mentions [_Elbow Room: The Varieties of Free Will Worth Wanting_](https://mitpress.mit.edu/9780262540421/elbow-room/) by Daniel Dennett.
+  * Suddenly shifts the focus to moral luck and interpersonal comparisons and interpersonal fairness, which is landing with me at present as suggesting that moral accountability is inherently about judging people relative to other people, rather than what they did with what they had. That would be consistent with not understanding volition as a mechanism that is sensitive to moral accountability as an input. Instead, he seems to understand it as some kind of phenomenon bound up in some fuzzy idea like social ethics.
+  * He concludes by saying that our focus on intent is deeply unethical because people can't choose their starting circumstances. So far, his argument is landing with me as being a rationalization for a social justice warrior agenda.
+  * Summary of second half of chapter 2
+    * He does a good job of disentangling different senses of the idea of "intent" (which he so far seems unable to apply to the idea of "volition" in any meaningful way), before ultimately pointing out that all of these various studies and fixations on intent are irrelevant because intent has to come from somewhere.
+    * He concludes chapter 2 by very suddenly shifting gears and committing The Fallacy of the Stolen Concept again, by claiming how immoral it is that we hold people morally accountable for the choices they make in their lives because of unfair starting points, as though moral accountability is about interpersonal comparisons and "fairness". He doesn't understand volition as a process that's especially sensitive to moral accountability.
 
 ## Robert Zubrin: _The Case for Nukes_
 [Kindle](https://www.amazon.com/dp/B0BXPCZ33K/){:target="&lowbar;blank"}
