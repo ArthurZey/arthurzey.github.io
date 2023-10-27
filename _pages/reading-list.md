@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2023-10-26T12:14:12+00:00"
+last_modified_at: "2023-10-27T14:12:32+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -234,6 +234,9 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
     * [Comment on another Goodreads review](https://www.goodreads.com/review/show/5914350927):
       * I'm only part-way through chapter 3, and your criticism is almost exactly one that I've been fuming about every other sentence as I've been reading!
       * There's a lot of really interesting stuff in here about how the brain works that expands on Behave in a way that's more focused, but because of how he's defined "free will" as something so utterly absurd (even if that's what many people generally sort of hand-wavily mean by the term when they're not being rigorous) that so far, it's difficult to take some of his statements seriously. The whole moral judgment thing is an example of The Fallacy of the Stolen Concept par excellence, and even without stealing any concepts, it's a contradiction on its face: He's said, explicitly, that it's wrong to judge people for wrongdoing because they couldn't help their wrongdoing. But somehow, we're supposed to be able to "help" our moral judgment of them? This is not what morality is about.
+    * [Goodreads status update](https://www.goodreads.com/user_status/show/721770907): In the second third of chapter 3, he describes correlations between adult outcomes and childhood and in-utero developmental factors, ranging from socioeconomic status to family tranquility (versus abuse) to cultural values to gestational stress to clemency of the weather. He says these should give great pause to anyone still "holding out for free will" and then says it doesn't disprove it. Smacks of a SJW agenda.
+    * The detail that he goes into with these various in-utero and childhood developmental factors is fascinating, and he describes how the adult outcomes are mediated by the specific effects on brain development. When he says that it doesn't _determine_ adult outcomes, he clarifies that it informs a lot about potentials and tendencies. And that's all fine and well. But it's interesting how his interpersonal "fairness" lens for ethics seems to be informing how he's framing his argument.
+    * I also find it really interesting that in his description of why the prefrontal cortex has evolved to mature later, he describes as examples of the complexities of things that we have to learn things like exceptions to rules about lying and killing and how he frames those, since they're not essential to things like dishonesty or initiating force.
 
 ## Robert Zubrin: _The Case for Nukes_
 [Kindle](https://www.amazon.com/dp/B0BXPCZ33K/){:target="&lowbar;blank"}
