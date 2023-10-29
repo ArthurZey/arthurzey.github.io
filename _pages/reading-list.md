@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2023-10-27T14:12:32+00:00"
+last_modified_at: "2023-10-29T15:07:58+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -237,6 +237,8 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
     * [Goodreads status update](https://www.goodreads.com/user_status/show/721770907): In the second third of chapter 3, he describes correlations between adult outcomes and childhood and in-utero developmental factors, ranging from socioeconomic status to family tranquility (versus abuse) to cultural values to gestational stress to clemency of the weather. He says these should give great pause to anyone still "holding out for free will" and then says it doesn't disprove it. Smacks of a SJW agenda.
     * The detail that he goes into with these various in-utero and childhood developmental factors is fascinating, and he describes how the adult outcomes are mediated by the specific effects on brain development. When he says that it doesn't _determine_ adult outcomes, he clarifies that it informs a lot about potentials and tendencies. And that's all fine and well. But it's interesting how his interpersonal "fairness" lens for ethics seems to be informing how he's framing his argument.
     * I also find it really interesting that in his description of why the prefrontal cortex has evolved to mature later, he describes as examples of the complexities of things that we have to learn things like exceptions to rules about lying and killing and how he frames those, since they're not essential to things like dishonesty or initiating force.
+    * In the last third of chapter 3, he applies similar reasoning and analysis as earlier parts of the chapter to issues of individual genetics, cultural influences, and evolution, concluding again that neither of these disproves free will (instead only pointing to potentials and tendencies), but all taken together, says there can be no such thing as free will. Then he takes a weird turn and talks about luck and reiterates his ideas about how that doesn't even things out in the end, once again turning moral accountability into some kind of interpersonal social phenomenon. He then continues to equivocate on the term "control", saying that the brain does what the brain has to do, given its makeup, once again, implying that free will requires the ability to have done otherwise, rather than understanding control as a specific kind of brain process that results in specific action. He seems to think that because there are factors outside our control that therefore control is a meaningless concept. He sure has defined it that way.
+    * [Goodreads status update](https://www.goodreads.com/user_status/show/722124369): He finishes chapter 3 with a similar analysis of the role of genetics, culture, and evolution, concluding again that none disproves free will (they only suggest tendencies and potentials), but taken as a whole, there's no room for free will. Then he takes a hard left again to talk about luck and how it doesn't even out in the end, again turning moral accountability into some kind of interpersonal/social phenomenon.
 
 ## Robert Zubrin: _The Case for Nukes_
 [Kindle](https://www.amazon.com/dp/B0BXPCZ33K/){:target="&lowbar;blank"}
