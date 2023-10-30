@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-10-23T14:16:12+00:00"
+last_modified_at: "2023-10-30T12:25:45+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-10-29
+Had a nice family dinner with Chase and the Cades.
 
 ## 2023-10-22
 Officially finished my 12-week cut in the RP Diet app with 100%, exceeding the projected fat-loss rate.
