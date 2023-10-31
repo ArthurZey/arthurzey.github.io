@@ -5,7 +5,7 @@ tags:
   - health
 description: "I've been in a terrible funk for most of 2023. Perhaps it's Long COVID?"
 date: "2023-08-17"
-last_modified_at: "2023-10-25T12:35:24+00:00"
+last_modified_at: "2023-10-31T12:26:47+00:00"
 ---
 
 _Warning: This post includes content related to sexual health and habits; make your own decision about whether you wish to continue reading._
@@ -103,3 +103,22 @@ Aside from the dietary change I mentioned earlier, I also considered other possi
 A lingering thought for me is whether I made the right call in not getting vaccinated. It's a much larger discussion, but I had and have various risk factors that made getting vaccinated not as "obvious" as many thought it was for themselves, and moreover, I didn't find the epistemological rigor around the various COVID vaccines' testing (and available data) sufficiently compelling, especially in light of my risk factors. And while what's done is done, I'm a ruminator and can't help wondering _What if...?_. Could I have avoided Long COVID--if that's even what's going on here--had I been vaccinated and boosted? I suppose we'll never know. (I believe that Dianna Cowern, Physics Girl, was vaccinated, and her Long COVID ME/CFS is absolutely horrific.) I guess it's possible, but at the same time, given the increasing data coming to light that the vaccines aren't nearly as safe and effective as many had previously believed, I do feel somewhat vindicated in my decision. On the one hand, we have the speculation that this is Long COVID (which I don't know how to confirm, since it's not like it's a thing we can just directly test for), and we'd have to make a statistical guess about the effectiveness of having been vaccinated to have prevented Long COVID. On the other hand, there are the risks, general and individualized, of getting vaccinated. Even if we knew for certain that I could have avoided all this by having been vaccinated, but still had to risk some adverse reaction, it would be a very difficult decision for me. But, like I said, it's all moot. (Questions about all this are welcome; arguing, moralizing, and condescending are not.)
 
 We'll see how this all goes. Wish me luck; I definitely need it.
+
+## 2023-10-31 Update
+
+My appointment with my doctor didn't happen on August 25. I attempted to secure a lab order in advance of the appointment so that we could discuss the results when we met, but between mistakes on the order and pulling teeth with Cigna to get clarity on coverage (including which ICD-10 and CPT codes needed to be used to qualify as being part of my annual physical) and cost estimates, I didn't finally get my labs done until over a month later, on September 27. Then my results were delayed, and so my appointment with my doctor didn't happen until October 11.
+
+Well, some good news from the labs, but nothing diagnostically relevant, other than ruling out a few things:
+* thyroid hormone levels were normal (so not hyperthyroidism again)
+* iron/ferritin levels were normal (so not hemochromatosis again)
+* total testosterone levels were _high_ (1018 ng/dL, an increase from 905 ng/dL in November 2011, which is above the 916 ng/dL top end of the reference range), but free testosterone was normal, suggesting that my body has ample access to testosterone as needed (why I'm not as jacked as bodybuilders who are "juicing" or insatiably horny all the time is beyond me...)
+
+Since Long COVID and ME/CFS aren't presently the sort of thing that you can just test for (see my quip toward the beginning about the word "syndrome"), and we've ruled out some of my personal usual suspects, it's looking more like this really is Long COVID.
+
+In advance of my appointment, Chase's dad suggested that I consider two treatments:
+* a [Nitric Oxide booster](https://berkeleylife.com/products/nitric-oxide-foundation/){:target="&lowbar;blank"} (to help with blood flow generally)
+* a [Nattokinase, Bromelain, and Curcumin protocol](https://jpands.org/vol28no3/mccullough.pdf){:target="&lowbar;blank"} (to help [break up the spike protein](https://www.mdpi.com/1420-3049/27/17/5405){:target="&lowbar;blank"})
+
+After some research (including help from Dr ChatGPT) and discussion with my doctor, it seems that the evidence isn't especially strong (in terms of scientific rigor) that these would have any ameliorative effect on my Long COVID symptoms, but there is some cause for optimism. In the worst-case scenario, these supplements are benign in the recommended dosages, and I've only wasted time and money on ineffective treatments.
+
+Now, it's been over a month since starting the NO booster and a few weeks on the Nattokinase, Bromelain, and Curcumin protocol. It could very well be placebo (which I'll happily take!), the fact that I'm 13 weeks into my cut (and have lost nearly 30 lbs of fat), my greater discipline about going to bed early and waking up between 04:00 and 05:00 daily to get stuff done ahead of my workday, or general statistical noise, but my experience of life has improved noticeably, if not tremendously. I'm still not _happy_, but I find myself with a little bit more motivation, a little bit better ability to focus, a little bit less stress, and a little bit more sex drive. I've also noticed that cuts and scrapes are healing a lot faster. I'm significantly more irritable, but I attribute that primarily to hanger, since I'm currently consuming about half my daily maintenance calories.
