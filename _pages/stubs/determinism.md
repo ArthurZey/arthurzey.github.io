@@ -5,7 +5,7 @@ tags:
   - philosophy
 description: "Volition is self-evident and axiomatic. The universe works by deterministic laws. And yet choice is not an illusion. How is this possible?"
 date: "2020-04-17"
-last_modified_at: "2023-11-01T12:04:24+00:00"
+last_modified_at: "2023-11-03T13:14:04+00:00"
 ---
 
 This is a favorite topic of many philosophy students. It's fun to think about. But the most important lesson I've learned about this over the years is that _it doesn't matter_. While I think there are valuable things to learn from engaging in it, this is mostly just a fun intellectual exercise.
@@ -59,6 +59,11 @@ Here are a few things I want to address (and this is by no means exhaustive):
   * connection to Sam Harris's "meditation" on how "thoughts just arise"
     * You can't control the thoughts that arise, but that kind of control is not what constitutes volition. There are all kinds of bodily processes that we can't control, including mental processes, but that doesn't mean that there isn't something that we _do_ control. (Related: A person _is_ the control.) There's a failure here to differentiate between different senses of "controlling one's next thoughts".
 * how the non-determinist position implies mystical dualism / mind-body dichotomy
+* the epistemological error in the view of some determinists that "free will" cannot exist (by defining it out of existence)
+  * from [a Facebook post by Paul Hsieh](https://www.facebook.com/PaulHsiehMD/posts/pfbid02eaXv1Yet2NvsJ8XpcLzPh1ZBJWjbSjJzG2sAdcp6meTqxVdzG7yop8FxP7SUXdgbl){:target="&lowbar;blank"} and my comment on it:
+    * I'm sure they believe that their urging just has some kind of deterministic casual effect on the people they're trying to urge, via some other choice-making, deliberative power that controls action, but is, for some reason, *not* free will.
+    * Like, those people who say that there's no such thing as free will must believe that there is some kind of brain process that can be influenced and that goes about performing deliberation and directing actions, and yet instead of calling that thing "free will" and understanding and debating how it works, they instead define "free will" as something other than what actually exists, and then claim that there's no such thing as "free will", thereby side-stepping the entire conversation around the thing that actually does exist, which now has no word to refer to it, so we have no way to think about it. Yeah, okay.
+  * This is at the root of one of the errors that Robert Sapolsky makes in his book [_Determined_](https://www.goodreads.com/book/show/83817782-determined){:target="&lowbar;blank"}
 * whether AI can have genuine volition, even if it's deterministic
 * the evolutionary perspective: at what point did we evolve the gene(s) to be exempt from deterministic physical causality?
 * why I don't use the terms "compatibilist" or "compatibilism" to describe myself or my views
