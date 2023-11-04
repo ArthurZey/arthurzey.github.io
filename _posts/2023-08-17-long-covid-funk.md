@@ -5,7 +5,7 @@ tags:
   - health
 description: "I've been in a terrible funk for most of 2023. Perhaps it's Long COVID?"
 date: "2023-08-17"
-last_modified_at: "2023-10-31T12:26:47+00:00"
+last_modified_at: "2023-11-04T14:01:13+00:00"
 ---
 
 _Warning: This post includes content related to sexual health and habits; make your own decision about whether you wish to continue reading._
@@ -106,7 +106,7 @@ We'll see how this all goes. Wish me luck; I definitely need it.
 
 ## 2023-10-31 Update
 
-My appointment with my doctor didn't happen on August 25. I attempted to secure a lab order in advance of the appointment so that we could discuss the results when we met, but between mistakes on the order and pulling teeth with Cigna to get clarity on coverage (including which ICD-10 and CPT codes needed to be used to qualify as being part of my annual physical) and cost estimates, I didn't finally get my labs done until over a month later, on September 27. Then my results were delayed, and so my appointment with my doctor didn't happen until October 11.
+My appointment with my doctor didn't happen on August 25. I attempted to secure a lab order in advance of the appointment so that we could discuss the results when we met (rather than having to have two appointments), but between mistakes on the order and pulling teeth with Cigna to get clarity on coverage (including which ICD-10 and CPT codes needed to be used to qualify as being part of my annual physical) and cost estimates, I didn't finally get my labs done until over a month later, on September 27. Then my results were delayed, and so my appointment with my doctor didn't happen until October 11.
 
 Well, some good news from the labs, but nothing diagnostically relevant, other than ruling out a few things:
 * thyroid hormone levels were normal (so not hyperthyroidism again)
@@ -121,4 +121,12 @@ In advance of my appointment, Chase's dad suggested that I consider two treatmen
 
 After some research (including help from Dr ChatGPT) and discussion with my doctor, it seems that the evidence isn't especially strong (in terms of scientific rigor) that these would have any ameliorative effect on my Long COVID symptoms, but there is some cause for optimism. In the worst-case scenario, these supplements are benign in the recommended dosages, and I've only wasted time and money on ineffective treatments.
 
-Now, it's been over a month since starting the NO booster and a few weeks on the Nattokinase, Bromelain, and Curcumin protocol. It could very well be placebo (which I'll happily take!), the fact that I'm 13 weeks into my cut (and have lost nearly 30 lbs of fat), my greater discipline about going to bed early and waking up between 04:00 and 05:00 daily to get stuff done ahead of my workday, or general statistical noise, but my experience of life has improved noticeably, if not tremendously. I'm still not _happy_, but I find myself with a little bit more motivation, a little bit better ability to focus, a little bit less stress, and a little bit more sex drive. I've also noticed that cuts and scrapes are healing a lot faster. I'm significantly more irritable, but I attribute that primarily to hanger, since I'm currently consuming about half my daily maintenance calories.
+Now, it's been over a month since starting the NO booster and a few weeks on the Nattokinase, Bromelain, and Curcumin protocol. It could very well be placebo (which I'll happily take!), the fact that I'm 13 weeks into my cut (and have lost nearly 30 lbs of fat), my greater discipline about going to bed early and waking up between 04:00 and 05:00 daily to get stuff done ahead of my workday, or general statistical noise, but my experience of life has improved noticeably, even if not tremendously. I'm still not _happy_, but I find myself with
+* a little bit more motivation
+* a little bit better ability to focus
+* a little bit less stress
+* a little bit more sex drive
+* significantly less shortness of breath in general and better cardiovascular endurance on fast-paced uphill walks at 9000 feet of elevation
+* faster-healing cuts and scrapes
+
+I'm significantly more irritable, but I attribute that primarily to hanger, since I'm currently consuming about half my daily maintenance calories.
