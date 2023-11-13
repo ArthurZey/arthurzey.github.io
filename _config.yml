@@ -44,6 +44,17 @@ defaults:
     values:
       permalink: /diary/:year-:month-:day/
       layout: "post"
+      tags:
+        - diary
+  -
+    scope:
+      path: "_posts/status"
+      type: "posts"
+    values:
+      permalink: /status/:year-:month-:day/
+      layout: "post"
+      tags:
+        - status
   -
     scope:
       path: "_pages"

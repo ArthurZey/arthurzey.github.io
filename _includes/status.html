@@ -1,0 +1,19 @@
+{% comment %}
+  Include usage: {% include status.html heading-level="2" %}
+{% endcomment %}
+
+{% if include.heading-level %}
+  {% assign heading-level = include.heading-level %}
+{% else %}
+  {% assign heading-level = 2 %}
+{% endif %}
+
+{% assign found_post = false %}
+{% for post in site.posts %}
+  {% if post.tags contains 'status' and found_post == false %}
+{% for i in (1..heading-level) %}#{% endfor %} Status
+_Current as of {{ post.date | date: "%Y-%m-%d" }}_
+{{ post.content | markdownify }}
+    {% assign found_post = true %}
+  {% endif %}
+{% endfor %}
