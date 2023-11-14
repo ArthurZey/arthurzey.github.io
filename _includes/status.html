@@ -12,7 +12,7 @@
 {% for post in site.posts %}
   {% if post.tags contains 'status' and found_post == false %}
 {% for i in (1..heading-level) %}#{% endfor %} Status
-_Current as of {{ post.date | date: "%Y-%m-%d" }}_
+_Here's a quick update about what's going on with me right now, current as of {{ post.date | date: "%Y-%m-%d" }}. You can also read through my [status history](/status/)._
 {{ post.content | markdownify }}
     {% assign found_post = true %}
   {% endif %}

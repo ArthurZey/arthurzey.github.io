@@ -2,10 +2,22 @@
 layout: lcars-classic
 ---
 
+{% if page.description or page.tags contains "status" %}
+
+{% if page.description %}{{ page.description }}{% endif %}
+
+{% if page.tags contains "status" %}_This is an individal [status](/status/) update page, too short for a proper blog post, but it's what's going on with me as of the date of the post._{% endif %}
+
+---
+
+{% endif %}
+
+{% comment %}
 {% if page.description %}
 <p class="meta">{{ page.description }}</p>
 ---
 {% endif %}
+{% endcomment %}
 
 <div class="post">
   {{ content | markdownify }}
