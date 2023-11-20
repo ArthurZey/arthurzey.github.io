@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-11-16T11:47:02+00:00"
+last_modified_at: "2023-11-20T14:51:53+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-11-05
+Finished watching _Avatar: The Last Airbender_ with Chase!
 
 ## 2023-11-04
 Had a nice time at 1FROG with Chase.
