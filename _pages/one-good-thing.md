@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-11-21T13:24:22+00:00"
+last_modified_at: "2023-11-23T11:55:52+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-11-12
+Had a good catchup call with Lena and got to meet Karthik.
 
 ## 2023-11-08
 Started Chase on _Star Trek: The Next Generation_!
