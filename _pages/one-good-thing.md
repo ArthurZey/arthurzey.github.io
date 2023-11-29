@@ -2,12 +2,14 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-11-28T13:18:37+00:00"
+last_modified_at: "2023-11-29T13:34:25+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+## 2023-11-25
+Had a pleasant breakfast with Jacqueline, which I take as a good sign on the road to healing our relationship.
 
 ## 2023-11-24
 Had a wonderful Thanksgiving with family in LA.
