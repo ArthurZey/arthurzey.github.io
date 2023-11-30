@@ -5,7 +5,7 @@ tags:
   - philosophy
 description: "People tend to talk about \"rights\" as a sort of thing that people possess, often forgetting the concept's proper origin in identifying the causality of achieving one's interests in a social context."
 date: "2021-06-11"
-last_modified_at: "2022-03-18T05:17:50+00:00"
+last_modified_at: "2023-11-30T11:58:25+00:00"
 ---
 
 ## Reification of Rights
@@ -28,7 +28,7 @@ So back to rights. I'm going to put it in a stark way to help drive my point hom
 
 That's not to say that we throw out all the experience and logic and understanding that we have gained from forming the concept of rights for "normal" life. There's still a lot that might be applicable to the shipwreck/lifeboat scenario, including what we know of human psychology and interpersonal dynamics. But the point is that we cannot blindly apply our normal concept of rights to this emergency scenario.
 
-I used some extreme emergency scenarios, which, by hypothesis, are "abnormal" and marginl, to illustrate why I'm against the reification of the concept of "rights". So you might think that I'm getting fussed over something not too important. Well, maybe, but I'm pretty sure I've gotten into lots of conversations with people where not understanding that "rights" is merely a very useful cognitive/linguistic shorthand and not a real "thing" has led to a lot of confusion about how to properly apply the concept to real-life situations. I'm struggling to come up with good examples at the moment, but I'll do some noodling and update this post with them.
+I used some extreme emergency scenarios, which, by hypothesis, are "abnormal" and marginal, to illustrate why I'm against the reification of the concept of "rights". So you might think that I'm getting fussed over something not too important. Well, maybe, but I'm pretty sure I've gotten into lots of conversations with people where not understanding that "rights" is merely a very useful cognitive/linguistic shorthand and not a real "thing" has led to a lot of confusion about how to properly apply the concept to real-life situations. I'm struggling to come up with good examples at the moment, but I'll do some noodling and update this post with them.
 
 ## AI Rights
 
