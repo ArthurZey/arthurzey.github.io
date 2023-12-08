@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-12-07T14:44:24+00:00"
+last_modified_at: "2023-12-08T15:11:00+00:00"
 tags:
   - happenings
   - draft
@@ -11,6 +11,9 @@ sitemap: false
 
 ## 2023-12-05
 Chase brought me flowers because I'd been so stressed out recently.
+
+## 2023-12-04
+Had a really nice time hosting Adam Harvey for dinner and catching up with him.
 
 ## 2023-12-03
 Had a nice catchup coffee with Jay.
