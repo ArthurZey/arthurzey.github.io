@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-12-16T15:24:10+00:00"
+last_modified_at: "2023-12-23T14:52:33+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-12-09
+Had a good time at 3FROG with Chase.
 
 ## 2023-12-08
 Had a fun time at the shooting range.
