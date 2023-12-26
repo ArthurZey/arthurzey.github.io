@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2023-12-03T17:19:08+00:00"
+last_modified_at: "2023-12-26T14:01:27+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -168,7 +168,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * Ventura
   * cordial
   * emaciated
-  * Vellejo
+  * Vallejo
   * neutral
   * I want you
   * Colorado, Nevada, Iraq, Iran, Afganistan
