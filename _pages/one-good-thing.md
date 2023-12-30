@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-12-27T15:26:48+00:00"
+last_modified_at: "2023-12-30T13:56:43+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-12-12
+James Ellias came to stay with me for a week, and we had a really nice dinner.
 
 ## 2023-12-11
 Started watching _Ted Lasso_, which I found really enjoyable.
