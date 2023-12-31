@@ -2,12 +2,14 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2023-12-30T13:56:43+00:00"
+last_modified_at: "2023-12-31T15:40:14+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+## 2023-12-13
+Went on a fun hike at Staunton with Max, Chase, and James, and we had a fun conversation about epistemology, specifically about concept formation, generalizations, and proof.
 
 ## 2023-12-12
 James Ellias came to stay with me for a week, and we had a really nice dinner.
