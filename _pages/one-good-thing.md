@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-01-01T14:56:06+00:00"
+last_modified_at: "2024-01-02T14:21:24+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-12-15
+Went on a fun hike at Elk Meadow with Chase and James, where we had another fun conversation about epistemology, but this time about statements like "Cardio makes you fat.", and then later that evening, Chase and I went to his company holiday party.
 
 ## 2023-12-14
 Had a nice time at the Denver Ookla holiday party with Chase and James.
