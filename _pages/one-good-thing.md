@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-01-04T15:43:19+00:00"
+last_modified_at: "2024-01-06T17:34:41+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-12-18
+Had a delightful catchup call with Brit.
 
 ## 2023-12-17
 Chase, James, and I had a great time at 1FROG at Anders's and Maria's.
