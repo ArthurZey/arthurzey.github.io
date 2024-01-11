@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-01-08T19:23:04+00:00"
+last_modified_at: "2024-01-11T19:37:03+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-12-24
+Had a lovely day with the Popps.
 
 ## 2023-12-23
 Had a fun time at Lifetime Fitness with the Popps, learned to play pickleball, had a nice pre-Christmas dinner, and did our Secret Santa gift exchange.
