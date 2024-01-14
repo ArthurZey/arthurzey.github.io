@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-01-13T13:54:46+00:00"
+last_modified_at: "2024-01-14T12:24:43+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2023-12-26
+Drove home from Casper with Cassidy, sorted out all my errands, and got settled back in at home.
 
 ## 2023-12-25
 Had a nice Christmas brunch with the Popps.
