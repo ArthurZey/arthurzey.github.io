@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-01-22T12:01:42+00:00"
+last_modified_at: "2024-01-23T12:43:46+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-01-06
+Had a wonderful time with Lena, Karthik, Lev, and Johannes over for breakfast with the family.
 
 ## 2024-01-05
 Had a good time catching up with Ryan Dosa at LA Fitness in Tarzana.
