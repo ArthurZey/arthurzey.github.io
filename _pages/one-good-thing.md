@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-01-24T12:00:06+00:00"
+last_modified_at: "2024-01-27T12:52:45+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-01-08
+Had an absolutely delightful dinner with Brit and Honor at my parents'!
 
 ## 2024-01-07
 Had a nice breakfast/brunch with Elizabeth, Jacqueline, and Daniel before we headed over to visit with дедушка.
