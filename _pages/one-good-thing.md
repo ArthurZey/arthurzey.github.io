@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-01-27T12:52:45+00:00"
+last_modified_at: "2024-01-28T16:10:56+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-01-09
+Had a great time at Disneyland with Brit and Honor!
 
 ## 2024-01-08
 Had an absolutely delightful dinner with Brit and Honor at my parents'!
