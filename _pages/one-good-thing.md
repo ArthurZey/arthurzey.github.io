@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-01-30T13:05:57+00:00"
+last_modified_at: "2024-01-31T12:59:32+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-01-12
+Had a nice steak dinner with Chase over an episode of TNG.
 
 ## 2024-01-10
 Brit and I had our first fertility clinic appointments at San Diego Fertility Center!
