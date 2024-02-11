@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-02-10T11:49:16+00:00"
+last_modified_at: "2024-02-11T16:59:54+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-01-20
+Had a great time snowboarding at Keystone!
 
 ## 2024-01-18
 Had a good first therapy appointment with Dana Torres and then opened up a bank account for Zey Enterprises (and got to take advantage of a few awesome deals/incentives)!
