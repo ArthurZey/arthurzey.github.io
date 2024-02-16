@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-02-15T13:18:35+00:00"
+last_modified_at: "2024-02-16T13:04:04+00:00"
 tags:
   - happenings
   - draft
@@ -11,6 +11,9 @@ sitemap: false
 
 ## 2024-02-05
 Got a haircut!
+
+## 2024-02-04
+Finally put up Chase's plice!
 
 ## 2024-01-27
 Had a great time snowboarding at Vail!
