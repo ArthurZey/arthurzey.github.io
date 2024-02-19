@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-02-18T11:27:32+00:00"
+last_modified_at: "2024-02-19T11:05:43+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-02-10
+Had a great time snowboarding at Breckenridge!
 
 ## 2024-02-08
 Got my 2023 taxes done!
