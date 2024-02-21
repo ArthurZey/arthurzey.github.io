@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-02-20T12:37:08+00:00"
+last_modified_at: "2024-02-21T12:39:58+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-02-17
+Had a wonderful time seeing Elizabeth and Dan for breakfast with me and Chase (at Conifer Cafe) and then going to the dog park with Max, Stella, and Tuborg!
 
 ## 2024-02-14
 Good progress/results from my periodontal maintenance.
