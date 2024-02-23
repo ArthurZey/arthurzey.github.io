@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-02-21T12:39:58+00:00"
+last_modified_at: "2024-02-23T11:57:57+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-02-19
+Had the most fantastic time snowboarding at Keystone, flying down moguls with more confidence and skill than I ever have before by a substantial margin. I even had to [post on Facebook](https://www.facebook.com/ArthurZey/posts/pfbid0sXXXUMRP26SGpH76iZcnnzH1d9X5QsuEQbghPaod4bXsdxhbCHDAU4Am6DbZxyjil){:target="&lowbar;blank"} about it!
 
 ## 2024-02-17
 Had a wonderful time seeing Elizabeth and Dan for breakfast with me and Chase (at Conifer Cafe) and then going to the dog park with Max, Stella, and Tuborg!
