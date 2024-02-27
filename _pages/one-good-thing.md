@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-02-26T12:35:27+00:00"
+last_modified_at: "2024-02-27T12:15:11+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-02-25
+Moved Chase's furniture to the Wolfden from his (soon to be former) place in Golden; had a nice lunch with the Cades, Vekslers, and Chase's dad, and we had a relatively relaxing rest of our Sunday.
 
 ## 2024-02-24
 Even though it was a difficult day in terms of energy and motivation, my skill and performance was surprisingly good at Keystone, and then I had a fun evening at 1FROG with Chase.
