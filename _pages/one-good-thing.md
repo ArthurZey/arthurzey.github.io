@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-02-27T12:15:11+00:00"
+last_modified_at: "2024-02-28T14:24:26+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-02-26
+Got an official offer from RP!
 
 ## 2024-02-25
 Moved Chase's furniture to the Wolfden from his (soon to be former) place in Golden; had a nice lunch with the Cades, Vekslers, and Chase's dad, and we had a relatively relaxing rest of our Sunday.
