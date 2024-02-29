@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-02-28T14:24:26+00:00"
+last_modified_at: "2024-02-29T11:49:13+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-02-27
+Ended my minicut with a 6000-calorie day that included a delicious steak dinner with Chase at the table (instead of the TV), then finished watching "Who Watches the Watchers" with him (my favorite TNG episode)!
 
 ## 2024-02-26
 Got an official offer from RP!
