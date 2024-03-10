@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-03-09T13:44:40+00:00"
+last_modified_at: "2024-03-10T17:06:59+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-03-09
+Had a great time snowboarding the mogul run under Resolution Chair (Double Zero) for 5 hours at Copper!
 
 ## 2024-03-07
 Had a wonderful time helping Sarah with Asher in the morning and early afternoon.
