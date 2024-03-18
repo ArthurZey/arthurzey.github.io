@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-03-18T04:20:11+00:00"
+last_modified_at: "2024-03-18T16:49:47+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-03-14
+Straightened out a bunch of Google Workspace stuff, had dinner and went on a walk with Jeff Britting, then had In-n-Out with Rachael and Brett Rosenthal while they were passing through town!
 
 ## 2024-03-13
 Managed to escape Denver before the snowstorm hit and arrived in Los Angeles.
