@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-03-20T14:12:25+00:00"
+last_modified_at: "2024-03-21T14:44:17+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-03-17
+Chase and I had a lovely picnic with Lena, Karthik, and Lev, as well as Sara and Charlotte, at William R Mason Regional Park in Orange County, then we went to Century Day & Night Spa, and then an amazing family dinner involving a huge steak!
 
 ## 2024-03-16
 Had brunch with Akash, got to do alumni rowing, and went to the UCLA Men's Rowing Alumni Banquet with Chase (and saw Beeckler and Kanya)!
