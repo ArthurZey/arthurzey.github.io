@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-03-24T14:24:50+00:00"
+last_modified_at: "2024-03-25T12:58:53+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-03-20
+Chase found Hale Anela on VRBO for my 40th birthday Po'ipu, Kaua'i, Hawai'i trip!
 
 ## 2024-03-19
 Had a really nice time with Chase at Ginger Rogers Beach (Will Rogers State Beach), then drove by Pali and had lunch at Chipotle in Pacific Palisades.
