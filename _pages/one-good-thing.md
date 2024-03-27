@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-03-27T02:53:00+00:00"
+last_modified_at: "2024-03-27T15:33:54+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-03-23
+Had a great time snowboarding at Winter Park with LGBT and Friends Ski group.
 
 ## 2024-03-21
 Got to meet Ann for lunch and then have a lovely steak dinner with Chase and Scott.
