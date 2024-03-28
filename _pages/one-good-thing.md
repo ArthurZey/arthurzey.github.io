@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-03-27T15:33:54+00:00"
+last_modified_at: "2024-03-28T13:51:35+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-03-24
+Finished up around 90% of a PRD that I'd been struggling to find the time to work on for many months.
 
 ## 2024-03-23
 Had a great time snowboarding at Winter Park with LGBT and Friends Ski group.
