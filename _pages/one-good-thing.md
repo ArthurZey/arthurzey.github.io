@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-04-01T14:09:31+00:00"
+last_modified_at: "2024-04-03T13:45:17+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-03-30
+Had a relatively productive day at home, finally feeling better from COVID, and then joined 1FROG via Zoom.
 
 ## 2024-03-27
 Had a good annual review with Daniel.
