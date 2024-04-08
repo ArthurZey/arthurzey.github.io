@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-04-07T17:25:44+00:00"
+last_modified_at: "2024-04-08T15:07:07+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-04-07
+Had a nice day with Andrew and Sheila, and then we went to Stephanie's and David's Airbnb for David's 37th birthday party, which was really nice because I got to see a bunch of folks I hadn't seen in a long while.
 
 ## 2024-04-06
 Had a good drive with Chase down to Austin and settled in with Andrew and Sheila!
