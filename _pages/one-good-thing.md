@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-04-09T16:11:48+00:00"
+last_modified_at: "2024-04-10T15:28:44+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-04-09
+Chase and I had a fine drive back home from Austin and didn't get back too late.
 
 ## 2024-04-08
 Even though the total solar eclipse was lackluster on account of cloud cover, we had a nice BBQ with Andrew, Sheila, Aleksey, Jacob, Michelle, and Adam.
