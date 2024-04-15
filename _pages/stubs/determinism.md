@@ -5,7 +5,7 @@ tags:
   - philosophy
 description: "Volition is self-evident and axiomatic. The universe works by deterministic laws. And yet choice is not an illusion. How is this possible?"
 date: "2020-04-17"
-last_modified_at: "2023-11-06T12:52:14+00:00"
+last_modified_at: "2024-04-15T12:31:53+00:00"
 ---
 
 This is a favorite topic of many philosophy students. It's fun to think about. But the most important lesson I've learned about this over the years is that _it doesn't matter_. While I think there are valuable things to learn from engaging in it, this is mostly just a fun intellectual exercise.
@@ -82,6 +82,7 @@ Here are a few things I want to address (and this is by no means exhaustive):
 * some learnings from [_The Biological Basis of Teleological Concepts_](https://www.goodreads.com/book/show/2453347.The_Biological_Basis_of_Teleological_Concepts){:target="&lowbar;blank"}
 * maybe some polemics around what prominent cultural figures have to say about it? (meh)
   * Sam Harris's [Final Thoughts on Free Will (Episode #241)](https://www.youtube.com/watch?v=u45SP7Xv_oU){:target="&lowbar;blank"} (44:00 duration; recommended by Andrew Zey)
+  * Sam Harris's [We Really Don't Have Free Will? (Episode #360)](https://www.samharris.org/episode/SE37D659617){:target="&lowbar;blank"}, interview with Robert Sapolsky (via [Robert Nasir](https://www.facebook.com/500496844/posts/10159935245081845/){:target="&lowbar;blank"})
   * The Ayn Rand Institute's [Why Sam Harris is Wrong about Free Will](https://www.youtube.com/watch?v=z-rZotA6SMs){:target="&lowbar;blank"} with Ben Bayer and Onkar Ghate (1:07:50 duration)
   * Don Watkins's [Sam Harris's Delusional Case for Determinism](https://donswriting.medium.com/sam-harriss-delusional-case-for-determinism-411fc68a4369){:target="&lowbar;blank"}
   * [_Determined_](https://www.goodreads.com/book/show/83817782-determined){:target="&lowbar;blank"} by Robert Sapolsky and [Kailuo Wang's review on Goodreads (with my comments, too)](https://www.goodreads.com/review/show/5914350927){:target="&lowbar;blank"}
