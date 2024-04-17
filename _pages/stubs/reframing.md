@@ -5,7 +5,7 @@ tags:
   - psychology
 description: "There are a lot of phrases we use that have subtle psychological effects on how we approach ourselves, others, and the world generally."
 date: "2020-04-07"
-last_modified_at: "2021-05-18"
+last_modified_at: "2024-04-17T11:53:51+00:00"
 ---
 
 There are a lot of phrases we use that have subtle psychological effects on how we approach ourselves, others, and the world generally.
@@ -15,6 +15,7 @@ I've been thinking a lot about certain kinds of reframings that have been very h
 * "[X] makes me feel [Y]" &rarr; "I feel [Y] because [X] holds [Z] meaning for me" or "hearing [X], I feel [Y]"
 * "endure" &rarr; "choose"
 * "let go" &rarr; "sit with" or "let be"
+* "allow" &rarr; "welcome" (with respect to feeling certain emotions; HT [Dana Torres](https://dt-counseling.com/about/){:target="&lowbar;blank"})
 * "let myself [X]" &rarr; "direct myself [X]" or just "I [X]"
 * "get past" &rarr; "work through"
 * "fix" &rarr; "heal"
