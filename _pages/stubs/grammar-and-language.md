@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2023-12-29T14:08:58+00:00"
+last_modified_at: "2024-04-19T12:38:27+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -204,6 +204,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * Pyrex
   * Tupperware
   * Post-It
+  * Sharpie
 * pronunciations I'm not okay with
   * foyer
   * Louisville
