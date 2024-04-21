@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2024-04-19T12:38:27+00:00"
+last_modified_at: "2024-04-21T13:13:38+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -60,6 +60,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * datacenter
   * goodnight
   * lockerroom
+  * coworker
 * contranyms
   * cleave: to adhere, or to separate
   * sanction: to approve, or to boycott/penalize
