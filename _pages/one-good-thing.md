@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-04-22T16:09:55+00:00"
+last_modified_at: "2024-04-23T12:47:58+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-04-18
+Brit and I signed our egg donor agreement!
 
 ## 2024-04-17
 Had a good chat with my matching coordinator at Circle Surrogacy about next steps!
