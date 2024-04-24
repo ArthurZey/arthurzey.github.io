@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-04-23T12:47:58+00:00"
+last_modified_at: "2024-04-24T13:14:20+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-04-19
+Had a really nice date night with Chase at 2 Dads Eatery and Taproom.
 
 ## 2024-04-18
 Brit and I signed our egg donor agreement!
