@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-04-27T22:22:53+00:00"
+last_modified_at: "2024-04-28T14:51:33+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-04-24
+Finally got to meet Regina, and we had a lovely dinner on the deck with her.
 
 ## 2024-04-21
 Had a fantastic day snowboarding at Copper and even took a new Facebook profile photo!
