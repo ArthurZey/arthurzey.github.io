@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2023-11-09T12:32:42+00:00"
+last_modified_at: "2024-05-02T14:49:00+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -257,6 +257,9 @@ _started in 2019; in progress_
 {% endcomment %}
 
 # 2023
+
+## Thomas Sowell: _Social Justice Fallacies_
+[Audible](https://www.audible.com/pd/B0BLXS3GZ9){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B0BJYSCX2M/){:target="&lowbar;blank"}
 
 ## C Todd Lombardo, Bruce McCarthy, Evan Ryan, Michael Connors: _Product Roadmaps Relaunched_
 [Audible](https://www.audible.com/pd/B08VKM51N1){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B076VX53K1/){:target="&lowbar;blank"}
