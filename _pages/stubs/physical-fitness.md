@@ -6,7 +6,7 @@ tags:
   - fitness
 description: "Why does physical fitness occupy such a prominent place in my life? And how does my concern with physical fitness manifest and relate to other values?"
 date: "2020-04-20"
-last_modified_at: "2023-05-02T02:30:50+00:00"
+last_modified_at: "2024-05-03T14:21:40+00:00"
 ---
 
 ## On This Page
@@ -46,6 +46,8 @@ Here are a few areas I'd like to explore:
 
 ## Exercise
 
+_2024-05-03 Note: This section is now very out of date. I use the [RP Hypertrophy App](https://rp.app/hypertrophy/code/ARTHUR){:target="&lowbar;blank"} now!_
+
 I use the [Renaissance Periodization Male Physique Templates](https://renaissanceperiodization.com/male-physique-training-templates){:target="&lowbar;blank"} (full-body, 4-day-per-week, which is basically an upper-lower-upper-lower split).
 
 There's a bit of nuance, but I basically go through the template (three or four 5-6-week "mesocycles") in conjunction with a phase of my [diet](#diet). (At the start of a cut or bulk, I start with a fresh template, regardless of whether I chose to finish the previous one.)
@@ -61,6 +63,8 @@ A few high-level notes:
 * I don't do any "cardio" as a formal part of my routine (proper lifting provides all the cardiovascular conditioning I could need or want for any practical purposes), but I do enjoy recreation whenever it comes up as a fun thing to do! During a cut, I intentionally find opportunities for more low-intensity, steady-state "cario", like walking/hiking.
 
 ## Diet
+
+_2024-05-03 Note: This section is now wildly out of date. I use the [RP Diet App](https://rp.app/code/arthur){:target="&lowbar;blank"} now!_
 
 My approach is inspired by the science/logic/algorithms that were later incorporated into the [RP Diet App](https://www.rpdiet.app){:target="&lowbar;blank"}. (Full disclosure: I worked on the UX for earlier versions of the app, and now my brother [Andrew](https://www.linkedin.com/in/andrewzey/) is their CTO / lead engineer!) I don't use the app or their templates, since I prefer to exercise more granular control over my diet design, especially by making various adjustments that help my cuts be more tolerable/effective (eg, reducing hunger pains, preventing hanger, avoiding ruining my health).
 
@@ -153,9 +157,16 @@ Optimizations that make cuts more bearable for me:
 
 ### Supplements
 
+#### Foods
+* [sauerkraut](https://wildbrine.com/product/raw-green-organic-sauerkraut/){:target="&lowbar;blank"}: typically 100 g per day for probiotics and Vitamin K2
+* [kefir](https://lifewaykefir.com/products/organic-plain-whole-milk-kefir/){:target="&lowbar;blank"}: typically 1 cup per day for probiotics and Vitamin K2
+* [greek yogurt](https://usa.fage/products/yogurt/fage-total-0){:target="&lowbar;blank"}: typically 200 g minimum per day for probiotics
+* apple cider vinegar: typically 30-50 g per day for probiotics and blood glucose regulation
+
 #### Powders
 * meal-replacement shakes: [Ample](https://www.amplemeal.com/){:target="&lowbar;blank"}
 * protein shakes: [whey](https://smile.amazon.com/gp/product/B000MANJPG/){:target="&lowbar;blank"} and [dextrose](https://smile.amazon.com/dp/B002JNM8YM/){:target="&lowbar;blank"}
+* [micronized creatine monohydrate](https://www.amazon.com/dp/B00E9M4XEE/){:target="&lowbar;blank"}: 15 g twice per day (which is well above the 5 g per day maximum effective dosage for supporting weightlifting goals, but which I'm experimenting with as a way of addressing chronic headaches and chronic fatigue, as suggested by the Huberman Lab episode [How to Stop Headaches Using Science-Based Approaches](https://open.spotify.com/episode/4piiZROlbgTKws8vmyMoTw){:target="&lowbar;blank"})
 
 #### Pills
 
@@ -165,17 +176,20 @@ Keep in mind that it's not a recommendation for anybody else.
 
 |Supplement|Morning|Evening|Justification and Comments|
 |-|-|-|-|
-|[fish oil](https://smile.amazon.com/dp/B009SYWHBE){:target="&lowbar;blank"} or<br />[flax oil](https://smile.amazon.com/dp/B0009ET4LS){:target="&lowbar;blank"}|1280 mg Omega-3 (fish oil) or<br >1550 mg Omega-3 (flax oil)|1280 mg Omega-3 (fish oil) or<br >1550 mg Omega-3 (flax oil)|anti-inflammatory<br />(fish oil recommended by Diana; flax oil recommended by urologist)|
+|[fish oil Omega-3](https://www.amazon.com/gp/product/B07QHP2ZNQ/){:target="&lowbar;blank"}|650 mg EPA<br />450 mg DHA|650 mg EPA<br />450 mg DHA|anti-inflammatory<br />(recommended by Diana)|
 |[cod liver oil](https://smile.amazon.com/dp/B002LZYPS0){:target="&lowbar;blank"}|250 mg|250 mg|dental health<br />(recommended by Diana)|
 |[butter oil](https://smile.amazon.com/dp/B002LZDQD0){:target="&lowbar;blank"}|250 mg|250 mg|dental health<br />(recommended by Diana)|
-|[vitamin D3](https://smile.amazon.com/dp/B00LCB4HH8){:target="&lowbar;blank"}|5000 IU|5000 IU|immune function, calcium absorption|
+|[Vitamin D3](https://smile.amazon.com/dp/B00LCB4HH8){:target="&lowbar;blank"}|5000 IU|5000 IU|immune function, calcium absorption|
+|[Magnesium Glycinate](https://smile.amazon.com/dp/B0017HYB2I){:target="&lowbar;blank"}|120 mg|360 mg|energy production and pre-bed calming support<br />(recommended by Andrew and Tom)|
 |~~[psyllium husk capsules](https://smile.amazon.com/dp/B0013OW2KS){:target="&lowbar;blank"}~~|~~2000 mg<br />(1467 mg fiber)~~|~~2000 mg<br />(1467 mg fiber)~~|~~fiber: bowel function<br />(recommended by gastroenterologist)~~<br />_Discontinued because ineffective._|
-|[glucosamine](https://products.wholefoodsmarket.com/product/365-everyday-value-glucosamine-chondroitin-msm-2x-strength-15cad1){:target="&lowbar;blank"}|1500 mg glucosamine HCl<br />1200 mg chondroitin sulfate<br />250 mg methylsulfonylmethane (MSM)|1500 mg glucosamine HCl<br />1200 mg chondroitin sulfate<br />250 mg methylsulfonylmethane (MSM)|joint and bone health/support (particularly knee issues)<br />(recommended by Emily Webb; seemed to make a huge difference)|
-|[curcumin](https://smile.amazon.com/dp/B00WT4D57K){:target="&lowbar;blank"}|1500 mg|1500 mg|anti-inflammatory<br />(recommended by Andrew)|
-|[vitamin C](https://smile.amazon.com/dp/B0013P1GD6){:target="&lowbar;blank"}|1000 mg| |immune function|
-|[calcium citrate](https://smile.amazon.com/dp/B00172XUWU){:target="&lowbar;blank"}|150 mg| |bone health<br />separated from magnesium to avoid competition for absorption pathways<br />(recommended by Andrew and Tom)|
-|[vitamin B stress complex](https://www.amazon.com/dp/B0797DVMF3){:target="&lowbar;blank"}|[451.514 mg (various)](https://m.media-amazon.com/images/I/81rPCG9f8ML._AC_SL1500_.jpg){:target="&lowbar;blank"}| |energy, stress-management|
-|[magnesium glycinate](https://smile.amazon.com/dp/B0017HYB2I){:target="&lowbar;blank"}| |120 mg|pre-bed calming support<br />separated from calcium to avoid competition for absorption pathways<br />(recommended by Andrew and Tom)|
-|[zinc aspartate and zinc orotate](https://main.poliquinstore.com/uberzinc-px){:target="&lowbar;blank"}| |30 mg|[immune function, thyroid function](https://www.youtube.com/watch?v=hE_V-5GgBo8){:target="&lowbar;blank"}<br />(recommended by Christian Wernstedt)|
-|~~[iodine and potassium iodide](https://smile.amazon.com/dp/B000X843VG/){:target="&lowbar;blank"}~~| |~~12.5 mg~~|~~thyroid function<br />(recommended by Diana)~~<br />_Discontinued because likely culprit in triggering [hyperthyroidism](/blog/2021-11-30/hyperthyroidism/)._|
-|[selenium](https://smile.amazon.com/dp/B00YAULMUS){:target="&lowbar;blank"}| |0.2 mg|iodine and iodide absorption<br />(recommended by Diana)|
+|[Glucosamine](https://products.wholefoodsmarket.com/product/365-everyday-value-glucosamine-chondroitin-msm-2x-strength-15cad1){:target="&lowbar;blank"}|1500 mg glucosamine HCl<br />1200 mg chondroitin sulfate<br />250 mg methylsulfonylmethane (MSM)|1500 mg glucosamine HCl<br />1200 mg chondroitin sulfate<br />250 mg methylsulfonylmethane (MSM)|joint and bone health/support (particularly knee issues)<br />(recommended by Emily Webb; seemed to make a huge difference)|
+|[Curcumin](https://smile.amazon.com/dp/B00WT4D57K){:target="&lowbar;blank"}|1500 mg|1500 mg|anti-inflammatory<br />(recommended by Andrew)|
+|[Nattokinase](https://www.amazon.com/gp/product/B091C3GDLY/){:target="&lowbar;blank"}|100 mg<br />(2000 FU)|100 mg<br />(2000 FU)|part of a [Nattokinase, Bromelain, and Curcumin protocol](https://jpands.org/vol28no3/mccullough.pdf){:target="&lowbar;blank"}<br />(to help [break up the spike protein](https://www.mdpi.com/1420-3049/27/17/5405){:target="&lowbar;blank"}) to address [Long COVID](/blog/2023-08-17/long-covid-funk/)<br />(recommended by Scott Popp)|
+|[Bromelain](https://www.amazon.com/gp/product/B000I2028A/){:target="&lowbar;blank"}|500 mg|500 mg|part of a [Nattokinase, Bromelain, and Curcumin protocol](https://jpands.org/vol28no3/mccullough.pdf){:target="&lowbar;blank"}<br />(to help [break up the spike protein](https://www.mdpi.com/1420-3049/27/17/5405){:target="&lowbar;blank"}) to address [Long COVID](/blog/2023-08-17/long-covid-funk/)<br />(recommended by Scott Popp)|
+|[Nitric Oxide Foundation](https://berkeleylife.com/products/nitric-oxide-foundation/){:target="&lowbar;blank"}|500 mg Potassium Nitrate, Beet Root Extract/Powder<br />290 mg Vitamin C<br />90 mg Thiamin Mononitrate<br />200 mcg Vitamin B12<br />75 mg Magnesium Citrate<br />189 mg Potassium Nitrate| |to address energy production issues and blood flow related to [Long COVID](/blog/2023-08-17/long-covid-funk/)<br />(recommended by Scott Popp)|
+|[Vitamin C](https://smile.amazon.com/dp/B0013P1GD6){:target="&lowbar;blank"}|1000 mg| |immune function|
+|~~[calcium citrate](https://smile.amazon.com/dp/B00172XUWU){:target="&lowbar;blank"}~~|~~150 mg~~| |~~bone health<br />separated from magnesium to avoid competition for absorption pathways<br />(recommended by Andrew and Tom)~~<br />_Discontinued because unnecessary with my dairy intake and potential inflammatory effects._|
+|[Vitamin B stress complex](https://www.amazon.com/dp/B0797DVMF3){:target="&lowbar;blank"}|[451.514 mg (various)](https://m.media-amazon.com/images/I/81rPCG9f8ML._AC_SL1500_.jpg){:target="&lowbar;blank"}| |energy, stress-management|
+|[Zinc Aspartate and Zinc Orotate](https://main.poliquinstore.com/uberzinc-px){:target="&lowbar;blank"}| |30 mg|[immune function, thyroid function](https://www.youtube.com/watch?v=hE_V-5GgBo8){:target="&lowbar;blank"}<br />(recommended by Christian Wernstedt)|
+|~~[Iodine and Potassium Iodide](https://smile.amazon.com/dp/B000X843VG/){:target="&lowbar;blank"}~~| |~~12.5 mg~~|~~thyroid function<br />(recommended by Diana)~~<br />_Discontinued because likely culprit in triggering [hyperthyroidism](/blog/2021-11-30/hyperthyroidism/)._|
+|[Selenium](https://smile.amazon.com/dp/B00YAULMUS){:target="&lowbar;blank"}| |0.2 mg|iodine and iodide absorption<br />(recommended by Diana)|
