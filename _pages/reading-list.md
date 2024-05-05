@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2024-05-02T14:49:00+00:00"
+last_modified_at: "2024-05-05T14:10:08+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -256,10 +256,18 @@ _started in 2019; in progress_
 
 {% endcomment %}
 
+# 2024
+
+## Richard Schwartz: _Introduction to Internal Family Systems_
+[Audible](https://www.audible.com/pd/B0BVJVGH55){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B0B19D1CJ9/){:target="&lowbar;blank"}
+
 # 2023
 
 ## Thomas Sowell: _Social Justice Fallacies_
 [Audible](https://www.audible.com/pd/B0BLXS3GZ9){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B0BJYSCX2M/){:target="&lowbar;blank"}
+{% comment %}
+* 7% in: So far, I agree 100% that the ideologically motivated proclivity to attribute any differences in outcome to racial or other similar discriminatory biases is absolutely wrong-headed. However, he doesn't seem to do enough of a job acknowledging that certain kinds of systemic injustices can compound and magnify in a vicious cycle. We'll see if he addresses that later in the book.
+{% endcomment %}
 
 ## C Todd Lombardo, Bruce McCarthy, Evan Ryan, Michael Connors: _Product Roadmaps Relaunched_
 [Audible](https://www.audible.com/pd/B08VKM51N1){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B076VX53K1/){:target="&lowbar;blank"}
