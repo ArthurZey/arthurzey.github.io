@@ -6,7 +6,7 @@ tags:
   - fitness
 description: "Why does physical fitness occupy such a prominent place in my life? And how does my concern with physical fitness manifest and relate to other values?"
 date: "2020-04-20"
-last_modified_at: "2024-05-03T14:21:40+00:00"
+last_modified_at: "2024-05-06T12:52:31+00:00"
 ---
 
 ## On This Page
@@ -166,7 +166,8 @@ Optimizations that make cuts more bearable for me:
 #### Powders
 * meal-replacement shakes: [Ample](https://www.amplemeal.com/){:target="&lowbar;blank"}
 * protein shakes: [whey](https://smile.amazon.com/gp/product/B000MANJPG/){:target="&lowbar;blank"} and [dextrose](https://smile.amazon.com/dp/B002JNM8YM/){:target="&lowbar;blank"}
-* [micronized creatine monohydrate](https://www.amazon.com/dp/B00E9M4XEE/){:target="&lowbar;blank"}: 15 g twice per day (which is well above the 5 g per day maximum effective dosage for supporting weightlifting goals, but which I'm experimenting with as a way of addressing chronic headaches and chronic fatigue, as suggested by the Huberman Lab episode [How to Stop Headaches Using Science-Based Approaches](https://open.spotify.com/episode/4piiZROlbgTKws8vmyMoTw){:target="&lowbar;blank"})
+* [micronized creatine monohydrate](https://www.amazon.com/dp/B00E9M4XEE/){:target="&lowbar;blank"}: 5 g per day for supporting weightlifting goals
+  * For 4 weeks between April and May 2024, I experimentied with 30-40 g per day as a way of addressing chronic headaches and chronic fatigue, as suggested by the Huberman Lab episode [How to Stop Headaches Using Science-Based Approaches](https://open.spotify.com/episode/4piiZROlbgTKws8vmyMoTw){:target="&lowbar;blank"}. After experiencing no change to my headache or energy levels in that time, I decided to return back down to 5 g per day, to avoid any downsides of such high creatine intake.
 
 #### Pills
 
