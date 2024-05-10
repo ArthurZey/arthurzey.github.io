@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2024-05-08T15:47:12+00:00"
+last_modified_at: "2024-05-10T16:35:30+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -257,6 +257,9 @@ _started in 2019; in progress_
 {% endcomment %}
 
 # 2024
+
+## Richard Schwartz: _No Bad Parts_
+[Audible](https://www.audible.com/pd/B09GKYDGZQ){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B09GKXH7QW/){:target="&lowbar;blank"}
 
 ## Topher Payne: _The Tree Who Set Healthy Boundaries_
 [Homepage](https://www.topherpayne.com/giving-tree){:target="&lowbar;blank"} | [PDF](https://www.topherpayne.com/_files/ugd/91bb14_622b75781da64356bcb9112b3ce069f0.pdf){:target="&lowbar;blank"}
