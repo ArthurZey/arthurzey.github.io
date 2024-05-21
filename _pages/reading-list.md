@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2024-05-13T18:01:08+00:00"
+last_modified_at: "2024-05-21T13:47:18+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -257,6 +257,9 @@ _started in 2019; in progress_
 {% endcomment %}
 
 # 2024
+
+## Harriet Lerner: _The Dance of Connection_
+[Audible](https://www.audible.com/pd/B002V8DJ4I){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B000GCFX2W/){:target="&lowbar;blank"}
 
 ## Harriet Lerner: _The Dance of Intimacy_
 [Audible](https://www.audible.com/pd/B002UZKY86){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B000FC11CE/){:target="&lowbar;blank"}
