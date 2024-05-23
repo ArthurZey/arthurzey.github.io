@@ -6,7 +6,7 @@ tags:
   - fitness
 description: "Why does physical fitness occupy such a prominent place in my life? And how does my concern with physical fitness manifest and relate to other values?"
 date: "2020-04-20"
-last_modified_at: "2024-05-06T12:52:31+00:00"
+last_modified_at: "2024-05-23T12:56:19+00:00"
 ---
 
 ## On This Page
@@ -181,6 +181,7 @@ Keep in mind that it's not a recommendation for anybody else.
 |[cod liver oil](https://smile.amazon.com/dp/B002LZYPS0){:target="&lowbar;blank"}|250 mg|250 mg|dental health<br />(recommended by Diana)|
 |[butter oil](https://smile.amazon.com/dp/B002LZDQD0){:target="&lowbar;blank"}|250 mg|250 mg|dental health<br />(recommended by Diana)|
 |[Vitamin D3](https://smile.amazon.com/dp/B00LCB4HH8){:target="&lowbar;blank"}|5000 IU|5000 IU|immune function, calcium absorption|
+|[Coenzyme Q10](https://www.amazon.com/gp/product/B0BSP5GTMQ/){:target="&lowbar;blank"}|200 mg|200 mg|energy production|
 |[Magnesium Glycinate](https://smile.amazon.com/dp/B0017HYB2I){:target="&lowbar;blank"}|120 mg|360 mg|energy production and pre-bed calming support<br />(recommended by Andrew and Tom)|
 |~~[psyllium husk capsules](https://smile.amazon.com/dp/B0013OW2KS){:target="&lowbar;blank"}~~|~~2000 mg<br />(1467 mg fiber)~~|~~2000 mg<br />(1467 mg fiber)~~|~~fiber: bowel function<br />(recommended by gastroenterologist)~~<br />_Discontinued because ineffective._|
 |[Glucosamine](https://products.wholefoodsmarket.com/product/365-everyday-value-glucosamine-chondroitin-msm-2x-strength-15cad1){:target="&lowbar;blank"}|1500 mg glucosamine HCl<br />1200 mg chondroitin sulfate<br />250 mg methylsulfonylmethane (MSM)|1500 mg glucosamine HCl<br />1200 mg chondroitin sulfate<br />250 mg methylsulfonylmethane (MSM)|joint and bone health/support (particularly knee issues)<br />(recommended by Emily Webb; seemed to make a huge difference)|
