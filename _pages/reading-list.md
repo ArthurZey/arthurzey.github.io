@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2024-05-25T13:58:04+00:00"
+last_modified_at: "2024-05-26T20:45:09+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -257,6 +257,9 @@ _started in 2019; in progress_
 {% endcomment %}
 
 # 2024
+
+## Gary John Bishop: _Grow Up: Becoming the Parent Your Kids Deserve_
+[Audible](https://www.audible.com/pd/B0BSS9RJGJ){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B0BPSXPK5P/){:target="&lowbar;blank"}
 
 ## Thomas Sowell: _The Vision of the Anointed: Self-Congratulation as a Basis for Social Policy_
 [Audible](https://www.audible.com/pd/B09VMKJ4RH){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B07R3HQMF9/){:target="&lowbar;blank"}
