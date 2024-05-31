@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2024-05-28T12:13:51+00:00"
+last_modified_at: "2024-05-31T19:15:32+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -257,6 +257,9 @@ _started in 2019; in progress_
 {% endcomment %}
 
 # 2024
+
+## Cal Newport: _Digital Minimalism: Choosing a Focused Life in a Noisy World_
+[Audible](https://www.audible.com/pd/B07LGF8TCJ){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B07DBRBP7G/){:target="&lowbar;blank"}
 
 ## Gary John Bishop: _Wise as Fuck: Simple Truths to Guide You Through the Shitstorms of Life_
 [Audible](https://www.audible.com/pd/0062952307){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B083SNWBRP/){:target="&lowbar;blank"}
