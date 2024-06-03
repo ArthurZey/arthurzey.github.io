@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2024-06-01T14:11:46+00:00"
+last_modified_at: "2024-06-03T12:06:00+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -246,6 +246,14 @@ Not up to date (yet?), but see also [my Goodreads profile](https://www.goodreads
 ## C Bradley Thompson: _What America Is_
 [Kindle](https://www.amazon.com/gp/aw/d/B0C86NS7PQ/){:target="&lowbar;blank"}
 
+## Thomas Sowell: _Is Reality Optional?_
+* Chapter 1:
+  * compassion is also important
+  * it's not always either-or
+  * win-win is always possible
+* Being With It:
+  * response to children saying "go to hell" to parents
+
 _started in 2019; in progress_
 
 ## Nathan James and Victor Bliss: _The Mantantra Letters_
@@ -275,6 +283,16 @@ _started in 2019; in progress_
 
 ## Thomas Sowell: _The Vision of the Anointed: Self-Congratulation as a Basis for Social Policy_
 [Audible](https://www.audible.com/pd/B09VMKJ4RH){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B07R3HQMF9/){:target="&lowbar;blank"}
+{% comment %}
+* Chapter 5: false dichotomy between certain aspects of the visions of the anointed versus the tragic, particularly as regards criminal rehabilitation and avoiding war versus punishment and retaliation.
+* Chapter 7:
+  * Miranda rights
+  * "capitalism" not ideological
+  * Rights and categorical versus incremental is too myopic and defines rights out of existence
+  * TONS of great content, but a few nitpicks: Miranda rights, however problematic, also serve to protect the unsophisticated innocent; "capitalism" is absolutely an ideological/moral system (and I'm surprised someone as well read as Sowell is unfamiliar with Rand); and his superficial discussion of categorical versus incremental renders the whole phenomenon of rights absurd.
+* Chapter 8: Another excellent analysis overall, but his pragmatism shines through. At times, he sounds like a proponent of unlimited democracy, without a principled theory of categorical rights to stand on, because he cannot figure out how to reconcile that with his (badly named) "tragic vision".
+* One thing that Sowell misses is that even on the tragic vision, where we deal with incentives, there are often deeper incentives and systemic effects than immediate rewards and punishments, as regards situations like crime and war. so, while the anointed may be completely out of touch with respect to how to enact their visions, some of them have identified important truths about human nature, which means that they’re not always trying to remake human nature. We should be careful to not throw out the baby with the bathwater.
+{% endcomment %}
 
 ## Harriet Lerner: _The Dance of Anger_
 [Audible](https://www.audible.com/pd/B01H42HQFI){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B00F2I2H56/){:target="&lowbar;blank"}
