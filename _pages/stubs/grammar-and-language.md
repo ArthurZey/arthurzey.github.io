@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2024-05-15T13:58:56+00:00"
+last_modified_at: "2024-06-04T12:42:53+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -32,6 +32,8 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "workout" versus "work out"
   * "wakeup" versus "wake up"
   * "followup" versus "follow up"
+  * "hangout" versus "hang out"
+  * "hookup" versus "hook up"
   * "handwriting" versus "hand-writing"
 * "the reason why", "the reason is because"
 * "coincidence" versus "mere coincidence"
@@ -61,6 +63,8 @@ Here are a few of my fixations and particularities (in no particular order) that
   * goodnight
   * lockerroom
   * coworker
+  * hashbrown
+  * onramp
 * contranyms
   * cleave: to adhere, or to separate
   * sanction: to approve, or to boycott/penalize
@@ -95,6 +99,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "IHP program"
   * "RPC call"
   * "ICU unit"
+  * "KT Tape"
 * "compose" versus "comprise"
 * "further" versus "farther"
 * "less" versus "fewer"
