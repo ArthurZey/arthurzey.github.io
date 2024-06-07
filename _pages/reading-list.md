@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2024-06-03T12:06:00+00:00"
+last_modified_at: "2024-06-07T16:42:33+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -265,6 +265,18 @@ _started in 2019; in progress_
 {% endcomment %}
 
 # 2024
+
+## Thomas Sowell: _Is Reality Optional?_
+[Audible](https://www.audible.com/pd/B0BFJT6KL3){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B089DQYVF3/){:target="&lowbar;blank"}
+{% comment %}
+* Chapter 1
+  * compassion is also important
+  * it's not always either-or
+  * win-win is always possible
+* Being With It: response to children saying "go to hell" to parents
+* The Mindset of Munich: You can simultaneously believe that war is a result of good people with bad incentives instead of evil, and also that you need strong military responses to hold them accountable.
+* Profit Without Honor: sloppy use of the word selfish
+{% endcomment %}
 
 ## Esther Perel: _Mating in Captivity_
 [Audible](https://www.audible.com/pd/B002V8HNWC){:target="&lowbar;blank"} | [Kindle](https://smile.amazon.com/dp/B000UODXP0){:target="&lowbar;blank"}
