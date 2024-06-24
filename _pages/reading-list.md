@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2024-06-23T12:54:28+00:00"
+last_modified_at: "2024-06-24T19:27:46+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -265,6 +265,9 @@ _started in 2019; in progress_
 {% endcomment %}
 
 # 2024
+
+## Harriet Lerner: _The Dance of Deception_
+[Audible](https://www.audible.com/pd/B002V5CXR0){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B000GCFX2C/){:target="&lowbar;blank"}
 
 ## Harriet Lerner: _Marriage Rules_
 [Audible](https://www.audible.com/pd/B09V1ZPTGY){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B005ERIS2G/){:target="&lowbar;blank"}
