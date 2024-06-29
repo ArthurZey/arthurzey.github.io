@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2024-06-28T14:17:38+00:00"
+last_modified_at: "2024-06-29T16:45:56+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -266,8 +266,11 @@ _started in 2019; in progress_
 
 # 2024
 
+## Gary John Bishop: _Sanity_
+[Audible](https://www.audible.com/pd/0063094754){:target="&lowbar;blank"}
+
 ## Gary John Bishop: _Ask Gary Fucking Anything_
-[Audibel](https://www.audible.com/pd/006295234X){:target="&lowbar;blank"}
+[Audible](https://www.audible.com/pd/006295234X){:target="&lowbar;blank"}
 
 ## Harriet Lerner: _The Dance of Fear_
 [Audible](https://www.audible.com/pd/B002V0K8JK){:target="&lowbar;blank"} | [Kindle](https://www.amazon.com/dp/B0721RQMFT/){:target="&lowbar;blank"}
