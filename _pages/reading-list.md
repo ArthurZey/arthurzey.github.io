@@ -4,7 +4,7 @@ tags:
   - log
 description: "What books am I reading?"
 date: "2020-11-05"
-last_modified_at: "2024-06-29T16:45:56+00:00"
+last_modified_at: "2024-07-01T22:15:12+00:00"
 ---
 
 Let's just say that I use the word "read" loosely: I include here audiobooks that I've listened to, but I'm not including podcasts or one-off audio productions (such as recorded lectures).
@@ -265,6 +265,9 @@ _started in 2019; in progress_
 {% endcomment %}
 
 # 2024
+
+## Harriet Lerner: _On Anger_
+[Audible](https://www.audible.com/pd/B00PHH18UC){:target="&lowbar;blank"}
 
 ## Gary John Bishop: _Sanity_
 [Audible](https://www.audible.com/pd/0063094754){:target="&lowbar;blank"}
