@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-07-07T17:10:41+00:00"
+last_modified_at: "2024-07-11T17:15:26+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-05-18
+Had a great time snowboarding at A-Basin!
 
 ## 2024-05-17
 Had a wonderful time at Bergen Meadows Field Day with Chase and Scott.
