@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-07-14T16:02:38+00:00"
+last_modified_at: "2024-07-15T18:37:36+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-06-04
+Enjoyed Aaron's going-away celebration at Krav Maga Littleton.
 
 ## 2024-05-25
 Enjoyed the last day of snowboarding this season at A-Basin and then 1FROG at Dan Sullivan's.
