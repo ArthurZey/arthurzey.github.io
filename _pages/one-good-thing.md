@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-07-17T18:26:07+00:00"
+last_modified_at: "2024-07-18T20:39:32+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-06-10
+Got the well repaired (replaced pressure switch and contactor).
 
 ## 2024-06-07
 Had a nice time climbing at Staunton State Park with Chase, Sophie, Hazel, David, Richard, Robert, and Martin.
