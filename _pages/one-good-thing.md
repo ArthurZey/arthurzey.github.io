@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-08-07T22:58:30+00:00"
+last_modified_at: "2024-08-08T14:56:35+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-07-04
+Picked up Chase from the airport after his Peru / Alpamayo trip!
 
 ## 2024-07-01
 Got home after travel.
