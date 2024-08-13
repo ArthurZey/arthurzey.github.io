@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-08-11T13:53:28+00:00"
+last_modified_at: "2024-08-13T14:03:17+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-07-07
+Flew to and arrived in Kaua'i and settled in at Hale Anela in Po'ipu Beach!
 
 ## 2024-07-06
 Got a haircut!
