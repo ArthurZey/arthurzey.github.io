@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-08-18T16:22:21+00:00"
+last_modified_at: "2024-08-20T00:56:17+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-07-11
+Dad came to Kaua'i to surprise me on my 40th birthday, and we all went out to a steak dinner!
 
 ## 2024-07-10
 Got my new favorite rooster-themed wide-brimmed Kaua'i hat!
