@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-08-20T12:54:11+00:00"
+last_modified_at: "2024-08-21T14:27:49+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-07-13
+Had a fun time going ot the lava arch and Kekaha beach.
 
 ## 2024-07-12
 Hiked the Sleeping Giant, splashed around in Hanalei Bay, and went to a luau!
