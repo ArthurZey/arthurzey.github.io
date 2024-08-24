@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-08-21T14:27:49+00:00"
+last_modified_at: "2024-08-24T15:55:01+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-07-14
+Boat tour of the Nā Pali Coast!
 
 ## 2024-07-13
 Had a fun time going ot the lava arch and Kekaha beach.
