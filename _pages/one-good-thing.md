@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-08-25T16:37:06+00:00"
+last_modified_at: "2024-08-28T14:56:18+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-07-16
+Had a nice, chill day, and got plain shave(d) ice that I put POG on myself!
 
 ## 2024-07-15
 First day with Olivia, and we went on a walk to the lava arch!
