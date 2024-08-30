@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-08-28T14:56:18+00:00"
+last_modified_at: "2024-08-30T02:38:25+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-07-17
+Kayaked the Wailua River and hiked to the secret falls!
 
 ## 2024-07-16
 Had a nice, chill day, and got plain shave(d) ice that I put POG on myself!
