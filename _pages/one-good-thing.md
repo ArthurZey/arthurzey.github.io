@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-08-31T17:10:11+00:00"
+last_modified_at: "2024-09-01T16:07:15+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-07-20
+Went to Donkey Beach with Christopher and Morten!
 
 ## 2024-07-19
 Went to the west side of the island with Christopher and Morten!
