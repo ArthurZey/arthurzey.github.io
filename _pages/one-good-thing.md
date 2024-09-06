@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-09-05T14:09:59+00:00"
+last_modified_at: "2024-09-06T14:08:02+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-07-27
+Started Shreyas Doshi's _Improving Your Product Sense_ course!
 
 ## 2024-07-22
 Sad though we were to leave Kaua'i, we were happy to get back home, without any difficulty.
