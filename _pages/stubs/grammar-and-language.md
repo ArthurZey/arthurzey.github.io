@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2024-09-13T12:46:00+00:00"
+last_modified_at: "2024-09-14T12:20:47+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -178,7 +178,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * Vallejo
   * neutral
   * I want you
-  * Colorado, Nevada, Iraq, Iran, Afganistan
+  * Colorado, Nevada, Iraq, Iran, Afghanistan
   * leisure
   * celestial
   * niche
@@ -212,6 +212,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * Tupperware
   * Post-It
   * Sharpie
+  * Scotch tape
 * pronunciations I'm not okay with
   * foyer
   * Louisville
