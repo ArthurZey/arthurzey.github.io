@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-10-03T12:45:05+00:00"
+last_modified_at: "2024-10-05T12:19:05+00:00"
 tags:
   - happenings
   - draft
@@ -17,6 +17,9 @@ Thor's first day of no accidents in the house!
 
 ## 2024-09-14
 Thor's adoption day!
+
+## 2024-09-03
+Resumed Krav Maga after my COVID infection.
 
 ## 2024-08-30
 Paid deposit for Thor!
