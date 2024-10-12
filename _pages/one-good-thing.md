@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-10-10T12:00:22+00:00"
+last_modified_at: "2024-10-12T01:25:18+00:00"
 tags:
   - happenings
   - draft
@@ -17,6 +17,9 @@ Thor's first day of no accidents in the house!
 
 ## 2024-09-14
 Thor's adoption day!
+
+## 2024-09-13
+Drove to Utah with Chase and Max, and we met Thor!
 
 ## 2024-09-10
 Went to see _Avatar: The Last Airbender_ Live in Concert with Chase, and it was phenomenal!
