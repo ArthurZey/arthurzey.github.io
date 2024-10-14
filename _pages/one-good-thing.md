@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-10-13T16:14:57+00:00"
+last_modified_at: "2024-10-14T17:32:10+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-10-03
+Had a very productive afternoon of taking care of a bunch of errands in Denver, including getting the Zey Family Trust documents notarized.
 
 ## 2024-09-29
 Took Thor and Max on a FROLIC hike with Charles, Jenae, and Jordan!
