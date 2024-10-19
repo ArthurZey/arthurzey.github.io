@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-10-18T14:09:06+00:00"
+last_modified_at: "2024-10-19T10:28:28+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-10-10
+Chase and I had a nice family dinner with Susan (Melissa's mom), the Cades, and the Vekslers.
 
 ## 2024-10-05
 Had a great time rock climbing at Staunton State Park with Chase and Scott.
