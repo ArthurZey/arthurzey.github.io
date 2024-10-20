@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-10-19T10:28:28+00:00"
+last_modified_at: "2024-10-20T12:05:04+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-10-12
+Had a great time at 3FROG with Chase, where I presented the first chapter of Tara Smith's _Ayn Rand's Normative Ethics: The Virtuous Egoist_.
 
 ## 2024-10-10
 Chase and I had a nice family dinner with Susan (Melissa's mom), the Cades, and the Vekslers.
