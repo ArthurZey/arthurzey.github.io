@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-10-20T12:05:04+00:00"
+last_modified_at: "2024-10-21T13:46:22+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-10-13
+Had a delightful grandkids luncheon at The Penthouse restaurant in Santa Monica with Grandma Bella and Andrew, Elizabeth, Jacqueline & Daniel, Kataryna, and Victor.
 
 ## 2024-10-12
 Had a great time at 3FROG with Chase, where I presented the first chapter of Tara Smith's _Ayn Rand's Normative Ethics: The Virtuous Egoist_.
