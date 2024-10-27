@@ -7,7 +7,7 @@ tags:
   - about
 description: "What is the connection between pride, arrogance, modesty, and pretense? What is healthy, and what is destructive?"
 date: "2021-03-05"
-last_modified_at: "2021-03-05"
+last_modified_at: "2024-10-27T14:02:47+00:00"
 ---
 
 * forms of pretense
@@ -20,3 +20,6 @@ last_modified_at: "2021-03-05"
   * in the sense of healthy self-esteem and feeling good about one's accomplishments etc
 * modesty as an insidious form of "better than others" or other insecurities
 * connection to first- versus second-handedness
+* ego
+  * When people characterize someone as having a "big ego", they typically mean something that, in reality, means that they have very little (genuine) ego.
+  * When people talk about someone's modesty or humility, they often (but not always) mean that they have a non-bragging, quiet confidence that actually reflects having a strong, "big" (genuine) ego.
