@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-10-22T11:04:12+00:00"
+last_modified_at: "2024-10-28T12:43:17+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-10-20
+Had a nice time at 1FROG, where Chase presented on his Alpamayo expedition, and I presented my review of LevelUp 2024.
 
 ## 2024-10-19
 Finally installed the tote ceiling rails in the garage after 7 months!
