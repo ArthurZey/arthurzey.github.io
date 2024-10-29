@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-10-28T12:43:17+00:00"
+last_modified_at: "2024-10-29T13:29:36+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-10-22
+Did pumpkin carving with Chase, Richard, and Robert, which was the first time for me in decades, and I carved out a Voyager-era Starfleet combadge!
 
 ## 2024-10-20
 Had a nice time at 1FROG, where Chase presented on his Alpamayo expedition, and I presented my review of LevelUp 2024.
