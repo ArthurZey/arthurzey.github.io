@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-10-29T13:29:36+00:00"
+last_modified_at: "2024-11-06T12:32:21+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-10-27
+Had a terrific time being a mock client for Chase's SPI exam, and then we had a great dinner at Texas de Brazi!
 
 ## 2024-10-22
 Did pumpkin carving with Chase, Richard, and Robert, which was the first time for me in decades, and I carved out a Voyager-era Starfleet combadge!
