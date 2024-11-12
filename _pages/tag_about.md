@@ -47,7 +47,7 @@ hash_redirects:
     from: "#autism-test"
     to: "/personality-and-behavioral-profiles/#autism-test"
 date: "2020-04-15"
-last_modified_at: "2023-11-13T13:00:49+00:00"
+last_modified_at: "2024-11-12T20:34:06+00:00"
 ---
 
 {:refdef: style="text-align: center;"}
@@ -742,31 +742,50 @@ Boy Scouts?
     <td markdown="span"></td>
   </tr>
   <tr>
-    <td markdown="span" rowspan="4">Bailey, CO</td>
+    <td markdown="span" rowspan="6">Bailey, CO</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
     <td markdown="span">[Bought my first home!](/blog/2022-01-01/2021-retrospective/#buying-my-first-home)</td>
   </tr>
   <tr>
     <td markdown="span"></td>
-    <td markdown="span" rowspan="3">Ookla: [Speedtest Powered](https://www.ookla.com/speedtest-powered){:target="&lowbar;blank"}</td>
+    <td markdown="span" rowspan="4">Ookla: [Speedtest Powered](https://www.ookla.com/speedtest-powered){:target="&lowbar;blank"}</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
   </tr>
   <tr>
     <td markdown="span">2022</td>
     <td markdown="span"></td>
-    <td markdown="span" rowspan="2">Chase</td>
+    <td markdown="span" rowspan="4">Chase</td>
     <td markdown="span">[Welcomed Max into my life!](/blog/2022-06-15/max/)</td>
   </tr>
   <tr>
     <td markdown="span">2023</td>
     <td markdown="span"></td>
     <td markdown="span">Welcomed Murrby into my life</td>
+  </tr>
+  <tr>
+    <td markdown="span" rowspan="2">2024</td>
+    <td markdown="span"></td>
+    <td markdown="span" rowspan="2">Welcomed Thor to the Wolfden!</td>
+  </tr>
+  <tr>
+    <td markdown="span"></td>
+    <td markdown="span">RP Strength (Renaissance Periodization)</td>
+  </tr>
  </tbody>
 </table>
 
 {% comment %}
+
+  <tr>
+    <th markdown="span">Year</th>
+    <th markdown="span">Location</th>
+    <th markdown="span">School</th>
+    <th markdown="span">[Work](https://www.linkedin.com/in/arthurzey){:target="&lowbar;blank"}</th>
+    <th markdown="span">Love</th>
+    <th markdown="span">Miscellaneous</th>
+  </tr>
 
 ## Profiles
 
