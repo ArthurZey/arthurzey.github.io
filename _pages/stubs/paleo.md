@@ -6,7 +6,7 @@ tags:
   - diet
 description: "While often derided as \"the caveman diet\", I think the right approach to evaluating Paleo is in thinking of it as a presumptively safe default."
 date: "2020-05-08"
-last_modified_at: "2020-10-18"
+last_modified_at: "2024-11-18T12:59:23+00:00"
 ---
 
 ## On This Page
@@ -19,6 +19,7 @@ last_modified_at: "2020-10-18"
 * how I got interested in Paleo in the first place
 * low-carb "versus" Paleo
 * evolutionary perspective in diet versus in psychology
+* risk, the precautionary principle, presumptive safety, and the RP video ["All Food is Poison"](https://www.youtube.com/watch?v=qH8LUFOaiek){:target="&lowbar;blank"}
 * AIP (autoimmune protocol) and Whole30
 * modern-day approximations
 * the anti-concept of "processed foods"
