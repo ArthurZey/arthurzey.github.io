@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-11-23T13:45:43+00:00"
+last_modified_at: "2024-11-24T17:51:31+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-11-09
+Really enjoyed James's talk at Charcon 6.0, _Inductive Narrative Proof: Gaining Certainty in Science_, which was absolutely phenomenal.
 
 ## 2024-11-07
 Had a nice brunch with Nick in Charlotte!
