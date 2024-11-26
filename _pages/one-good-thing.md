@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-11-25T17:16:52+00:00"
+last_modified_at: "2024-11-26T17:26:33+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-11-12
+Finally got some of the more serious plumbing issues fixed!
 
 ## 2024-11-10
 My talk on meditation (_Meditation: Who Needs It_) at Charcon 6.0 went really well, even though it was poorly attended because of the early time.
