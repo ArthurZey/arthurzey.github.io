@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-11-28T15:27:00+00:00"
+last_modified_at: "2024-11-29T17:11:02+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-11-20
+Got Neteo installed, and had a good experience with the technician, Karston.
 
 ## 2024-11-19
 Had a good time with the Cades and Vekslers at Golden Stix for Melissa's 40th birthday dinner.
