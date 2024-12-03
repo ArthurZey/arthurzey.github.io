@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-12-01T16:19:59+00:00"
+last_modified_at: "2024-12-03T14:56:10+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-11-23
+Flew into Los Angeles for Thanksgiving week.
 
 ## 2024-11-22
 Got Neteo dish adjusted to improve performance.
