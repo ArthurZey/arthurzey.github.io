@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2024-12-07T16:08:08+00:00"
+last_modified_at: "2024-12-08T16:15:19+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-11-28
+Had a really nice impromptu Thanksgiving "rehearsal" dinner at Dad's and Masha's, with delicious steak!
 
 ## 2024-11-27
 Had a lovely lunch with Kim at Astro Burger!
