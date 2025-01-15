@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-01-13T13:58:41+00:00"
+last_modified_at: "2025-01-15T15:40:53+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2024-12-23
+Chase and I drove up to Cody, WY with Max and Thor!
 
 ## 2024-12-22
 Got to meet Jessie's mom, Sandy.
