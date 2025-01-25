@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-01-24T03:09:30+00:00"
+last_modified_at: "2025-01-25T02:03:29+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-01-04
+Chase and I went on a FROLIC hike with Charles Mullins, taking Max and Thor, and then we bought a car for Chase.
 
 ## 2025-01-01
 Really enjoyed watching _Dune: Part 2_ on a low-key day.
