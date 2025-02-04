@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-02-04T00:24:31+00:00"
+last_modified_at: "2025-02-04T12:55:08+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-01-22
+First day of the RP product/eng/design offsite in San Diego, got to meet Volpe in real life, and a terrific steak dinner at The Rare Society!
 
 ## 2025-01-21
 Had initial deep clean of the house and got the refrigerator door fixed!
