@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-02-05T15:20:00+00:00"
+last_modified_at: "2025-02-06T14:32:01+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-01-24
+Had a fun time go kart racing with the RP team!
 
 ## 2025-01-23
 Had a nice time walking around the boardwalk and surrounding area with RP folks near Crystal Pier in San Diego.
