@@ -7,7 +7,7 @@ tags:
   - media
 description: "Why are we so attracted to the idea of \"good versus evil\"? How is it helpful, and where do we need to be more careful?"
 date: "2021-04-15"
-last_modified_at: "2024-11-17T14:34:16+00:00"
+last_modified_at: "2025-02-15T15:03:56+00:00"
 ---
 
 Oof--there are a bunch of thoughts I have on this that are super scattered and which I really need to straighten out.
@@ -47,6 +47,10 @@ Oof--there are a bunch of thoughts I have on this that are super scattered and w
 * "There but for the grace of God go I."
 * what "good versus evil" does to our inclination to use retaliatory force: even when it might be justified (from the perspective of individual rights), it may lead us to resort to force instead of a more effective, safe, and mutually beneficial resolution
 * consider points from [_Fact and Value_](https://ari.aynrand.org/issues/culture-and-society/religion-and-morality/fact-and-value/){:target="&lowbar;blank"} and [_Truth and Toleration_](https://archive.atlassociety.org/sites/default/files/The_Contested_Legacy_of_Ayn_Rand.pdf){:target="&lowbar;blank"}
+* other places where I've made similar points:
+  * [comment on _Invincible_ s03e03](https://trakt.tv/comments/771930){:target="&lowbar;blank"}
+  * [2022-07-12 Facebook post about parenting](https://www.facebook.com/ArthurZey/posts/pfbid0Amex6g7a62tgRgGFHPU1tCG86gooj3691n6miVj71aVZjNPJHktrmch1uxqq2m7Fl){:target="&lowbar;blank"}
+  * [note on Stewart Margolis's "I Did My Best" Substack post](https://substack.com/@arthurzey/note/c-91838620){:target="&lowbar;blank"}
 
 Some parallels:
 
