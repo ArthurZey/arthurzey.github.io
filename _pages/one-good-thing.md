@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-02-17T16:52:16+00:00"
+last_modified_at: "2025-02-20T13:57:35+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-02-10
+Launched our limited open beta for the RP Diet Coach app!
 
 ## 2025-02-09
 Reunited Sophie with her guardian, Carol!
