@@ -2,12 +2,18 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-02-22T17:57:52+00:00"
+last_modified_at: "2025-02-23T13:10:29+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-02-14
+Got a terrific report card for Thor from Come Sit Stay Littleton from his first boarding experience!
+
+## 2025-02-13
+Got estate planning documents notarized.
 
 ## 2025-02-12
 Finalized contracts with Jessie!
