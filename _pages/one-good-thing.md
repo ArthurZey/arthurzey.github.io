@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-03-03T19:27:11+00:00"
+last_modified_at: "2025-03-04T14:55:55+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-03-01
+Had a fun first day at Colorado Krav Maga Winter Camp with Chase!
 
 ## 2025-02-27
 Really enjoyed the experience of watching the season 1 finale of _Severance_; I was on the edge of my seat and enthralled the entire time!
