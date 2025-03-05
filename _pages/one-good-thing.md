@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-03-04T14:55:55+00:00"
+last_modified_at: "2025-03-05T14:11:43+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-03-02
+Even though I was pretty worn out and low energy, I had a good time on the second day of Colorado Krav Maga Winter Camp with Chase!
 
 ## 2025-03-01
 Had a fun first day at Colorado Krav Maga Winter Camp with Chase!
