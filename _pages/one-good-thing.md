@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-03-06T14:36:11+00:00"
+last_modified_at: "2025-03-07T12:44:04+00:00"
 tags:
   - happenings
   - draft
@@ -11,6 +11,9 @@ sitemap: false
 
 ## 2025-03-05
 Had a really productive day of knocking a bunch of things off my to-do list that had been weighing me down.
+
+## 2025-03-04
+After a somewhat tense meeting with Alex in which there was a little bit of friction and tension, he sent me a really nice note to smooth things over, and I felt so grateful to have such wonderful coworkers and to be working at a company with such a terrific culture.
 
 ## 2025-03-02
 Even though I was pretty worn out and low energy, I had a good time on the second day of Colorado Krav Maga Winter Camp with Chase!
