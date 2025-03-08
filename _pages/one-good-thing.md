@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-03-07T12:44:04+00:00"
+last_modified_at: "2025-03-08T14:17:37+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-03-06
+Another tense meeting, this time with Andrew and Volpe, but our handling of it and followup again underscored how healthy the RP culture is and how great it is that we all have such high emotional maturity.
 
 ## 2025-03-05
 Had a really productive day of knocking a bunch of things off my to-do list that had been weighing me down.
