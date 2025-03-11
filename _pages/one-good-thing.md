@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-03-08T14:17:37+00:00"
+last_modified_at: "2025-03-11T15:30:38+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-03-08
+Had an enjoyable time at 3FROG with Chase.
 
 ## 2025-03-06
 Another tense meeting, this time with Andrew and Volpe, but our handling of it and followup again underscored how healthy the RP culture is and how great it is that we all have such high emotional maturity.
