@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-03-26T16:10:47+00:00"
+last_modified_at: "2025-03-27T13:18:58+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-03-19
+Had a nice, relaxed breakfast with Chase in Gunnison and got home at a reasonable hour.
 
 ## 2025-03-18
 I followed for the first time and did really well, removing the ice screws that Chase had placed on a 165-foot ice climb!
