@@ -2,14 +2,17 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-03-28T16:12:11+00:00"
+last_modified_at: "2025-03-29T17:11:35+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
 
-## 2025-03-14
+## 2025-03-21
+Cooked and ate a wonderful steak dinner (with Brussels sprouts and red wine reduction) with Emily and Austin.
+
+## 2025-03-20
 Arrived in Chicago to visit with Emily, Austin, and Adam.
 
 ## 2025-03-19
