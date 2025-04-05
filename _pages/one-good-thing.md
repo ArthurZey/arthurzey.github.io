@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-04-03T12:09:47+00:00"
+last_modified_at: "2025-04-05T15:52:52+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-03-27
+Despite rushing to catch my flight, I made it, got an extra leg room exit row seat, and my checked luggage made it to Denver. Then I was reunited with Chase and Thor, and we even got some Costco shopping done.
 
 ## 2025-03-26
 Had a good catchup call with Elizabeth.
