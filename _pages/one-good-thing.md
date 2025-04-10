@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-04-08T13:02:35+00:00"
+last_modified_at: "2025-04-10T16:22:24+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-03-30
+Had a nice catchup call with Vicki and then with Aaron & Charlie.
 
 ## 2025-03-29
 Had a delicious banana pancake breakfast with Chase, started the construction of the robot car with Richard that we got him for his birthday, and Chase and I had another delicious steak dinner.
