@@ -47,12 +47,12 @@ hash_redirects:
     from: "#autism-test"
     to: "/personality-and-behavioral-profiles/#autism-test"
 date: "2020-04-15"
-last_modified_at: "2024-11-12T20:34:06+00:00"
+last_modified_at: "2025-04-15T18:17:17+00:00"
 ---
 
 {:refdef: style="text-align: center;"}
 <img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" />
-<a href="#crest"><img src="/assets/images/Arthur Zey Crest (white on transparent).png" alt="Crest" width="480px" /></a>
+<a href="#crest"><img src="/assets/images/Arthur Zey Crest (color, transparent background).png" alt="Crest" width="480px" /></a>
 {: refdef}
 
 Something, something, perfect enemy of the good.
@@ -358,7 +358,7 @@ _The purpose of art is to provide spiritual fuel and to directly evoke emotions 
 
 ## Crest
 {:refdef: style="text-align: center;"}
-<img src="/assets/images/Arthur Zey Crest (white on transparent).png" alt="Crest" width="720px" align="center" />
+<img src="/assets/images/Arthur Zey Crest (color, transparent background).png" alt="Crest" width="720px" align="center" />
 {: refdef}
 
 _More to come on this... But for now, major hat tip to Melissa Cade, who painstakingly implemented and iterated on the design with me!_
