@@ -47,7 +47,7 @@ hash_redirects:
     from: "#autism-test"
     to: "/personality-and-behavioral-profiles/#autism-test"
 date: "2020-04-15"
-last_modified_at: "2025-04-15T18:17:17+00:00"
+last_modified_at: "2025-04-18T17:48:53+00:00"
 ---
 
 {:refdef: style="text-align: center;"}
@@ -742,7 +742,7 @@ Boy Scouts?
     <td markdown="span"></td>
   </tr>
   <tr>
-    <td markdown="span" rowspan="6">Bailey, CO</td>
+    <td markdown="span" rowspan="7">Bailey, CO</td>
     <td markdown="span"></td>
     <td markdown="span"></td>
     <td markdown="span">[Bought my first home!](/blog/2022-01-01/2021-retrospective/#buying-my-first-home)</td>
@@ -756,7 +756,7 @@ Boy Scouts?
   <tr>
     <td markdown="span">2022</td>
     <td markdown="span"></td>
-    <td markdown="span" rowspan="4">Chase</td>
+    <td markdown="span" rowspan="5">Chase</td>
     <td markdown="span">[Welcomed Max into my life!](/blog/2022-06-15/max/)</td>
   </tr>
   <tr>
@@ -771,7 +771,12 @@ Boy Scouts?
   </tr>
   <tr>
     <td markdown="span"></td>
-    <td markdown="span">RP Strength (Renaissance Periodization)</td>
+    <td markdown="span" rowspan="2">RP Strength (Renaissance Periodization)</td>
+  </tr>
+  <tr>
+    <td markdown="span" rowspan="2">2025</td>
+    <td markdown="span"></td>
+    <td markdown="span"></td>
   </tr>
  </tbody>
 </table>
