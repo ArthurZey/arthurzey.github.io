@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-04-13T12:18:29+00:00"
+last_modified_at: "2025-04-19T14:07:37+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-04-04
+Had a nice movie date night with Chase, where we had steak and watched _All Us Strangers_.
 
 ## 2025-04-03
 Had a good cocounseling / catchup call with Ann.
