@@ -2,14 +2,17 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-05-01T15:49:24+00:00"
+last_modified_at: "2025-05-02T14:07:34+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
 
-## 2925-04-13
+## 2025-04-15
+Had a nice dinner with Dad and Masha after getting into LA.
+
+## 2025-04-13
 Had a great time at Turkey Rocks with Chase and Nick, learning how to crack climb.
 
 ## 2025-04-12
