@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-05-04T11:24:09+00:00"
+last_modified_at: "2025-05-05T16:30:39+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-04-19
+Had a lovely time in Laguna Beach with Sara, Jeremy, and Charlotte, then got to see Olivia, her dad, and Lena and Lev!
 
 ## 2025-04-18
 Had a good chat with Annie about work for PF.
