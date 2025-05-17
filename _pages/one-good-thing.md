@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-05-16T13:42:20+00:00"
+last_modified_at: "2025-05-17T16:00:43+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-05-02
+Had a great time snowboarding at Copper!
 
 ## 2025-05-01
 Jessie had a positive pregnancy test!
