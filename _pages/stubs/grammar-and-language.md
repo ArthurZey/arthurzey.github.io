@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2025-01-14T14:39:23+00:00"
+last_modified_at: "2025-05-20T14:31:55+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -222,7 +222,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * Rio Grande
   * Vallejo
   * Dubois
-* "none are" versus "none is"; "any are" versus "any is"
+* "none are" versus "none is"; "any are" versus "any is"; "a number of us are" versus "a number of us is"
 * singular "they"
 * singular "data"
   * shorthand for "item of data"?
