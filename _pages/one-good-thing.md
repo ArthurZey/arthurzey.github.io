@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-05-22T11:59:52+00:00"
+last_modified_at: "2025-05-25T17:01:44+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-05-06
+Had another good day snowboarding at Copper and learned to ride moguls switch!
 
 ## 2025-05-05
 Had a good day snowboarding at Copper.
