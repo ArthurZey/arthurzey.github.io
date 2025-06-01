@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2025-05-20T14:31:55+00:00"
+last_modified_at: "2025-06-01T18:40:25+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -67,6 +67,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * coworker
   * hashbrown
   * onramp
+  * trackrecord
 * contranyms
   * cleave: to adhere, or to separate
   * sanction: to approve, or to boycott/penalize
@@ -318,3 +319,4 @@ Other topics:
   * working class
 * words I struggle to pronounce
   * remunerative
+* some interesting points on "rules" of grammar and justifications for breaking them or not: [Grammar rules you can stop sticking to](https://www.youtube.com/watch?v=BccyQaNKXz8){:target="&lowbar;blank"}
