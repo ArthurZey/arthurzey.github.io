@@ -6,7 +6,7 @@ tags:
   - fitness
 description: "Why does physical fitness occupy such a prominent place in my life? And how does my concern with physical fitness manifest and relate to other values?"
 date: "2020-04-20"
-last_modified_at: "2024-05-23T12:56:19+00:00"
+last_modified_at: "2025-06-03T21:10:36+00:00"
 ---
 
 ## On This Page
@@ -46,8 +46,8 @@ Here are a few areas I'd like to explore:
 
 ## Exercise
 
-_2024-05-03 Note: This section is now very out of date. I use the [RP Hypertrophy App](https://rp.app/hypertrophy/code/ARTHUR){:target="&lowbar;blank"} now!_
-
+_2024-05-03 Note: I use the [RP Hypertrophy App](https://rp.app/hypertrophy/code/ARTHUR){:target="&lowbar;blank"} now. I will provide more content here later._
+{% comment %}
 I use the [Renaissance Periodization Male Physique Templates](https://renaissanceperiodization.com/male-physique-training-templates){:target="&lowbar;blank"} (full-body, 4-day-per-week, which is basically an upper-lower-upper-lower split).
 
 There's a bit of nuance, but I basically go through the template (three or four 5-6-week "mesocycles") in conjunction with a phase of my [diet](#diet). (At the start of a cut or bulk, I start with a fresh template, regardless of whether I chose to finish the previous one.)
@@ -61,11 +61,12 @@ A few high-level notes:
 * I often have to make modifications because of my [knee issues](/knee-issues/), lower-back sensitivity, and propensity for elbow tendonitis.
 * I typically lift Mondays, Tuesdays, Thursdays, and Fridays.
 * I don't do any "cardio" as a formal part of my routine (proper lifting provides all the cardiovascular conditioning I could need or want for any practical purposes), but I do enjoy recreation whenever it comes up as a fun thing to do! During a cut, I intentionally find opportunities for more low-intensity, steady-state "cario", like walking/hiking.
+{% endcomment %}
 
 ## Diet
 
-_2024-05-03 Note: This section is now wildly out of date. I use the [RP Diet App](https://rp.app/code/arthur){:target="&lowbar;blank"} now!_
-
+_2024-05-03 Note: I use the [RP Diet App](https://rp.app/code/arthur){:target="&lowbar;blank"} now. I will provide more content here later._
+{% comment %}
 My approach is inspired by the science/logic/algorithms that were later incorporated into the [RP Diet App](https://www.rpdiet.app){:target="&lowbar;blank"}. (Full disclosure: I worked on the UX for earlier versions of the app, and now my brother [Andrew](https://www.linkedin.com/in/andrewzey/) is their CTO / lead engineer!) I don't use the app or their templates, since I prefer to exercise more granular control over my diet design, especially by making various adjustments that help my cuts be more tolerable/effective (eg, reducing hunger pains, preventing hanger, avoiding ruining my health).
 
 What about [Paleo](/paleo/)? Strictly speaking, Paleo and my calorie-counting/bodybuilding goals are orthogonal (or at least tangential). I eat [Paleo](/paleo/) for non-bodybuilding health reasons. Think of it roughly like this: [Paleo](/paleo/) is about _what_ I eat (qualitative/substantive), whereas my bodybuilding dietary plan is about _how much_ I eat (quantitative).
@@ -130,7 +131,7 @@ So how about macros? Well, I tend to use carbs as a performance-enhancing drug, 
 
 Here's the high-level algorithm:
 1. pin fat intake to be 25-30% of total calories (probably closer to 25% for a cut)
-2. pin protein to be 1.5 to 2 grams per pound of body weight\\
+2. pin protein to be 1.5 to 2 grams per pound of body weight\
   _Disclaimer: The general recommendation for maxing out muscle-sparing / protein synthesis requirements based on the science is something in the range of 1 gram of protein per pound of **lean** body weight to 1 gram of protein per pound of **total** body weight, which leaves more calories from carbs to use as fuel. My going well above that is based on my own experimentation around what helps me to feel better and do better with satiety._
 3. remainder from carbs
 
@@ -154,9 +155,11 @@ Optimizations that make cuts more bearable for me:
 * casein (eg, greek yogurt) before bed because it digests slowly and provides caloric support throughout the night
 * lots of caffeine in the mornings (which is an appetite suppressant), but none in the afternoon/evening, so it doesn't interfere with sleep
 * Surprisingly, perhaps, calorie density (calories/weight or calories/volume) doesn't seem to make a big difference for me in terms of satiety. So things like meal-replacement shakes ([Ample](https://www.amplemeal.com/){:target="&lowbar;blank"}) and protein shakes ([whey](https://smile.amazon.com/gp/product/B000MANJPG/){:target="&lowbar;blank"} and [dextrose](https://smile.amazon.com/dp/B002JNM8YM/){:target="&lowbar;blank"}) are perfectly fine sources of calories for me, even if they make up a substantial proportion of my daily quota.
+{% endcomment %}
+
 
 ### Supplements
-
+{% comment %}
 #### Foods
 * [sauerkraut](https://wildbrine.com/product/raw-green-organic-sauerkraut/){:target="&lowbar;blank"}: typically 100 g per day for probiotics and Vitamin K2
 * [kefir](https://lifewaykefir.com/products/organic-plain-whole-milk-kefir/){:target="&lowbar;blank"}: typically 1 cup per day for probiotics and Vitamin K2
@@ -195,3 +198,58 @@ Keep in mind that it's not a recommendation for anybody else.
 |[Zinc Aspartate and Zinc Orotate](https://main.poliquinstore.com/uberzinc-px){:target="&lowbar;blank"}| |30 mg|[immune function, thyroid function](https://www.youtube.com/watch?v=hE_V-5GgBo8){:target="&lowbar;blank"}<br />(recommended by Christian Wernstedt)|
 |~~[Iodine and Potassium Iodide](https://smile.amazon.com/dp/B000X843VG/){:target="&lowbar;blank"}~~| |~~12.5 mg~~|~~thyroid function<br />(recommended by Diana)~~<br />_Discontinued because likely culprit in triggering [hyperthyroidism](/blog/2021-11-30/hyperthyroidism/)._|
 |[Selenium](https://smile.amazon.com/dp/B00YAULMUS){:target="&lowbar;blank"}| |0.2 mg|iodine and iodide absorption<br />(recommended by Diana)|
+{% endcomment %}
+
+#### Supplements with Food
+
+| Supplement | Morning Dosage | Evening Dosage | Justification |
+| :---- | :---- | :---- | :---- |
+| [Nordic Naturals Ultimate Omega](https://www.amazon.com/dp/B07QHP2ZNQ/){:target="&lowbar;blank"} | 2 softgels:<br /> <br /> 650 mg EPA<br /> 450 mg DHA<br /> 180 mg other Omega 3s in triglyceride form | 2 softgels:<br /> <br /> 650 mg EPA<br /> 450 mg DHA<br /> 180 mg other Omega-3s in triglyceride form | Supports cognitive function and cardiovascular health. Reduces systemic inflammation associated with chronic headaches, joint issues, and [Long COVID fatigue](/blog/2023-08-17/long-covid-funk/). |
+| [Green Pasture Fermented Cod Liver Oil](https://www.amazon.com/dp/B002LZYPS0/){:target="&lowbar;blank"} | 1 capsule:<br /> <br /> 150 mg EPA<br /> 200 mg DHA<br /> 2250 IU Vitamin A<br /> 225 IU Vitamin D | 1 capsule:<br /> <br /> 150 mg EPA<br /> 200 mg DHA<br /> 2250 IU Vitamin A<br /> 225 IU Vitamin D | Provides anti-inflammatory Omega-3s and fat-soluble vitamins to support immune regulation and joint health. Particularly useful for [Long COVID](/blog/2023-08-17/long-covid-funk/) recovery and skin/eye health. |
+| [Green Pasture Concentrated Butter Oil Capsules](https://www.amazon.com/dp/B002LZDQD0/){:target="&lowbar;blank"} | 1 capsule:<br /> <br /> 5-20 mcg Vitamin K2 (as MK-4)<br /> 25-50 IU Vitamin A<br /> | 1 capsule:<br /> <br /> 5-20 mcg Vitamin K2 (as MK-4)<br /> 25-50 IU Vitamin A<br /> | Enhances calcium metabolism in synergy with high-dose D3; protects against vascular calcification and supports connective tissue resilience. |
+| [Now Vitamin D-3 5000 IU](https://www.amazon.com/dp/B00LCB4HH8/){:target="&lowbar;blank"} | 1 softgel:<br /> <br /> 5000 IU Vitamin D | 1 softgel:<br /> <br /> 5000 IU Vitamin D | Maintains optimal D status for immune modulation, recovery from fatigue, and musculoskeletal strength, especially in the context of [Long COVID fatigue](/blog/2023-08-17/long-covid-funk/). |
+| [NatureBell CoQ10 400mg with Omega 3 Fatty Acids](https://www.amazon.com/dp/B0BSP5GTMQ/){:target="&lowbar;blank"} | 1 capsule:<br /> <br /> 200 mg Coenzyme Q10 (as Ubiquinone)<br /> 50 mg Omega 3 | 1 capsule:<br /> <br /> 200 mg Coenzyme Q10 (as Ubiquinone)<br /> 50 mg Omega 3 | Supports mitochondrial function for energy production and cardiovascular health; relevant for fertility and combating [Long COVID fatigue](/blog/2023-08-17/long-covid-funk/). |
+| [InnovixLabs Full Spectrum Vitamin K2](https://www.amazon.com/dp/B00T8NROWM/){:target="&lowbar;blank"} | 1 capsule:<br /> <br /> 500 mcg Vitamin K2 (as MK-4)<br /> 100 mcg Vitamin K2 (as MK-7) | 1 capsule:<br /> <br /> 500 mcg Vitamin K2 (as MK-4)<br /> 100 mcg Vitamin K2 (as MK-7) | Complements D3 to direct calcium into bones and away from arteries; critical for skeletal and cardiovascular integrity. |
+| [NOW Foods Hyaluronic Acid with MSM](https://www.amazon.com/dp/B000XHIIPE/){:target="&lowbar;blank"} | 1 capsule:<br /> <br /> 50 mg Hyaluronic Acid<br /> 450 mg MSM (Methylsulfonylmethane) | 1 capsule:<br /> <br /> 50 mg Hyaluronic Acid<br /> 450 mg MSM (Methylsulfonylmethane) | Promotes joint lubrication and connective tissue repair, relevant for both long-term back and [knee](/knee-issues/) issues and recovery. |
+| [365 by Whole Foods Market<br />Extra Strength Glucosamine Chondroitin & MSM](https://www.amazon.com/dp/B074H7L887/){:target="&lowbar;blank"} | 2 tablets:<br /> <br /> 1500 mg Glucosamine HCl<br /> 1200 mg Chondroitin Sulfate<br /> 250 mg MSM (Methylsulfonylmethane) | 2 tablets:<br /> <br /> 1500 mg Glucosamine HCl<br /> 1200 mg Chondroitin Sulfate<br /> 250 mg MSM (Methylsulfonylmethane) | Aims to rebuild cartilage and reduce pain in [knees](/knee-issues/) and spine. Helpful for long-standing joint degradation and current recovery from disc trauma. |
+| [Thorne Curcumin Phytosome](https://www.amazon.com/dp/B01D8V075U/){:target="&lowbar;blank"} | 1 capsule:<br /> <br /> 500 mg Curcumin Phytosome | 1 capsule:<br /> <br /> 500 mg Curcumin Phytosome | Potent anti-inflammatory and antioxidant to address chronic inflammation, immune dysregulation, and joint pain. Part of [protocol](https://jpands.org/vol28no3/mccullough.pdf){:target="&lowbar;blank"} to help [break up the spike protein](https://www.mdpi.com/1420-3049/27/17/5405){:target="&lowbar;blank"} to help with [Long COVID](/blog/2023-08-17/long-covid-funk/) symptoms. |
+| [Thorne Quercetin Phytosome](https://www.amazon.com/dp/B0797DQTVZ/){:target="&lowbar;blank"} | 1 capsule:<br /> <br /> 250 mg Quercetin Phytosome | 1 capsule:<br /> <br /> 250 mg Quercetin Phytosome | Supports mast cell regulation, immune balance, and histamine control, all potentially disrupted by [Long COVID](/blog/2023-08-17/long-covid-funk/). |
+| [Pure Encapsulations Magnesium Glycinate](https://www.amazon.com/dp/B0017HYB2I/){:target="&lowbar;blank"} | 1 capsule:<br /> <br /> 120 mg Magnesium Glycinate | 3 capsules:<br /> <br /> 360 mg Magnesium Glycinate | Aids muscle relaxation, sleep quality, bowel regularity, and may help with chronic headache and stress-related tension. |
+| [Berkeley Life Nitric Oxide Foundation](https://www.amazon.com/dp/B079H2HLF5/){:target="&lowbar;blank"} | 2 capsules:<br /> <br /> 290 mg Vitamin C<br /> 90 mg Thiamine Mononitrate<br /> 200 mcg Vitamin B12 (as Methylcobalamin)<br /> 75 mg Magnesium Citrate<br /> 189 mg Potassium<br /> 490 mg Potassium Nitrate<br /> 10 mg Beet root extract (25% betaine nitrate) |  | Enhances nitric oxide production to support circulation and vascular function, relevant to both exercise performance and mitochondrial health in [Long COVID fatigue](/blog/2023-08-17/long-covid-funk/). |
+| [NOW Foods Vitamin C](https://www.amazon.com/dp/B0013P1GD6/){:target="&lowbar;blank"} | 1 tablet:<br /> <br /> 1000 mg Vitamin C |  | Provides antioxidant and collagen support. May assist in tissue healing post-injury and immune resilience. |
+| [Thorne Stress B-Complex](https://www.amazon.com/dp/B0797DVMF3/){:target="&lowbar;blank"} | 1 capsule:<br /> <br /> 50 mg Thiamin HCl<br /> 25 mg Riboflavin<br /> 3.6 mg Riboflavin 5'-Phosphate Sodium<br /> 80 mg Niacinamide<br /> 25 mg Vitamin B6 (as Pyridoxine HCl)<br /> 3.4 mg Vitamin B6 (as Pyridoxal 5'-Phosphate)<br /> 200 mcg (334 mcg DFE) Folate<br />&nbsp;&nbsp;&nbsp;&nbsp;(as L-5-Methyltetrahydrofolate from<br />&nbsp;&nbsp;&nbsp;&nbsp;L-5-Methyltetrahydrofolic Acid, Glucosamine Salt)<br /> 100 mcg Vitamin B12 (as Methylcobalamin)<br /> 80 mcg Biotin<br /> 250 mg Pantothenic Acid (as Calcium Pantothenate)<br /> 14 mg Choline Citrate |  | Supports mitochondrial function, neurotransmitter synthesis, and adrenal recovery from prolonged stress and fatigue (including [Long COVID](/blog/2023-08-17/long-covid-funk/)). |
+| [NOW Foods Methyl Folate](https://www.amazon.com/dp/B01G5EQEWC/){:target="&lowbar;blank"} | 1 tablet:<br /> <br /> 1000 mcg (1700 mcg DFE) Folate<br />&nbsp;&nbsp;&nbsp;&nbsp;(as L-5-Methyltetrahydrofolate from<br />&nbsp;&nbsp;&nbsp;&nbsp;Quatrefolic® Glucosamine Salt)<br /> |  | Supports methylation and neurotransmitter synthesis. Relevant to energy, mood, and hormone regulation. |
+| [NOW Foods L-Carnitine](https://www.amazon.com/dp/B0CPNHF3D4/){:target="&lowbar;blank"} | 1 tablet:<br /> <br /> 1000 mg L-Carnitine (from 1493 mg L-Carnitine Tartrate) |  | Promotes mitochondrial fatty acid transport, relevant to energy, sperm motility, and fat metabolism. |
+| [Nutricost Boron](https://www.amazon.com/dp/B0BBY9TXSB/){:target="&lowbar;blank"} | 1 capsule:<br /> <br /> 10 mg Boron Citrate |  | Enhances free testosterone and cognitive sharpness; may benefit sex drive and bone density. |
+| [NOW Foods Vitamin E-400](https://www.amazon.com/dp/B0013OSMC0?th=1){:target="&lowbar;blank"} |  | 1 softgel:<br /> <br /> 268 mg Vitamin E (as d-alpha Tocopheryl Acetate) | Supports antioxidant status, cardiovascular health, and immune defense. |
+| [NOW Foods Selenium](https://www.amazon.com/dp/B00YAULMUS/){:target="&lowbar;blank"} |  | 1 capsule:<br /> <br /> 200 mcg Selenium (from L-Selenomethionine) | Supports thyroid health and antioxidant defense. |
+| Poliquin UberZinc Px |  | 1 capsule:<br /> <br /> 30 mg Zinc (as Zinc Orotate and Zinc Aspartate) | Critical for immune response, testosterone production, and tissue repair. |
+| [Life Extension Mega Lycopene](https://www.amazon.com/dp/B0019LRHDC/){:target="&lowbar;blank"} |  | 1 softgel:<br /> 15 mg Lycopene | Antioxidant with prostate, skin, and cardiovascular benefits. |
+
+Previously discontined supplements:
+* [iodine and potassium iodide](https://www.amazon.com/dp/B000X843VG/){:target="&lowbar;blank"}: Originally introduced to help with thyroid function (particularly because I don't eat seafood or have any other iodine/iodide intake in my diet), but discontinued because it was the likely culprit in triggering [hyperthyroidism](/blog/2021-11-30/hyperthyroidism/).
+* [psyllium husk capsules](https://www.amazon.com/dp/B0013OW2KS/){:target="&lowbar;blank"}: Originally introduced to help with GI issues and bowel function (recommended by gastroenterologist), but discontinued because it was ineffective.
+* [calcium citrate](https://www.amazon.com/dp/B00172XUWU/){:target="&lowbar;blank"}: Originally introduced to support bone health, but discontinued because it seemed unnecessary with my dairy intake and potential inflammatory effects.
+
+#### Supplements between Meals
+_typically 2 hours after last meal and 45 minutes before next meal_
+
+| Supplement | Morning Dosage | Afternoon/Evening Dosage | Justification |
+| :---- | :---- | :---- | :---- |
+| [NOW Foods Bromelain](https://www.amazon.com/dp/B000I2028A/){:target="&lowbar;blank"} | 1 capsule:<br /> <br /> 500 mg (2400 GDU) Bromelain (from pineapple) | 1 capsule:<br /> <br /> 500 mg (2400 GDU) Bromelain (from pineapple) | Natural proteolytic enzyme that may reduce tissue inflammation and aid soft tissue recovery post-injury. Part of [protocol](https://jpands.org/vol28no3/mccullough.pdf){:target="&lowbar;blank"} to help [break up the spike protein](https://www.mdpi.com/1420-3049/27/17/5405){:target="&lowbar;blank"} to help with [Long COVID](/blog/2023-08-17/long-covid-funk/) symptoms. |
+| [Zenavea Nattokinase](https://www.amazon.com/dp/B091C3GDLY/){:target="&lowbar;blank"} | 1 capsule:<br /> <br /> 100 mg (2000 FU) Nattokinase (from Bacillus Subtilis) | 1 capsule:<br /> <br /> 100 mg (2000 FU) Nattokinase (from Bacillus Subtilis) | Supports healthy blood flow and may help resolve microclotting. Part of [protocol](https://jpands.org/vol28no3/mccullough.pdf){:target="&lowbar;blank"} to help [break up the spike protein](https://www.mdpi.com/1420-3049/27/17/5405){:target="&lowbar;blank"} to help with [Long COVID](/blog/2023-08-17/long-covid-funk/) symptoms. |
+| [Nootropics Depot Tongkat Ali](https://www.amazon.com/dp/B088GW792L/){:target="&lowbar;blank"} | 3 capsules:<br /> <br /> 300 mg Tongkat Ali Extract (10% Eurycomanone by UPLC) |  | Enhances libido, energy, and motivation through hormonal and dopaminergic modulation, targeting [Long COVID lethargy](/blog/2023-08-17/long-covid-funk/) and low sex drive. |
+| [Vitamin Bounty Forskolin](https://www.amazon.com/dp/B06XR1Z3FJ/){:target="&lowbar;blank"} | 2 capsules:<br /> <br /> 500 mg Coleus Forskohlii Root Extract (100 mg Forskolin) |  | May support testosterone levels, fat metabolism, and mitochondrial function; relevant for energy, libido, and body composition. |
+
+#### Miscellaneous Supplements and Food
+_typically consumed daily, with rare exceptions_
+
+| Supplement/Food and Dosage | Timing | Justification |
+| :---- | :---- | :---- |
+| [Creatine Monohydrate](https://www.amazon.com/dp/B00E9M4XEE/){:target="&lowbar;blank"} (5-10 grams) | with coffee or intra-workout shake | Supports muscle strength and recovery; may enhance cognitive performance, energy buffering under neurological stress, and reduce [chronic headaches](https://open.spotify.com/episode/4piiZROlbgTKws8vmyMoTw){:target="&lowbar;blank"}. |
+| [Wildbrine Raw Organic Sauerkraut](https://www.costcobusinessdelivery.com/wildbrine-raw-organic-sauerkraut%2C-50-oz.product.100319561.html){:target="&lowbar;blank"} (50 grams) | with salad or side dish | Source of live probiotics and fermentation-derived compounds that support gut-brain axis, digestion, and immune modulation. |
+| [Lifeway Whole Milk Kefir](https://lifewaykefir.com/products/organic-plain-whole-milk-kefir/){:target="&lowbar;blank"} (1 cup) | before bed, typically alongside Greek yogurt and honey | Supports gut health, sleep quality, and calcium intake; potentially modulates stress response. |
+| [Kirkland Signature Raw and Unfiltered Organic Apple Cider Vinegar](https://www.costcobusinessdelivery.com/kirkland-signature-organic-apple-cider-vinegar%2C-32-fl-oz%2C-3-ct.product.100348419.html){:target="&lowbar;blank"} (1 to 2 tablespoons) | with salad or in sparkling water | Promotes digestion and glycemic control; may help satiety and gut microbiome support. |
+| [Inulin](https://www.amazon.com/dp/B074WKCPS4/){:target="&lowbar;blank"} (5-10 grams) | with coffee | Prebiotic fiber that feeds beneficial bacteria, promoting gut health and possibly supporting cognitive and immune function. |
+| [Xylitol](https://www.amazon.com/dp/B00OZ97ZK0/){:target="&lowbar;blank"} (10-20 grams) | with coffee | Prebiotic effect, supports oral health, and acts as sugar alternative with minimal blood glucose impact. |
+| Pickle/Sauerkraut Brine (occasional sips) |  | Sodium and organic acid content may help with hydration, gut microbiota diversity, and vagus nerve activation. |
