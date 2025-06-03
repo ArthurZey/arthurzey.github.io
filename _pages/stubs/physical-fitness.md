@@ -6,7 +6,7 @@ tags:
   - fitness
 description: "Why does physical fitness occupy such a prominent place in my life? And how does my concern with physical fitness manifest and relate to other values?"
 date: "2020-04-20"
-last_modified_at: "2025-06-03T21:10:36+00:00"
+last_modified_at: "2025-06-03T21:14:20+00:00"
 ---
 
 ## On This Page
@@ -201,6 +201,8 @@ Keep in mind that it's not a recommendation for anybody else.
 {% endcomment %}
 
 #### Supplements with Food
+
+To be frank, I'm not confident how much good these various supplements are doing and how much I'm getting what I need from things like food (and in the case of vitamin D, exposure to sunlight). I might be largely throwing my money away. But given the fact that I don't really have a lot of variety in my diet, hate [seafood](/paleo/#seafood), and have a general disposition toward eating the same boring things day in, day out (especially when I'm strictly adhering to a predefined meal plan!), I think of this as a sort of insurance policy, covering my bases in terms of important nutrients (vitamins, minerals, etc). Over the years, I've introduced a lot of various supplements, some for promoting general health and some to address specific issues, and I've given an indication below as to what benefit I hope to gain from each of them.
 
 | Supplement | Morning Dosage | Evening Dosage | Justification |
 | :---- | :---- | :---- | :---- |
