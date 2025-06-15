@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-06-14T02:46:05+00:00"
+last_modified_at: "2025-06-15T01:49:49+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-05-29
+Got a lot of clarity about what happened at RP.
 
 ## 2025-05-24
 Had a great time at Cherry Creek Dog Park with Thor and then 1FROG at Children's Art Classes where we did charcoal still-lifes.
