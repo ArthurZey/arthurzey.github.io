@@ -5,12 +5,12 @@ tags:
   - psychology
 description: "What is forgiveness? What is \"accepting an apology\"? What does it mean to \"forgive and forget\"? What is \"holding a grudge\"? What is \"letting something go\"?"
 date: "2020-04-07"
-last_modified_at: "2021-03-09"
+last_modified_at: "2025-06-17T15:20:37+00:00"
 ---
 
 I want to take a look at these questions from two complementary perspectives: philosophical and psychological. Philosophically, I want to examine moral agency and moral accountability, especially through an egoistic (Objectivist) lens. Psychologically, I want to examine the related issues of performative/ritualistic behaviors (eg, "I'm sorry.", "That's okay.", "I accept your apology.", apology symmetry), the cognitive costs and benefits of rumination versus evasion, and wholeheartedness/authenticity.
 
-Another dimension I want to explore relates to a more Buddhist or mindfulness-meditation angle: How can you have compassion and understanding of wrong-doing and for the wrong-doer, but not forgive them? How does that relate to acceptance and "unconditional love"? How can you lovingly hold people accountable for gravely destructive (and perhaps even intentionally so) behavior?
+Another dimension I want to explore relates to a more Buddhist or mindfulness-meditation angle: How can you have compassion and understanding of wrong-doing and for the wrong-doer, but not forgive them? How does that relate to acceptance and ["unconditional love"](/unconditional-love/)? How can you lovingly hold people accountable for gravely destructive (and perhaps even intentionally so) behavior?
 
 Very relevant [Unlocking Us](https://brenebrown.com/unlockingus/){:target="&lowbar;blank"} ([on Spotify](https://open.spotify.com/show/4P86ZzHf7EOlRG7do9LkKZ){:target="&lowbar;blank"}) episodes, [Harriet Lerner and Brené - I'm Sorry: How To Apologize & Why It Matters](https://brenebrown.com/podcast/harriet-lerner-and-brene-im-sorry-how-to-apologize-why-it-matters/){:target="&lowbar;blank"}:
 * [Part 1 on Spotify](https://open.spotify.com/episode/4xIkrTctlRaZ2ycND7DJVs){:target="&lowbar;blank"}
