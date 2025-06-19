@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-06-18T17:48:42+00:00"
+last_modified_at: "2025-06-19T12:55:44+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-06-04
+Had a great consultation with Morph Wellness about some of my chronic injuries/conditions.
 
 ## 2025-06-02
 Another great ultrasound! Jessie's graduating from the clinic!
