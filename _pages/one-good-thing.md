@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-06-26T14:14:10+00:00"
+last_modified_at: "2025-06-28T00:03:01+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-06-15
+Had a good chat with Craig about speaking at LevelUp 2026.
 
 ## 2025-06-12
 Even though it was excruciatingly painful, I had an abscess drained, which brought a lot of relief and started me down the path of healing and recovery.
