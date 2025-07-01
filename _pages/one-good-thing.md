@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-06-30T15:25:24+00:00"
+last_modified_at: "2025-07-01T13:16:16+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-05-21
+Had a lovely time at Charles's and Jenae's wedding!
 
 ## 2025-05-20
 Made good progress on the OLI proposal addendum with Nick.
