@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2025-06-01T18:40:25+00:00"
+last_modified_at: "2025-07-03T19:02:06+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -68,6 +68,7 @@ Here are a few of my fixations and particularities (in no particular order) that
   * hashbrown
   * onramp
   * trackrecord
+  * crosssection
 * contranyms
   * cleave: to adhere, or to separate
   * sanction: to approve, or to boycott/penalize
