@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-07-08T15:31:24+00:00"
+last_modified_at: "2025-07-09T18:01:10+00:00"
 tags:
   - happenings
   - draft
@@ -14,6 +14,9 @@ Had a good time at 1FROG.
 
 ## 2025-06-27
 Had a good time climbing with Chase at Staunton.
+
+## 2025-06-26
+Had a nice time with Max and Monse, including a brunch and taking the doggos to the bark park.
 
 ## 2025-06-25
 Had a good call with Eric!
