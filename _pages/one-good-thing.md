@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-07-17T13:25:15+00:00"
+last_modified_at: "2025-07-18T18:33:50+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-07-14
+Arrived in Tampa / St Petersburg!
 
 ## 2025-07-12
 Had a great time at 3FROG and then my birthday dinner at Fogo de Chão.
