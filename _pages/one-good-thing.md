@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-07-18T18:33:50+00:00"
+last_modified_at: "2025-07-19T13:13:27+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-07-15
+Went flying in Neil's plane!
 
 ## 2025-07-14
 Arrived in Tampa / St Petersburg!
