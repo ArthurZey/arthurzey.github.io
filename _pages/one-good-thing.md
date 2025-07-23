@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-07-22T13:49:18+00:00"
+last_modified_at: "2025-07-23T15:50:03+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-07-17
+Great first day of talks at LevelUp!
 
 ## 2025-07-16
 LevelUp 2025 opening banquet!
