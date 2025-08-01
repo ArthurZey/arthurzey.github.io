@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-07-31T05:17:34+00:00"
+last_modified_at: "2025-08-01T04:35:05+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-07-22
+Hosted all the LevelUp folks at our Airbnb in Melbourne Beach for a BBQ!
 
 ## 2025-07-21
 Jessie's 16-week OB appointment!
