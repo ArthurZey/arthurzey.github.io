@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-08-04T15:43:21+00:00"
+last_modified_at: "2025-08-06T04:10:39+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-07-29
+Chase and I had a nice catchup video call with Jessie and Spencer.
 
 ## 2025-07-26
 Had a nice time at 1FROG, where Chase presented about his Chamonix trip, and we both presented about LevelUp.
