@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-08-06T04:10:39+00:00"
+last_modified_at: "2025-08-07T05:04:23+00:00"
 tags:
   - happenings
   - draft
@@ -10,6 +10,9 @@ sitemap: false
 ---
 
 ## 2025-07-29
+Chase saved my life by insisting that I go to the ER for how bad I was feeling.
+
+## 2025-07-27
 Chase and I had a nice catchup video call with Jessie and Spencer.
 
 ## 2025-07-26
