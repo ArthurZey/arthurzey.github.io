@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-08-18T14:04:44+00:00"
+last_modified_at: "2025-08-19T14:24:16+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-08-18
+Finished up the rest of the _Babylon 5_ franchise with the 2023 animated movie _The Road Home_.
 
 ## 2025-08-17
 Able to go up and down stairs without hobbling.
