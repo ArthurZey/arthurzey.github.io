@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-08-29T14:52:08+00:00"
+last_modified_at: "2025-08-30T15:18:20+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-08-28
+Got my PICC line removed.
 
 ## 2025-08-27
 Got a haircut.
