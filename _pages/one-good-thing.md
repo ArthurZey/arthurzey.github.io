@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-09-01T14:26:49+00:00"
+last_modified_at: "2025-09-05T14:30:24+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+# 2025-09-02
+Got the RO system repaired, enjoyed Susan Campbell's webinar, had a great catchup call with Kelly, and reconnected with Scott!
 
 ## 2025-08-30
 Chase's birthday dinner at Texas de Brazil.
