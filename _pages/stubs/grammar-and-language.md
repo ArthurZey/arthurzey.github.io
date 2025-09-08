@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2025-07-03T19:02:06+00:00"
+last_modified_at: "2025-09-08T15:00:05+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -141,6 +141,8 @@ Here are a few of my fixations and particularities (in no particular order) that
   * "FAQ" versus "FAQ entry"
   * "meme" versus ???
 * "irregardless", other non-words, and the (d)evolution of language (maybe a separate post in its own right)
+  * [Merriam-Webster Facebook Post](https://www.facebook.com/100064921800180/posts/1162493735924676/){:target="&lowbar;blank"}
+  * [Merriam-Webster YouTube Video](https://www.youtube.com/watch?v=bEJ2HF3xuFk){:target="&lowbar;blank"}
 * paradox
 * irony
 * humility and arrogance
