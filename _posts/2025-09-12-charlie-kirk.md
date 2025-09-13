@@ -1,7 +1,7 @@
 ---
 title: "Charlie Kirk and the Erosion of Compassion"
 date: "2025-09-12"
-last_modified_at: "2025-09-12"
+last_modified_at: "2025-09-13T05:18:24+00:00"
 description: ""
 tags:
   - politics
@@ -75,7 +75,7 @@ There is a lot more I want to say about the philosophical dimension of this, add
 
 There's a second bit of context that needs to be set, and it's sort of a blend of philosophical and psychological observations. I have stood on the shoulders of many giants to reach these convictions, but on this specific point, Brené Brown was the chief catalyst for my thinking and development.
 
-_I believe that people are generally and genuinely doing the best that they can, with the skills and capacities that they have at any given time._
+_I believe that people are basically good, that they are generally and genuinely doing the best that they can, with the skills and capacities that they have at any given time._
 
 This is controversial, and really, it requires no less than a full treatise on its own, not the least of which to explore what I mean by "doing the best that they can". But I can't do that here, so please be charitable and fill in some blanks for yourself, reflecting on your own experience: Yes, there are some ways in which you think you might have been able to do better, but when you didn't, think about how that reflected the best you could do, given your resources (emotional, intellectual, etc) at the moment. Moreover, I want to emphasize that this "theory" is derived from and for application to real people and real relationships in life, not remote celebrities, characters or caricatures, or abstract hypotheticals.
 
