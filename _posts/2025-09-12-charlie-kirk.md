@@ -1,7 +1,7 @@
 ---
 title: "Charlie Kirk and the Erosion of Compassion"
 date: "2025-09-12"
-last_modified_at: "2025-09-13T14:40:25+00:00"
+last_modified_at: "2025-09-13T14:45:56+00:00"
 description: ""
 tags:
   - politics
@@ -145,7 +145,7 @@ The consistent application and logical result of this attitude toward people we 
 
 So now let me be explicitly consistent about my own viewpoint here: As I said, I can relate to and remember the very same feeling that all these people are having, so perhaps obviously, I don't think they're evil. But if you only condemn the murder intellectually, and emotionally, you feel anything other than sadness (or even if you feel neutral about it), I think it calls for some deep introspection and reflection. I don't know how to say that without sounding condescending and holier-than-thou, like, here I've grown and healed and matured and am so wise, and now I'm telling you what you need to do. No, that's not the vibe I'm trying to send out, but like I said, it breaks my heart that in our culture, and among so many people that I know and am even close to, this attitude is so common.
 
-Every death is a tragedy. Every time killing is the only way to deal with someone doing evil deeds, when it's justified, it's still a tragedy that it's come to that. So when it's the _murder_ of someone innocent of any rights violations, we should all be grieving. Full stop.
+Every death is a tragedy. Every time killing is the only way to deal with someone doing evil deeds--ie, when it's justified--it's still a tragedy that it's come to that. So when it's the _murder_ of someone innocent of any rights violations, we should all be grieving. Full stop.
 
 ## The Murderer
 At the time that I'm writing this, I'm not aware that the murderer has been positively identified, but that's beside the point.
