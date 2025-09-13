@@ -1,7 +1,7 @@
 ---
 title: "Charlie Kirk and the Erosion of Compassion"
 date: "2025-09-12"
-last_modified_at: "2025-09-13T14:35:29+00:00"
+last_modified_at: "2025-09-13T14:38:27+00:00"
 description: ""
 tags:
   - politics
@@ -77,7 +77,7 @@ There's a second bit of context that needs to be set, and it's sort of a blend o
 
 _I believe that people are basically good, that they are generally and genuinely doing the best that they can, with the skills and capacities that they have at any given time._
 
-This is controversial, and really, it requires no less than a full treatise on its own, not the least of which to explore what I mean by "doing the best that they can". But I can't do that here, so please be charitable and fill in some blanks for yourself, reflecting on your own experience: Yes, there are some ways in which you think you might have been able to do better, but when you didn't, think about how that reflected the best you could do, given your resources (emotional, intellectual, etc) at the moment. Moreover, I want to emphasize that this "theory" is derived from and for application to real people and real relationships in life, not remote celebrities, characters or caricatures, or abstract hypotheticals.
+This is controversial, and really, it requires no less than a full treatise on its own, not the least of which to explore what I mean by "doing the best that they can". But I can't do that here, so please be charitable and fill in some blanks for yourself, reflecting on your own experience: Yes, there are some ways in which you think you might have been able to do better, but when you didn't, think about how that nevertheless reflected the best you could do, _given your resources (emotional, intellectual, etc) at the moment_. Moreover, I want to emphasize that this "theory" is derived from and for application to real people and real relationships in life, not remote celebrities, characters or caricatures, or abstract hypotheticals.
 
 So much of our art (stories, literature, mythology, plays, TV, movies, and even paintings) for millennia has perpetuated the melodrama of "good versus evil", cashing in on and reinforcing a natural human bias toward the cognitive efficiency of quick moralizing: If you do a bad thing, you're evil, and then I can write you off and dehumanize you.
 
