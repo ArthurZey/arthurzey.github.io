@@ -1,7 +1,7 @@
 ---
 title: "Charlie Kirk and the Erosion of Compassion"
 date: "2025-09-12"
-last_modified_at: "2025-09-13T14:38:27+00:00"
+last_modified_at: "2025-09-13T14:40:25+00:00"
 description: ""
 tags:
   - politics
@@ -152,7 +152,7 @@ At the time that I'm writing this, I'm not aware that the murderer has been posi
 
 Let's assume, for the purposes of what follows, that this was a leftist who found Charlie Kirk's viewpoints detestable, dangerous, heinously evil. And let's assume that the murderer's volitional power was not impaired. (I think these are fair guesses, but if my assumptions are wildly off, then at the very worst, this section just reinforces an important point by using a counterfactual--but realistic--hypothetical.)
 
-The murderer holds views that _I_ find detestable. Set aside all the typical leftist ideas I disagree with, this is a person who evidently believes that if a person advocates for bad ideas too vociferously or effectively, it's acceptable to kill them.
+The murderer holds views that _I_ find detestable. Setting aside all the typical leftist ideas I disagree with, this is a person who evidently believes that if a person advocates for bad ideas too vociferously or effectively, it's acceptable to kill them.
 
 I cannot overstate how much that viewpoint is anathema to the core of my being. I see too clearly the consequences of engaging with other people in this way. I know in my bones that individual rights are sacrosanct and that the initiation of force is so, so wrong.
 
