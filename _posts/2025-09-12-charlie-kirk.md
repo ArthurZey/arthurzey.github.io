@@ -1,7 +1,7 @@
 ---
 title: "Charlie Kirk and the Erosion of Compassion"
 date: "2025-09-12"
-last_modified_at: "2025-09-13T05:23:58+00:00"
+last_modified_at: "2025-09-13T05:56:02+00:00"
 description: ""
 tags:
   - politics
@@ -162,7 +162,7 @@ But I have the advantage of a rational philosophy that I've also largely subcons
 
 The murderer obviously had few, if any, of these advantages. That's certainly not an excuse, but by putting it in this kind of perspective, I can relate to and even empathize with the horrific distress the murderer must have felt, a distress that led to the commission of a horrible crime.
 
-I've been calling a lot of things tragedies, and we need to add one more to the list: It's a tragedy that this person felt so helpless and so despondent and desperate, that the only option that seemed available was murder. You may think this is compassion and empathy run amok (heck, I hear that Charlie Kirk himself might have thought so), and in today's culture, that's an understandable reaction, but I want you to think, really think and try to _feel_ what it might be like to be this murderer. Think about what kind of life that must be, what kind of persistent state of dread you would be enduring, what it's like to have every waking moment dominated by a seething hatred that's nothing more than a lashing out from feeling helpless and defensive, like a cornered animal. It is a miserable existence, made all the worse by your actual knowledge that it's utterly unnecessary. Pity is an ugly emotion, and that's not what I'm counseling--I'm asking how you can not feel a deep sadness in your heart that a human being lived this way, if you can even really call that "living".
+I've been calling a lot of things tragedies, and we need to add one more to the list: It's a tragedy that this person felt so helpless and so despondent and desperate, that the only option that seemed available was murder. You may think this is compassion and empathy run amok (heck, I hear that Charlie Kirk himself might have thought so), and in today's culture, that's an understandable reaction, but I want you to think, really think and try to _feel_ what it might be like to be this murderer. Think about what kind of life that must be, what kind of persistent state of dread you would be enduring, what it's like to have every waking moment dominated by a seething hatred that's nothing more than a lashing out from feeling helpless and defensive, like a cornered animal. It is a miserable existence. And what makes it all the worse is your knowledge as you actually at this moment that it's utterly unnecessary. Pity is an ugly emotion, and that's not what I'm counseling--I'm asking how you can not feel a deep sadness in your heart that a human being lived this way, if you can even really call that "living".
 
 There are many conservatives (and even Objectivists) who fervently call for the murderer to be found and convicted (and I'm sure many would want the death penalty), but it's being done with vengeance in their hearts. Notice the dehumanizing rhetoric, that the murderer was an animal or otherwise subhuman filth, scum, etc. It may be fueled by a rational commitment to justice, but the irony is that, on the deepest level, it's playing out the same ugliness that's behind so many leftists' withholding of sorrow for Charlie Kirk.
 
@@ -188,3 +188,5 @@ And what the hell difference does it make?
 perversion of "empathy"
 
 tradeoffs versus solutions (analogy to car wrecks)
+
+holding Charlie Kirk accountable for his viewpoints
