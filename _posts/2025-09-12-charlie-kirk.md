@@ -1,7 +1,7 @@
 ---
 title: "Charlie Kirk and the Erosion of Compassion"
 date: "2025-09-12"
-last_modified_at: "2025-09-13T05:21:29+00:00"
+last_modified_at: "2025-09-13T05:23:58+00:00"
 description: ""
 tags:
   - politics
@@ -174,13 +174,17 @@ Oh, and I hasten to add that, while I've made all these points about compassion 
 
 ## The Left Just Conceded That Charlie Kirk Was Right
 or: here are the concrete ways in which murder is _wrong_ in this specific context
+
 what it does to the strength of the ideas when they are shot down
 
 ## Conservative Hypocrisy
 conservatives cheering for leftists getting what they deserve
+
 curtailing free speech in response
 
 ## Charlie Kirk Out of Context
 And what the hell difference does it make?
+
 perversion of "empathy"
+
 tradeoffs versus solutions (analogy to car wrecks)
