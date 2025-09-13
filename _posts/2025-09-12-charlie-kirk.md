@@ -1,7 +1,7 @@
 ---
 title: "Charlie Kirk and the Erosion of Compassion"
 date: "2025-09-12"
-last_modified_at: "2025-09-13T05:56:02+00:00"
+last_modified_at: "2025-09-13T14:35:29+00:00"
 description: ""
 tags:
   - politics
@@ -190,3 +190,7 @@ perversion of "empathy"
 tradeoffs versus solutions (analogy to car wrecks)
 
 holding Charlie Kirk accountable for his viewpoints
+
+## Conclusion
+
+So what did I mean by the title, "Charlie Kirk and the Erosion of Compassion"?
