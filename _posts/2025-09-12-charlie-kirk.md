@@ -1,7 +1,7 @@
 ---
 title: "Charlie Kirk and the Erosion of Compassion"
 date: "2025-09-12"
-last_modified_at: "2025-09-14T22:49:42+00:00"
+last_modified_at: "2025-09-14T23:56:52+00:00"
 description: "Charlie Kirk's murder shocked me, but not for the reasons you might think. This is about compassion, not politics."
 tags:
   - politics
@@ -141,7 +141,7 @@ To my knowledge, Charlie Kirk did not take any coercive action against anybody, 
 
 And his kids? Well surely they're better off without a monster of a father...I mean, imagine if one of them turned out to be trans.
 
-It's just a thought experiment, but ff you don't feel bad that Charlie Kirk is dead (even if you condemn murder), do you really think you can bring yourself to explain that to his family?
+It's just a thought experiment, but if you don't feel bad that Charlie Kirk is dead (even if you condemn murder), do you really think you can bring yourself to explain that to his family?
 
 The consistent application and logical result of this attitude toward people we don't like, so much so that we might be a little glad they're dead, leads to some really ugly conclusions.
 
