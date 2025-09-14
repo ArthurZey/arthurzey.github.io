@@ -1,7 +1,7 @@
 ---
 title: "Charlie Kirk and the Erosion of Compassion"
 date: "2025-09-12"
-last_modified_at: "2025-09-14T21:49:06+00:00"
+last_modified_at: "2025-09-14T22:49:42+00:00"
 description: "Charlie Kirk's murder shocked me, but not for the reasons you might think. This is about compassion, not politics."
 tags:
   - politics
@@ -178,7 +178,7 @@ By this point, I've covered the essence of what I personally find so heartbreaki
 
 ## The Left Just Conceded That Charlie Kirk Was Right
 
-Obviously, neither the right nor the left are monoliths. The actions of one person don't reflect the attitudes and beliefs of the rest of their political group. But they do _reflect on_ them. Look at even the immediate aftermath of Charlie Kirk's murder: I myself have lost count of how many voices on the right are condemning _the left_ as a monolithic unit for this. (And boy, are they saying some pretty ugly things.)
+Obviously, neither the right nor the left are monoliths. The actions of one person don't reflect the attitudes and beliefs of the rest of their political group. But they do reflect _on_ them. Look at even the immediate aftermath of Charlie Kirk's murder: I myself have lost count of how many voices on the right are condemning _the left_ as a monolithic unit for this. (And boy, are they saying some pretty ugly things.)
 
 My point is that, whether the murderer's actions reflect dominant leftist viewpoints or ideology is irrelevant to the cultural effects of the murder. (Incidentally, I think there's an interesting analysis to be done about how much certain aspects of the murderer's philosophy coincides with some amount of the left in general, but that's outside the scope of what we can get into here.)
 
