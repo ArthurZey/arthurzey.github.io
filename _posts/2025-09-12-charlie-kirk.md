@@ -1,7 +1,7 @@
 ---
 title: "Charlie Kirk and the Erosion of Compassion"
 date: "2025-09-12"
-last_modified_at: "2025-09-15T19:31:19+00:00"
+last_modified_at: "2025-09-15T19:37:34+00:00"
 description: "Charlie Kirk's murder shocked me, but not for the reasons you might think. This is about compassion, not politics."
 tags:
   - politics
@@ -32,7 +32,7 @@ I cried. And then I tossed and turned, unable to fall asleep for what seemed lik
 
 At first, I wasn't sure if I wanted to include a table of contents... On the one hand, this is a very long post, and seeing the overall structure might be helpful. On the other hand, it might encourage people to skip to sections they want to read, which I think does grasping the overall narrative and main theses a disservice, since each section builds on the previous ones.
 
-But one thing that I've found that has led me to adding this in is that most people aren't actually taking the time to read through the whole post (which is totally understandable in today's busy and short-attention-span world). A somewhat humorous consequence of this, given the logic and flow of the topics, is that my right-leaning friends who read only the first few sections get the superficial impression that I'm on their side (though I think they might object to a number of points I make later), and my left-leaning friends get the impression that I'm some kind of Charlie Kirk fan-boy, my disclaimers to the contrary notwithstanding.
+But one thing that I've found that has led me to adding this in is that most people aren't actually taking the time to read through the whole post (which is totally understandable in today's busy and short-attention-span world). A somewhat humorous consequence of this, given the logic and flow of the topics, is that my right-leaning friends who read only the first few sections get the superficial impression that I'm on "their side" (though I think they might object to a number of points I make later), and my left-leaning friends get the impression that I'm some kind of Charlie Kirk fan-boy, my disclaimers to the contrary notwithstanding.
 
 So in the spirit of giving readers a preview of the breadth of topics and angles I'm covering and to preempt some erroneous conclusions about where my "sympathies" lie, here's the table of contents:
 
