@@ -1,7 +1,7 @@
 ---
 title: "Charlie Kirk and the Erosion of Compassion"
 date: "2025-09-12"
-last_modified_at: "2025-09-14T23:56:52+00:00"
+last_modified_at: "2025-09-15T00:07:06+00:00"
 description: "Charlie Kirk's murder shocked me, but not for the reasons you might think. This is about compassion, not politics."
 tags:
   - politics
@@ -65,7 +65,7 @@ _I unequivocally condemn Charlie Kirk's murder._
 
 It doesn't matter whether I agree or disagree with him on this or that. It doesn't matter whether he was saying true things or vile falsehoods. It doesn't matter if he was a powerful ideological force in the culture for good or for ill. I'm not going to entertain the desire to dilute the condemnation (or engage in some kind of "I disapprove of what you say, but I will defend to the death your right to say it." virtue signaling) by saying that I don't agree with him on some issues. That is _so_ beside the point. (And really, if you know me at all, that I am a defender of individual rights and capitalism, then you should already know where I stand on the issues of immigration, abortion, gays, trans folks, freedom of speech, debate versus violence, and every other issue on which Charlie Kirk may have expressed an opinion.)
 
-Imagine that someone condemns his murder and _doesn't_ follow up with a sort of defensive "But I disagree with him about _x_, _y_, and _z_!". If you conclude that that person thereby sanctions the substance of everything that Charlie Kirk said...that is some damned unclear thinking, jumping to unfounded and, more importantly, _irrelevant_ conclusions. It says more about _you_ and where your focus is: Us-Themming is more important to you than whether murder is being used to oppose ideas you find repugnant (and all the consequences of living in a society where that is normalized).
+Imagine that someone condemns his murder and _doesn't_ follow up with a sort of defensive "But I disagree with him about _x_, _y_, and _z_!". If you conclude that that person thereby sanctions the substance of everything that Charlie Kirk said...that is some damned unclear thinking, jumping to unfounded and, more importantly, _irrelevant_ conclusions. It says more about _you_ and where your focus is: Us-themming is more important to you than whether murder is being used to oppose ideas you find repugnant (and all the consequences of living in a society where that is normalized).
 
 If you are the person who condemns his murder and _does_ follow up with that defense, I get it. Really, I can relate to why you're doing it. Now, if your point is to defend freedom of speech, of course it can be powerful to defend speech you disagree with, but this isn't about freedom of speech--it's about murder and using violence against ideas. (Remember that freedom of speech is a prohibition on government regulation of speech, not private parties' interference in speech.) To take a sort of defensive posture ultimately does the overall discussion about _murder_ a disservice, conceding that what Charlie Kirk said and whether you agree with it has any relevance whatsoever.
 
