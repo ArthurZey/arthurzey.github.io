@@ -1,7 +1,7 @@
 ---
 title: "Charlie Kirk and the Erosion of Compassion"
 date: "2025-09-12"
-last_modified_at: "2025-09-15T00:58:32+00:00"
+last_modified_at: "2025-09-15T01:10:41+00:00"
 description: "Charlie Kirk's murder shocked me, but not for the reasons you might think. This is about compassion, not politics."
 tags:
   - politics
@@ -12,7 +12,12 @@ links:
       scheme: POST
       value:
         user: ArthurZey
-        id: ""
+        id: "pfbid02QH2j7LLVQ7fbi69VFwd8K2rwC7pCMWsWscugAcHgjt3yf2vKNc8XJ82rXoVafofZl"
+    - type: TWITTER
+      scheme: POST
+      value:
+        user: LogicalArthur
+        id: "1967394605193998616"
 ---
 
 Last night, I was listening to Chopin's Nocturne No 2 in E-Flat Major, Opus 9 No 2:
