@@ -320,5 +320,13 @@
 			</div>
 		</div>
 		<script type="text/javascript" src="/assets/js/lcars.js"></script>
+		<script>
+			document.addEventListener('DOMContentLoaded', function () {
+			var p7 = document.querySelector('.panel-7');
+			if (!p7) return;
+			p7.classList.add('flash');
+			setTimeout(function () { p7.classList.remove('flash'); }, 10000);
+			});
+		</script>
 	</body>
 </html>

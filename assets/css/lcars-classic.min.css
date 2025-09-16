@@ -507,6 +507,23 @@ a:hover {
   padding: 5px 5px 300px 0;
   background: #78f;
 }
+
+/* Added by Arthur Zey 2025-09-16 to flash the button for PLAIN READER */
+/* flash .panel-7 between #78f and #000 for 10s (1s cycle, 10 iterations) */
+@keyframes panel7-flash {
+  0%, 49.999% { background: #78f; }
+  50%, 100%   { background: #000; }
+}
+
+/* Only when you add the 'flash' class */
+.panel-7.flash {
+  animation-name: panel7-flash;
+  animation-duration: 1s;          /* full cycle = 1s => switches every 0.5s */
+  animation-timing-function: linear;
+  animation-iteration-count: 10;   /* total runtime = 10s */
+  animation-fill-mode: none;       /* revert to original background after */
+}
+
 .panel-8 {
   /* padding: 15px 10px 110px 0; Arthur Zey 2021-10-31 making more responsive on mobile */
   padding: 5px 5px 110px 0;
