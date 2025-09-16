@@ -482,6 +482,7 @@ a:hover {
 .panel-7,
 .panel-8 {
   border-bottom: 5px solid #000;
+  display: block;
 }
 .panel-3 {
   /* padding: 0 10px 15px 0; Arthur Zey 2021-10-31 making more responsive on mobile */
