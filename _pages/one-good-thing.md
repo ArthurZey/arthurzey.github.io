@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-09-12T14:21:59+00:00"
+last_modified_at: "2025-09-21T16:32:07+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+# 2025-09-07
+Went climbing with Chase at Bucksnort Slab.
 
 # 2025-09-04
 Had a really great catchup call with Alex and felt really good afterward.
