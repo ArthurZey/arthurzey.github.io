@@ -1,7 +1,7 @@
 ---
 title: "Charlie Kirk and the Erosion of Compassion"
 date: "2025-09-12"
-last_modified_at: "2025-09-15T19:37:34+00:00"
+last_modified_at: "2025-09-23T12:55:02+00:00"
 description: "Charlie Kirk's murder shocked me, but not for the reasons you might think. This is about compassion, not politics."
 tags:
   - politics
@@ -210,7 +210,7 @@ The cultural effect of this--the way that this will land with many conservatives
 
 Obligatory Isaac Asimov quotation: "Violence is the last refuge of the incompetent."
 
-Ironically, the murderer's actions have given an enormous boost to the very ideas that were evidently so repugnant that they had to be silenced through violence. The cultural effect is that the murderer has just proved that Charlie Kirk's ideas are true, actual philosophic/epistemological standards be damned. By making Charlie Kirk into a martyr, the murderer has done a greater service to the cultural impact of conservative ideas than any individual conservative could ever hoped to achieve in their wildest wet dreams.
+Ironically, the murderer's actions have given an enormous boost to the very ideas that were evidently so repugnant that they had to be silenced through violence. The cultural effect is that the murderer has just proved that Charlie Kirk's ideas are true, actual philosophic/epistemological standards be damned. By making Charlie Kirk into a martyr, the murderer has done a greater service to the cultural impact of conservative ideas than any individual conservative could ever hope achieve in their wildest wet dreams.
 
 Now, a lot of these effects are a product of factors that are specific to this particular murder and its context, but I want you to look at the issue more abstractly (and consider that all murders have their own unique contexts and adverse effects). You see, my view is that what makes something moral or immoral is _not_ merely some abstract theoretical framework, disconnected from the practical necessities of life. What makes something morally wrong is that, in the long term ("on net", if you prefer), it undermines your happiness and prosperity. You don't need to engage in some kind of economic calculus to assess every potential act; instead you go through a process of abstraction and concept-formation to grasp that there are certain broad categories of behaviors that enhance your life and those that undermine it. (And because people's genuine interests are harmonious--also something that would require its own robust treatment to prove, beyond the scope of this post--all human prosperity is at stake here, to one degree or another.) So the rigorous understanding of why something like murder is wrong has nothing to do with social convention or religious demands or anything like that, but a process of conceptualization from observation of what happens when people murder to resolve their differences versus when they don't. It's a highly complex and abstract process, but the point is that it's inherently tied to the practical consequences of murder.
 
