@@ -2,23 +2,26 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-09-21T16:32:07+00:00"
+last_modified_at: "2025-09-25T14:30:00+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
 
-# 2025-09-07
+## 2025-09-09
+Had a great call with Jonathan from Herasight.
+
+## 2025-09-07
 Went climbing with Chase at Bucksnort Slab.
 
-# 2025-09-04
+## 2025-09-04
 Had a really great catchup call with Alex and felt really good afterward.
 
-# 2025-09-03
+## 2025-09-03
 Got to meet Alexis, Matt, and Phineas!
 
-# 2025-09-02
+## 2025-09-02
 Got the RO system repaired, enjoyed Susan Campbell's webinar, had a great catchup call with Kelly, and reconnected with Scott!
 
 ## 2025-08-30
