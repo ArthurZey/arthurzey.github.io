@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-10-01T14:57:42+00:00"
+last_modified_at: "2025-10-02T20:18:57+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-09-15
+Got my blood drawn for my baseline labs / annual physical, and it wasn't too terrible.
 
 ## 2025-09-14
 Published my [post about Charlie Kirk](/blog/2025-09-12/charlie-kirk/), which I felt good about writing up over the previous few days.
