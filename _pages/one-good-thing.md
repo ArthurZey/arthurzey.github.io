@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-10-02T20:18:57+00:00"
+last_modified_at: "2025-10-03T20:05:23+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-09-16
+Had a good chat with David and Fred about a grant proposal.
 
 ## 2025-09-15
 Got my blood drawn for my baseline labs / annual physical, and it wasn't too terrible.
