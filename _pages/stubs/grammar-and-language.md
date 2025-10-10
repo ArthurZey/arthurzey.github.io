@@ -6,7 +6,7 @@ tags:
   - grammar
 description: "I'm rather particular about grammar and language, sometimes in pretty unconventional ways."
 date: "2020-04-21"
-last_modified_at: "2025-09-08T15:00:05+00:00"
+last_modified_at: "2025-10-10T12:44:50+00:00"
 ---
 
 Here are a few of my fixations and particularities (in no particular order) that I intend to explain in greater detail:
@@ -295,6 +295,8 @@ Fun games:
   * volcanoes
   * teefs
   * asplode
+* Who decided to call it _x_ instead of _y_?
+  * randomized clinical trial controlled with placebo &rarr; trick or treatment
 
 Other topics:
 
