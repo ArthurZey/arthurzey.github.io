@@ -1,13 +1,16 @@
----
+f---
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-10-09T14:59:12+00:00"
+last_modified_at: "2025-10-12T13:35:46+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-09-24
+Had a good time helping the Vekslers move house.
 
 ## 2025-09-23
 Had a good interview at Zendesk with Scott!
