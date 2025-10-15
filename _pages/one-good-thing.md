@@ -2,12 +2,15 @@ f---
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-10-13T14:14:49+00:00"
+last_modified_at: "2025-10-15T01:08:27+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-09-27
+Had a really nice time with Chase recreating our first date at Red Rock Canyon Open Space for our third anniversary, followed by 1FROG.
 
 ## 2025-09-26
 Had a really lovely call with Cathy and getting a tour of her farmhouse in Kentucky.
