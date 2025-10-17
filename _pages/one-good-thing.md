@@ -2,12 +2,15 @@ f---
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-10-16T13:01:27+00:00"
+last_modified_at: "2025-10-17T16:18:40+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-10-01
+Had a great time at dinner with Paul, Tempest, and Aaron, then had fun at the LessWrong meeting.
 
 ## 2025-09-30
 Had a really nice hike (Mt Audubon) and brunch with Paul and Aaron.
