@@ -5,7 +5,7 @@ tags:
   - philosophy
 description: "Volition is self-evident and axiomatic. The universe works by deterministic laws. And yet choice is not an illusion. How is this possible?"
 date: "2020-04-17"
-last_modified_at: "2025-10-26T16:01:28+00:00"
+last_modified_at: "2025-10-27T15:20:28+00:00"
 ---
 
 This is a favorite topic of many philosophy students. It's fun to think about. But the most important lesson I've learned about this over the years is that _it doesn't matter_. While I think there are valuable things to learn from engaging in it, this is mostly just a fun intellectual exercise.
@@ -61,6 +61,7 @@ Here are a few things I want to address (and this is by no means exhaustive):
     * You can't control the thoughts that arise, but that kind of control is not what constitutes volition. There are all kinds of bodily processes that we can't control, including mental processes, but that doesn't mean that there isn't something that we _do_ control. (Related: A person _is_ the control.) There's a failure here to differentiate between different senses of "controlling one's next thoughts".
 * how the non-determinist position implies mystical dualism / mind-body dichotomy
   * Deeper than being a determinist, I am a materialist, as against a dualist. In some ways, the truth of determinism is tangential to my view that the mind is the action performed by the brain.
+  * "Would we think that feelings are real? I would say yes. Do we think that they evolved. I would say yes. I think any evolutionary biologist would say yes to those questions. If it's real and it evolved, then natural selection must be able to see it and act on it in some way. In other words, there's something physical about it that can be selected for. Again, I don't think there's anything controversial about that statement. But then if it's physical and real and has been selected on, the implication is we should be able to measure it. It has to offer an advantage for selection to act on it, and if it's a physical process, it should be measurable. But we don't really know what we're trying to measure here." -- Nick Lane at [[1:11:10, 1:11:55]](https://youtu.be/0GMWxuYuxJI?t=4270){:target="&lowbar;blank"}
 * the epistemological error in the view of some determinists that "free will" cannot exist (by defining it out of existence)
   * from [a Facebook post by Paul Hsieh](https://www.facebook.com/PaulHsiehMD/posts/pfbid02eaXv1Yet2NvsJ8XpcLzPh1ZBJWjbSjJzG2sAdcp6meTqxVdzG7yop8FxP7SUXdgbl){:target="&lowbar;blank"} and my comment on it:
     * I'm sure they believe that their urging just has some kind of deterministic casual effect on the people they're trying to urge, via some other choice-making, deliberative power that controls action, but is, for some reason, *not* free will.
