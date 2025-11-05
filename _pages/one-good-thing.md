@@ -2,12 +2,15 @@ f---
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-11-02T16:16:52+00:00"
+last_modified_at: "2025-11-05T14:18:00+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-10-13
+Had a good time climbing my first multi-pitch route with Chase at Eldorado.
 
 ## 2025-10-11
 Had a really nice lunch with James (while he was visiting Denver), whom I hadn't seen in nearly 10 years!
