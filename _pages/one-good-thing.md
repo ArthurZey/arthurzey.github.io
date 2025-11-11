@@ -2,12 +2,15 @@ f---
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-11-05T14:18:00+00:00"
+last_modified_at: "2025-11-11T15:23:37+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2025-10-14
+28-week ultrasound went great!
 
 ## 2025-10-13
 Had a good time climbing my first multi-pitch route with Chase at Eldorado.
