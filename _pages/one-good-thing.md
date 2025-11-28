@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-11-23T15:56:33+00:00"
+last_modified_at: "2025-11-28T17:45:06+00:00"
 tags:
   - happenings
   - draft
@@ -11,6 +11,9 @@ sitemap: false
 
 ## 2025-11-19
 Had a nice catchup call with Betsy.
+
+## 2025-10-31
+30-week OB appointment!
 
 ## 2025-10-29
 Got surrogacy parentage documents notarized!
