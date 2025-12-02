@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-12-01T12:57:01+00:00"
+last_modified_at: "2025-12-02T23:32:30+00:00"
 tags:
   - happenings
   - draft
@@ -11,6 +11,9 @@ sitemap: false
 
 ## 2025-11-19
 Had a nice catchup call with Betsy.
+
+## 2025-11-04
+Made my testimonial videos for Herasight!
 
 ## 2025-11-03
 Had a nice date night with Chase.
