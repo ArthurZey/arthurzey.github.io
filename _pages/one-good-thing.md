@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-12-09T22:29:03+00:00"
+last_modified_at: "2025-12-14T15:32:12+00:00"
 tags:
   - happenings
   - draft
@@ -11,6 +11,9 @@ sitemap: false
 
 ## 2025-11-19
 Had a nice catchup call with Betsy.
+
+## 2025-11-08
+Had a nice catchup call with Vicki.
 
 ## 2025-11-07
 Had a good call with Carl about XG University.
