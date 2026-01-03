@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2025-12-28T14:43:49+00:00"
+last_modified_at: "2026-01-03T04:58:07+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-01-01
+Dax was born!
 
 ## 2025-11-20
 Had a nice time visiting with Sarah.
