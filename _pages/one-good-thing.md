@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2026-02-10T07:33:56+00:00"
+last_modified_at: "2026-02-11T07:26:44+00:00"
 tags:
   - happenings
   - draft
@@ -17,6 +17,9 @@ Dax passed his 25-hour tests!
 
 ## 2026-01-01
 Dax was born!
+
+## 2025-12-31
+Got a vacation override for Jublia prescription, just in the nick of time for a 2025 claim!
 
 ## 2025-12-29
 Last ultrasound!
