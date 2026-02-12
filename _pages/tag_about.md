@@ -47,7 +47,7 @@ hash_redirects:
     from: "#autism-test"
     to: "/personality-and-behavioral-profiles/#autism-test"
 date: "2020-04-15"
-last_modified_at: "2026-01-01T14:28:02+00:00"
+last_modified_at: "2026-02-12T06:55:32+00:00"
 ---
 
 {:refdef: style="text-align: center;"}
@@ -101,7 +101,7 @@ What is "The Truth about the Dishwasher"? You'll have to wait until I write abou
 
 While I buck a lot of social conventions and [many of the superficial manifestations of my traits are baffling to a lot of people](/misunderstood/) (believe me, I will write plenty on this), if you really get me, if you _really see and understand the core of my being_, I am super predictable.
 
-I love children, and I can't wait to be a dad. Meanwhile, [doggo Max is my trusty companion](/blog/2022-06-15/max/).
+I love children, and in 2026, after a long journey, I became a dad via surrogacy. Doggos [Max](/blog/2022-06-15/max/) and Thor, as well as kitty Murrby, are my trusty non-human companions. [Chase Popp](https://www.chasepopp.com/){:target="&lowbar;blank"} is my human companion, my partner in life, and my co-parent.
 
 I grew up in Los Angeles, I lived in the San Francisco Bay area for nearly 10 years, I was in Denver "temporarily" for about a year to figure out whether I want to live in Colorado permanently, and I've been living in Bailey, Colorado since the end of August 2021.
 
