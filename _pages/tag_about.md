@@ -47,11 +47,11 @@ hash_redirects:
     from: "#autism-test"
     to: "/personality-and-behavioral-profiles/#autism-test"
 date: "2020-04-15"
-last_modified_at: "2026-02-12T06:55:32+00:00"
+last_modified_at: "2026-02-12T06:58:21+00:00"
 ---
 
 {:refdef: style="text-align: center;"}
-<img src="/assets/images/2013-07-23.ArthurZey.Headshot.Twitter.jpg" alt="Headshot" width="480px" />
+<img src="/assets/images/Arthur Zey Gemini-Synthesized Headshot 2026 - Blue Gradiant Background (Gemini_Generated_Image_7g9phw7g9phw7g9p).png" alt="Headshot" width="480px" />
 <a href="#crest"><img src="/assets/images/Arthur Zey Crest (color, transparent background).png" alt="Crest" width="480px" /></a>
 {: refdef}
 
