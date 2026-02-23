@@ -2,15 +2,18 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2026-02-22T09:40:51+00:00"
+last_modified_at: "2026-02-23T09:45:13+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
 
+## 2026-01-28
+Had a good interview with Chris.
+
 ## 2026-01-26
-Had good interviews with Emma ad Charlotte.
+Had good interviews with Emma and Charlotte.
 
 ## 2026-01-22
 Started exercising again, after hernia surgery and Dax's birth!
