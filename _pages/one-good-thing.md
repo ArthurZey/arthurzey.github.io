@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2026-03-22T01:53:46+00:00"
+last_modified_at: "2026-03-22T21:36:34+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-02-26
+Had a nice last Indiana/Kentucky dinner with Jessie, Ryleigh, Elizabeth, and Sandy at Cast Iron Steak House!
 
 ## 2026-02-25
 Got Dax's Passport application submitted and had a good last pediatric appointment in Kentucky with Dr Chris!
