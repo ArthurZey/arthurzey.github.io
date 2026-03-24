@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2026-03-22T21:36:34+00:00"
+last_modified_at: "2026-03-24T06:10:23+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-02-27
+Dad and Scott meet for the first time, and we have our last family dinner in Kentucky with Cathy!
 
 ## 2026-02-26
 Had a nice last Indiana/Kentucky dinner with Jessie, Ryleigh, Elizabeth, and Sandy at Cast Iron Steak House!
