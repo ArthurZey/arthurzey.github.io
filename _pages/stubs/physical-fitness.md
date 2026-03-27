@@ -6,7 +6,7 @@ tags:
   - fitness
 description: "Why does physical fitness occupy such a prominent place in my life? And how does my concern with physical fitness manifest and relate to other values?"
 date: "2020-04-20"
-last_modified_at: "2026-03-26T22:49:47+00:00"
+last_modified_at: "2026-03-27T10:09:35+00:00"
 ---
 
 ## On This Page
@@ -227,7 +227,7 @@ To be frank, I'm not confident how much good these various supplements are doing
 | [Nutricost Boron](https://www.amazon.com/dp/B0BBY9TXSB/){:target="&lowbar;blank"} | 1 capsule:<br /> <br /> 10 mg Boron Citrate |  | Enhances free testosterone and cognitive sharpness; may benefit sex drive and bone density. |
 | [NOW Foods Vitamin E-400](https://www.amazon.com/dp/B0013OSMC0?th=1){:target="&lowbar;blank"} |  | 1 softgel:<br /> <br /> 268 mg Vitamin E (as d-alpha Tocopheryl Acetate) | Supports antioxidant status, cardiovascular health, and immune defense. |
 | [NOW Foods Selenium](https://www.amazon.com/dp/B00YAULMUS/){:target="&lowbar;blank"} |  | 1 capsule:<br /> <br /> 200 mcg Selenium (from L-Selenomethionine) | Supports thyroid health and antioxidant defense. |
-| Poliquin UberZinc Px |  | 1 capsule:<br /> <br /> 30 mg Zinc (as Zinc Orotate and Zinc Aspartate) | Critical for immune response, testosterone production, and tissue repair. |
+| Poliquin UberZinc Px |  | 1 capsule (every other day):<br /> <br /> 30 mg Zinc (as Zinc Orotate and Zinc Aspartate) | Critical for immune response, testosterone production, and tissue repair. |
 | [Life Extension Mega Lycopene](https://www.amazon.com/dp/B0019LRHDC/){:target="&lowbar;blank"} |  | 1 softgel:<br /> 15 mg Lycopene | Antioxidant with prostate, skin, and cardiovascular benefits. |
 
 Previously discontined supplements:
