@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2026-03-31T03:25:09+00:00"
+last_modified_at: "2026-04-01T00:53:12+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-03-08
+Had a nice time at the Vekslers' for Sophie's Bat Mitzvah celebration.
 
 ## 2026-03-02
 Flew back home to Colorado with Dax and Dad!
