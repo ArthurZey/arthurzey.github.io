@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2026-04-14T17:57:56+00:00"
+last_modified_at: "2026-04-16T17:04:15+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-04-07
+Resumed lifting again!
 
 ## 2026-03-28
 Had a nice time with the Cades at the park for Richard's birthday.
