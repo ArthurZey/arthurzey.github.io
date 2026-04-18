@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2026-04-16T17:04:15+00:00"
+last_modified_at: "2026-04-18T02:02:55+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-04-08
+Had a great interview with Antonio about genetic testing!
 
 ## 2026-04-07
 Resumed lifting again!
