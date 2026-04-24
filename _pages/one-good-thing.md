@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2026-04-22T17:18:59+00:00"
+last_modified_at: "2026-04-24T05:36:07+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-04-12
+Had a nice dinner with Glenn and Donna!
 
 ## 2026-04-11
 Had a good doggy playdate at the offleash dog park for Max and Thor with the Cades.
