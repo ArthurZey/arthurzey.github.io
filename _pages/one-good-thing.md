@@ -2,7 +2,7 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2026-04-26T04:29:34+00:00"
+last_modified_at: "2026-04-26T20:36:18+00:00"
 tags:
   - happenings
   - draft
@@ -11,6 +11,9 @@ sitemap: false
 
 ## 2026-04-25
 Had a great time with Dax at 1FROG!
+
+## 2026-04-24
+Dax took the bottle into his own hands and brought it to his mouth!
 
 ## 2026-04-22
 Picked up breastmilk from Jess in Colorado Springs, and we had a nice visit.
