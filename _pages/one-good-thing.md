@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2026-04-28T18:19:58+00:00"
+last_modified_at: "2026-04-30T02:34:56+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-04-29
+Changed my Google Account email, finally!
 
 ## 2026-04-25
 Had a great time with Dax at 1FROG!
