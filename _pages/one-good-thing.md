@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2026-05-04T04:06:19+00:00"
+last_modified_at: "2026-05-05T15:12:14+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-05-03
+Had a fun doggy play date with Max and the Cades at Chatfield Dog Park.
 
 ## 2026-05-02
 Had a low-key day with Elizabeth and Dax. We just hung out all day, went on a walk, etc.
