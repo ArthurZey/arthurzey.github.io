@@ -2,12 +2,15 @@
 title: One Good Thing
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 date: "2021-12-05"
-last_modified_at: "2026-05-14T14:42:20+00:00"
+last_modified_at: "2026-05-15T13:35:22+00:00"
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-05-14
+Finally finished _Star Trek: Insurrection_ with Chase because we got to bed at a reasonable hour!
 
 ## 2026-05-13
 Had a good call with Nick about OLI.
