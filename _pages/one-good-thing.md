@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-05-17"
+last_modified_at: "2026-05-18"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-05-17
+Made good progress on IFC website work ahead of launch and OLI founding documents.
 
 ## 2026-05-16
 Had a relaxing morning with Chase, and then, while our plan for a hike was a bust on account of the weather and my not being speedy enough in the morning, we still had nice time going out and spending a few minutes at the dog park before we got rained out and then going to the hardware store in Boulder.
