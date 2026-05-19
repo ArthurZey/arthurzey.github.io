@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-05-18"
+last_modified_at: "2026-05-19"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-05-18
+Fixed a bunch of IFC website bugs ahead of launch. 
 
 ## 2026-05-17
 Made good progress on IFC website work ahead of launch and OLI founding documents.
