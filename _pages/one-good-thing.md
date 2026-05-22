@@ -9,6 +9,9 @@ tags:
 sitemap: false
 ---
 
+## 2026-05-21
+Social media launch of IFC on Facebook, LinkedIn, and Twitter; promotion of OSI LevelUp talk!
+
 ## 2026-05-20
 Fixed a bunch of production bugs on IFC website and wrote a local speech-to-text transcription script.
 
