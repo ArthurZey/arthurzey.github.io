@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-05-23"
+last_modified_at: "2026-05-24"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-05-23
+Had a nice time at 1FROG with Dax.
 
 ## 2026-05-22
 Chase, Dax, and I had a really nice dinner at 801 Chophouse with Scott, who treated us!
