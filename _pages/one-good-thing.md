@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-05-28"
+last_modified_at: "2026-05-29"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-05-28
+Had a nice time at the Bergen Elementary End-of-Year Celebration! Dax was a huge hit!
 
 ## 2026-05-27
 Finally sorted out most of the UI/UX bugs in the visual media section of the IFC site and launched it!
