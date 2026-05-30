@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-05-29"
+last_modified_at: "2026-05-30"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-05-29
+Despite things being delayed, the day felt productive, including dropping off coolers at FedEx (to ship to Sandy) and getting the initial board action for OLI out. Then Chase and I had a nice steak dinner.
 
 ## 2026-05-28
 Had a nice time at the Bergen Elementary End-of-Year Celebration! Dax was a huge hit!
