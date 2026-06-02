@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-06-01"
+last_modified_at: "2026-06-02"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-06-01
+Had a really nice visit with the Vekslers on Dax's 5-month birthday!
 
 ## 2026-05-31
 Had a wonderful day with Chase and Dax, spending time outside and then also Dax's tasting his first solid food--steak!
