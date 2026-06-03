@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-06-02"
+last_modified_at: "2026-06-03"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-06-02
+Managed to take the dogs on a quick run while Dax was sleeping.
 
 ## 2026-06-01
 Had a really nice visit with the Vekslers on Dax's 5-month birthday!
