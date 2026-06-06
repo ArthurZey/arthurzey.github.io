@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-06-05"
+last_modified_at: "2026-06-06"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-06-05
+Managed to get a lot of tidying up done around the apartment, and Thor behaved well on our walk.
 
 ## 2026-06-04
 Had a productive day of running errands with Dax up in Bailey.
