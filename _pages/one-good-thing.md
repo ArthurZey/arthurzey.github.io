@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-06-13"
+last_modified_at: "2026-06-14"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-06-13
+Had a nice time at Quin's birthday party and then at 3FROG.
 
 ## 2026-06-12
 Managed to knock out a few to-do list items, including getting Murrby's pet insurance policy, closing the LOGIC Wells Fargo accounts, and picking up my car from being serviced.
