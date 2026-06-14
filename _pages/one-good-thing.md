@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-06-12"
+last_modified_at: "2026-06-13"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-06-12
+Managed to knock out a few to-do list items, including getting Murrby's pet insurance policy, closing the LOGIC Wells Fargo accounts, and picking up my car from being serviced.
 
 ## 2026-06-11
 Got a lot of errands done quickly, including tire change, dropping DRLOGIC off for service, withdrawing all funds from Wells Fargo for LOGIC / Objectivist Nexus, and opening a new account for Objectivist Nexus at Chase Bank.
