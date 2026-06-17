@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-06-16"
+last_modified_at: "2026-06-17"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-06-16
+Created a pipeline that converts ePub files into TTSed m4b audiobooks and videos with forced subtitles of the text.
 
 ## 2026-06-15
 Had a wonderful visit with Jen!
