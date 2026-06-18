@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-06-17"
+last_modified_at: "2026-06-18"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-06-17
+Chase, Dax, and I had a nice dinner at Smokin' Dave's BBQ with Scott and Summer.
 
 ## 2026-06-16
 Created a pipeline that converts ePub files into TTSed m4b audiobooks and videos with forced subtitles of the text.
