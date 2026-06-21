@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-06-20"
+last_modified_at: "2026-06-21"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-06-20
+Had a nice time with Lisa at the dog park with Chase, Dax, Max, and Thor.
 
 ## 2026-06-19
 Went on a nice hike with Chase, Dax, and Lisa at Lumpy Ridge, and then Dax had his first peanut butter!
