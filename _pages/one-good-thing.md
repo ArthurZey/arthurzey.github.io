@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-06-24"
+last_modified_at: "2026-06-25"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-06-24
+Got a bunch of errands done with Dax.
 
 ## 2026-06-23
 Dry run of LevelUp talk went really well!
