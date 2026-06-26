@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-06-25"
+last_modified_at: "2026-06-26"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-06-25
+While it wasn't what I had hoped to do, I got the UPS working again at the Bailey house and took care of a few more tasks while up there.
 
 ## 2026-06-24
 Got a bunch of errands done with Dax.
