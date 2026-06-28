@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-06-27"
+last_modified_at: "2026-06-28"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-06-27
+Had a nice lunch with the Cades at LongHorn Steakhouse.
 
 ## 2026-06-26
 Had a great time at Texas de Brazil with Aaron and Paul to celebrate Chase's AMGA Apprentice Alpine Guide certification.
