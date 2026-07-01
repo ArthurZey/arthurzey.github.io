@@ -9,6 +9,9 @@ tags:
 sitemap: false
 ---
 
+## 2026-06-30
+Dax is crawling!
+
 ## 2026-06-29
 Dax tried salmon for the first time and really liked it!
 
