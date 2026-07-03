@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-07-02"
+last_modified_at: "2026-07-03"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-07-02
+Dax had 3 meals: salmon, peanut butter, and puréed steak!
 
 ## 2026-07-01
 Dax's 6-month birthday, great pediatric visit with Dr Emily, and finished the first draft of my slide deck for my LevelUp talk!
