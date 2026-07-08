@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-07-07"
+last_modified_at: "2026-07-08"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-07-07
+OLI got 501(c)(3) approval from the IRS, about 5 months earlier than we expected!
 
 ## 2026-07-06
 Helped the Cades load up their moving truck and had a nice final lunch with them up in Bailey.
