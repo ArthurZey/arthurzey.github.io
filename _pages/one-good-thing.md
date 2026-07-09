@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-07-08"
+last_modified_at: "2026-07-09"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-07-08
+Got to Chicago for LevelUp 2026 with Dax and also launched OLI publicly!
 
 ## 2026-07-07
 OLI got 501(c)(3) approval from the IRS, about 5 months earlier than we expected!
