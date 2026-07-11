@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-07-09"
+last_modified_at: "2026-07-10"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-07-09
+Had a good first day of talks at LevelUp and had a nice dinner with Cynthia and Neil.
 
 ## 2026-07-08
 Got to Chicago for LevelUp 2026 with Dax and also launched OLI publicly!
