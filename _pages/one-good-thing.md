@@ -9,6 +9,9 @@ tags:
 sitemap: false
 ---
 
+## 2026-07-10
+My talk, _Mind-Body Integration: The Physical Side_, went really well!
+
 ## 2026-07-09
 Had a good first day of talks at LevelUp and had a nice dinner with Cynthia and Neil.
 
