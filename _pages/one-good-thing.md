@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-07-16"
+last_modified_at: "2026-07-17"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-07-16
+Got to watch more DS9 with Chase than usual!
 
 ## 2026-07-15
 Got a bunch of errands done in the morning, including picking up the zoo from Come Sit Stay, exchanging CO2 tank at General Air, Trader Joe's, and Whole Foods.
