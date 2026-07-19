@@ -9,6 +9,9 @@ tags:
 sitemap: false
 ---
 
+## 2026-07-18
+Had a nice time at the Vekslers' for Asher's 3rd birthday party.
+
 ## 2026-07-17
 Picked up Martin from DEN, drove him to Bailey, and got to see a partial inventory of what furnishings the Cades are leaving behind.
 
