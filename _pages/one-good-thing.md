@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-07-20"
+last_modified_at: "2026-07-21"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-07-20
+Bittersweet that the Cades are officially and completely moved out--Chase, Dax, and I were up at Bailey to see Martin off and brainstorm about what we need to do to get the house ready for our move-in.
 
 ## 2026-07-19
 Got breastmilk from Shaleese and Michaela; ran errands with Dax at Target and Costco.
