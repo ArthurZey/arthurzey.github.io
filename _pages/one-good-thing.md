@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-07-21"
+last_modified_at: "2026-07-22"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-07-21
+Dax had a wonderful playdate with Liam (son of Lauren and Alyssa) in Loveland and then dinner with Katrina (mother of Max and Theo). Alyssa and Katrina both donated breastmilk to Dax!
 
 ## 2026-07-20
 Bittersweet that the Cades are officially and completely moved out--Chase, Dax, and I were up at Bailey to see Martin off and brainstorm about what we need to do to get the house ready for our move-in.
