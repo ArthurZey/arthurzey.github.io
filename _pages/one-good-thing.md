@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-07-22"
+last_modified_at: "2026-07-23"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-07-22
+Got breastmilk from Sarah and then joined Chase and Tani at Wild Pastures Burger Company, which was phenomenal!
 
 ## 2026-07-21
 Dax had a wonderful playdate with Liam (son of Lauren and Alyssa) in Loveland and then dinner with Katrina (mother of Max and Theo). Alyssa and Katrina both donated breastmilk to Dax!
