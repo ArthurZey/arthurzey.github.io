@@ -9,6 +9,9 @@ tags:
 sitemap: false
 ---
 
+## 2026-07-23
+Sarah, Sophie, Hazel, Asher, and Dahlia came for a visit!
+
 ## 2026-07-22
 Got breastmilk from Sarah and then joined Chase and Tani at Wild Pastures Burger Company, which was phenomenal!
 
