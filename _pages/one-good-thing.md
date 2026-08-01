@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-07-30"
+last_modified_at: "2026-07-31"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-07-30
+Had a productive day in Bailey, tidying up the main house.
 
 ## 2026-07-29
 Got Dax's bloodwork done for iron levels, picked up breastmilk from Kaitlin, and had a fun "solo parenting together" day with Sarah.
