@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-07-31"
+last_modified_at: "2026-08-01"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-07-31
+Had another painting estimate at Bailey and managed to get a few things done, despite a generally frantic and frustrating day.
 
 ## 2026-07-30
 Had a productive day in Bailey, tidying up the main house.
