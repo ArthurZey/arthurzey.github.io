@@ -9,6 +9,9 @@ tags:
 sitemap: false
 ---
 
+## 2026-08-06
+Had Dax's pediatric dermatology appointment, and the doctor was very confident that the scaling on his scalp stork bite is not a fungal process (but we took a scraping for a culture anyway).
+
 ## 2026-08-05
 Finalized paint colors for the main house!
 
