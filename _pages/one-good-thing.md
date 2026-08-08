@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-08-06"
+last_modified_at: "2026-08-08"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-08-07
+Painting started on the Bailey house!
 
 ## 2026-08-06
 Had Dax's pediatric dermatology appointment, and the doctor was very confident that the scaling on his scalp stork bite is not a fungal process (but we took a scraping for a culture anyway).
