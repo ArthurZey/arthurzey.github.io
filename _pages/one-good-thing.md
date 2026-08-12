@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-08-10"
+last_modified_at: "2026-08-11"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-08-10
+Got to try the Jesse & Ben's beef tallow fries at home!
 
 ## 2026-08-09
 Had a good video call with Jessie.
