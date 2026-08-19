@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-08-18"
+last_modified_at: "2026-08-19"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-08-18
+Got a bunch done in Bailey, including cleaning the oven, emptying the kitchen, doing another load of dishes, and doing the laundry for towels and bath mats.
 
 ## 2026-08-17
 Picked up breastmilk from Alyson and had a nice visit.
