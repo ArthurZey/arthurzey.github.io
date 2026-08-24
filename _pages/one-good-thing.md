@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-08-23"
+last_modified_at: "2026-08-24"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-08-23
+Had a nice breakfast with Scott and Summer!
 
 ## 2026-08-22
 Moved home to Bailey!
