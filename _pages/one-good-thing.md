@@ -9,6 +9,9 @@ tags:
 sitemap: false
 ---
 
+## 2026-08-25
+Got a haircut!
+
 ## 2026-08-24
 Made great progress and did really well on my first attempt at drywall repair!
 
