@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-08-25"
+last_modified_at: "2026-08-27"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-08-26
+Made good progress on the drywall repair (priming and texturing) and cleaning up the Federal Heights apartment.
 
 ## 2026-08-25
 Got a haircut!
