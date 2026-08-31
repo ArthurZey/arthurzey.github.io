@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-08-30"
+last_modified_at: "2026-08-31"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-08-30
+Had a nice time at the park for Stacy's and Anthony's wedding weekend, and then we finally managed to get back to Colorado, which took a look of emotional bandwidth, but we did it!
 
 ## 2026-08-29
 Had a great time at Stacy's and Anthony's wedding!
