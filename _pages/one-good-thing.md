@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-09-01"
+last_modified_at: "2026-09-02"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-09-01
+Got high praise from Kristen during the walk-through for being good tenants and keeping her place clean, and we got our security deposit back in full. It was probably the last time that we'll ever be at the Federal Heights Wolfden!
 
 ## 2026-08-31
 Final move-out from our Federal Heights apartment!
