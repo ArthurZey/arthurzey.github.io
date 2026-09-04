@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-09-03"
+last_modified_at: "2026-09-04"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-09-03
+OLI's Google for Nonprofits Workspace activation was finally approved!
 
 ## 2026-09-02
 Had a great with with Chase and Dax at Fogo de Chão for Chase's birthday!
