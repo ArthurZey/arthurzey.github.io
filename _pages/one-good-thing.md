@@ -9,6 +9,9 @@ tags:
 sitemap: false
 ---
 
+## 2026-09-05
+Did a fair amount of cleanup/organizing in the house, finished off Michaela's colostrum and all of Jacqueline's milk, determined new protocol for SSRI milk.
+
 ## 2026-09-04
 Made great progress on setting up the OLI Google Workspace account.
 
