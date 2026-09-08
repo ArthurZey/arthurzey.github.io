@@ -9,6 +9,9 @@ tags:
 sitemap: false
 ---
 
+## 2026-09-07
+Set up the additional refrigerators in the hallway closet and cleaned up the garage enough to do my first workout in Bailey since returning!
+
 ## 2026-09-06
 Did a ton of cleanup and organizing in the house and had Josh and Katie over for dinner, which was really nice.
 
