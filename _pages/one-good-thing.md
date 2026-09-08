@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-09-05"
+last_modified_at: "2026-09-07"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-09-06
+Did a ton of cleanup and organizing in the house and had Josh and Katie over for dinner, which was really nice.
 
 ## 2026-09-05
 Did a fair amount of cleanup/organizing in the house, finished off Michaela's colostrum and all of Jacqueline's milk, determined new protocol for SSRI milk.
