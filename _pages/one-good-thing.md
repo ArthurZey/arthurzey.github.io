@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-09-08"
+last_modified_at: "2026-09-10"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-09-09
+Got to bed at a reasonable hour, even though it was still later than I would have liked.
 
 ## 2026-09-08
 Had sinus CT and appointment with Dr Menachof, finalizing plans for my septoplasty in September.
