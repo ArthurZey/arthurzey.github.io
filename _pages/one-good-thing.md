@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-09-11"
+last_modified_at: "2026-09-12"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-09-11
+Scott arrived at the Wolfden with a bunch of furniture for us!
 
 ## 2026-09-10
 Got to bed at a reasonable hour, even though it was still later than I would have liked.
