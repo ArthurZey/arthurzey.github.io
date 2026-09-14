@@ -9,6 +9,9 @@ tags:
 sitemap: false
 ---
 
+## 2026-09-13
+Had a great time with Vekslers and Armstrongs at Staunton and then having them over for dinner, after a very productive day already.
+
 ## 2026-09-12
 Had a nice steak dinner with Scott after he and Chase got back from climbing.
 
