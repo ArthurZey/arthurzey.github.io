@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-09-13"
+last_modified_at: "2026-09-15"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-08-14
+Managed to find a replacement screw at Ace Hardware for the loveseat that Scott fot us.
 
 ## 2026-09-13
 Had a great time with Vekslers and Armstrongs at Staunton and then having them over for dinner, after a very productive day already.
