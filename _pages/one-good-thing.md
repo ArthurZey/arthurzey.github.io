@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-09-15"
+last_modified_at: "2026-09-16"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-09-15
+Had a fun tea-tasting event with the Dropbox Champions group.
 
 ## 2026-08-14
 Managed to find a replacement screw at Ace Hardware for the loveseat that Scott fot us.
