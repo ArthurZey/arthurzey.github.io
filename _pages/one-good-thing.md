@@ -9,6 +9,9 @@ tags:
 sitemap: false
 ---
 
+## 2026-09-16
+Made and ate a delicious paleo-vegan dinner with Rick: Moroccan cucumber-tomato herb salad, Moroccan mushroom-pistachio kofta, Moroccan tomato sauce, and cauliflower rice pilaf. And I made a non-paleo vegan chocolate mousse for Rick and Chase.
+
 ## 2026-09-15
 Had a fun tea-tasting event with the Dropbox Champions group.
 
