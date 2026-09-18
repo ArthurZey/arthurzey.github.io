@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-09-16"
+last_modified_at: "2026-09-18"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-09-17
+Got to bed earlier than I had in a long time.
 
 ## 2026-09-16
 Made and ate a delicious paleo-vegan dinner with Rick: Moroccan cucumber-tomato herb salad, Moroccan mushroom-pistachio kofta, Moroccan tomato sauce, and cauliflower rice pilaf. And I made a non-paleo vegan chocolate mousse for Rick and Chase.
