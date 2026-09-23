@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-09-22"
+last_modified_at: "2026-09-23"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-09-22
+Discovered that I can manage to go to the ER for my own emergency while caring for Dax.
 
 ## 2026-09-21
 Picked up a lot of breastmilk for Dax from 3 donors, and felt really good about some of the connections I made!
