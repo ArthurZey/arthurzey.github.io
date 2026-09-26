@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-09-24"
+last_modified_at: "2026-09-25"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-09-24
+Had a wonderful breakfast with James, then a good reception at his parents' Airbnb, then got settled in our own vacation rental.
 
 ## 2026-09-23
 After a very challenging day, we finally made it to Calgary.
