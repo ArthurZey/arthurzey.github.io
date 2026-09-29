@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-09-27"
+last_modified_at: "2026-09-28"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-09-27
+Made it back home, finally concluding all known 2026 travel.
 
 ## 2026-09-26
 Attended James's and Kassi's wedding, and it went really well, including my speech at dinner!
