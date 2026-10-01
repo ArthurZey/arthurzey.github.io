@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-09-29"
+last_modified_at: "2026-09-30"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-09-29
+Septoplasty went well!
 
 ## 2026-09-28
 Managed to take a nap during the day while Dax was sleeping.
