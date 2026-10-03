@@ -9,6 +9,9 @@ tags:
 sitemap: false
 ---
 
+## 2026-10-02
+Changed my attitude and approach to feeding Dax to avoid power struggles; also discovered that flow rate might be the issue.
+
 ## 2026-10-01
 Got to finish an episode of Voyager with Chase over dinner and then snuggle in bed for a bit.
 
