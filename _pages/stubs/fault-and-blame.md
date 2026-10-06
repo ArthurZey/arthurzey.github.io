@@ -1,11 +1,11 @@
 ---
 title: Fault and Blame
+date: "2021-10-07"
+last_modified_at: "2026-10-05"
 tags:
   - stub
   - philosophy
 description: "We seem to think of fault and blame as a sort of pie that needs to be divided among actors. This seems like the wrong approach."
-date: "2021-10-07"
-last_modified_at: "2021-10-07"
 ---
 
 The fundamental issue is that the primary lens through which we tend to look at this issue is that there's some occurrence or event or damage, and then we try to say who had what contribution to it and apportion blame accordingly. This is problematic because the thing for which an individual is responsible for is their _own_ actions. The thing we ought to be blaming someone for is their bad choices. And the fact that another person _also_ made some bad choices that contributed to some bad outcome does not detract from the blame we assign to the first.
@@ -35,3 +35,6 @@ It gets more tricky in situations with multiple actors who acted immorally, but 
 The point is not that dividing a pie is never the right approach in assigning fault or rectifying a wrong, but it cannot be the _primary_ lens.
 
 I need to think about this more, but it seems to me that the only time that kind of apportioning is warranted is when we are attempting to figure out, of all those who acted badly in a way that led to a bad outcome, who is responsible for how much of making things right.
+
+Additional resources to consider:
+* [Adam Grant's 2026-09-29 LinkedIn Post](https://www.linkedin.com/posts/adammgrant_the-reports-about-the-events-at-cornelland-share-7510715599195619329-unkv/){:target="&lowbar;blank"}, which led me to realize that another thing I want to address is the rhetorical dimension of bringing up anybody else's culpability but the rapist's in a particular context, because that can be wildly inappropriate.
