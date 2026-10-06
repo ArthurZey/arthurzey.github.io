@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-10-05"
+last_modified_at: "2026-10-06"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-10-05
+Managed to get to bed significantly earlier than I had been able to the last few nights.
 
 ## 2026-10-04
 Took Dax with me to dinner at Spice Kitchen in Parker with 1FROG folks.
