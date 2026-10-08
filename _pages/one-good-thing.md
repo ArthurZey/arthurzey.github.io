@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-10-07"
+last_modified_at: "2026-10-08"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-10-07
+Good 9-month pediatric appointment for Dax with Dr Emily.
 
 ## 2026-10-06
 Had a nice anniversary dinner with Chase and Dax at Texas de Brazil.
