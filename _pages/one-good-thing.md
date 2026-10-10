@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-10-08"
+last_modified_at: "2026-10-09"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-10-08
+Had a surprisingly relaxed morning while Dax slept in 14.5 hours until 11:00!
 
 ## 2026-10-07
 Good 9-month pediatric appointment for Dax with Dr Emily.
