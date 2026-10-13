@@ -1,7 +1,7 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-10-11"
+last_modified_at: "2026-10-12"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
@@ -9,8 +9,11 @@ tags:
 sitemap: false
 ---
 
+## 2026-10-11
+Had a nice day with Dad and then a good steak dinner.
+
 ## 2026-10-10
-Dad came to visit.
+Dad came to visit, and we had a good time with him at 3FROG.
 
 ## 2026-10-09
 Tried non-alcoholic wine for the first time and got to bed earlier than had become usual recently.
