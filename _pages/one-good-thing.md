@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-10-13"
+last_modified_at: "2026-10-14"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-10-13
+Managed to get a number of home-repair/improvement tasks done with Dad, including fixing the master bathroom toilet, fixing the deck gate latch, and clearing out the garage enough so that both Chase and I can park in it.
 
 ## 2026-10-12
 Dad made a fantastic dinner, and Chase, Dax, and I had a nice catchup call with Cathy.
