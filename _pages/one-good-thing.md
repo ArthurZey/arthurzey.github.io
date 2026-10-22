@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-10-20"
+last_modified_at: "2026-10-21"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-10-20
+Had a good appointment with Dr Milling and picked up breastmilk from Lex, Serenity, and Sarah C.
 
 ## 2026-10-19
 Got back to lifting again after all my medical/health drama (dog bite and septoplasty).
