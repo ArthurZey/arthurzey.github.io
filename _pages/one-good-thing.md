@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-10-21"
+last_modified_at: "2026-10-22"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-10-21
+Dr Menachof reported that my nasal healing was going very well after the septoplasty.
 
 ## 2026-10-20
 Had a good appointment with Dr Milling and picked up breastmilk from Lex, Serenity, and Sarah C.
