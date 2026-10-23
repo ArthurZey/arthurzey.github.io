@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-10-22"
+last_modified_at: "2026-10-23"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-10-22
+Managed to get a few things done during a busy day with Dax.
 
 ## 2026-10-21
 Dr Menachof reported that my nasal healing was going very well after the septoplasty.
