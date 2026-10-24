@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-10-23"
+last_modified_at: "2026-10-24"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-10-23
+Patched some security issues with the Synology, UDM-SE, and Intel NUC, upgraded the Intel NUC to 22.04, 24.04, and 26.04, then upgraded PMS to 1.43.5.
 
 ## 2026-10-22
 Managed to get a few things done during a busy day with Dax.
