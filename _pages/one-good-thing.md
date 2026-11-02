@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-10-31"
+last_modified_at: "2026-11-01"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-10-31
+Went on a really nice hike with Stacy and Anthony at Betasso Preserve and then had lunch with them at Wild Pastures Burger Company.
 
 ## 2026-10-30
 Made good progress on ZIG/PFR duplicate/conflict audit and cleanup, as well as reimplementing Chase's website.
