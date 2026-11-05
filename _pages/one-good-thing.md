@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-11-04"
+last_modified_at: "2026-11-05"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-11-04
+Had a good sync with Nick about OLI fundraising.
 
 ## 2026-11-03
 Joined Susan Campbell's monthly call.
