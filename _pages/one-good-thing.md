@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-11-03"
+last_modified_at: "2026-11-04"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-11-03
+Joined Susan Campbell's monthly call.
 
 ## 2026-11-02
 Had a good call with Katelynn, and Sadie cleaned the house.
