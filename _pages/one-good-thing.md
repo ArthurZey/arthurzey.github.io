@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-11-09"
+last_modified_at: "2026-11-10"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-11-09
+Had a wonderful time taking Dax to Weakland Fawks Park for a playdate with Luke and Westom.
 
 ## 2026-11-08
 Had a productive day, thanks to getting my task-management system in order.
