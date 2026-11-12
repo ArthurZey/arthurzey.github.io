@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-11-11"
+last_modified_at: "2026-11-12"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-11-11
+Was very speedy about all my errands in the morning before my labwork (Home Depot return, FedEx Office return, and Costco grocery shopping).
 
 ## 2026-11-10
 Made modest progress on 2027 Open Enrollment.
