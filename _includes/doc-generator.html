@@ -179,12 +179,26 @@ Parameters:
 {% assign docs = "" | split: "," %}
 
 {% if doc-types contains "page" %}
-  {% if sort-direction == "DESC" %}
-    {% assign sorted_pages = site.pages | sort: sort-by | reverse %}
+  {% if sort-by == "date" %}
+    {% comment %}
+      Normalize dates before sorting. This accommodates both YAML Date
+      objects and quoted date strings. Missing dates sort first.
+    {% endcomment %}
+    {% assign sorted_page_groups = site.pages | group_by_exp: "doc", "doc.date | date: '%Y-%m-%d' | default: ''" | sort: "name" %}
+    {% if sort-direction == "DESC" %}
+      {% assign sorted_page_groups = sorted_page_groups | reverse %}
+    {% endif %}
+    {% for date_group in sorted_page_groups %}
+      {% assign docs = docs | concat: date_group.items %}
+    {% endfor %}
   {% else %}
-    {% assign sorted_pages = site.pages | sort: sort-by %}
+    {% if sort-direction == "DESC" %}
+      {% assign sorted_pages = site.pages | sort: sort-by | reverse %}
+    {% else %}
+      {% assign sorted_pages = site.pages | sort: sort-by %}
+    {% endif %}
+    {% assign docs = docs | concat: sorted_pages %}
   {% endif %}
-  {% assign docs = docs | concat: sorted_pages %}
 {% endif %}
 
 {% if doc-types contains "post" %}
