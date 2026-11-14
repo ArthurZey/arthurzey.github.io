@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-11-13"
+last_modified_at: "2026-11-14"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-11-13
+Got to bed early.
 
 ## 2026-11-12
 Chase, Dax, and I had a nice time at Humphrey Park with Erin, Tanner, Micah, Forrest, and Sky.
