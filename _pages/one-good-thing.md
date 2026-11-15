@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-11-14"
+last_modified_at: "2026-11-15"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-11-14
+Had a nice walk with Chase and Dax in our first real snow of the season.
 
 ## 2026-11-13
 Got to bed early.
