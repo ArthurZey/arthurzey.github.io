@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-11-18"
+last_modified_at: "2026-11-19"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-11-18
+Published my [blog post about Murrby](/blog/2026-11-18/murrby/) and laid our the difficult decisions ahead of us; also contacted a number of shelters and veterinary organizations.
 
 ## 2026-11-17
 Third debridement appointment went well, and I got my tires rotated and balanced at Costco.
