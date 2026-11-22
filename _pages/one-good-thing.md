@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-11-21"
+last_modified_at: "2026-11-22"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-11-21
+Had a good call with Stacy about Murrby.
 
 ## 2026-11-20
 Got my car serviced and got a haircut.
