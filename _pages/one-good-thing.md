@@ -1,13 +1,16 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-11-22"
+last_modified_at: "2026-11-23"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
   - draft
 sitemap: false
 ---
+
+## 2026-11-22
+Got my DEXA scan, had a nice breakfast out with Chase and Dax at Urban Egg, ran some errands, determine that True Companions Cat Shelter would be a good home for Murrby, got a Christmas tree, and had a steak dinner with Tani.
 
 ## 2026-11-21
 Had a good call with Stacy about Murrby.
