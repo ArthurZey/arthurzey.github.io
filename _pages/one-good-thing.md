@@ -1,7 +1,7 @@
 ---
 title: One Good Thing
 date: "2021-12-05"
-last_modified_at: "2026-11-26"
+last_modified_at: "2026-11-27"
 description: "Accomplishments, happenings, etc, this is probably a good way to cultivate gratitude and a value orientation."
 tags:
   - happenings
@@ -9,8 +9,11 @@ tags:
 sitemap: false
 ---
 
-## 2026-11-25
+## 2026-11-26
 Made my first paleo cheesecake!
+
+## 2026-11-25
+Made three paleo pumpkin pies!
 
 ## 2026-11-24
 Had a productive morning running errands, got some administrative adulting done, and even cooked the _Well Fed_ cauliflower rice pilaf.
